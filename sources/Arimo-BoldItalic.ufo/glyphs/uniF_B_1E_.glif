@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFB1E" format="2">
+  <unicode hex="FB1E"/>
+  <note>
+uniFB1E
+</note>
+  <outline>
+    <contour>
+      <point x="584" y="1763" type="qcurve"/>
+      <point x="379" y="1763" type="line"/>
+      <point x="366" y="1696"/>
+      <point x="273" y="1608"/>
+      <point x="211" y="1608" type="qcurve" smooth="yes"/>
+      <point x="158" y="1608"/>
+      <point x="97" y="1671"/>
+      <point x="97" y="1728" type="qcurve"/>
+      <point x="100" y="1763" type="line"/>
+      <point x="-104" y="1763" type="line"/>
+      <point x="-111" y="1723"/>
+      <point x="-111" y="1686" type="qcurve" smooth="yes"/>
+      <point x="-111" y="1567"/>
+      <point x="41" y="1446"/>
+      <point x="178" y="1446" type="qcurve" smooth="yes"/>
+      <point x="342" y="1446"/>
+      <point x="557" y="1612"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

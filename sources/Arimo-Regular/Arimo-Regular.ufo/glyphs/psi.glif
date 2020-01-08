@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psi" format="2">
+  <advance width="1460"/>
+  <unicode hex="03C8"/>
+  <note>
+psi
+</note>
+  <outline>
+    <contour>
+      <point x="814" y="119" type="qcurve"/>
+      <point x="814" y="1340" type="line"/>
+      <point x="644" y="1340" type="line"/>
+      <point x="644" y="119" type="line"/>
+      <point x="460" y="121"/>
+      <point x="316" y="266"/>
+      <point x="316" y="436" type="qcurve" smooth="yes"/>
+      <point x="316" y="1082" type="line"/>
+      <point x="135" y="1082" type="line"/>
+      <point x="135" y="438" type="line" smooth="yes"/>
+      <point x="135" y="196"/>
+      <point x="377" y="-18"/>
+      <point x="644" y="-20" type="qcurve"/>
+      <point x="644" y="-425" type="line"/>
+      <point x="814" y="-425" type="line"/>
+      <point x="814" y="-20" type="line"/>
+      <point x="1083" y="-18"/>
+      <point x="1324" y="197"/>
+      <point x="1324" y="438" type="qcurve" smooth="yes"/>
+      <point x="1324" y="1082" type="line"/>
+      <point x="1142" y="1082" type="line"/>
+      <point x="1142" y="436" type="line" smooth="yes"/>
+      <point x="1142" y="262"/>
+      <point x="997" y="121"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

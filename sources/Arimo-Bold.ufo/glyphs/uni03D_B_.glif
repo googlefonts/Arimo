@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03DB" format="2">
+  <advance width="1139"/>
+  <unicode hex="03DB"/>
+  <note>
+uni03DB
+</note>
+  <outline>
+    <contour>
+      <point x="787" y="-100" type="qcurve" smooth="yes"/>
+      <point x="787" y="-150"/>
+      <point x="669" y="-210"/>
+      <point x="546" y="-210" type="qcurve" smooth="yes"/>
+      <point x="455" y="-210"/>
+      <point x="239" y="-173"/>
+      <point x="165" y="-145" type="qcurve"/>
+      <point x="165" y="-377" type="line"/>
+      <point x="377" y="-425"/>
+      <point x="567" y="-425" type="qcurve" smooth="yes"/>
+      <point x="685" y="-425"/>
+      <point x="864" y="-376"/>
+      <point x="992" y="-283"/>
+      <point x="1064" y="-152"/>
+      <point x="1064" y="-87" type="qcurve" smooth="yes"/>
+      <point x="1064" y="-2"/>
+      <point x="1000" y="108"/>
+      <point x="893" y="180"/>
+      <point x="755" y="227"/>
+      <point x="681" y="250" type="qcurve" smooth="yes"/>
+      <point x="610" y="272"/>
+      <point x="497" y="316"/>
+      <point x="417" y="385"/>
+      <point x="375" y="493"/>
+      <point x="375" y="578" type="qcurve" smooth="yes"/>
+      <point x="375" y="740"/>
+      <point x="485" y="909"/>
+      <point x="592" y="909" type="qcurve" smooth="yes"/>
+      <point x="680" y="909"/>
+      <point x="776" y="810"/>
+      <point x="788" y="727" type="qcurve"/>
+      <point x="1071" y="741" type="line"/>
+      <point x="1039" y="910"/>
+      <point x="789" y="1102"/>
+      <point x="598" y="1102" type="qcurve" smooth="yes"/>
+      <point x="350" y="1102"/>
+      <point x="80" y="806"/>
+      <point x="80" y="542" type="qcurve" smooth="yes"/>
+      <point x="80" y="411"/>
+      <point x="157" y="236"/>
+      <point x="284" y="125"/>
+      <point x="463" y="55"/>
+      <point x="636" y="13" type="qcurve" smooth="yes"/>
+      <point x="723" y="-10"/>
+      <point x="787" y="-58"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

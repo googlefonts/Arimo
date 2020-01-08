@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0433.loclSRB" format="2">
+  <advance width="569"/>
+  <note>
+uni0433.loclSRB
+</note>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="macron" xOffset="-56"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

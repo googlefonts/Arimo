@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2135" format="2">
+  <advance width="1397"/>
+  <unicode hex="2135"/>
+  <note>
+uni2135
+</note>
+  <outline>
+    <component base="alef"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

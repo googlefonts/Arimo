@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveacute.lc" format="2">
+  <note>
+breveacute.lc
+</note>
+  <outline>
+    <contour>
+      <point x="-1" y="1201" type="qcurve" smooth="yes"/>
+      <point x="133" y="1201"/>
+      <point x="312" y="1368"/>
+      <point x="333" y="1510" type="qcurve"/>
+      <point x="216" y="1510" type="line"/>
+      <point x="187" y="1357"/>
+      <point x="1" y="1357" type="qcurve" smooth="yes"/>
+      <point x="-188" y="1357"/>
+      <point x="-216" y="1510" type="qcurve"/>
+      <point x="-333" y="1510" type="line"/>
+      <point x="-315" y="1371"/>
+      <point x="-133" y="1201"/>
+    </contour>
+    <contour>
+      <point x="-108" y="1530" type="line"/>
+      <point x="6" y="1530" type="line"/>
+      <point x="316" y="1747" type="line"/>
+      <point x="316" y="1776" type="line"/>
+      <point x="109" y="1776" type="line"/>
+      <point x="-108" y="1550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

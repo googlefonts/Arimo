@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01C4" format="2">
+  <advance width="2730"/>
+  <unicode hex="01C4"/>
+  <note>
+uni01C4
+</note>
+  <outline>
+    <component base="D"/>
+    <component base="Z" xOffset="1479"/>
+    <component base="caron.uc" xOffset="1807"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

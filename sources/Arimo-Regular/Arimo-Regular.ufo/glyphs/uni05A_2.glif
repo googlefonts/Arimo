@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni05A2" format="2">
+  <unicode hex="05A2"/>
+  <note>
+uni05A2
+</note>
+  <outline>
+    <contour>
+      <point x="190" y="-102" type="qcurve" smooth="yes"/>
+      <point x="190" y="-53" type="line"/>
+      <point x="88" y="-53" type="line"/>
+      <point x="88" y="-102" type="line" smooth="yes"/>
+      <point x="88" y="-155"/>
+      <point x="50" y="-203"/>
+      <point x="2" y="-203" type="qcurve" smooth="yes"/>
+      <point x="-49" y="-203"/>
+      <point x="-88" y="-155"/>
+      <point x="-88" y="-102" type="qcurve" smooth="yes"/>
+      <point x="-88" y="-53" type="line"/>
+      <point x="-188" y="-53" type="line"/>
+      <point x="-188" y="-102" type="line" smooth="yes"/>
+      <point x="-188" y="-193"/>
+      <point x="-118" y="-283"/>
+      <point x="-51" y="-293" type="qcurve"/>
+      <point x="-51" y="-385" type="line"/>
+      <point x="51" y="-385" type="line"/>
+      <point x="51" y="-293" type="line"/>
+      <point x="121" y="-282"/>
+      <point x="190" y="-192"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

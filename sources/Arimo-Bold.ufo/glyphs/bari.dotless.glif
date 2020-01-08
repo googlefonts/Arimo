@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bari.dotless" format="2">
+  <advance width="569"/>
+  <note>
+bari.dotless
+</note>
+  <outline>
+    <contour>
+      <point x="22" y="658" type="line"/>
+      <point x="22" y="455" type="line"/>
+      <point x="143" y="455" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+      <point x="424" y="455" type="line"/>
+      <point x="547" y="455" type="line"/>
+      <point x="547" y="658" type="line"/>
+      <point x="424" y="658" type="line"/>
+      <point x="424" y="1082" type="line"/>
+      <point x="143" y="1082" type="line"/>
+      <point x="143" y="658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

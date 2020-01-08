@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni204C" format="2">
+  <advance width="1139"/>
+  <unicode hex="204C"/>
+  <note>
+uni204C
+</note>
+  <outline>
+    <contour>
+      <point x="940" y="939" type="line"/>
+      <point x="1071" y="939" type="line"/>
+      <point x="1071" y="1082" type="line"/>
+      <point x="442" y="1082" type="line" smooth="yes"/>
+      <point x="268" y="1082"/>
+      <point x="71" y="891"/>
+      <point x="71" y="722" type="qcurve" smooth="yes"/>
+      <point x="71" y="550"/>
+      <point x="275" y="342"/>
+      <point x="442" y="342" type="qcurve" smooth="yes"/>
+      <point x="1071" y="342" type="line"/>
+      <point x="1071" y="485" type="line"/>
+      <point x="940" y="485" type="line"/>
+    </contour>
+    <contour>
+      <point x="784" y="939" type="line"/>
+      <point x="784" y="485" type="line"/>
+      <point x="589" y="485" type="line"/>
+      <point x="589" y="939" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

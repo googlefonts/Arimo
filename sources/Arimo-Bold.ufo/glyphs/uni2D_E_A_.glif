@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2DEA" format="2">
+  <unicode hex="2DEA"/>
+  <note>
+uni2DEA
+</note>
+  <outline>
+    <contour>
+      <point x="252" y="1458" type="qcurve" smooth="yes"/>
+      <point x="252" y="1582"/>
+      <point x="124" y="1715"/>
+      <point x="1" y="1715" type="qcurve" smooth="yes"/>
+      <point x="-118" y="1715"/>
+      <point x="-251" y="1578"/>
+      <point x="-251" y="1458" type="qcurve" smooth="yes"/>
+      <point x="-251" y="1336"/>
+      <point x="-117" y="1201"/>
+      <point x="-2" y="1201" type="qcurve" smooth="yes"/>
+      <point x="119" y="1201"/>
+      <point x="252" y="1339"/>
+    </contour>
+    <contour>
+      <point x="102" y="1458" type="qcurve" smooth="yes"/>
+      <point x="102" y="1302"/>
+      <point x="-3" y="1302" type="qcurve" smooth="yes"/>
+      <point x="-47" y="1302"/>
+      <point x="-101" y="1377"/>
+      <point x="-101" y="1458" type="qcurve" smooth="yes"/>
+      <point x="-101" y="1613"/>
+      <point x="3" y="1613" type="qcurve" smooth="yes"/>
+      <point x="52" y="1613"/>
+      <point x="102" y="1540"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

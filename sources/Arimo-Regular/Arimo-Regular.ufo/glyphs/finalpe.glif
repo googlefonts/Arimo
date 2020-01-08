@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finalpe" format="2">
+  <advance width="1276"/>
+  <unicode hex="05E3"/>
+  <note>
+finalpe
+</note>
+  <outline>
+    <contour>
+      <point x="598" y="1227" type="qcurve" smooth="yes"/>
+      <point x="133" y="1227" type="line"/>
+      <point x="133" y="541" type="line"/>
+      <point x="563" y="541" type="line"/>
+      <point x="563" y="711" type="line"/>
+      <point x="319" y="711" type="line"/>
+      <point x="319" y="1057" type="line"/>
+      <point x="596" y="1057" type="line" smooth="yes"/>
+      <point x="779" y="1057"/>
+      <point x="928" y="905"/>
+      <point x="928" y="721" type="qcurve" smooth="yes"/>
+      <point x="928" y="-385" type="line"/>
+      <point x="1112" y="-385" type="line"/>
+      <point x="1112" y="719" type="line" smooth="yes"/>
+      <point x="1112" y="993"/>
+      <point x="874" y="1227"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tetdagesh" format="2">
+  <advance width="682"/>
+  <unicode hex="FB38"/>
+  <note>
+tetdagesh
+</note>
+  <outline>
+    <component base="tet"/>
+    <component base="dagesh" xOffset="723"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

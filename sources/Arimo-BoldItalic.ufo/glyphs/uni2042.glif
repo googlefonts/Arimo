@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2042" format="2">
+  <advance width="1789"/>
+  <unicode hex="2042"/>
+  <note>
+uni2042
+</note>
+  <outline>
+    <component base="asterisk" xOffset="427"/>
+    <component base="asterisk" xOffset="-130" yOffset="-701"/>
+    <component base="asterisk" xOffset="899" yOffset="-701"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

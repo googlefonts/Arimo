@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.alt" format="2">
+  <note>
+one.alt
+</note>
+  <outline>
+    <contour>
+      <point x="6" y="113" type="line"/>
+      <point x="187" y="113" type="line"/>
+      <point x="187" y="867" type="line"/>
+      <point x="22" y="867" type="line"/>
+      <point x="-187" y="744" type="line"/>
+      <point x="-187" y="606" type="line"/>
+      <point x="6" y="715" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

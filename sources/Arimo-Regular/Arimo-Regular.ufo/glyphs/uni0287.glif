@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0287" format="2">
+  <advance width="569"/>
+  <unicode hex="0287"/>
+  <note>
+uni0287
+</note>
+  <outline>
+    <contour>
+      <point x="31" y="1078" type="qcurve"/>
+      <point x="31" y="945" type="line"/>
+      <point x="60" y="951"/>
+      <point x="109" y="959"/>
+      <point x="135" y="959" type="qcurve" smooth="yes"/>
+      <point x="198" y="959"/>
+      <point x="249" y="896"/>
+      <point x="249" y="818" type="qcurve" smooth="yes"/>
+      <point x="249" y="131" type="line"/>
+      <point x="49" y="131" type="line"/>
+      <point x="49" y="0" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="249" y="-242" type="line"/>
+      <point x="369" y="-242" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="554" y="0" type="line"/>
+      <point x="554" y="131" type="line"/>
+      <point x="429" y="131" type="line"/>
+      <point x="429" y="857" type="line" smooth="yes"/>
+      <point x="429" y="1102"/>
+      <point x="213" y="1102" type="qcurve" smooth="yes"/>
+      <point x="158" y="1102"/>
+      <point x="73" y="1089"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

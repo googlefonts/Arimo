@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentrotate" format="2">
+  <advance width="455"/>
+  <note>
+commaaccentrotate
+</note>
+  <outline>
+    <contour>
+      <point x="103" y="1358" type="qcurve" smooth="yes"/>
+      <point x="103" y="1212" type="line"/>
+      <point x="348" y="1212" type="line"/>
+      <point x="348" y="1419" type="line"/>
+      <point x="240" y="1419" type="line"/>
+      <point x="240" y="1509"/>
+      <point x="334" y="1609" type="qcurve"/>
+      <point x="187" y="1609" type="line"/>
+      <point x="147" y="1562"/>
+      <point x="103" y="1445"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

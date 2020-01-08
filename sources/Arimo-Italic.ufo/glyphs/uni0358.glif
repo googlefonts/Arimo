@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0358" format="2">
+  <unicode hex="0358"/>
+  <note>
+uni0358
+</note>
+  <outline>
+    <contour>
+      <point x="245" y="1286" type="qcurve" smooth="yes"/>
+      <point x="245" y="1247"/>
+      <point x="301" y="1191"/>
+      <point x="340" y="1191" type="qcurve" smooth="yes"/>
+      <point x="378" y="1191"/>
+      <point x="435" y="1247"/>
+      <point x="435" y="1286" type="qcurve" smooth="yes"/>
+      <point x="435" y="1324"/>
+      <point x="379" y="1381"/>
+      <point x="340" y="1381" type="qcurve" smooth="yes"/>
+      <point x="301" y="1381"/>
+      <point x="245" y="1325"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

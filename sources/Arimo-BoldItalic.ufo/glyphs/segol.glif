@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="segol" format="2">
+  <unicode hex="05B6"/>
+  <note>
+segol
+</note>
+  <outline>
+    <contour>
+      <point x="-315" y="-98" type="qcurve" smooth="yes"/>
+      <point x="-315" y="-132"/>
+      <point x="-270" y="-178"/>
+      <point x="-238" y="-178" type="qcurve" smooth="yes"/>
+      <point x="-204" y="-178"/>
+      <point x="-158" y="-132"/>
+      <point x="-158" y="-98" type="qcurve" smooth="yes"/>
+      <point x="-158" y="-66"/>
+      <point x="-204" y="-20"/>
+      <point x="-238" y="-20" type="qcurve" smooth="yes"/>
+      <point x="-270" y="-20"/>
+      <point x="-315" y="-66"/>
+    </contour>
+    <contour>
+      <point x="-86" y="-98" type="qcurve" smooth="yes"/>
+      <point x="-86" y="-132"/>
+      <point x="-40" y="-178"/>
+      <point x="-8" y="-178" type="qcurve" smooth="yes"/>
+      <point x="26" y="-178"/>
+      <point x="72" y="-132"/>
+      <point x="72" y="-98" type="qcurve" smooth="yes"/>
+      <point x="72" y="-66"/>
+      <point x="26" y="-20"/>
+      <point x="-8" y="-20" type="qcurve" smooth="yes"/>
+      <point x="-40" y="-20"/>
+      <point x="-86" y="-66"/>
+    </contour>
+    <contour>
+      <point x="-240" y="-307" type="qcurve" smooth="yes"/>
+      <point x="-240" y="-341"/>
+      <point x="-194" y="-387"/>
+      <point x="-162" y="-387" type="qcurve" smooth="yes"/>
+      <point x="-128" y="-387"/>
+      <point x="-82" y="-341"/>
+      <point x="-82" y="-307" type="qcurve" smooth="yes"/>
+      <point x="-82" y="-275"/>
+      <point x="-128" y="-229"/>
+      <point x="-162" y="-229" type="qcurve" smooth="yes"/>
+      <point x="-194" y="-229"/>
+      <point x="-240" y="-275"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

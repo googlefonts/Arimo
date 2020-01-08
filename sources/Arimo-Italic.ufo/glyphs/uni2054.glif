@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2054" format="2">
+  <advance width="1627"/>
+  <unicode hex="2054"/>
+  <note>
+uni2054
+</note>
+  <outline>
+    <contour>
+      <point x="21" y="-411" type="qcurve"/>
+      <point x="154" y="-411" type="line"/>
+      <point x="273" y="-281"/>
+      <point x="628" y="-163"/>
+      <point x="864" y="-163" type="qcurve" smooth="yes"/>
+      <point x="1345" y="-163"/>
+      <point x="1474" y="-411" type="qcurve"/>
+      <point x="1607" y="-411" type="line"/>
+      <point x="1526" y="-226"/>
+      <point x="1163" y="-40"/>
+      <point x="887" y="-40" type="qcurve" smooth="yes"/>
+      <point x="328" y="-40"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

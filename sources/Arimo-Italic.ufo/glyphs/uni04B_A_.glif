@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04BA" format="2">
+  <advance width="1379"/>
+  <unicode hex="04BA"/>
+  <note>
+uni04BA
+</note>
+  <outline>
+    <contour>
+      <point x="428" y="901" type="qcurve"/>
+      <point x="526" y="1409" type="line"/>
+      <point x="336" y="1409" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="253" y="0" type="line"/>
+      <point x="400" y="756" type="line"/>
+      <point x="484" y="775"/>
+      <point x="716" y="806"/>
+      <point x="802" y="806" type="qcurve" smooth="yes"/>
+      <point x="1048" y="806"/>
+      <point x="1048" y="635" type="qcurve" smooth="yes"/>
+      <point x="1048" y="618"/>
+      <point x="1040" y="557"/>
+      <point x="1038" y="547" type="qcurve" smooth="yes"/>
+      <point x="932" y="0" type="line"/>
+      <point x="1122" y="0" type="line"/>
+      <point x="1228" y="547" type="line" smooth="yes"/>
+      <point x="1238" y="593"/>
+      <point x="1238" y="650" type="qcurve" smooth="yes"/>
+      <point x="1238" y="802"/>
+      <point x="1039" y="960"/>
+      <point x="842" y="960" type="qcurve" smooth="yes"/>
+      <point x="686" y="960"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

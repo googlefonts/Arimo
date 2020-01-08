@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hatafpatah" format="2">
+  <unicode hex="05B2"/>
+  <note>
+hatafpatah
+</note>
+  <outline>
+    <contour>
+      <point x="-403" y="-162" type="line"/>
+      <point x="-76" y="-162" type="line"/>
+      <point x="-55" y="-53" type="line"/>
+      <point x="-383" y="-53" type="line"/>
+    </contour>
+    <contour>
+      <point x="-6" y="-96" type="qcurve" smooth="yes"/>
+      <point x="-6" y="-130"/>
+      <point x="40" y="-176"/>
+      <point x="72" y="-176" type="qcurve" smooth="yes"/>
+      <point x="106" y="-176"/>
+      <point x="152" y="-130"/>
+      <point x="152" y="-96" type="qcurve" smooth="yes"/>
+      <point x="152" y="-64"/>
+      <point x="106" y="-18"/>
+      <point x="72" y="-18" type="qcurve" smooth="yes"/>
+      <point x="40" y="-18"/>
+      <point x="-6" y="-64"/>
+    </contour>
+    <contour>
+      <point x="-49" y="-305" type="qcurve" smooth="yes"/>
+      <point x="-49" y="-339"/>
+      <point x="-3" y="-385"/>
+      <point x="29" y="-385" type="qcurve" smooth="yes"/>
+      <point x="63" y="-385"/>
+      <point x="109" y="-339"/>
+      <point x="109" y="-305" type="qcurve" smooth="yes"/>
+      <point x="109" y="-273"/>
+      <point x="63" y="-227"/>
+      <point x="29" y="-227" type="qcurve" smooth="yes"/>
+      <point x="-3" y="-227"/>
+      <point x="-49" y="-273"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

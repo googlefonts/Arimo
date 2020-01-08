@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03040308.cap" format="2">
+  <note>
+uni03040308.cap
+</note>
+  <outline>
+    <contour>
+      <point x="299" y="1835" type="line"/>
+      <point x="136" y="1835" type="line"/>
+      <point x="136" y="1651" type="line"/>
+      <point x="299" y="1651" type="line"/>
+    </contour>
+    <contour>
+      <point x="-135" y="1835" type="line"/>
+      <point x="-298" y="1835" type="line"/>
+      <point x="-298" y="1651" type="line"/>
+      <point x="-135" y="1651" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="1458" type="line"/>
+      <point x="275" y="1585" type="line"/>
+      <point x="-274" y="1585" type="line"/>
+      <point x="-274" y="1458" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

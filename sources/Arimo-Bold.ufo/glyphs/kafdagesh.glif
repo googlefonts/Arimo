@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kafdagesh" format="2">
+  <advance width="1133"/>
+  <unicode hex="FB3B"/>
+  <note>
+kafdagesh
+</note>
+  <outline>
+    <component base="kaf"/>
+    <component base="dagesh" xOffset="465" yOffset="-69"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

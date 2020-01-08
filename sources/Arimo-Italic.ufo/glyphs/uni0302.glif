@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0302" format="2">
+  <unicode hex="0302"/>
+  <note>
+uni0302
+</note>
+  <outline>
+    <component base="circumflex" xOffset="-408"/>
+  </outline>
+</glyph>

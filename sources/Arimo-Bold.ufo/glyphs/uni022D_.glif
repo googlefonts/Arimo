@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni022D" format="2">
+  <advance width="1251"/>
+  <unicode hex="022D"/>
+  <note>
+uni022D
+</note>
+  <outline>
+    <component base="o"/>
+    <component base="tildecomb" xOffset="1197" yOffset="-394"/>
+    <component base="macron" xOffset="283" yOffset="308"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

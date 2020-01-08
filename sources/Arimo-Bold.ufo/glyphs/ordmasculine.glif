@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="748"/>
+  <unicode hex="00BA"/>
+  <note>
+ordmasculine
+</note>
+  <outline>
+    <contour>
+      <point x="713" y="1073" type="qcurve" smooth="yes"/>
+      <point x="713" y="1241"/>
+      <point x="539" y="1419"/>
+      <point x="379" y="1419" type="qcurve" smooth="yes"/>
+      <point x="221" y="1419"/>
+      <point x="45" y="1235"/>
+      <point x="45" y="1073" type="qcurve" smooth="yes"/>
+      <point x="45" y="909"/>
+      <point x="223" y="725"/>
+      <point x="375" y="725" type="qcurve" smooth="yes"/>
+      <point x="534" y="725"/>
+      <point x="713" y="911"/>
+    </contour>
+    <contour>
+      <point x="513" y="1073" type="qcurve" smooth="yes"/>
+      <point x="513" y="966"/>
+      <point x="449" y="865"/>
+      <point x="374" y="865" type="qcurve" smooth="yes"/>
+      <point x="307" y="865"/>
+      <point x="243" y="967"/>
+      <point x="243" y="1073" type="qcurve" smooth="yes"/>
+      <point x="243" y="1177"/>
+      <point x="308" y="1276"/>
+      <point x="381" y="1276" type="qcurve" smooth="yes"/>
+      <point x="454" y="1276"/>
+      <point x="513" y="1179"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

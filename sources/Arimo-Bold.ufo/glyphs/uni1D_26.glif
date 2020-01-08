@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1D26" format="2">
+  <advance width="853"/>
+  <unicode hex="1D26"/>
+  <note>
+uni1D26
+</note>
+  <outline>
+    <contour>
+      <point x="798" y="1082" type="line"/>
+      <point x="143" y="1082" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="425" y="892" type="line"/>
+      <point x="798" y="892" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

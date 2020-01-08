@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tau" format="2">
+  <advance width="837"/>
+  <unicode hex="03C4"/>
+  <note>
+tau
+</note>
+  <outline>
+    <contour>
+      <point x="311" y="892" type="qcurve" smooth="yes"/>
+      <point x="334" y="892" type="line"/>
+      <point x="227" y="339" type="line" smooth="yes"/>
+      <point x="215" y="281"/>
+      <point x="215" y="219" type="qcurve" smooth="yes"/>
+      <point x="215" y="103"/>
+      <point x="340" y="-20"/>
+      <point x="455" y="-20" type="qcurve" smooth="yes"/>
+      <point x="506" y="-20"/>
+      <point x="624" y="-3"/>
+      <point x="660" y="7" type="qcurve"/>
+      <point x="692" y="190" type="line"/>
+      <point x="670" y="187" type="line" smooth="yes"/>
+      <point x="617" y="177"/>
+      <point x="588" y="177" type="qcurve" smooth="yes"/>
+      <point x="497" y="177"/>
+      <point x="497" y="271" type="qcurve" smooth="yes"/>
+      <point x="497" y="296"/>
+      <point x="503" y="329" type="qcurve" smooth="yes"/>
+      <point x="612" y="892" type="line"/>
+      <point x="887" y="892" type="line"/>
+      <point x="924" y="1082" type="line"/>
+      <point x="279" y="1082" type="line" smooth="yes"/>
+      <point x="227" y="1082"/>
+      <point x="125" y="1065"/>
+      <point x="96" y="1053" type="qcurve"/>
+      <point x="57" y="855" type="line"/>
+      <point x="85" y="869"/>
+      <point x="230" y="892"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

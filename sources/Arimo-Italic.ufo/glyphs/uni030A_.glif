@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030A" format="2">
+  <unicode hex="030A"/>
+  <note>
+uni030A
+</note>
+  <outline>
+    <contour>
+      <point x="200" y="1444" type="qcurve" smooth="yes"/>
+      <point x="200" y="1524"/>
+      <point x="82" y="1634"/>
+      <point x="0" y="1634" type="qcurve" smooth="yes"/>
+      <point x="-81" y="1634"/>
+      <point x="-200" y="1524"/>
+      <point x="-200" y="1444" type="qcurve" smooth="yes"/>
+      <point x="-200" y="1364"/>
+      <point x="-80" y="1253"/>
+      <point x="0" y="1253" type="qcurve" smooth="yes"/>
+      <point x="80" y="1253"/>
+      <point x="200" y="1363"/>
+    </contour>
+    <contour>
+      <point x="104" y="1444" type="qcurve" smooth="yes"/>
+      <point x="104" y="1399"/>
+      <point x="45" y="1342"/>
+      <point x="0" y="1342" type="qcurve" smooth="yes"/>
+      <point x="-45" y="1342"/>
+      <point x="-105" y="1399"/>
+      <point x="-105" y="1444" type="qcurve" smooth="yes"/>
+      <point x="-105" y="1489"/>
+      <point x="-45" y="1544"/>
+      <point x="0" y="1544" type="qcurve" smooth="yes"/>
+      <point x="45" y="1544"/>
+      <point x="104" y="1489"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="triagrt" format="2">
+  <advance width="2027"/>
+  <unicode hex="25BA"/>
+  <note>
+triagrt
+</note>
+  <outline>
+    <contour>
+      <point x="401" y="1196" type="line"/>
+      <point x="401" y="-27" type="line"/>
+      <point x="1626" y="586" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

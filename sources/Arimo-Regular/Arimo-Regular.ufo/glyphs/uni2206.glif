@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2206" format="2">
+  <advance width="1253"/>
+  <unicode hex="2206"/>
+  <note>
+uni2206
+</note>
+  <outline>
+    <contour>
+      <point x="522" y="1409" type="line"/>
+      <point x="5" y="141" type="line"/>
+      <point x="4" y="0" type="line"/>
+      <point x="1249" y="0" type="line"/>
+      <point x="1249" y="141" type="line"/>
+      <point x="739" y="1409" type="line"/>
+    </contour>
+    <contour>
+      <point x="1049" y="156" type="line"/>
+      <point x="206" y="156" type="line"/>
+      <point x="545" y="1016" type="line" smooth="yes"/>
+      <point x="588" y="1122"/>
+      <point x="619" y="1233" type="qcurve" smooth="yes"/>
+      <point x="628" y="1265" type="line"/>
+      <point x="630" y="1253"/>
+      <point x="681" y="1092"/>
+      <point x="711" y="1018" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

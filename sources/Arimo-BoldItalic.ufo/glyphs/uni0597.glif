@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0597" format="2">
+  <unicode hex="0597"/>
+  <note>
+uni0597
+</note>
+  <outline>
+    <contour>
+      <point x="348" y="1536" type="line"/>
+      <point x="229" y="1704" type="line"/>
+      <point x="45" y="1536" type="line"/>
+      <point x="164" y="1368" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni25CF" format="2">
+  <advance width="1237"/>
+  <unicode hex="25CF"/>
+  <note>
+uni25CF
+</note>
+  <outline>
+    <contour>
+      <point x="618" y="1018" type="qcurve" smooth="yes"/>
+      <point x="504" y="1018"/>
+      <point x="289" y="899"/>
+      <point x="178" y="686"/>
+      <point x="178" y="578" type="qcurve" smooth="yes"/>
+      <point x="178" y="396"/>
+      <point x="436" y="137"/>
+      <point x="618" y="137" type="qcurve" smooth="yes"/>
+      <point x="801" y="137"/>
+      <point x="1059" y="395"/>
+      <point x="1059" y="578" type="qcurve" smooth="yes"/>
+      <point x="1059" y="684"/>
+      <point x="945" y="902"/>
+      <point x="728" y="1018"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

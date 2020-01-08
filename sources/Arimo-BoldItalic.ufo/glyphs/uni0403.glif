@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0403" format="2">
+  <advance width="1257"/>
+  <unicode hex="0403"/>
+  <note>
+uni0403
+</note>
+  <outline>
+    <component base="uni0413"/>
+    <component base="acute.uc" xOffset="369"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

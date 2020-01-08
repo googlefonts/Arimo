@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tau" format="2">
+  <advance width="809"/>
+  <unicode hex="03C4"/>
+  <note>
+tau
+</note>
+  <outline>
+    <contour>
+      <point x="281" y="951" type="qcurve" smooth="yes"/>
+      <point x="308" y="951" type="line"/>
+      <point x="308" y="227" type="line" smooth="yes"/>
+      <point x="308" y="93"/>
+      <point x="410" y="-20"/>
+      <point x="525" y="-20" type="qcurve" smooth="yes"/>
+      <point x="591" y="-20"/>
+      <point x="668" y="0" type="qcurve"/>
+      <point x="668" y="129" type="line"/>
+      <point x="582" y="121" type="line"/>
+      <point x="530" y="121"/>
+      <point x="488" y="190"/>
+      <point x="488" y="266" type="qcurve" smooth="yes"/>
+      <point x="488" y="951" type="line"/>
+      <point x="792" y="951" type="line"/>
+      <point x="792" y="1082" type="line"/>
+      <point x="212" y="1082" type="line" smooth="yes"/>
+      <point x="160" y="1082"/>
+      <point x="53" y="1065"/>
+      <point x="29" y="1053" type="qcurve"/>
+      <point x="29" y="914" type="line"/>
+      <point x="55" y="929"/>
+      <point x="215" y="951"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

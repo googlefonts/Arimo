@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng.alt2" format="2">
+  <advance width="1479"/>
+  <note>
+Eng.alt2
+</note>
+  <outline>
+    <contour>
+      <point x="1054" y="-425" type="qcurve" smooth="yes"/>
+      <point x="1196" y="-425"/>
+      <point x="1341" y="-271"/>
+      <point x="1341" y="-128" type="qcurve" smooth="yes"/>
+      <point x="1341" y="1409" type="line"/>
+      <point x="1079" y="1409" type="line"/>
+      <point x="1079" y="669" type="line" smooth="yes"/>
+      <point x="1079" y="545"/>
+      <point x="1097" y="394" type="qcurve"/>
+      <point x="474" y="1409" type="line"/>
+      <point x="137" y="1409" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="399" y="0" type="line"/>
+      <point x="399" y="831" type="line" smooth="yes"/>
+      <point x="399" y="927"/>
+      <point x="381" y="1085" type="qcurve"/>
+      <point x="1060" y="-10" type="line"/>
+      <point x="1060" y="-60" type="line" smooth="yes"/>
+      <point x="1060" y="-159"/>
+      <point x="1007" y="-222"/>
+      <point x="935" y="-222" type="qcurve"/>
+      <point x="884" y="-218" type="line"/>
+      <point x="884" y="-416" type="line"/>
+      <point x="954" y="-425"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciitilde" format="2">
+  <advance width="1196"/>
+  <unicode hex="007E"/>
+  <note>
+asciitilde
+</note>
+  <outline>
+    <contour>
+      <point x="874" y="553" type="qcurve" smooth="yes"/>
+      <point x="959" y="553"/>
+      <point x="1074" y="591"/>
+      <point x="1134" y="633" type="qcurve"/>
+      <point x="1134" y="782" type="line"/>
+      <point x="1020" y="690"/>
+      <point x="890" y="690" type="qcurve" smooth="yes"/>
+      <point x="854" y="690"/>
+      <point x="767" y="710"/>
+      <point x="620" y="761" type="qcurve" smooth="yes"/>
+      <point x="487" y="807"/>
+      <point x="385" y="807" type="qcurve" smooth="yes"/>
+      <point x="233" y="807"/>
+      <point x="122" y="723" type="qcurve"/>
+      <point x="122" y="580" type="line"/>
+      <point x="187" y="627"/>
+      <point x="303" y="668"/>
+      <point x="370" y="668" type="qcurve" smooth="yes"/>
+      <point x="458" y="668"/>
+      <point x="587" y="623" type="qcurve" smooth="yes"/>
+      <point x="660" y="597"/>
+      <point x="805" y="553"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

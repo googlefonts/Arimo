@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA768" format="2">
+  <advance width="1141"/>
+  <unicode hex="A768"/>
+  <note>
+uniA768
+</note>
+  <outline>
+    <contour>
+      <point x="247" y="-425" type="line"/>
+      <point x="336" y="25" type="line"/>
+      <point x="1305" y="1409" type="line"/>
+      <point x="1012" y="1409" type="line"/>
+      <point x="554" y="740" type="line" smooth="yes"/>
+      <point x="518" y="687"/>
+      <point x="440" y="550" type="qcurve"/>
+      <point x="610" y="1409" type="line"/>
+      <point x="315" y="1409" type="line"/>
+      <point x="-48" y="-425" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

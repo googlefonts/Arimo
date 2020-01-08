@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aleflamed" format="2">
+  <advance width="1286"/>
+  <unicode hex="FB4F"/>
+  <note>
+aleflamed
+</note>
+  <outline>
+    <contour>
+      <point x="238" y="1071" type="line"/>
+      <point x="1026" y="0" type="line"/>
+      <point x="1260" y="0" type="line"/>
+      <point x="899" y="477" type="line"/>
+      <point x="1002" y="579"/>
+      <point x="1101" y="729"/>
+      <point x="1161" y="901"/>
+      <point x="1171" y="1008" type="qcurve" smooth="yes"/>
+      <point x="1194" y="1227" type="line"/>
+      <point x="1004" y="1227" type="line"/>
+      <point x="981" y="1004" type="line" smooth="yes"/>
+      <point x="953" y="746"/>
+      <point x="803" y="606" type="qcurve"/>
+      <point x="352" y="1227" type="line"/>
+      <point x="266" y="1227" type="line"/>
+      <point x="266" y="1665" type="line"/>
+      <point x="80" y="1665" type="line"/>
+      <point x="80" y="1071" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

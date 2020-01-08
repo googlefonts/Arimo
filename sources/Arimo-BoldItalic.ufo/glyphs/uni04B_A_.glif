@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04BA" format="2">
+  <advance width="1450"/>
+  <unicode hex="04BA"/>
+  <note>
+uni04BA
+</note>
+  <outline>
+    <contour>
+      <point x="609" y="1409" type="line"/>
+      <point x="314" y="1409" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="466" y="673" type="line"/>
+      <point x="655" y="726"/>
+      <point x="797" y="726" type="qcurve" smooth="yes"/>
+      <point x="914" y="726"/>
+      <point x="1030" y="643"/>
+      <point x="1030" y="548" type="qcurve" smooth="yes"/>
+      <point x="1030" y="497"/>
+      <point x="1018" y="437" type="qcurve" smooth="yes"/>
+      <point x="933" y="0" type="line"/>
+      <point x="1217" y="0" type="line"/>
+      <point x="1306" y="464" type="line" smooth="yes"/>
+      <point x="1322" y="548"/>
+      <point x="1322" y="616" type="qcurve" smooth="yes"/>
+      <point x="1322" y="945"/>
+      <point x="939" y="945" type="qcurve" smooth="yes"/>
+      <point x="850" y="945"/>
+      <point x="655" y="913"/>
+      <point x="503" y="862" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

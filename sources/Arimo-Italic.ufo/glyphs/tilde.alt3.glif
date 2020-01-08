@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.alt3" format="2">
+  <note>
+tilde.alt3
+</note>
+  <outline>
+    <contour>
+      <point x="-1079" y="1609" type="qcurve"/>
+      <point x="-946" y="1609" type="line"/>
+      <point x="-929" y="1704"/>
+      <point x="-852" y="1704" type="qcurve" smooth="yes"/>
+      <point x="-825" y="1704"/>
+      <point x="-782" y="1685"/>
+      <point x="-751" y="1668" type="qcurve" smooth="yes"/>
+      <point x="-691" y="1634"/>
+      <point x="-624" y="1612"/>
+      <point x="-590" y="1612" type="qcurve" smooth="yes"/>
+      <point x="-411" y="1612"/>
+      <point x="-366" y="1840" type="qcurve"/>
+      <point x="-496" y="1840" type="line"/>
+      <point x="-523" y="1753"/>
+      <point x="-586" y="1753" type="qcurve" smooth="yes"/>
+      <point x="-611" y="1753"/>
+      <point x="-665" y="1773"/>
+      <point x="-729" y="1808" type="qcurve" smooth="yes"/>
+      <point x="-784" y="1837"/>
+      <point x="-846" y="1837" type="qcurve" smooth="yes"/>
+      <point x="-933" y="1837"/>
+      <point x="-1059" y="1720"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

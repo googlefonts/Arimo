@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DDD" format="2">
+  <unicode hex="1DDD"/>
+  <note>
+uni1DDD
+</note>
+  <outline>
+    <contour>
+      <point x="79" y="1210" type="line"/>
+      <point x="179" y="1210" type="line"/>
+      <point x="303" y="1835" type="line"/>
+      <point x="203" y="1835" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

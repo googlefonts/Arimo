@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="2048"/>
+  <unicode hex="00C6"/>
+  <note>
+AE
+</note>
+  <outline>
+    <contour>
+      <point x="969" y="0" type="line"/>
+      <point x="1960" y="0" type="line"/>
+      <point x="1960" y="156" type="line"/>
+      <point x="1160" y="156" type="line"/>
+      <point x="1160" y="647" type="line"/>
+      <point x="1859" y="647" type="line"/>
+      <point x="1859" y="801" type="line"/>
+      <point x="1160" y="801" type="line"/>
+      <point x="1160" y="1253" type="line"/>
+      <point x="1919" y="1253" type="line"/>
+      <point x="1919" y="1409" type="line"/>
+      <point x="710" y="1409" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="223" y="0" type="line"/>
+      <point x="421" y="412" type="line"/>
+      <point x="969" y="412" type="line"/>
+    </contour>
+    <contour>
+      <point x="969" y="1262" type="line"/>
+      <point x="969" y="561" type="line"/>
+      <point x="491" y="561" type="line"/>
+      <point x="790" y="1199" type="line"/>
+      <point x="818" y="1262" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

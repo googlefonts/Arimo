@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="2048"/>
+  <unicode hex="2122"/>
+  <note>
+trademark
+</note>
+  <outline>
+    <contour>
+      <point x="1119" y="768" type="line"/>
+      <point x="1119" y="1108" type="line" smooth="yes"/>
+      <point x="1119" y="1137"/>
+      <point x="1112" y="1280" type="qcurve"/>
+      <point x="1189" y="1096" type="line"/>
+      <point x="1338" y="768" type="line"/>
+      <point x="1469" y="768" type="line"/>
+      <point x="1623" y="1096" type="line"/>
+      <point x="1669" y="1205" type="line"/>
+      <point x="1699" y="1280" type="line"/>
+      <point x="1691" y="1124"/>
+      <point x="1691" y="1108" type="qcurve" smooth="yes"/>
+      <point x="1691" y="768" type="line"/>
+      <point x="1856" y="768" type="line"/>
+      <point x="1856" y="1409" type="line"/>
+      <point x="1613" y="1409" type="line"/>
+      <point x="1469" y="1108" type="line"/>
+      <point x="1428" y="1009" type="line"/>
+      <point x="1405" y="948" type="line"/>
+      <point x="1362" y="1059"/>
+      <point x="1340" y="1108" type="qcurve" smooth="yes"/>
+      <point x="1201" y="1409" type="line"/>
+      <point x="953" y="1409" type="line"/>
+      <point x="953" y="768" type="line"/>
+    </contour>
+    <contour>
+      <point x="608" y="1270" type="line"/>
+      <point x="859" y="1270" type="line"/>
+      <point x="859" y="1409" type="line"/>
+      <point x="185" y="1409" type="line"/>
+      <point x="185" y="1270" type="line"/>
+      <point x="428" y="1270" type="line"/>
+      <point x="428" y="768" type="line"/>
+      <point x="608" y="768" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

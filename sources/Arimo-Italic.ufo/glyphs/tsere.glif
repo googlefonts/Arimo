@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tsere" format="2">
+  <unicode hex="05B5"/>
+  <note>
+tsere
+</note>
+  <outline>
+    <contour>
+      <point x="-348" y="-268" type="qcurve" smooth="yes"/>
+      <point x="-348" y="-302"/>
+      <point x="-302" y="-348"/>
+      <point x="-270" y="-348" type="qcurve" smooth="yes"/>
+      <point x="-236" y="-348"/>
+      <point x="-190" y="-302"/>
+      <point x="-190" y="-268" type="qcurve" smooth="yes"/>
+      <point x="-190" y="-236"/>
+      <point x="-236" y="-190"/>
+      <point x="-270" y="-190" type="qcurve" smooth="yes"/>
+      <point x="-302" y="-190"/>
+      <point x="-348" y="-236"/>
+    </contour>
+    <contour>
+      <point x="-117" y="-268" type="qcurve" smooth="yes"/>
+      <point x="-117" y="-302"/>
+      <point x="-71" y="-348"/>
+      <point x="-39" y="-348" type="qcurve" smooth="yes"/>
+      <point x="-5" y="-348"/>
+      <point x="41" y="-302"/>
+      <point x="41" y="-268" type="qcurve" smooth="yes"/>
+      <point x="41" y="-236"/>
+      <point x="-5" y="-190"/>
+      <point x="-39" y="-190" type="qcurve" smooth="yes"/>
+      <point x="-71" y="-190"/>
+      <point x="-117" y="-236"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

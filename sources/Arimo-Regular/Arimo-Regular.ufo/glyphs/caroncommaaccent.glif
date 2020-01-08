@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncommaaccent" format="2">
+  <advance width="455"/>
+  <note>
+caroncommaaccent
+</note>
+  <outline>
+    <contour>
+      <point x="325" y="1303" type="qcurve" smooth="yes"/>
+      <point x="325" y="1409" type="line"/>
+      <point x="130" y="1409" type="line"/>
+      <point x="130" y="1242" type="line"/>
+      <point x="218" y="1242" type="line"/>
+      <point x="218" y="1152"/>
+      <point x="124" y="1052" type="qcurve"/>
+      <point x="241" y="1052" type="line"/>
+      <point x="281" y="1099"/>
+      <point x="325" y="1216"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

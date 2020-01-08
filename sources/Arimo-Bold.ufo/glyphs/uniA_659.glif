@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA659" format="2">
+  <advance width="1139"/>
+  <unicode hex="A659"/>
+  <note>
+uniA659
+</note>
+  <outline>
+    <contour>
+      <point x="1130" y="0" type="line"/>
+      <point x="731" y="1082" type="line"/>
+      <point x="395" y="1082" type="line"/>
+      <point x="8" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="364" y="191" type="line"/>
+      <point x="433" y="410" type="line"/>
+      <point x="703" y="410" type="line"/>
+      <point x="774" y="191" type="line"/>
+    </contour>
+    <contour>
+      <point x="492" y="601" type="line"/>
+      <point x="494" y="605" type="line"/>
+      <point x="509" y="655"/>
+      <point x="565" y="855" type="qcurve"/>
+      <point x="619" y="671" type="line"/>
+      <point x="641" y="601" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

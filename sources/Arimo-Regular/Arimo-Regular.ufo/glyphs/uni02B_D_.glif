@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02BD" format="2">
+  <advance width="455"/>
+  <unicode hex="02BD"/>
+  <note>
+uni02BD
+</note>
+  <outline>
+    <contour>
+      <point x="333" y="1484" type="line"/>
+      <point x="138" y="1484" type="line"/>
+      <point x="138" y="1338" type="line" smooth="yes"/>
+      <point x="138" y="1244"/>
+      <point x="174" y="1097"/>
+      <point x="218" y="1027" type="qcurve"/>
+      <point x="339" y="1027" type="line"/>
+      <point x="244" y="1164"/>
+      <point x="244" y="1289" type="qcurve"/>
+      <point x="333" y="1289" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

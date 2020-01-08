@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="intersection" format="2">
+  <advance width="1472"/>
+  <unicode hex="2229"/>
+  <note>
+intersection
+</note>
+  <outline>
+    <contour>
+      <point x="278" y="-2" type="line"/>
+      <point x="381" y="-2" type="line"/>
+      <point x="381" y="510" type="line" smooth="yes"/>
+      <point x="381" y="704"/>
+      <point x="573" y="930"/>
+      <point x="735" y="930" type="qcurve" smooth="yes"/>
+      <point x="895" y="930"/>
+      <point x="1091" y="702"/>
+      <point x="1091" y="512" type="qcurve" smooth="yes"/>
+      <point x="1091" y="-2" type="line"/>
+      <point x="1194" y="-2" type="line"/>
+      <point x="1194" y="510" type="line" smooth="yes"/>
+      <point x="1194" y="658"/>
+      <point x="1075" y="900"/>
+      <point x="864" y="1032"/>
+      <point x="733" y="1032" type="qcurve" smooth="yes"/>
+      <point x="603" y="1032"/>
+      <point x="394" y="899"/>
+      <point x="278" y="660"/>
+      <point x="278" y="510" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

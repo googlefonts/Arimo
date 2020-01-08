@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni028C" format="2">
+  <advance width="1024"/>
+  <unicode hex="028C"/>
+  <note>
+uni028C
+</note>
+  <outline>
+    <contour>
+      <point x="411" y="1082" type="line"/>
+      <point x="7" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="444" y="706" type="line"/>
+      <point x="483" y="824" type="line"/>
+      <point x="518" y="941" type="line"/>
+      <point x="570" y="758" type="line"/>
+      <point x="825" y="0" type="line"/>
+      <point x="1017" y="0" type="line"/>
+      <point x="624" y="1082" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

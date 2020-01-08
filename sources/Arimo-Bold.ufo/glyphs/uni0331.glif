@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0331" format="2">
+  <unicode hex="0331"/>
+  <note>
+uni0331
+</note>
+  <outline>
+    <contour>
+      <point x="-305" y="-169" type="line"/>
+      <point x="-305" y="-337" type="line"/>
+      <point x="307" y="-337" type="line"/>
+      <point x="307" y="-169" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

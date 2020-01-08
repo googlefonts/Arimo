@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0321" format="2">
+  <unicode hex="0321"/>
+  <note>
+uni0321
+</note>
+  <outline>
+    <contour>
+      <point x="59" y="100" type="line"/>
+      <point x="-216" y="100" type="line"/>
+      <point x="-252" y="-84" type="line" smooth="yes"/>
+      <point x="-275" y="-209"/>
+      <point x="-405" y="-209" type="qcurve" smooth="yes"/>
+      <point x="-452" y="-209"/>
+      <point x="-507" y="-197" type="qcurve"/>
+      <point x="-548" y="-408" type="line"/>
+      <point x="-527" y="-413"/>
+      <point x="-409" y="-425"/>
+      <point x="-360" y="-425" type="qcurve" smooth="yes"/>
+      <point x="-186" y="-425"/>
+      <point x="-14" y="-275"/>
+      <point x="18" y="-107" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

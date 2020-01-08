@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DBA" format="2">
+  <advance width="732"/>
+  <unicode hex="1DBA"/>
+  <note>
+uni1DBA
+</note>
+  <outline>
+    <contour>
+      <point x="434" y="1252" type="line"/>
+      <point x="5" y="490" type="line"/>
+      <point x="142" y="490" type="line"/>
+      <point x="410" y="987" type="line"/>
+      <point x="493" y="1153" type="line"/>
+      <point x="499" y="1059"/>
+      <point x="509" y="986" type="qcurve" smooth="yes"/>
+      <point x="579" y="490" type="line"/>
+      <point x="710" y="490" type="line"/>
+      <point x="583" y="1252" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1ABD" format="2">
+  <unicode hex="1ABD"/>
+  <note>
+uni1ABD
+</note>
+  <outline>
+    <contour>
+      <point x="-408" y="0" type="qcurve"/>
+      <point x="-507" y="0" type="line"/>
+      <point x="-610" y="-92"/>
+      <point x="-713" y="-286"/>
+      <point x="-713" y="-403" type="qcurve" smooth="yes"/>
+      <point x="-713" y="-518"/>
+      <point x="-631" y="-629" type="qcurve"/>
+      <point x="-532" y="-629" type="line"/>
+      <point x="-598" y="-533"/>
+      <point x="-598" y="-423" type="qcurve" smooth="yes"/>
+      <point x="-598" y="-175"/>
+    </contour>
+    <contour>
+      <point x="287" y="0" type="qcurve"/>
+      <point x="188" y="0" type="line"/>
+      <point x="252" y="-96"/>
+      <point x="252" y="-209" type="qcurve" smooth="yes"/>
+      <point x="252" y="-453"/>
+      <point x="63" y="-629" type="qcurve"/>
+      <point x="162" y="-629" type="line"/>
+      <point x="275" y="-527"/>
+      <point x="368" y="-337"/>
+      <point x="368" y="-228" type="qcurve" smooth="yes"/>
+      <point x="368" y="-110"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

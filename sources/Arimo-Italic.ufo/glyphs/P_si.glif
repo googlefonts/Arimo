@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Psi" format="2">
+  <advance width="1701"/>
+  <unicode hex="03A8"/>
+  <note>
+Psi
+</note>
+  <outline>
+    <contour>
+      <point x="653" y="0" type="line"/>
+      <point x="838" y="0" type="line"/>
+      <point x="921" y="427" type="line"/>
+      <point x="1026" y="427" type="line" smooth="yes"/>
+      <point x="1284" y="427"/>
+      <point x="1584" y="657"/>
+      <point x="1632" y="902" type="qcurve" smooth="yes"/>
+      <point x="1730" y="1409" type="line"/>
+      <point x="1539" y="1409" type="line"/>
+      <point x="1449" y="942" type="line" smooth="yes"/>
+      <point x="1421" y="794"/>
+      <point x="1326" y="641"/>
+      <point x="1168" y="566"/>
+      <point x="1051" y="566" type="qcurve" smooth="yes"/>
+      <point x="949" y="568" type="line"/>
+      <point x="1112" y="1409" type="line"/>
+      <point x="927" y="1409" type="line"/>
+      <point x="764" y="568" type="line"/>
+      <point x="708" y="568" type="line" smooth="yes"/>
+      <point x="551" y="568"/>
+      <point x="394" y="694"/>
+      <point x="394" y="814" type="qcurve" smooth="yes"/>
+      <point x="394" y="846"/>
+      <point x="410" y="942" type="qcurve" smooth="yes"/>
+      <point x="500" y="1409" type="line"/>
+      <point x="309" y="1409" type="line"/>
+      <point x="219" y="946" type="line" smooth="yes"/>
+      <point x="208" y="897"/>
+      <point x="208" y="826" type="qcurve" smooth="yes"/>
+      <point x="208" y="631"/>
+      <point x="456" y="427"/>
+      <point x="685" y="427" type="qcurve" smooth="yes"/>
+      <point x="736" y="427" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

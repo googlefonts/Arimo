@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2036" format="2">
+  <advance width="725"/>
+  <unicode hex="2036"/>
+  <note>
+uni2036
+</note>
+  <outline>
+    <contour>
+      <point x="197" y="890" type="line"/>
+      <point x="299" y="890" type="line"/>
+      <point x="235" y="1409" type="line"/>
+      <point x="39" y="1409" type="line"/>
+    </contour>
+    <contour>
+      <point x="539" y="890" type="line"/>
+      <point x="641" y="890" type="line"/>
+      <point x="577" y="1409" type="line"/>
+      <point x="381" y="1409" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

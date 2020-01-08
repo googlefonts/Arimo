@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2043" format="2">
+  <advance width="682"/>
+  <unicode hex="2043"/>
+  <note>
+uni2043
+</note>
+  <outline>
+    <component base="hyphen"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

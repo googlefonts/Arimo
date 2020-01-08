@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA7FC" format="2">
+  <advance width="1366"/>
+  <unicode hex="A7FC"/>
+  <note>
+uniA7FC
+</note>
+  <outline>
+    <contour>
+      <point x="1366" y="1409" type="line"/>
+      <point x="773" y="1409" type="line" smooth="yes"/>
+      <point x="601" y="1409"/>
+      <point x="330" y="1282"/>
+      <point x="183" y="1054"/>
+      <point x="183" y="911" type="qcurve" smooth="yes"/>
+      <point x="183" y="736"/>
+      <point x="393" y="549"/>
+      <point x="591" y="549" type="qcurve" smooth="yes"/>
+      <point x="1005" y="549" type="line"/>
+      <point x="897" y="0" type="line"/>
+      <point x="1088" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1145" y="1256" type="line"/>
+      <point x="1035" y="700" type="line"/>
+      <point x="648" y="700" type="line" smooth="yes"/>
+      <point x="508" y="700"/>
+      <point x="376" y="812"/>
+      <point x="376" y="936" type="qcurve" smooth="yes"/>
+      <point x="376" y="1081"/>
+      <point x="591" y="1256"/>
+      <point x="766" y="1256" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheqel" format="2">
+  <advance width="1739"/>
+  <unicode hex="20AA"/>
+  <note>
+sheqel
+</note>
+  <outline>
+    <contour>
+      <point x="705" y="1227" type="qcurve" smooth="yes"/>
+      <point x="180" y="1227" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="365" y="0" type="line"/>
+      <point x="365" y="1057" type="line"/>
+      <point x="700" y="1057" type="line" smooth="yes"/>
+      <point x="812" y="1057"/>
+      <point x="926" y="986"/>
+      <point x="975" y="827"/>
+      <point x="975" y="674" type="qcurve" smooth="yes"/>
+      <point x="975" y="422" type="line"/>
+      <point x="1159" y="422" type="line"/>
+      <point x="1159" y="686" type="line" smooth="yes"/>
+      <point x="1159" y="888"/>
+      <point x="1070" y="1121"/>
+      <point x="878" y="1227"/>
+    </contour>
+    <contour>
+      <point x="578" y="0" type="line"/>
+      <point x="1104" y="0" type="line" smooth="yes"/>
+      <point x="1275" y="0"/>
+      <point x="1468" y="104"/>
+      <point x="1559" y="338"/>
+      <point x="1559" y="541" type="qcurve" smooth="yes"/>
+      <point x="1559" y="1227" type="line"/>
+      <point x="1374" y="1227" type="line"/>
+      <point x="1374" y="553" type="line" smooth="yes"/>
+      <point x="1374" y="404"/>
+      <point x="1326" y="241"/>
+      <point x="1213" y="170"/>
+      <point x="1102" y="170" type="qcurve" smooth="yes"/>
+      <point x="762" y="170" type="line"/>
+      <point x="762" y="729" type="line"/>
+      <point x="578" y="729" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

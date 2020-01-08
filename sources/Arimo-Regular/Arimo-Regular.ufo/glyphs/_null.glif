@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name=".null" format="2">
+  <unicode hex="0000"/>
+  <note>
+.null
+</note>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 21:09:52</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="invbullet" format="2">
+  <advance width="1237"/>
+  <unicode hex="25D8"/>
+  <note>
+invbullet
+</note>
+  <outline>
+    <contour>
+      <point x="41" y="0" type="line"/>
+      <point x="1196" y="0" type="line"/>
+      <point x="1196" y="1155" type="line"/>
+      <point x="41" y="1155" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="577" type="qcurve" smooth="yes"/>
+      <point x="176" y="695"/>
+      <point x="293" y="899"/>
+      <point x="498" y="1018"/>
+      <point x="616" y="1018" type="qcurve" smooth="yes"/>
+      <point x="735" y="1018"/>
+      <point x="939" y="900"/>
+      <point x="1057" y="695"/>
+      <point x="1057" y="577" type="qcurve" smooth="yes"/>
+      <point x="1057" y="460"/>
+      <point x="939" y="255"/>
+      <point x="734" y="137"/>
+      <point x="616" y="137" type="qcurve" smooth="yes"/>
+      <point x="497" y="137"/>
+      <point x="294" y="255"/>
+      <point x="176" y="459"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

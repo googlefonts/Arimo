@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE2C" format="2">
+  <unicode hex="FE2C"/>
+  <note>
+uniFE2C
+</note>
+  <outline>
+    <component base="overscore" xOffset="-37" yOffset="-1541"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

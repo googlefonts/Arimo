@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA7FE" format="2">
+  <advance width="569"/>
+  <unicode hex="A7FE"/>
+  <note>
+uniA7FE
+</note>
+  <outline>
+    <contour>
+      <point x="137" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+      <point x="432" y="1824" type="line"/>
+      <point x="137" y="1824" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

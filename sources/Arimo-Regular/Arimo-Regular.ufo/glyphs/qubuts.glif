@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qubuts" format="2">
+  <unicode hex="05BB"/>
+  <note>
+qubuts
+</note>
+  <outline>
+    <contour>
+      <point x="-238" y="-96" type="qcurve" smooth="yes"/>
+      <point x="-238" y="-128"/>
+      <point x="-192" y="-174"/>
+      <point x="-160" y="-174" type="qcurve" smooth="yes"/>
+      <point x="-126" y="-174"/>
+      <point x="-80" y="-128"/>
+      <point x="-80" y="-96" type="qcurve" smooth="yes"/>
+      <point x="-80" y="-62"/>
+      <point x="-126" y="-16"/>
+      <point x="-160" y="-16" type="qcurve" smooth="yes"/>
+      <point x="-192" y="-16"/>
+      <point x="-238" y="-62"/>
+    </contour>
+    <contour>
+      <point x="-80" y="-201" type="qcurve" smooth="yes"/>
+      <point x="-80" y="-233"/>
+      <point x="-34" y="-281"/>
+      <point x="0" y="-281" type="qcurve" smooth="yes"/>
+      <point x="33" y="-281"/>
+      <point x="80" y="-233"/>
+      <point x="80" y="-201" type="qcurve" smooth="yes"/>
+      <point x="80" y="-169"/>
+      <point x="32" y="-121"/>
+      <point x="0" y="-121" type="qcurve" smooth="yes"/>
+      <point x="-32" y="-121"/>
+      <point x="-80" y="-169"/>
+    </contour>
+    <contour>
+      <point x="80" y="-305" type="qcurve" smooth="yes"/>
+      <point x="80" y="-339"/>
+      <point x="126" y="-385"/>
+      <point x="160" y="-385" type="qcurve" smooth="yes"/>
+      <point x="193" y="-385"/>
+      <point x="240" y="-337"/>
+      <point x="240" y="-305" type="qcurve" smooth="yes"/>
+      <point x="240" y="-273"/>
+      <point x="192" y="-225"/>
+      <point x="160" y="-225" type="qcurve" smooth="yes"/>
+      <point x="128" y="-225"/>
+      <point x="80" y="-271"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

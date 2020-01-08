@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lowerdot" format="2">
+  <unicode hex="05C5"/>
+  <note>
+lowerdot
+</note>
+  <outline>
+    <contour>
+      <point x="-246" y="-326" type="qcurve" smooth="yes"/>
+      <point x="-246" y="-360"/>
+      <point x="-200" y="-406"/>
+      <point x="-168" y="-406" type="qcurve" smooth="yes"/>
+      <point x="-134" y="-406"/>
+      <point x="-88" y="-360"/>
+      <point x="-88" y="-326" type="qcurve" smooth="yes"/>
+      <point x="-88" y="-294"/>
+      <point x="-134" y="-248"/>
+      <point x="-168" y="-248" type="qcurve" smooth="yes"/>
+      <point x="-200" y="-248"/>
+      <point x="-246" y="-294"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

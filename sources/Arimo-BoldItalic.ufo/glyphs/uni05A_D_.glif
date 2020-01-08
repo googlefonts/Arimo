@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni05AD" format="2">
+  <unicode hex="05AD"/>
+  <note>
+uni05AD
+</note>
+  <outline>
+    <contour>
+      <point x="-8" y="-82" type="qcurve"/>
+      <point x="-119" y="-82" type="line"/>
+      <point x="-127" y="-130"/>
+      <point x="-127" y="-156" type="qcurve" smooth="yes"/>
+      <point x="-127" y="-266"/>
+      <point x="17" y="-385"/>
+      <point x="152" y="-385" type="qcurve"/>
+      <point x="172" y="-279" type="line"/>
+      <point x="83" y="-279"/>
+      <point x="-12" y="-199"/>
+      <point x="-12" y="-127" type="qcurve" smooth="yes"/>
+      <point x="-12" y="-98"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

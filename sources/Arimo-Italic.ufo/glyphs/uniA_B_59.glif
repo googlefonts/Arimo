@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniAB59" format="2">
+  <advance width="1144"/>
+  <unicode hex="AB59"/>
+  <note>
+uniAB59
+</note>
+  <outline>
+    <contour>
+      <point x="826" y="0" type="line"/>
+      <point x="1016" y="0" type="line"/>
+      <point x="735" y="558" type="line"/>
+      <point x="1204" y="1082" type="line"/>
+      <point x="998" y="1082" type="line"/>
+      <point x="648" y="661" type="line"/>
+      <point x="455" y="1082" type="line"/>
+      <point x="266" y="1082" type="line"/>
+      <point x="530" y="556" type="line"/>
+      <point x="-113" y="-164" type="line" smooth="yes"/>
+      <point x="-170" y="-231"/>
+      <point x="-249" y="-292"/>
+      <point x="-282" y="-292" type="qcurve" smooth="yes"/>
+      <point x="-309" y="-292"/>
+      <point x="-329" y="-282" type="qcurve"/>
+      <point x="-399" y="-413" type="line"/>
+      <point x="-352" y="-433"/>
+      <point x="-287" y="-433" type="qcurve" smooth="yes"/>
+      <point x="-236" y="-433"/>
+      <point x="-152" y="-396"/>
+      <point x="-55" y="-309"/>
+      <point x="71" y="-167" type="qcurve" smooth="yes"/>
+      <point x="617" y="444" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

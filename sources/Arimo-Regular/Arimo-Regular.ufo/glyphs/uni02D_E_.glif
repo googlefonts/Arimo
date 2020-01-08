@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02DE" format="2">
+  <advance width="682"/>
+  <unicode hex="02DE"/>
+  <note>
+uni02DE
+</note>
+  <outline>
+    <contour>
+      <point x="-26" y="745" type="line"/>
+      <point x="-3" y="606" type="line"/>
+      <point x="75" y="625" type="line"/>
+      <point x="117" y="357"/>
+      <point x="327" y="357" type="qcurve" smooth="yes"/>
+      <point x="412" y="357"/>
+      <point x="538" y="409" type="qcurve"/>
+      <point x="479" y="556" type="line"/>
+      <point x="399" y="516"/>
+      <point x="347" y="516" type="qcurve" smooth="yes"/>
+      <point x="297" y="516"/>
+      <point x="246" y="576"/>
+      <point x="232" y="644" type="qcurve" smooth="yes"/>
+      <point x="203" y="780" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

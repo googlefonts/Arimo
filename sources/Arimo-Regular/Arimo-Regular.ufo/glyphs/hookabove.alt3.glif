@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabove.alt3" format="2">
+  <note>
+hookabove.alt3
+</note>
+  <outline>
+    <contour>
+      <point x="-670" y="1665" type="qcurve" smooth="yes"/>
+      <point x="-670" y="1634"/>
+      <point x="-718" y="1604"/>
+      <point x="-787" y="1601" type="qcurve"/>
+      <point x="-787" y="1481" type="line"/>
+      <point x="-675" y="1481" type="line"/>
+      <point x="-675" y="1531" type="line"/>
+      <point x="-584" y="1542"/>
+      <point x="-503" y="1627"/>
+      <point x="-503" y="1686" type="qcurve" smooth="yes"/>
+      <point x="-503" y="1835"/>
+      <point x="-740" y="1835" type="qcurve" smooth="yes"/>
+      <point x="-846" y="1835"/>
+      <point x="-936" y="1805" type="qcurve"/>
+      <point x="-905" y="1706" type="line"/>
+      <point x="-835" y="1730"/>
+      <point x="-763" y="1730" type="qcurve" smooth="yes"/>
+      <point x="-721" y="1730"/>
+      <point x="-670" y="1696"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

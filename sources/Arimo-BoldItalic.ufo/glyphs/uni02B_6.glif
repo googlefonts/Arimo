@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02B6" format="2">
+  <advance width="819"/>
+  <unicode hex="02B6"/>
+  <note>
+uni02B6
+</note>
+  <outline>
+    <contour>
+      <point x="478" y="947" type="line"/>
+      <point x="350" y="947" type="line"/>
+      <point x="407" y="1253" type="line"/>
+      <point x="216" y="1253" type="line"/>
+      <point x="72" y="491" type="line"/>
+      <point x="417" y="491" type="line" smooth="yes"/>
+      <point x="604" y="491"/>
+      <point x="773" y="619"/>
+      <point x="773" y="744" type="qcurve" smooth="yes"/>
+      <point x="773" y="806"/>
+      <point x="706" y="903"/>
+      <point x="650" y="921" type="qcurve"/>
+      <point x="932" y="1253" type="line"/>
+      <point x="721" y="1253" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="614" type="line"/>
+      <point x="326" y="825" type="line"/>
+      <point x="467" y="825" type="line" smooth="yes"/>
+      <point x="524" y="825"/>
+      <point x="578" y="774"/>
+      <point x="578" y="735" type="qcurve" smooth="yes"/>
+      <point x="578" y="675"/>
+      <point x="501" y="614"/>
+      <point x="416" y="614" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

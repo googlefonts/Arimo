@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1D7B" format="2">
+  <advance width="455"/>
+  <unicode hex="1D7B"/>
+  <note>
+uni1D7B
+</note>
+  <outline>
+    <component base="bari.dotless"/>
+  </outline>
+</glyph>

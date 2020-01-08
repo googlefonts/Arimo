@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03B9030403130300" format="2">
+  <advance width="569"/>
+  <note>
+uni03B9030403130300
+</note>
+  <outline>
+    <component base="iota" xOffset="-2"/>
+    <component base="uni1FCD" xOffset="-39" yOffset="370"/>
+    <component base="macron" xOffset="-54" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2C7A" format="2">
+  <advance width="1251"/>
+  <unicode hex="2C7A"/>
+  <note>
+uni2C7A
+</note>
+  <outline>
+    <component base="o"/>
+    <component base="ring" xOffset="102" yOffset="-1089"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

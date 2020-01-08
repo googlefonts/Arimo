@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniAB47" format="2">
+  <advance width="578"/>
+  <unicode hex="AB47"/>
+  <note>
+uniAB47
+</note>
+  <outline>
+    <contour>
+      <point x="212" y="0" type="line"/>
+      <point x="323" y="564" type="line" smooth="yes"/>
+      <point x="391" y="909"/>
+      <point x="593" y="935" type="qcurve"/>
+      <point x="625" y="1098" type="line"/>
+      <point x="550" y="1085"/>
+      <point x="440" y="983"/>
+      <point x="378" y="861" type="qcurve"/>
+      <point x="374" y="861" type="line"/>
+      <point x="395" y="964"/>
+      <point x="410" y="1082" type="qcurve"/>
+      <point x="240" y="1082" type="line"/>
+      <point x="226" y="978"/>
+      <point x="196" y="830" type="qcurve" smooth="yes"/>
+      <point x="32" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

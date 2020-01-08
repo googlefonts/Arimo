@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni041B" format="2">
+  <advance width="1437"/>
+  <unicode hex="041B"/>
+  <note>
+uni041B
+</note>
+  <outline>
+    <contour>
+      <point x="1016" y="1165" type="line"/>
+      <point x="1016" y="0" type="line"/>
+      <point x="1300" y="0" type="line"/>
+      <point x="1300" y="1409" type="line"/>
+      <point x="348" y="1409" type="line"/>
+      <point x="281" y="936" type="line" smooth="yes"/>
+      <point x="247" y="696"/>
+      <point x="182" y="381"/>
+      <point x="108" y="241"/>
+      <point x="51" y="241" type="qcurve" smooth="yes"/>
+      <point x="22" y="241"/>
+      <point x="8" y="248" type="qcurve"/>
+      <point x="8" y="1" type="line"/>
+      <point x="38" y="-16"/>
+      <point x="107" y="-16" type="qcurve" smooth="yes"/>
+      <point x="248" y="-16"/>
+      <point x="404" y="120"/>
+      <point x="506" y="441"/>
+      <point x="560" y="817" type="qcurve" smooth="yes"/>
+      <point x="609" y="1165" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

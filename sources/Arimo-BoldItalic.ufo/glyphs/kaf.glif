@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaf" format="2">
+  <advance width="1133"/>
+  <unicode hex="05DB"/>
+  <note>
+kaf
+</note>
+  <outline>
+    <contour>
+      <point x="309" y="0" type="line" smooth="yes"/>
+      <point x="524" y="0"/>
+      <point x="805" y="108"/>
+      <point x="976" y="336"/>
+      <point x="1063" y="729"/>
+      <point x="1063" y="860" type="qcurve" smooth="yes"/>
+      <point x="1063" y="1044"/>
+      <point x="811" y="1241"/>
+      <point x="565" y="1241" type="qcurve" smooth="yes"/>
+      <point x="219" y="1241" type="line"/>
+      <point x="172" y="999" type="line"/>
+      <point x="494" y="999" type="line" smooth="yes"/>
+      <point x="643" y="999"/>
+      <point x="788" y="906"/>
+      <point x="788" y="807" type="qcurve" smooth="yes"/>
+      <point x="788" y="721"/>
+      <point x="756" y="580" type="qcurve" smooth="yes"/>
+      <point x="714" y="405"/>
+      <point x="515" y="242"/>
+      <point x="342" y="242" type="qcurve" smooth="yes"/>
+      <point x="25" y="242" type="line"/>
+      <point x="-23" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

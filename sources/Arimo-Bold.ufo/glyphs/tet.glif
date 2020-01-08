@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tet" format="2">
+  <advance width="1409"/>
+  <unicode hex="05D8"/>
+  <note>
+tet
+</note>
+  <outline>
+    <contour>
+      <point x="700" y="-20" type="qcurve" smooth="yes"/>
+      <point x="1011" y="-20"/>
+      <point x="1298" y="314"/>
+      <point x="1298" y="676" type="qcurve" smooth="yes"/>
+      <point x="1298" y="983"/>
+      <point x="1111" y="1262"/>
+      <point x="897" y="1262" type="qcurve" smooth="yes"/>
+      <point x="763" y="1262"/>
+      <point x="670" y="1206" type="qcurve"/>
+      <point x="670" y="961" type="line"/>
+      <point x="764" y="1018"/>
+      <point x="852" y="1018" type="qcurve" smooth="yes"/>
+      <point x="942" y="1018"/>
+      <point x="1020" y="847"/>
+      <point x="1020" y="674" type="qcurve" smooth="yes"/>
+      <point x="1020" y="500"/>
+      <point x="957" y="314"/>
+      <point x="818" y="223"/>
+      <point x="702" y="223" type="qcurve" smooth="yes"/>
+      <point x="562" y="223"/>
+      <point x="434" y="361"/>
+      <point x="434" y="510" type="qcurve" smooth="yes"/>
+      <point x="434" y="1241" type="line"/>
+      <point x="164" y="1241" type="line"/>
+      <point x="164" y="504" type="line" smooth="yes"/>
+      <point x="164" y="237"/>
+      <point x="424" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

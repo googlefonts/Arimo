@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shindot" format="2">
+  <unicode hex="05C1"/>
+  <note>
+shindot
+</note>
+  <outline>
+    <contour>
+      <point x="117" y="1528" type="qcurve" smooth="yes"/>
+      <point x="117" y="1494"/>
+      <point x="163" y="1448"/>
+      <point x="195" y="1448" type="qcurve" smooth="yes"/>
+      <point x="229" y="1448"/>
+      <point x="274" y="1494"/>
+      <point x="274" y="1528" type="qcurve" smooth="yes"/>
+      <point x="274" y="1560"/>
+      <point x="229" y="1606"/>
+      <point x="195" y="1606" type="qcurve" smooth="yes"/>
+      <point x="163" y="1606"/>
+      <point x="117" y="1560"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

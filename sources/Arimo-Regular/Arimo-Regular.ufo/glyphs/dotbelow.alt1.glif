@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelow.alt1" format="2">
+  <note>
+dotbelow.alt1
+</note>
+  <outline>
+    <contour>
+      <point x="-241" y="-311" type="line"/>
+      <point x="-61" y="-311" type="line"/>
+      <point x="-61" y="-139" type="line"/>
+      <point x="-241" y="-139" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

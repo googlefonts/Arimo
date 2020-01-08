@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="samekh" format="2">
+  <advance width="1343"/>
+  <unicode hex="05E1"/>
+  <note>
+samekh
+</note>
+  <outline>
+    <contour>
+      <point x="133" y="643" type="qcurve" smooth="yes"/>
+      <point x="133" y="608" type="line" smooth="yes"/>
+      <point x="133" y="289"/>
+      <point x="394" y="-20"/>
+      <point x="668" y="-20" type="qcurve" smooth="yes"/>
+      <point x="944" y="-20"/>
+      <point x="1231" y="311"/>
+      <point x="1231" y="631" type="qcurve" smooth="yes"/>
+      <point x="1231" y="719" type="line" smooth="yes"/>
+      <point x="1231" y="992"/>
+      <point x="991" y="1227"/>
+      <point x="715" y="1227" type="qcurve" smooth="yes"/>
+      <point x="51" y="1227" type="line"/>
+      <point x="51" y="1057" type="line"/>
+      <point x="231" y="1057" type="line"/>
+      <point x="192" y="1006"/>
+      <point x="133" y="764"/>
+    </contour>
+    <contour>
+      <point x="395" y="1057" type="qcurve"/>
+      <point x="713" y="1057" type="line" smooth="yes"/>
+      <point x="892" y="1057"/>
+      <point x="1034" y="907"/>
+      <point x="1034" y="721" type="qcurve" smooth="yes"/>
+      <point x="1034" y="633" type="line" smooth="yes"/>
+      <point x="1034" y="376"/>
+      <point x="863" y="150"/>
+      <point x="672" y="150" type="qcurve" smooth="yes"/>
+      <point x="505" y="150"/>
+      <point x="328" y="378"/>
+      <point x="328" y="598" type="qcurve" smooth="yes"/>
+      <point x="328" y="651" type="line" smooth="yes"/>
+      <point x="328" y="938"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

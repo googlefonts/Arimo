@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="overscore" format="2">
+  <advance width="1131"/>
+  <unicode hex="00AF"/>
+  <note>
+overscore
+</note>
+  <outline>
+    <contour>
+      <point x="1148" y="1452" type="line"/>
+      <point x="1148" y="1546" type="line"/>
+      <point x="-17" y="1546" type="line"/>
+      <point x="-17" y="1452" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

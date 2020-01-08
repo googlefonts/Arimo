@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA664" format="2">
+  <advance width="1703"/>
+  <unicode hex="A664"/>
+  <note>
+uniA664
+</note>
+  <outline>
+    <contour>
+      <point x="1016" y="1165" type="line"/>
+      <point x="1016" y="0" type="line"/>
+      <point x="1300" y="0" type="line"/>
+      <point x="1300" y="1181" type="line"/>
+      <point x="1703" y="1181" type="line"/>
+      <point x="1703" y="1409" type="line"/>
+      <point x="348" y="1409" type="line"/>
+      <point x="281" y="936" type="line" smooth="yes"/>
+      <point x="249" y="707"/>
+      <point x="182" y="383"/>
+      <point x="108" y="241"/>
+      <point x="51" y="241" type="qcurve" smooth="yes"/>
+      <point x="22" y="241"/>
+      <point x="8" y="248" type="qcurve"/>
+      <point x="8" y="1" type="line"/>
+      <point x="38" y="-16"/>
+      <point x="107" y="-16" type="qcurve" smooth="yes"/>
+      <point x="246" y="-16"/>
+      <point x="403" y="118"/>
+      <point x="506" y="440"/>
+      <point x="560" y="817" type="qcurve" smooth="yes"/>
+      <point x="609" y="1165" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

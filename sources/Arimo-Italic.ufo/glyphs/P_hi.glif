@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Phi" format="2">
+  <advance width="1714"/>
+  <unicode hex="03A6"/>
+  <note>
+Phi
+</note>
+  <outline>
+    <contour>
+      <point x="640" y="216" type="qcurve" smooth="yes"/>
+      <point x="689" y="216" type="line"/>
+      <point x="645" y="-11" type="line"/>
+      <point x="828" y="-11" type="line"/>
+      <point x="874" y="216" type="line"/>
+      <point x="1034" y="216" type="line" smooth="yes"/>
+      <point x="1213" y="216"/>
+      <point x="1486" y="349"/>
+      <point x="1635" y="601"/>
+      <point x="1635" y="768" type="qcurve" smooth="yes"/>
+      <point x="1635" y="985"/>
+      <point x="1355" y="1237"/>
+      <point x="1121" y="1237" type="qcurve" smooth="yes"/>
+      <point x="1072" y="1237" type="line"/>
+      <point x="1105" y="1419" type="line"/>
+      <point x="922" y="1419" type="line"/>
+      <point x="887" y="1237" type="line"/>
+      <point x="726" y="1237" type="line" smooth="yes"/>
+      <point x="453" y="1237"/>
+      <point x="126" y="941"/>
+      <point x="126" y="686" type="qcurve" smooth="yes"/>
+      <point x="126" y="470"/>
+      <point x="405" y="216"/>
+    </contour>
+    <contour>
+      <point x="901" y="358" type="line"/>
+      <point x="1044" y="1094" type="line"/>
+      <point x="1113" y="1094" type="line" smooth="yes"/>
+      <point x="1265" y="1094"/>
+      <point x="1441" y="919"/>
+      <point x="1441" y="759" type="qcurve" smooth="yes"/>
+      <point x="1441" y="564"/>
+      <point x="1226" y="358"/>
+      <point x="1025" y="358" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="859" y="1094" type="line"/>
+      <point x="716" y="358" type="line"/>
+      <point x="646" y="358" type="line" smooth="yes"/>
+      <point x="496" y="358"/>
+      <point x="320" y="535"/>
+      <point x="320" y="695" type="qcurve" smooth="yes"/>
+      <point x="320" y="888"/>
+      <point x="534" y="1094"/>
+      <point x="735" y="1094" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

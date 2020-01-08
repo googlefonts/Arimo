@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring" format="2">
+  <advance width="682"/>
+  <unicode hex="02DA"/>
+  <note>
+ring
+</note>
+  <outline>
+    <contour>
+      <point x="535" y="1410" type="qcurve" smooth="yes"/>
+      <point x="535" y="1510"/>
+      <point x="392" y="1651"/>
+      <point x="293" y="1651" type="qcurve" smooth="yes"/>
+      <point x="193" y="1651"/>
+      <point x="51" y="1511"/>
+      <point x="51" y="1410" type="qcurve" smooth="yes"/>
+      <point x="51" y="1310"/>
+      <point x="193" y="1168"/>
+      <point x="293" y="1168" type="qcurve" smooth="yes"/>
+      <point x="393" y="1168"/>
+      <point x="535" y="1310"/>
+    </contour>
+    <contour>
+      <point x="427" y="1410" type="qcurve" smooth="yes"/>
+      <point x="427" y="1354"/>
+      <point x="351" y="1273"/>
+      <point x="293" y="1273" type="qcurve" smooth="yes"/>
+      <point x="234" y="1273"/>
+      <point x="158" y="1355"/>
+      <point x="158" y="1410" type="qcurve" smooth="yes"/>
+      <point x="158" y="1466"/>
+      <point x="236" y="1544"/>
+      <point x="293" y="1544" type="qcurve" smooth="yes"/>
+      <point x="349" y="1544"/>
+      <point x="427" y="1466"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

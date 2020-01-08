@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03C5030803060301" format="2">
+  <advance width="1192"/>
+  <note>
+uni03C5030803060301
+</note>
+  <outline>
+    <component base="upsilon"/>
+    <component base="dieresis" xOffset="224" yOffset="-34"/>
+    <component base="breve" xOffset="267" yOffset="252"/>
+    <component base="tonos" xOffset="299" yOffset="515"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

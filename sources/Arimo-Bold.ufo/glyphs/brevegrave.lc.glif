@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevegrave.lc" format="2">
+  <note>
+brevegrave.lc
+</note>
+  <outline>
+    <contour>
+      <point x="-1" y="1183" type="qcurve" smooth="yes"/>
+      <point x="152" y="1183"/>
+      <point x="337" y="1358"/>
+      <point x="355" y="1506" type="qcurve"/>
+      <point x="191" y="1506" type="line"/>
+      <point x="177" y="1427"/>
+      <point x="72" y="1340"/>
+      <point x="1" y="1340" type="qcurve" smooth="yes"/>
+      <point x="-70" y="1340"/>
+      <point x="-174" y="1429"/>
+      <point x="-190" y="1506" type="qcurve"/>
+      <point x="-353" y="1506" type="line"/>
+      <point x="-342" y="1365"/>
+      <point x="-152" y="1183"/>
+    </contour>
+    <contour>
+      <point x="-60" y="1542" type="line"/>
+      <point x="89" y="1542" type="line"/>
+      <point x="89" y="1569" type="line"/>
+      <point x="-83" y="1824" type="line"/>
+      <point x="-341" y="1824" type="line"/>
+      <point x="-341" y="1786" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

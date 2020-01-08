@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upper_dot" format="2">
+  <unicode hex="05C4"/>
+  <note>
+upper_dot
+</note>
+  <outline>
+    <contour>
+      <point x="137" y="1640" type="qcurve" smooth="yes"/>
+      <point x="137" y="1606"/>
+      <point x="183" y="1561"/>
+      <point x="215" y="1561" type="qcurve" smooth="yes"/>
+      <point x="249" y="1561"/>
+      <point x="295" y="1606"/>
+      <point x="295" y="1640" type="qcurve" smooth="yes"/>
+      <point x="295" y="1672"/>
+      <point x="249" y="1718"/>
+      <point x="215" y="1718" type="qcurve" smooth="yes"/>
+      <point x="183" y="1718"/>
+      <point x="137" y="1672"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

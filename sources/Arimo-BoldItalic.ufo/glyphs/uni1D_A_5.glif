@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DA5" format="2">
+  <advance width="350"/>
+  <unicode hex="1DA5"/>
+  <note>
+uni1DA5
+</note>
+  <outline>
+    <contour>
+      <point x="319" y="490" type="line"/>
+      <point x="290" y="531"/>
+      <point x="290" y="591" type="qcurve" smooth="yes"/>
+      <point x="290" y="604"/>
+      <point x="292" y="637"/>
+      <point x="294" y="649" type="qcurve" smooth="yes"/>
+      <point x="407" y="1253" type="line"/>
+      <point x="216" y="1253" type="line"/>
+      <point x="104" y="656" type="line" smooth="yes"/>
+      <point x="101" y="640"/>
+      <point x="96" y="597"/>
+      <point x="96" y="577" type="qcurve" smooth="yes"/>
+      <point x="96" y="549"/>
+      <point x="108" y="501"/>
+      <point x="115" y="490" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

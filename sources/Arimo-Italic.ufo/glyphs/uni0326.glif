@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0326" format="2">
+  <unicode hex="0326"/>
+  <note>
+uni0326
+</note>
+  <outline>
+    <component base="commaaccent" xOffset="-278"/>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorndotbelow" format="2">
+  <advance width="1656"/>
+  <unicode hex="1EF0"/>
+  <note>
+Uhorndotbelow
+</note>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="dotbelowcomb" xOffset="655"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="het" format="2">
+  <advance width="1348"/>
+  <unicode hex="05D7"/>
+  <note>
+het
+</note>
+  <outline>
+    <contour>
+      <point x="897" y="0" type="line"/>
+      <point x="1081" y="0" type="line"/>
+      <point x="1221" y="719" type="line" smooth="yes"/>
+      <point x="1239" y="816"/>
+      <point x="1239" y="897" type="qcurve" smooth="yes"/>
+      <point x="1239" y="1070"/>
+      <point x="1034" y="1227"/>
+      <point x="805" y="1227" type="qcurve" smooth="yes"/>
+      <point x="309" y="1227" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="256" y="0" type="line"/>
+      <point x="461" y="1057" type="line"/>
+      <point x="786" y="1057" type="line" smooth="yes"/>
+      <point x="926" y="1057"/>
+      <point x="1053" y="964"/>
+      <point x="1053" y="872" type="qcurve" smooth="yes"/>
+      <point x="1053" y="820"/>
+      <point x="1036" y="721" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

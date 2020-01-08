@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0308" format="2">
+  <unicode hex="0308"/>
+  <note>
+uni0308
+</note>
+  <outline>
+    <contour>
+      <point x="109" y="1265" type="line"/>
+      <point x="326" y="1265" type="line"/>
+      <point x="326" y="1484" type="line"/>
+      <point x="109" y="1484" type="line"/>
+    </contour>
+    <contour>
+      <point x="-325" y="1265" type="line"/>
+      <point x="-111" y="1265" type="line"/>
+      <point x="-111" y="1484" type="line"/>
+      <point x="-325" y="1484" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

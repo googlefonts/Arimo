@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wcircumflex" format="2">
+  <advance width="1593"/>
+  <unicode hex="0175"/>
+  <note>
+wcircumflex
+</note>
+  <outline>
+    <component base="w"/>
+    <component base="circumflex" xOffset="429"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

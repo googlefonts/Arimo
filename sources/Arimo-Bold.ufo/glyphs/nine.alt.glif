@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.alt" format="2">
+  <note>
+nine.alt
+</note>
+  <outline>
+    <contour>
+      <point x="294" y="503" type="qcurve" smooth="yes"/>
+      <point x="294" y="878"/>
+      <point x="-2" y="878" type="qcurve" smooth="yes"/>
+      <point x="-142" y="878"/>
+      <point x="-294" y="744"/>
+      <point x="-294" y="622" type="qcurve" smooth="yes"/>
+      <point x="-294" y="505"/>
+      <point x="-164" y="368"/>
+      <point x="-53" y="368" type="qcurve" smooth="yes"/>
+      <point x="59" y="368"/>
+      <point x="115" y="430" type="qcurve"/>
+      <point x="103" y="238"/>
+      <point x="-16" y="238" type="qcurve" smooth="yes"/>
+      <point x="-87" y="238"/>
+      <point x="-111" y="316" type="qcurve"/>
+      <point x="-283" y="294" type="line"/>
+      <point x="-255" y="193"/>
+      <point x="-127" y="103"/>
+      <point x="-18" y="103" type="qcurve" smooth="yes"/>
+      <point x="132" y="103"/>
+      <point x="294" y="301"/>
+    </contour>
+    <contour>
+      <point x="104" y="605" type="qcurve" smooth="yes"/>
+      <point x="104" y="556"/>
+      <point x="41" y="497"/>
+      <point x="-7" y="497" type="qcurve" smooth="yes"/>
+      <point x="-58" y="497"/>
+      <point x="-111" y="568"/>
+      <point x="-111" y="621" type="qcurve" smooth="yes"/>
+      <point x="-111" y="678"/>
+      <point x="-56" y="744"/>
+      <point x="-7" y="744" type="qcurve" smooth="yes"/>
+      <point x="41" y="744"/>
+      <point x="104" y="670"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finalmem" format="2">
+  <advance width="1389"/>
+  <unicode hex="05DD"/>
+  <note>
+finalmem
+</note>
+  <outline>
+    <contour>
+      <point x="1225" y="0" type="line"/>
+      <point x="1225" y="719" type="line" smooth="yes"/>
+      <point x="1225" y="991"/>
+      <point x="987" y="1227"/>
+      <point x="711" y="1227" type="qcurve" smooth="yes"/>
+      <point x="174" y="1227" type="line"/>
+      <point x="174" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="358" y="1057" type="line"/>
+      <point x="709" y="1057" type="line" smooth="yes"/>
+      <point x="893" y="1057"/>
+      <point x="1040" y="903"/>
+      <point x="1040" y="721" type="qcurve" smooth="yes"/>
+      <point x="1040" y="170" type="line"/>
+      <point x="358" y="170" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

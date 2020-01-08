@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1C86" format="2">
+  <advance width="1235"/>
+  <unicode hex="1C86"/>
+  <note>
+uni1C86
+</note>
+  <outline>
+    <contour>
+      <point x="683" y="647" type="qcurve" smooth="yes"/>
+      <point x="435" y="647" type="line"/>
+      <point x="435" y="1484" type="line"/>
+      <point x="-220" y="1484" type="line"/>
+      <point x="-220" y="1294" type="line"/>
+      <point x="153" y="1294" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="684" y="0" type="line" smooth="yes"/>
+      <point x="910" y="0"/>
+      <point x="1150" y="168"/>
+      <point x="1150" y="329" type="qcurve" smooth="yes"/>
+      <point x="1150" y="492"/>
+      <point x="918" y="647"/>
+    </contour>
+    <contour>
+      <point x="435" y="175" type="line"/>
+      <point x="435" y="475" type="line"/>
+      <point x="624" y="475" type="line" smooth="yes"/>
+      <point x="755" y="475"/>
+      <point x="863" y="407"/>
+      <point x="863" y="329" type="qcurve" smooth="yes"/>
+      <point x="863" y="246"/>
+      <point x="750" y="175"/>
+      <point x="623" y="175" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

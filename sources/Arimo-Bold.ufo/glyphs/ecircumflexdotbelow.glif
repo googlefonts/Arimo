@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflexdotbelow" format="2">
+  <advance width="1139"/>
+  <unicode hex="1EC7"/>
+  <note>
+ecircumflexdotbelow
+</note>
+  <outline>
+    <component base="e"/>
+    <component base="circumflex" xOffset="220"/>
+    <component base="dotbelow.alt1" xOffset="810"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

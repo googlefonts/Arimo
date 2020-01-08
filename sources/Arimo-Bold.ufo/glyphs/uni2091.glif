@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2091" format="2">
+  <advance width="770"/>
+  <unicode hex="2091"/>
+  <note>
+uni2091
+</note>
+  <outline>
+    <component base="uni1D49" yOffset="-626"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

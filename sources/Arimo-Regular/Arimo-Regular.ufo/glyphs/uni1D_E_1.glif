@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DE1" format="2">
+  <unicode hex="1DE1"/>
+  <note>
+uni1DE1
+</note>
+  <outline>
+    <contour>
+      <point x="201" y="1707" type="line"/>
+      <point x="107" y="1707" type="line"/>
+      <point x="107" y="1351" type="line"/>
+      <point x="-95" y="1707" type="line"/>
+      <point x="-200" y="1707" type="line"/>
+      <point x="-200" y="1210" type="line"/>
+      <point x="-105" y="1210" type="line"/>
+      <point x="-105" y="1564" type="line"/>
+      <point x="99" y="1210" type="line"/>
+      <point x="201" y="1210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

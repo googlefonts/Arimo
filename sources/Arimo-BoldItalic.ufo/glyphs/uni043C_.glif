@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni043C" format="2">
+  <advance width="1515"/>
+  <unicode hex="043C"/>
+  <note>
+uni043C
+</note>
+  <outline>
+    <contour>
+      <point x="1018" y="0" type="line"/>
+      <point x="1264" y="0" type="line"/>
+      <point x="1475" y="1082" type="line"/>
+      <point x="1101" y="1082" type="line"/>
+      <point x="802" y="467"/>
+      <point x="715" y="279"/>
+      <point x="690" y="213" type="qcurve"/>
+      <point x="690" y="318"/>
+      <point x="671" y="521" type="qcurve" smooth="yes"/>
+      <point x="610" y="1082" type="line"/>
+      <point x="246" y="1082" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="281" y="0" type="line"/>
+      <point x="424" y="734"/>
+      <point x="436" y="814"/>
+      <point x="449" y="921"/>
+      <point x="451" y="955" type="qcurve"/>
+      <point x="549" y="0" type="line"/>
+      <point x="762" y="0" type="line"/>
+      <point x="1223" y="957" type="line"/>
+      <point x="1184" y="831"/>
+      <point x="1154" y="698" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA67A" format="2">
+  <unicode hex="A67A"/>
+  <note>
+uniA67A
+</note>
+  <outline>
+    <contour>
+      <point x="-2" y="1503" type="qcurve" smooth="yes"/>
+      <point x="-92" y="1503" type="line"/>
+      <point x="-92" y="1706" type="line"/>
+      <point x="-192" y="1706" type="line"/>
+      <point x="-192" y="1210" type="line"/>
+      <point x="-1" y="1210" type="line" smooth="yes"/>
+      <point x="96" y="1210"/>
+      <point x="192" y="1289"/>
+      <point x="192" y="1359" type="qcurve" smooth="yes"/>
+      <point x="192" y="1434"/>
+      <point x="95" y="1503"/>
+    </contour>
+    <contour>
+      <point x="-92" y="1282" type="line"/>
+      <point x="-92" y="1432" type="line"/>
+      <point x="-13" y="1432" type="line" smooth="yes"/>
+      <point x="41" y="1432"/>
+      <point x="88" y="1397"/>
+      <point x="88" y="1359" type="qcurve" smooth="yes"/>
+      <point x="88" y="1322"/>
+      <point x="44" y="1282"/>
+      <point x="-13" y="1282" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.alt" format="2">
+  <note>
+zero.alt
+</note>
+  <outline>
+    <contour>
+      <point x="289" y="491" type="qcurve" smooth="yes"/>
+      <point x="289" y="687"/>
+      <point x="150" y="878"/>
+      <point x="3" y="878" type="qcurve" smooth="yes"/>
+      <point x="-150" y="878"/>
+      <point x="-289" y="691"/>
+      <point x="-289" y="491" type="qcurve" smooth="yes"/>
+      <point x="-289" y="103"/>
+      <point x="-1" y="103" type="qcurve" smooth="yes"/>
+      <point x="145" y="103"/>
+      <point x="289" y="302"/>
+    </contour>
+    <contour>
+      <point x="108" y="491" type="qcurve" smooth="yes"/>
+      <point x="108" y="351"/>
+      <point x="61" y="239"/>
+      <point x="0" y="239" type="qcurve" smooth="yes"/>
+      <point x="-61" y="239"/>
+      <point x="-108" y="346"/>
+      <point x="-108" y="491" type="qcurve" smooth="yes"/>
+      <point x="-108" y="636"/>
+      <point x="-61" y="744"/>
+      <point x="2" y="744" type="qcurve" smooth="yes"/>
+      <point x="63" y="744"/>
+      <point x="108" y="634"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

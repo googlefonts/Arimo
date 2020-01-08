@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qof" format="2">
+  <advance width="1339"/>
+  <unicode hex="05E7"/>
+  <note>
+qof
+</note>
+  <outline>
+    <contour>
+      <point x="444" y="762" type="line"/>
+      <point x="174" y="762" type="line"/>
+      <point x="174" y="-385" type="line"/>
+      <point x="444" y="-385" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="1241" type="line"/>
+      <point x="123" y="999" type="line"/>
+      <point x="702" y="999" type="line" smooth="yes"/>
+      <point x="842" y="999"/>
+      <point x="954" y="909"/>
+      <point x="954" y="797" type="qcurve" smooth="yes"/>
+      <point x="954" y="627"/>
+      <point x="749" y="334"/>
+      <point x="561" y="246" type="qcurve"/>
+      <point x="561" y="-41" type="line"/>
+      <point x="883" y="91"/>
+      <point x="1227" y="544"/>
+      <point x="1227" y="829" type="qcurve" smooth="yes"/>
+      <point x="1227" y="1048"/>
+      <point x="995" y="1241"/>
+      <point x="741" y="1241" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

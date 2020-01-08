@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finalkaf" format="2">
+  <advance width="1094"/>
+  <unicode hex="05DA"/>
+  <note>
+finalkaf
+</note>
+  <outline>
+    <contour>
+      <point x="930" y="-385" type="line"/>
+      <point x="930" y="719" type="line" smooth="yes"/>
+      <point x="930" y="991"/>
+      <point x="692" y="1227"/>
+      <point x="416" y="1227" type="qcurve" smooth="yes"/>
+      <point x="39" y="1227" type="line"/>
+      <point x="39" y="1057" type="line"/>
+      <point x="414" y="1057" type="line" smooth="yes"/>
+      <point x="598" y="1057"/>
+      <point x="745" y="903"/>
+      <point x="745" y="721" type="qcurve" smooth="yes"/>
+      <point x="745" y="-385" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

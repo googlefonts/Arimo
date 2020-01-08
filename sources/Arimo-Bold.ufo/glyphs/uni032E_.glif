@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni032E" format="2">
+  <unicode hex="032E"/>
+  <note>
+uni032E
+</note>
+  <outline>
+    <component base="breve.uc" xOffset="-348" yOffset="-1924"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

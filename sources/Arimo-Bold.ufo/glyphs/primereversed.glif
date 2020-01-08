@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="primereversed" format="2">
+  <advance width="491"/>
+  <unicode hex="2035"/>
+  <note>
+primereversed
+</note>
+  <outline>
+    <contour>
+      <point x="213" y="890" type="line"/>
+      <point x="425" y="890" type="line"/>
+      <point x="361" y="1409" type="line"/>
+      <point x="55" y="1409" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

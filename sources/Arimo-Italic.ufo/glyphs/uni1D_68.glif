@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1D68" format="2">
+  <advance width="777"/>
+  <unicode hex="1D68"/>
+  <note>
+uni1D68
+</note>
+  <outline>
+    <contour>
+      <point x="-45" y="-100" type="qcurve" smooth="yes"/>
+      <point x="-45" y="-250"/>
+      <point x="109" y="-380"/>
+      <point x="266" y="-380" type="qcurve" smooth="yes"/>
+      <point x="385" y="-380"/>
+      <point x="433" y="-393"/>
+      <point x="435" y="-416" type="qcurve"/>
+      <point x="548" y="-416" type="line"/>
+      <point x="548" y="-334"/>
+      <point x="463" y="-275"/>
+      <point x="321" y="-275" type="qcurve" smooth="yes"/>
+      <point x="213" y="-275"/>
+      <point x="118" y="-239"/>
+      <point x="72" y="-160"/>
+      <point x="72" y="-91" type="qcurve" smooth="yes"/>
+      <point x="70" y="-34" type="line"/>
+      <point x="143" y="-150"/>
+      <point x="281" y="-150" type="qcurve" smooth="yes"/>
+      <point x="415" y="-150"/>
+      <point x="593" y="-24"/>
+      <point x="688" y="216"/>
+      <point x="688" y="346" type="qcurve" smooth="yes"/>
+      <point x="688" y="486"/>
+      <point x="535" y="640"/>
+      <point x="386" y="640" type="qcurve" smooth="yes"/>
+      <point x="228" y="640"/>
+      <point x="32" y="461"/>
+      <point x="-45" y="79"/>
+    </contour>
+    <contour>
+      <point x="558" y="346" type="qcurve" smooth="yes"/>
+      <point x="558" y="257"/>
+      <point x="498" y="51"/>
+      <point x="388" y="-56"/>
+      <point x="289" y="-56" type="qcurve" smooth="yes"/>
+      <point x="202" y="-56"/>
+      <point x="114" y="55"/>
+      <point x="114" y="157" type="qcurve" smooth="yes"/>
+      <point x="114" y="248"/>
+      <point x="176" y="447"/>
+      <point x="290" y="547"/>
+      <point x="385" y="547" type="qcurve" smooth="yes"/>
+      <point x="558" y="547"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

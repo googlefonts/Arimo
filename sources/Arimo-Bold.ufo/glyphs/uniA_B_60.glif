@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniAB60" format="2">
+  <advance width="1928"/>
+  <unicode hex="AB60"/>
+  <note>
+uniAB60
+</note>
+  <outline>
+    <contour>
+      <point x="1366" y="647" type="qcurve" smooth="yes"/>
+      <point x="1094" y="647" type="line"/>
+      <point x="1094" y="1082" type="line"/>
+      <point x="143" y="1082" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="425" y="892" type="line"/>
+      <point x="812" y="892" type="line"/>
+      <point x="812" y="0" type="line"/>
+      <point x="1367" y="0" type="line" smooth="yes"/>
+      <point x="1596" y="0"/>
+      <point x="1843" y="170"/>
+      <point x="1843" y="329" type="qcurve" smooth="yes"/>
+      <point x="1843" y="647"/>
+    </contour>
+    <contour>
+      <point x="1094" y="175" type="line"/>
+      <point x="1094" y="475" type="line"/>
+      <point x="1307" y="475" type="line" smooth="yes"/>
+      <point x="1440" y="475"/>
+      <point x="1556" y="405"/>
+      <point x="1556" y="329" type="qcurve" smooth="yes"/>
+      <point x="1556" y="248"/>
+      <point x="1436" y="175"/>
+      <point x="1306" y="175" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

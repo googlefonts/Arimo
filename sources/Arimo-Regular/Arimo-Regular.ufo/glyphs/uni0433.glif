@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0433" format="2">
+  <advance width="747"/>
+  <unicode hex="0433"/>
+  <note>
+uni0433
+</note>
+  <outline>
+    <contour>
+      <point x="687" y="1082" type="line"/>
+      <point x="142" y="1082" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="322" y="0" type="line"/>
+      <point x="322" y="951" type="line"/>
+      <point x="687" y="951" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

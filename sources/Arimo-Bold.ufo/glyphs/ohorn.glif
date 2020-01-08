@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn" format="2">
+  <advance width="1456"/>
+  <unicode hex="01A1"/>
+  <note>
+ohorn
+</note>
+  <outline>
+    <contour>
+      <point x="1456" y="872" type="qcurve" smooth="yes"/>
+      <point x="1456" y="1082" type="line"/>
+      <point x="1193" y="1082" type="line"/>
+      <point x="1193" y="822" type="line"/>
+      <point x="1318" y="822" type="line"/>
+      <point x="1318" y="643"/>
+      <point x="1170" y="587" type="qcurve"/>
+      <point x="1159" y="837"/>
+      <point x="882" y="1102"/>
+      <point x="627" y="1102" type="qcurve" smooth="yes"/>
+      <point x="368" y="1102"/>
+      <point x="80" y="803"/>
+      <point x="80" y="542" type="qcurve" smooth="yes"/>
+      <point x="80" y="280"/>
+      <point x="368" y="-20"/>
+      <point x="621" y="-20" type="qcurve" smooth="yes"/>
+      <point x="855" y="-20"/>
+      <point x="1143" y="228"/>
+      <point x="1166" y="454" type="qcurve"/>
+      <point x="1316" y="492"/>
+      <point x="1456" y="701"/>
+    </contour>
+    <contour>
+      <point x="877" y="542" type="qcurve" smooth="yes"/>
+      <point x="877" y="355"/>
+      <point x="750" y="172"/>
+      <point x="618" y="172" type="qcurve" smooth="yes"/>
+      <point x="500" y="172"/>
+      <point x="375" y="361"/>
+      <point x="375" y="542" type="qcurve" smooth="yes"/>
+      <point x="375" y="909"/>
+      <point x="631" y="909" type="qcurve" smooth="yes"/>
+      <point x="751" y="909"/>
+      <point x="877" y="735"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

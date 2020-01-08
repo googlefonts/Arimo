@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA7B2" format="2">
+  <advance width="1070"/>
+  <unicode hex="A7B2"/>
+  <note>
+uniA7B2
+</note>
+  <outline>
+    <contour>
+      <point x="904" y="405" type="line"/>
+      <point x="1060" y="405" type="line"/>
+      <point x="1060" y="630" type="line"/>
+      <point x="904" y="630" type="line"/>
+      <point x="904" y="1409" type="line"/>
+      <point x="329" y="1409" type="line"/>
+      <point x="329" y="1178" type="line"/>
+      <point x="610" y="1178" type="line"/>
+      <point x="610" y="630" type="line"/>
+      <point x="487" y="630" type="line" smooth="yes"/>
+      <point x="371" y="630"/>
+      <point x="176" y="546"/>
+      <point x="80" y="398"/>
+      <point x="80" y="303" type="qcurve" smooth="yes"/>
+      <point x="80" y="149"/>
+      <point x="276" y="-20"/>
+      <point x="459" y="-20" type="qcurve" smooth="yes"/>
+      <point x="592" y="-20"/>
+      <point x="793" y="90"/>
+      <point x="904" y="283"/>
+      <point x="904" y="397" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="495" y="405" type="qcurve" smooth="yes"/>
+      <point x="610" y="405" type="line"/>
+      <point x="610" y="367" type="line" smooth="yes"/>
+      <point x="610" y="304"/>
+      <point x="520" y="208"/>
+      <point x="454" y="208" type="qcurve" smooth="yes"/>
+      <point x="403" y="208"/>
+      <point x="343" y="261"/>
+      <point x="343" y="309" type="qcurve" smooth="yes"/>
+      <point x="343" y="358"/>
+      <point x="413" y="405"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

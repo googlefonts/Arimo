@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0363" format="2">
+  <unicode hex="0363"/>
+  <note>
+uni0363
+</note>
+  <outline>
+    <component base="uni1D43" xOffset="-390"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DBB" format="2">
+  <advance width="740"/>
+  <unicode hex="1DBB"/>
+  <note>
+uni1DBB
+</note>
+  <outline>
+    <contour>
+      <point x="82" y="490" type="line"/>
+      <point x="672" y="490" type="line"/>
+      <point x="672" y="634" type="line"/>
+      <point x="295" y="634" type="line"/>
+      <point x="639" y="1111" type="line"/>
+      <point x="639" y="1252" type="line"/>
+      <point x="110" y="1252" type="line"/>
+      <point x="110" y="1109" type="line"/>
+      <point x="428" y="1109" type="line"/>
+      <point x="82" y="630" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

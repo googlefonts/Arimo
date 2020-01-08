@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="holam" format="2">
+  <unicode hex="05B9"/>
+  <note>
+holam
+</note>
+  <outline>
+    <contour>
+      <point x="117" y="1526" type="qcurve" smooth="yes"/>
+      <point x="117" y="1492"/>
+      <point x="163" y="1446"/>
+      <point x="195" y="1446" type="qcurve" smooth="yes"/>
+      <point x="229" y="1446"/>
+      <point x="274" y="1492"/>
+      <point x="274" y="1526" type="qcurve" smooth="yes"/>
+      <point x="274" y="1558"/>
+      <point x="229" y="1604"/>
+      <point x="195" y="1604" type="qcurve" smooth="yes"/>
+      <point x="163" y="1604"/>
+      <point x="117" y="1558"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 22:35:12</string>
+    </dict>
+  </lib>
+</glyph>

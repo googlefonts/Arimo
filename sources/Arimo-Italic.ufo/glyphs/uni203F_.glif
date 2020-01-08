@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni203F" format="2">
+  <advance width="1627"/>
+  <unicode hex="203F"/>
+  <note>
+uni203F
+</note>
+  <outline>
+    <contour>
+      <point x="1602" y="-32" type="qcurve"/>
+      <point x="1469" y="-32" type="line"/>
+      <point x="1350" y="-162"/>
+      <point x="995" y="-280"/>
+      <point x="759" y="-280" type="qcurve" smooth="yes"/>
+      <point x="278" y="-280"/>
+      <point x="149" y="-32" type="qcurve"/>
+      <point x="16" y="-32" type="line"/>
+      <point x="176" y="-403"/>
+      <point x="736" y="-403" type="qcurve" smooth="yes"/>
+      <point x="1295" y="-403"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

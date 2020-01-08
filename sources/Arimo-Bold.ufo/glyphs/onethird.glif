@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onethird" format="2">
+  <advance width="1708"/>
+  <unicode hex="2153"/>
+  <note>
+onethird
+</note>
+  <outline>
+    <component base="fraction" xOffset="700"/>
+    <component base="onesuperior" xOffset="12"/>
+    <component base="threesuperior" xOffset="992" yOffset="-695"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

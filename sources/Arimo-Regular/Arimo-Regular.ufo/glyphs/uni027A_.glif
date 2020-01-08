@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni027A" format="2">
+  <advance width="682"/>
+  <unicode hex="027A"/>
+  <note>
+uni027A
+</note>
+  <outline>
+    <contour>
+      <point x="549" y="1483" type="line"/>
+      <point x="369" y="1483" type="line"/>
+      <point x="369" y="518" type="line" smooth="yes"/>
+      <point x="369" y="338"/>
+      <point x="251" y="145"/>
+      <point x="139" y="145" type="qcurve" smooth="yes"/>
+      <point x="79" y="145"/>
+      <point x="43" y="155" type="qcurve"/>
+      <point x="43" y="-10" type="line"/>
+      <point x="80" y="-20"/>
+      <point x="116" y="-20" type="qcurve" smooth="yes"/>
+      <point x="185" y="-20"/>
+      <point x="276" y="23"/>
+      <point x="339" y="117"/>
+      <point x="373" y="221" type="qcurve"/>
+      <point x="377" y="221" type="line"/>
+      <point x="380" y="113" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="555" y="0" type="line"/>
+      <point x="549" y="132"/>
+      <point x="549" y="252" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

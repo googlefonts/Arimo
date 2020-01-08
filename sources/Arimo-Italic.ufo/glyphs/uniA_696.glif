@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA696" format="2">
+  <advance width="1885"/>
+  <unicode hex="A696"/>
+  <note>
+uniA696
+</note>
+  <outline>
+    <contour>
+      <point x="63" y="0" type="line"/>
+      <point x="1563" y="0" type="line" smooth="yes"/>
+      <point x="1648" y="0"/>
+      <point x="1731" y="-59"/>
+      <point x="1731" y="-113" type="qcurve" smooth="yes"/>
+      <point x="1731" y="-214"/>
+      <point x="1544" y="-328"/>
+      <point x="1375" y="-328" type="qcurve" smooth="yes"/>
+      <point x="769" y="-328" type="line" smooth="yes"/>
+      <point x="677" y="-328"/>
+      <point x="602" y="-306"/>
+      <point x="602" y="-279" type="qcurve" smooth="yes"/>
+      <point x="602" y="-235"/>
+      <point x="692" y="-204"/>
+      <point x="793" y="-204" type="qcurve" smooth="yes"/>
+      <point x="1431" y="-204" type="line"/>
+      <point x="1450" y="-109" type="line"/>
+      <point x="822" y="-109" type="line" smooth="yes"/>
+      <point x="478" y="-109"/>
+      <point x="478" y="-297" type="qcurve" smooth="yes"/>
+      <point x="478" y="-363"/>
+      <point x="619" y="-425"/>
+      <point x="762" y="-425" type="qcurve" smooth="yes"/>
+      <point x="1344" y="-425" type="line" smooth="yes"/>
+      <point x="1604" y="-425"/>
+      <point x="1899" y="-234"/>
+      <point x="1899" y="-63" type="qcurve" smooth="yes"/>
+      <point x="1899" y="129"/>
+      <point x="1643" y="162" type="qcurve"/>
+      <point x="1885" y="1409" type="line"/>
+      <point x="1699" y="1409" type="line"/>
+      <point x="1457" y="160" type="line"/>
+      <point x="964" y="160" type="line"/>
+      <point x="1206" y="1409" type="line"/>
+      <point x="1020" y="1409" type="line"/>
+      <point x="778" y="160" type="line"/>
+      <point x="285" y="160" type="line"/>
+      <point x="527" y="1409" type="line"/>
+      <point x="336" y="1409" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 22:49:30</string>
+    </dict>
+  </lib>
+</glyph>

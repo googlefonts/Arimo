@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DDF" format="2">
+  <unicode hex="1DDF"/>
+  <note>
+uni1DDF
+</note>
+  <outline>
+    <contour>
+      <point x="260" y="1210" type="line"/>
+      <point x="260" y="1707" type="line"/>
+      <point x="124" y="1707" type="line"/>
+      <point x="24" y="1417" type="line"/>
+      <point x="3" y="1344" type="line"/>
+      <point x="-9" y="1394"/>
+      <point x="-19" y="1417" type="qcurve"/>
+      <point x="-119" y="1707" type="line"/>
+      <point x="-259" y="1707" type="line"/>
+      <point x="-259" y="1210" type="line"/>
+      <point x="-162" y="1210" type="line"/>
+      <point x="-162" y="1573" type="line"/>
+      <point x="-38" y="1210" type="line"/>
+      <point x="45" y="1210" type="line"/>
+      <point x="163" y="1572" type="line"/>
+      <point x="163" y="1210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/18 14:23:36</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni204B" format="2">
+  <advance width="1139"/>
+  <unicode hex="204B"/>
+  <note>
+uni204B
+</note>
+  <outline>
+    <contour>
+      <point x="68" y="1266" type="line"/>
+      <point x="199" y="1266" type="line"/>
+      <point x="199" y="-264" type="line"/>
+      <point x="355" y="-264" type="line"/>
+      <point x="355" y="1266" type="line"/>
+      <point x="550" y="1266" type="line"/>
+      <point x="550" y="-264" type="line"/>
+      <point x="705" y="-264" type="line"/>
+      <point x="705" y="694" type="line"/>
+      <point x="874" y="694"/>
+      <point x="1068" y="879"/>
+      <point x="1068" y="1049" type="qcurve" smooth="yes"/>
+      <point x="1068" y="1218"/>
+      <point x="871" y="1409"/>
+      <point x="697" y="1409" type="qcurve" smooth="yes"/>
+      <point x="68" y="1409" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>

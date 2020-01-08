@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hiriq" format="2">
+  <unicode hex="05B4"/>
+  <note>
+hiriq
+</note>
+  <outline>
+    <contour>
+      <point x="-80" y="-270" type="qcurve" smooth="yes"/>
+      <point x="-80" y="-302"/>
+      <point x="-32" y="-348"/>
+      <point x="0" y="-348" type="qcurve" smooth="yes"/>
+      <point x="32" y="-348"/>
+      <point x="80" y="-302"/>
+      <point x="80" y="-270" type="qcurve" smooth="yes"/>
+      <point x="80" y="-238"/>
+      <point x="34" y="-190"/>
+      <point x="0" y="-190" type="qcurve" smooth="yes"/>
+      <point x="-33" y="-190"/>
+      <point x="-80" y="-237"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/19 19:15:40</string>
+    </dict>
+  </lib>
+</glyph>
