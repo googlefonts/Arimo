@@ -8,6 +8,7 @@ uni04B4
   <outline>
     <contour>
       <point x="24" y="1409" type="line"/>
+      <point x="24" y="1409" type="line"/>
       <point x="24" y="1181" type="line"/>
       <point x="407" y="1181" type="line"/>
       <point x="407" y="0" type="line"/>
@@ -25,10 +26,4 @@ uni04B4
       <point x="1012" y="1409" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

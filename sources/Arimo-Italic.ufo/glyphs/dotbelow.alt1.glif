@@ -6,15 +6,10 @@ dotbelow.alt1
   <outline>
     <contour>
       <point x="-255" y="-311" type="line"/>
+      <point x="-255" y="-311" type="line"/>
       <point x="-75" y="-311" type="line"/>
       <point x="-38" y="-139" type="line"/>
       <point x="-218" y="-139" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

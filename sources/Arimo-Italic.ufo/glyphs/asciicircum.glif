@@ -8,6 +8,7 @@ asciicircum
   <outline>
     <contour>
       <point x="817" y="673" type="line"/>
+      <point x="817" y="673" type="line"/>
       <point x="981" y="673" type="line"/>
       <point x="611" y="1409" type="line"/>
       <point x="408" y="1409" type="line"/>
@@ -16,10 +17,4 @@ asciicircum
       <point x="508" y="1306" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

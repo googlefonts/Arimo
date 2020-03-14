@@ -9,15 +9,10 @@ hyphen
   <outline>
     <contour>
       <point x="56" y="409" type="line"/>
+      <point x="56" y="409" type="line"/>
       <point x="576" y="409" type="line"/>
       <point x="623" y="653" type="line"/>
       <point x="103" y="653" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

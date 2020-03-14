@@ -8,15 +8,16 @@ paragraph
   <outline>
     <contour>
       <point x="948" y="1307" type="line"/>
+      <point x="948" y="1307" type="line"/>
       <point x="1077" y="1307" type="line"/>
       <point x="1077" y="1409" type="line"/>
       <point x="514" y="1409" type="line" smooth="yes"/>
-      <point x="341" y="1409"/>
-      <point x="144" y="1218"/>
-      <point x="144" y="1049" type="qcurve" smooth="yes"/>
-      <point x="144" y="879"/>
-      <point x="338" y="694"/>
-      <point x="506" y="694" type="qcurve"/>
+      <point x="283.333" y="1409"/>
+      <point x="144" y="1274.333"/>
+      <point x="144" y="1049" type="curve" smooth="yes"/>
+      <point x="144" y="822.333"/>
+      <point x="282" y="694"/>
+      <point x="506" y="694" type="curve"/>
       <point x="506" y="-264" type="line"/>
       <point x="619" y="-264" type="line"/>
       <point x="619" y="1307" type="line"/>
@@ -25,10 +26,4 @@ paragraph
       <point x="948" y="-264" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

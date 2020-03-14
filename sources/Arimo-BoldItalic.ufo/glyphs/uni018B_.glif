@@ -7,11 +7,14 @@ uni018B
 </note>
   <outline>
     <contour>
-      <point x="33" y="370" type="qcurve" smooth="yes"/>
-      <point x="33" y="260"/>
-      <point x="141" y="92"/>
-      <point x="343" y="0"/>
-      <point x="480" y="0" type="qcurve" smooth="yes"/>
+      <point x="33" y="370" type="curve"/>
+      <point x="33" y="370" type="line"/>
+      <point x="33" y="223.333"/>
+      <point x="107.333" y="107.333"/>
+      <point x="242" y="46" type="curve" smooth="yes"/>
+      <point x="309.333" y="15.333"/>
+      <point x="388.667" y="0"/>
+      <point x="480" y="0" type="curve" smooth="yes"/>
       <point x="1152" y="0" type="line"/>
       <point x="1425" y="1409" type="line"/>
       <point x="424" y="1409" type="line"/>
@@ -19,25 +22,23 @@ uni018B
       <point x="1086" y="1182" type="line"/>
       <point x="1020" y="841" type="line"/>
       <point x="611" y="841" type="line" smooth="yes"/>
-      <point x="438" y="841"/>
-      <point x="178" y="728"/>
-      <point x="33" y="514"/>
+      <point x="380.333" y="841"/>
+      <point x="202.167" y="763.667"/>
+      <point x="105.5" y="621" type="curve" smooth="yes"/>
+      <point x="57.167" y="549.667"/>
+      <point x="33" y="466"/>
     </contour>
     <contour>
-      <point x="641" y="623" type="qcurve" smooth="yes"/>
+      <point x="641" y="623" type="curve"/>
+      <point x="641" y="623" type="line"/>
       <point x="978" y="623" type="line"/>
       <point x="899" y="219" type="line"/>
       <point x="570" y="219" type="line" smooth="yes"/>
-      <point x="335" y="219"/>
-      <point x="335" y="392" type="qcurve" smooth="yes"/>
-      <point x="335" y="504"/>
-      <point x="490" y="623"/>
+      <point x="413.333" y="219"/>
+      <point x="335" y="276.667"/>
+      <point x="335" y="392" type="curve" smooth="yes"/>
+      <point x="335" y="541.333"/>
+      <point x="439.667" y="623"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

@@ -7,6 +7,7 @@ uni1FEF.short
   <outline>
     <contour>
       <point x="380" y="1590" type="line"/>
+      <point x="380" y="1590" type="line"/>
       <point x="455" y="1590" type="line"/>
       <point x="461" y="1623" type="line"/>
       <point x="433" y="1835" type="line"/>
@@ -14,10 +15,4 @@ uni1FEF.short
       <point x="219" y="1798" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

@@ -8,15 +8,10 @@ period
   <outline>
     <contour>
       <point x="46" y="0" type="line"/>
+      <point x="46" y="0" type="line"/>
       <point x="335" y="0" type="line"/>
       <point x="394" y="305" type="line"/>
       <point x="105" y="305" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

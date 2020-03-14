@@ -8,11 +8,13 @@ uniA7FA
   <outline>
     <contour>
       <point x="1413" y="1154" type="line"/>
+      <point x="1413" y="1154" type="line"/>
       <point x="1178" y="1154" type="line"/>
       <point x="1040" y="456" type="line"/>
       <point x="1014" y="314" type="line"/>
-      <point x="1012" y="393"/>
-      <point x="996" y="513" type="qcurve" smooth="yes"/>
+      <point x="1012.667" y="366.667"/>
+      <point x="1006.667" y="433"/>
+      <point x="996" y="513" type="curve" smooth="yes"/>
       <point x="917" y="1154" type="line"/>
       <point x="728" y="1154" type="line"/>
       <point x="375" y="474" type="line"/>
@@ -29,10 +31,4 @@ uniA7FA
       <point x="1185" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

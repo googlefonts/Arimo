@@ -7,22 +7,18 @@ quotesinglbase
 </note>
   <outline>
     <contour>
-      <point x="328" y="51" type="qcurve" smooth="yes"/>
+      <point x="328" y="51" type="curve"/>
+      <point x="328" y="51" type="line"/>
       <point x="328" y="195" type="line"/>
       <point x="133" y="195" type="line"/>
       <point x="133" y="0" type="line"/>
       <point x="221" y="0" type="line"/>
-      <point x="221" y="-126"/>
-      <point x="127" y="-262" type="qcurve"/>
+      <point x="221" y="-84"/>
+      <point x="189.667" y="-171.333"/>
+      <point x="127" y="-262" type="curve"/>
       <point x="250" y="-262" type="line"/>
-      <point x="290" y="-197"/>
-      <point x="328" y="-55"/>
+      <point x="303.333" y="-175.333"/>
+      <point x="328" y="-90.333"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

@@ -8,45 +8,44 @@ uni0278
   <outline>
     <contour>
       <point x="482" y="-425" type="line"/>
+      <point x="482" y="-425" type="line"/>
       <point x="646" y="-425" type="line"/>
       <point x="646" y="-15" type="line"/>
-      <point x="1053" y="30"/>
-      <point x="1053" y="542" type="qcurve" smooth="yes"/>
-      <point x="1053" y="801"/>
-      <point x="858" y="1078"/>
-      <point x="646" y="1098" type="qcurve"/>
+      <point x="917.333" y="15"/>
+      <point x="1053" y="200.667"/>
+      <point x="1053" y="542" type="curve" smooth="yes"/>
+      <point x="1053" y="887.333"/>
+      <point x="928.667" y="1071.333"/>
+      <point x="646" y="1098" type="curve"/>
       <point x="646" y="1484" type="line"/>
       <point x="482" y="1484" type="line"/>
       <point x="482" y="1097" type="line"/>
-      <point x="86" y="1047"/>
-      <point x="86" y="542" type="qcurve" smooth="yes"/>
-      <point x="86" y="283"/>
-      <point x="293" y="8"/>
-      <point x="482" y="-15" type="qcurve"/>
+      <point x="218" y="1063.667"/>
+      <point x="86" y="878.667"/>
+      <point x="86" y="542" type="curve" smooth="yes"/>
+      <point x="86" y="196.667"/>
+      <point x="230" y="15.667"/>
+      <point x="482" y="-15" type="curve"/>
     </contour>
     <contour>
-      <point x="864" y="542" type="qcurve" smooth="yes"/>
-      <point x="864" y="349"/>
-      <point x="759" y="142"/>
-      <point x="646" y="120" type="qcurve"/>
+      <point x="864" y="542" type="curve"/>
+      <point x="864" y="542" type="line"/>
+      <point x="864" y="284.667"/>
+      <point x="796.667" y="149.333"/>
+      <point x="646" y="120" type="curve"/>
       <point x="646" y="963" type="line"/>
-      <point x="760" y="943"/>
-      <point x="864" y="741"/>
+      <point x="798" y="936.333"/>
+      <point x="864" y="807.333"/>
     </contour>
     <contour>
-      <point x="275" y="542" type="qcurve" smooth="yes"/>
-      <point x="275" y="728"/>
-      <point x="374" y="932"/>
-      <point x="482" y="958" type="qcurve"/>
+      <point x="275" y="542" type="curve"/>
+      <point x="275" y="542" type="line"/>
+      <point x="275" y="790"/>
+      <point x="338" y="923.333"/>
+      <point x="482" y="958" type="curve"/>
       <point x="482" y="122" type="line"/>
-      <point x="376" y="150"/>
-      <point x="275" y="358"/>
+      <point x="340.667" y="159.333"/>
+      <point x="275" y="296.667"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

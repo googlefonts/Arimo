@@ -8,6 +8,7 @@ revlogicalnot
   <outline>
     <contour>
       <point x="100" y="180" type="line"/>
+      <point x="100" y="180" type="line"/>
       <point x="245" y="180" type="line"/>
       <point x="245" y="608" type="line"/>
       <point x="1095" y="608" type="line"/>
@@ -15,10 +16,4 @@ revlogicalnot
       <point x="100" y="754" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

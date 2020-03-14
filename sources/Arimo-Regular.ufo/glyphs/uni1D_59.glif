@@ -8,14 +8,15 @@ uni1D59
   <outline>
     <contour>
       <point x="43" y="657" type="line"/>
+      <point x="43" y="657" type="line"/>
       <point x="43" y="535" type="line"/>
       <point x="531" y="535" type="line" smooth="yes"/>
-      <point x="673" y="535"/>
-      <point x="800" y="645"/>
-      <point x="800" y="768" type="qcurve" smooth="yes"/>
-      <point x="800" y="852"/>
-      <point x="733" y="962"/>
-      <point x="656" y="1004" type="qcurve"/>
+      <point x="720.333" y="535"/>
+      <point x="800" y="604"/>
+      <point x="800" y="768" type="curve" smooth="yes"/>
+      <point x="800" y="880"/>
+      <point x="758.667" y="948"/>
+      <point x="656" y="1004" type="curve"/>
       <point x="656" y="1006" type="line"/>
       <point x="786" y="1010" type="line"/>
       <point x="786" y="1126" type="line"/>
@@ -23,18 +24,12 @@ uni1D59
       <point x="43" y="1122" type="line"/>
       <point x="43" y="1000" type="line"/>
       <point x="465" y="1000" type="line" smooth="yes"/>
-      <point x="580" y="1000"/>
-      <point x="702" y="897"/>
-      <point x="702" y="810" type="qcurve" smooth="yes"/>
-      <point x="702" y="723"/>
-      <point x="617" y="657"/>
-      <point x="507" y="657" type="qcurve" smooth="yes"/>
+      <point x="618.333" y="1000"/>
+      <point x="702" y="926"/>
+      <point x="702" y="810" type="curve" smooth="yes"/>
+      <point x="702" y="694"/>
+      <point x="653.667" y="657"/>
+      <point x="507" y="657" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

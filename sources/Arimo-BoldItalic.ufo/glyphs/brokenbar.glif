@@ -8,21 +8,17 @@ brokenbar
   <outline>
     <contour>
       <point x="192" y="736" type="line"/>
+      <point x="192" y="736" type="line"/>
       <point x="454" y="736" type="line"/>
       <point x="454" y="1484" type="line"/>
       <point x="192" y="1484" type="line"/>
     </contour>
     <contour>
       <point x="192" y="-425" type="line"/>
+      <point x="192" y="-425" type="line"/>
       <point x="454" y="-425" type="line"/>
       <point x="454" y="324" type="line"/>
       <point x="192" y="324" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

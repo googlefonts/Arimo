@@ -8,29 +8,26 @@ uniAB4B
   <outline>
     <contour>
       <point x="694" y="0" type="line"/>
+      <point x="694" y="0" type="line"/>
       <point x="908" y="1082" type="line"/>
       <point x="728" y="1082" type="line"/>
-      <point x="700" y="1046"/>
-      <point x="549" y="990"/>
-      <point x="478" y="990" type="qcurve" smooth="yes"/>
-      <point x="399" y="990"/>
-      <point x="309" y="1033"/>
-      <point x="285" y="1082" type="qcurve"/>
+      <point x="690.667" y="1034"/>
+      <point x="572.667" y="990"/>
+      <point x="478" y="990" type="curve" smooth="yes"/>
+      <point x="372.667" y="990"/>
+      <point x="317" y="1016.667"/>
+      <point x="285" y="1082" type="curve"/>
       <point x="154" y="1082" type="line"/>
       <point x="81" y="716" type="line"/>
       <point x="191" y="716" type="line"/>
       <point x="233" y="928" type="line"/>
-      <point x="313" y="869"/>
-      <point x="456" y="869" type="qcurve" smooth="yes"/>
-      <point x="587" y="869"/>
-      <point x="697" y="926" type="qcurve"/>
+      <point x="286.333" y="888.667"/>
+      <point x="360.667" y="869"/>
+      <point x="456" y="869" type="curve" smooth="yes"/>
+      <point x="543.333" y="869"/>
+      <point x="623.667" y="888"/>
+      <point x="697" y="926" type="curve"/>
       <point x="514" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

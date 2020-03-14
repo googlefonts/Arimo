@@ -8,15 +8,10 @@ underscore
   <outline>
     <contour>
       <point x="-160" y="-250" type="line"/>
+      <point x="-160" y="-250" type="line"/>
       <point x="1018" y="-250" type="line"/>
       <point x="1018" y="-174" type="line"/>
       <point x="-160" y="-174" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

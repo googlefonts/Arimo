@@ -6,21 +6,17 @@ uni03070304.cap
   <outline>
     <contour>
       <point x="395" y="1466" type="line"/>
+      <point x="395" y="1466" type="line"/>
       <point x="424" y="1618" type="line"/>
       <point x="265" y="1618" type="line"/>
       <point x="236" y="1466" type="line"/>
     </contour>
     <contour>
       <point x="82" y="1835" type="line"/>
+      <point x="82" y="1835" type="line"/>
       <point x="56" y="1697" type="line"/>
       <point x="667" y="1697" type="line"/>
       <point x="693" y="1835" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

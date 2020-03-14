@@ -8,6 +8,7 @@ guillemotleft
   <outline>
     <contour>
       <point x="886" y="141" type="line"/>
+      <point x="886" y="141" type="line"/>
       <point x="1056" y="141" type="line"/>
       <point x="1056" y="170" type="line"/>
       <point x="716" y="537" type="line"/>
@@ -19,6 +20,7 @@ guillemotleft
     </contour>
     <contour>
       <point x="419" y="141" type="line"/>
+      <point x="419" y="141" type="line"/>
       <point x="588" y="141" type="line"/>
       <point x="588" y="170" type="line"/>
       <point x="251" y="537" type="line"/>
@@ -29,10 +31,4 @@ guillemotleft
       <point x="83" y="506" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

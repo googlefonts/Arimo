@@ -7,17 +7,20 @@ uni1DFB
   <outline>
     <contour>
       <point x="195" y="890" type="line"/>
+      <point x="195" y="890" type="line"/>
       <point x="407" y="890" type="line"/>
       <point x="565" y="1409" type="line"/>
       <point x="259" y="1409" type="line"/>
     </contour>
     <contour>
       <point x="565" y="890" type="line"/>
+      <point x="565" y="890" type="line"/>
       <point x="777" y="890" type="line"/>
       <point x="935" y="1409" type="line"/>
       <point x="629" y="1409" type="line"/>
     </contour>
     <contour>
+      <point x="945" y="890" type="line"/>
       <point x="945" y="890" type="line"/>
       <point x="1157" y="890" type="line"/>
       <point x="1315" y="1409" type="line"/>
@@ -26,8 +29,6 @@ uni1DFB
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>1205</integer>
     </dict>

@@ -7,6 +7,7 @@ uni1DF1
   <outline>
     <contour>
       <point x="329" y="1210" type="line"/>
+      <point x="329" y="1210" type="line"/>
       <point x="570" y="1707" type="line"/>
       <point x="471" y="1707" type="line"/>
       <point x="308" y="1347" type="line"/>
@@ -25,14 +26,9 @@ uni1DF1
       <point x="177" y="1523" type="line"/>
       <point x="203" y="1585" type="line"/>
       <point x="203" y="1563" type="line" smooth="yes"/>
-      <point x="203" y="1535"/>
-      <point x="219" y="1210" type="qcurve"/>
+      <point x="203" y="1544.333"/>
+      <point x="208.333" y="1426.667"/>
+      <point x="219" y="1210" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

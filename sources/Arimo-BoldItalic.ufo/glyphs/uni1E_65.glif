@@ -10,10 +10,4 @@ uni1E65
     <component base="acute" xOffset="370"/>
     <component base="dotaccent" xOffset="-19"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

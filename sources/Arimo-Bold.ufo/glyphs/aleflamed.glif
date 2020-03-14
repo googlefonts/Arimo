@@ -8,20 +8,24 @@ aleflamed
   <outline>
     <contour>
       <point x="229" y="1057" type="line"/>
+      <point x="229" y="1057" type="line"/>
       <point x="1006" y="0" type="line"/>
       <point x="1331" y="0" type="line"/>
-      <point x="1211" y="158"/>
-      <point x="956" y="506" type="qcurve"/>
-      <point x="1070" y="606"/>
-      <point x="1175" y="745"/>
-      <point x="1235" y="901"/>
-      <point x="1245" y="1001" type="qcurve" smooth="yes"/>
+      <point x="1251" y="105.333"/>
+      <point x="1126" y="274"/>
+      <point x="956" y="506" type="curve"/>
+      <point x="1108" y="639.333"/>
+      <point x="1165" y="719"/>
+      <point x="1205" y="823" type="curve" smooth="yes"/>
+      <point x="1225" y="875"/>
+      <point x="1238.333" y="934.333"/>
+      <point x="1245" y="1001" type="curve" smooth="yes"/>
       <point x="1270" y="1241" type="line"/>
       <point x="993" y="1241" type="line"/>
       <point x="971" y="1022" type="line" smooth="yes"/>
-      <point x="957" y="891"/>
-      <point x="891" y="734"/>
-      <point x="829" y="678" type="qcurve"/>
+      <point x="952.333" y="847.333"/>
+      <point x="911.667" y="752.667"/>
+      <point x="829" y="678" type="curve"/>
       <point x="424" y="1241" type="line"/>
       <point x="350" y="1241" type="line"/>
       <point x="350" y="1679" type="line"/>
@@ -29,10 +33,4 @@ aleflamed
       <point x="80" y="1057" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

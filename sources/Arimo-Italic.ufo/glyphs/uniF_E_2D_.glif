@@ -7,15 +7,10 @@ uniFE2D
   <outline>
     <contour>
       <point x="531" y="-324" type="line"/>
+      <point x="531" y="-324" type="line"/>
       <point x="556" y="-197" type="line"/>
       <point x="-537" y="-197" type="line"/>
       <point x="-562" y="-324" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

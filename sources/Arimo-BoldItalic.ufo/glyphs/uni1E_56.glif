@@ -9,10 +9,4 @@ uni1E56
     <component base="P"/>
     <component base="dotaccent" xOffset="360" yOffset="270"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

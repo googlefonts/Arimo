@@ -9,10 +9,4 @@ uni1E6D
     <component base="t"/>
     <component base="dotbelowcomb" xOffset="320"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

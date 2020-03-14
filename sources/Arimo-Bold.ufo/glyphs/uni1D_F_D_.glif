@@ -7,10 +7,4 @@ uni1DFD
   <outline>
     <component base="uni034C" yOffset="-1791"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

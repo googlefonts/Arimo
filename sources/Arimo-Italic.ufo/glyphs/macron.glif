@@ -8,15 +8,10 @@ macron
   <outline>
     <contour>
       <point x="692" y="1236" type="line"/>
+      <point x="692" y="1236" type="line"/>
       <point x="718" y="1363" type="line"/>
       <point x="168" y="1363" type="line"/>
       <point x="142" y="1236" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

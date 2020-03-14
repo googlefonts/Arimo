@@ -8,6 +8,7 @@ uni2557
   <outline>
     <contour>
       <point x="978" y="874" type="line"/>
+      <point x="978" y="874" type="line"/>
       <point x="-10" y="874" type="line"/>
       <point x="-10" y="729" type="line"/>
       <point x="833" y="729" type="line"/>
@@ -16,6 +17,7 @@ uni2557
     </contour>
     <contour>
       <point x="618" y="-621" type="line"/>
+      <point x="618" y="-621" type="line"/>
       <point x="618" y="514" type="line"/>
       <point x="-10" y="514" type="line"/>
       <point x="-10" y="369" type="line"/>
@@ -23,10 +25,4 @@ uni2557
       <point x="473" y="-621" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

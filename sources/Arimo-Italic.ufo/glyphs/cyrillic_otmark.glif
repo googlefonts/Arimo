@@ -6,6 +6,7 @@ cyrillic_otmark
   <outline>
     <contour>
       <point x="620" y="1409" type="line"/>
+      <point x="620" y="1409" type="line"/>
       <point x="-293" y="1409" type="line"/>
       <point x="-241" y="1214" type="line"/>
       <point x="-201" y="1214" type="line"/>
@@ -19,10 +20,4 @@ cyrillic_otmark
       <point x="492" y="1214" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

@@ -9,10 +9,4 @@ edieresis
     <component base="e"/>
     <component base="dieresis" xOffset="244"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

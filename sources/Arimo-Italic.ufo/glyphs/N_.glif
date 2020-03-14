@@ -8,25 +8,22 @@ N
   <outline>
     <contour>
       <point x="987" y="0" type="line"/>
+      <point x="987" y="0" type="line"/>
       <point x="1207" y="0" type="line"/>
       <point x="1480" y="1409" type="line"/>
       <point x="1308" y="1409" type="line"/>
       <point x="1127" y="478" type="line" smooth="yes"/>
-      <point x="1108" y="383"/>
-      <point x="1082" y="194" type="qcurve"/>
+      <point x="1114.333" y="414.667"/>
+      <point x="1099.333" y="320"/>
+      <point x="1082" y="194" type="curve"/>
       <point x="548" y="1409" type="line"/>
       <point x="336" y="1409" type="line"/>
       <point x="63" y="0" type="line"/>
       <point x="233" y="0" type="line"/>
       <point x="414" y="943" type="line" smooth="yes"/>
-      <point x="434" y="1039"/>
-      <point x="456" y="1210" type="qcurve"/>
+      <point x="427.333" y="1007"/>
+      <point x="441.333" y="1096"/>
+      <point x="456" y="1210" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

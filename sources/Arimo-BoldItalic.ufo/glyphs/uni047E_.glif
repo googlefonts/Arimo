@@ -9,10 +9,4 @@ uni047E
     <component base="uni0460"/>
     <component base="cyrillic_otmark" xOffset="1340" yOffset="342"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

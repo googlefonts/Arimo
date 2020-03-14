@@ -8,6 +8,7 @@ four
   <outline>
     <contour>
       <point x="940" y="287" type="line"/>
+      <point x="940" y="287" type="line"/>
       <point x="1128" y="287" type="line"/>
       <point x="1128" y="496" type="line"/>
       <point x="940" y="496" type="line"/>
@@ -20,20 +21,16 @@ four
       <point x="940" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="672" y="957" type="qcurve" smooth="yes"/>
+      <point x="672" y="957" type="curve"/>
+      <point x="672" y="957" type="line"/>
       <point x="672" y="496" type="line"/>
       <point x="260" y="496" type="line"/>
       <point x="587" y="993" type="line" smooth="yes"/>
-      <point x="655" y="1099"/>
-      <point x="681" y="1155" type="qcurve"/>
-      <point x="679" y="1137"/>
-      <point x="672" y="1011"/>
+      <point x="632.333" y="1063.667"/>
+      <point x="663.667" y="1117.667"/>
+      <point x="681" y="1155" type="curve"/>
+      <point x="678.333" y="1131"/>
+      <point x="672" y="1029"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

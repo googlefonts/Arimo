@@ -9,10 +9,4 @@ uniA75F
     <component base="v"/>
     <component base="slash" xOffset="162" yOffset="-170"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

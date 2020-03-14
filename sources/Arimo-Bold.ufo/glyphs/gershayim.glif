@@ -8,21 +8,17 @@ gershayim
   <outline>
     <contour>
       <point x="395" y="1030" type="line"/>
+      <point x="395" y="1030" type="line"/>
       <point x="627" y="1665" type="line"/>
       <point x="352" y="1665" type="line"/>
       <point x="215" y="1030" type="line"/>
     </contour>
     <contour>
       <point x="842" y="1030" type="line"/>
+      <point x="842" y="1030" type="line"/>
       <point x="1073" y="1665" type="line"/>
       <point x="799" y="1665" type="line"/>
       <point x="662" y="1030" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

@@ -6,20 +6,15 @@ uni0596
 </note>
   <outline>
     <contour>
-      <point x="-68" y="-82" type="qcurve"/>
+      <point x="-68" y="-82" type="curve"/>
+      <point x="-68" y="-82" type="line"/>
       <point x="-178" y="-82" type="line"/>
-      <point x="-178" y="-225"/>
-      <point x="-6" y="-385"/>
-      <point x="150" y="-385" type="qcurve"/>
+      <point x="-178" y="-272.667"/>
+      <point x="-58" y="-385"/>
+      <point x="150" y="-385" type="curve"/>
       <point x="150" y="-279" type="line"/>
-      <point x="48" y="-279"/>
-      <point x="-68" y="-174"/>
+      <point x="14" y="-279"/>
+      <point x="-68" y="-204.667"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

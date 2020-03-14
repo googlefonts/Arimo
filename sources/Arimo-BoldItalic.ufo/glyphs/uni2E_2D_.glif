@@ -8,11 +8,13 @@ uni2E2D
   <outline>
     <contour>
       <point x="498" y="800" type="line"/>
+      <point x="498" y="800" type="line"/>
       <point x="786" y="800" type="line"/>
       <point x="786" y="1082" type="line"/>
       <point x="498" y="1082" type="line"/>
     </contour>
     <contour>
+      <point x="498" y="-100" type="line"/>
       <point x="498" y="-100" type="line"/>
       <point x="786" y="-100" type="line"/>
       <point x="786" y="181" type="line"/>
@@ -20,11 +22,13 @@ uni2E2D
     </contour>
     <contour>
       <point x="986" y="350" type="line"/>
+      <point x="986" y="350" type="line"/>
       <point x="1274" y="350" type="line"/>
       <point x="1274" y="632" type="line"/>
       <point x="986" y="632" type="line"/>
     </contour>
     <contour>
+      <point x="498" y="350" type="line"/>
       <point x="498" y="350" type="line"/>
       <point x="786" y="350" type="line"/>
       <point x="786" y="632" type="line"/>
@@ -32,15 +36,10 @@ uni2E2D
     </contour>
     <contour>
       <point x="10" y="350" type="line"/>
+      <point x="10" y="350" type="line"/>
       <point x="298" y="350" type="line"/>
       <point x="298" y="632" type="line"/>
       <point x="10" y="632" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

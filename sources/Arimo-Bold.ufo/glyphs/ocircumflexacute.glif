@@ -9,10 +9,4 @@ ocircumflexacute
     <component base="o"/>
     <component base="circumflexacute.lc" xOffset="625"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

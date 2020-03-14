@@ -7,15 +7,10 @@ uni200C
   <outline>
     <contour>
       <point x="42" y="1287" type="line"/>
+      <point x="42" y="1287" type="line"/>
       <point x="-42" y="1287" type="line"/>
       <point x="-42" y="-273" type="line"/>
       <point x="42" y="-273" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

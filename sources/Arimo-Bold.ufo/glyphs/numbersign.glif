@@ -8,6 +8,7 @@ numbersign
   <outline>
     <contour>
       <point x="909" y="862" type="line"/>
+      <point x="909" y="862" type="line"/>
       <point x="1106" y="862" type="line"/>
       <point x="1106" y="1010" type="line"/>
       <point x="942" y="1010" type="line"/>
@@ -38,15 +39,10 @@ numbersign
     </contour>
     <contour>
       <point x="449" y="862" type="line"/>
+      <point x="449" y="862" type="line"/>
       <point x="756" y="862" type="line"/>
       <point x="686" y="530" type="line"/>
       <point x="377" y="530" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

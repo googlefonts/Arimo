@@ -10,10 +10,4 @@ uni1FC4
     <component base="tonos" xOffset="350"/>
     <component base="uni0345" xOffset="280"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

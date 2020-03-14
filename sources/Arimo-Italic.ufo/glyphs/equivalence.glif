@@ -8,11 +8,13 @@ equivalence
   <outline>
     <contour>
       <point x="100" y="956" type="line"/>
+      <point x="100" y="956" type="line"/>
       <point x="1095" y="956" type="line"/>
       <point x="1095" y="1104" type="line"/>
       <point x="100" y="1104" type="line"/>
     </contour>
     <contour>
+      <point x="100" y="244" type="line"/>
       <point x="100" y="244" type="line"/>
       <point x="1095" y="244" type="line"/>
       <point x="1095" y="392" type="line"/>
@@ -20,15 +22,10 @@ equivalence
     </contour>
     <contour>
       <point x="100" y="600" type="line"/>
+      <point x="100" y="600" type="line"/>
       <point x="1095" y="600" type="line"/>
       <point x="1095" y="748" type="line"/>
       <point x="100" y="748" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

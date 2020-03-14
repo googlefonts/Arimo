@@ -8,6 +8,7 @@ Upsilondieresis
   <outline>
     <contour>
       <point x="777" y="584" type="line"/>
+      <point x="777" y="584" type="line"/>
       <point x="1321" y="1409" type="line"/>
       <point x="1116" y="1409" type="line"/>
       <point x="684" y="738" type="line"/>
@@ -19,21 +20,17 @@ Upsilondieresis
     </contour>
     <contour>
       <point x="802" y="1530" type="line"/>
+      <point x="802" y="1530" type="line"/>
       <point x="965" y="1530" type="line"/>
       <point x="965" y="1714" type="line"/>
       <point x="802" y="1714" type="line"/>
     </contour>
     <contour>
       <point x="408" y="1530" type="line"/>
+      <point x="408" y="1530" type="line"/>
       <point x="573" y="1530" type="line"/>
       <point x="573" y="1714" type="line"/>
       <point x="408" y="1714" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

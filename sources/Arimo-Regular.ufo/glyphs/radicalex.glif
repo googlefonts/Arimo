@@ -8,15 +8,10 @@ radicalex
   <outline>
     <contour>
       <point x="747" y="1503" type="line"/>
+      <point x="747" y="1503" type="line"/>
       <point x="747" y="1620" type="line"/>
       <point x="-64" y="1620" type="line"/>
       <point x="-64" y="1503" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

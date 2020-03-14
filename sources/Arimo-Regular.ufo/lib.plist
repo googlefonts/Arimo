@@ -5,9 +5,7 @@
     <key>com.github.googlei18n.ufo2ft.useProductionNames</key>
     <false/>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>1273</string>
-    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <string></string>
+    <string>1267</string>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
@@ -26,8 +24,6 @@
     <integer>100</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>5</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>489D640B-457E-495A-B1F8-D23C81511CE7</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>

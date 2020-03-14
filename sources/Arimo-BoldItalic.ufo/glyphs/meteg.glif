@@ -7,15 +7,10 @@ meteg
   <outline>
     <contour>
       <point x="-225" y="-348" type="line"/>
+      <point x="-225" y="-348" type="line"/>
       <point x="-115" y="-348" type="line"/>
       <point x="-72" y="-125" type="line"/>
       <point x="-182" y="-125" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

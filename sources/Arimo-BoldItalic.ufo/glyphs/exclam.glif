@@ -8,21 +8,17 @@ exclam
   <outline>
     <contour>
       <point x="423" y="426" type="line"/>
+      <point x="423" y="426" type="line"/>
       <point x="647" y="1409" type="line"/>
       <point x="353" y="1409" type="line"/>
       <point x="193" y="426" type="line"/>
     </contour>
     <contour>
       <point x="79" y="0" type="line"/>
+      <point x="79" y="0" type="line"/>
       <point x="367" y="0" type="line"/>
       <point x="419" y="270" type="line"/>
       <point x="131" y="270" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

@@ -7,6 +7,7 @@ uniA675
   <outline>
     <contour>
       <point x="-90" y="1706" type="line"/>
+      <point x="-90" y="1706" type="line"/>
       <point x="-226" y="1706" type="line"/>
       <point x="-226" y="1210" type="line"/>
       <point x="-76" y="1210" type="line"/>
@@ -17,14 +18,9 @@ uniA675
       <point x="227" y="1706" type="line"/>
       <point x="83" y="1706" type="line"/>
       <point x="-94" y="1399" type="line"/>
-      <point x="-90" y="1437"/>
-      <point x="-90" y="1482" type="qcurve" smooth="yes"/>
+      <point x="-91.333" y="1424.333"/>
+      <point x="-90" y="1452"/>
+      <point x="-90" y="1482" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

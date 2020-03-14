@@ -10,10 +10,4 @@ uni1FE2
     <component base="dieresis" xOffset="215"/>
     <component base="uni1FEF" xOffset="232" yOffset="290"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

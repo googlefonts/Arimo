@@ -8,11 +8,13 @@ Xi
   <outline>
     <contour>
       <point x="300" y="1409" type="line"/>
+      <point x="300" y="1409" type="line"/>
       <point x="256" y="1181" type="line"/>
       <point x="1337" y="1181" type="line"/>
       <point x="1381" y="1409" type="line"/>
     </contour>
     <contour>
+      <point x="1187" y="228" type="line"/>
       <point x="1187" y="228" type="line"/>
       <point x="37" y="228" type="line"/>
       <point x="-8" y="0" type="line"/>
@@ -20,15 +22,10 @@ Xi
     </contour>
     <contour>
       <point x="1148" y="827" type="line"/>
+      <point x="1148" y="827" type="line"/>
       <point x="307" y="827" type="line"/>
       <point x="263" y="599" type="line"/>
       <point x="1104" y="599" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

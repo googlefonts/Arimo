@@ -8,21 +8,17 @@ equal
   <outline>
     <contour>
       <point x="85" y="842" type="line"/>
+      <point x="85" y="842" type="line"/>
       <point x="1112" y="842" type="line"/>
       <point x="1112" y="1065" type="line"/>
       <point x="85" y="1065" type="line"/>
     </contour>
     <contour>
       <point x="85" y="291" type="line"/>
+      <point x="85" y="291" type="line"/>
       <point x="1112" y="291" type="line"/>
       <point x="1112" y="512" type="line"/>
       <point x="85" y="512" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

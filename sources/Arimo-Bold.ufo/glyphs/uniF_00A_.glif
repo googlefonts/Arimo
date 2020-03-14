@@ -7,21 +7,17 @@ uniF00A
   <outline>
     <contour>
       <point x="42" y="1831" type="line"/>
+      <point x="42" y="1831" type="line"/>
       <point x="-42" y="1831" type="line"/>
       <point x="-42" y="863" type="line"/>
       <point x="42" y="863" type="line"/>
     </contour>
     <contour>
       <point x="42" y="543" type="line"/>
+      <point x="42" y="543" type="line"/>
       <point x="-42" y="543" type="line"/>
       <point x="-42" y="-425" type="line"/>
       <point x="42" y="-425" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

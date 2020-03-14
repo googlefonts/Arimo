@@ -7,6 +7,7 @@ uniA671
   <outline>
     <contour>
       <point x="-954" y="1682" type="line"/>
+      <point x="-954" y="1682" type="line"/>
       <point x="-954" y="1140" type="line"/>
       <point x="-763" y="1140" type="line"/>
       <point x="-763" y="1416" type="line"/>
@@ -17,6 +18,7 @@ uniA671
     </contour>
     <contour>
       <point x="-954" y="117" type="line"/>
+      <point x="-954" y="117" type="line"/>
       <point x="-954" y="-425" type="line"/>
       <point x="955" y="-425" type="line"/>
       <point x="955" y="117" type="line"/>
@@ -26,10 +28,4 @@ uniA671
       <point x="-763" y="117" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

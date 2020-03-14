@@ -8,6 +8,7 @@ circumflex
   <outline>
     <contour>
       <point x="742" y="1221" type="line"/>
+      <point x="742" y="1221" type="line"/>
       <point x="571" y="1491" type="line"/>
       <point x="367" y="1491" type="line"/>
       <point x="81" y="1221" type="line"/>
@@ -19,10 +20,4 @@ circumflex
       <point x="738" y="1201" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

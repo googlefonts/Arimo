@@ -9,10 +9,4 @@ lamedholamdagesh
     <component base="holam" xOffset="-69"/>
     <component base="dagesh" xOffset="469" yOffset="20"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

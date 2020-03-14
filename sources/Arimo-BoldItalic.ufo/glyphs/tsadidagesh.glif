@@ -9,10 +9,4 @@ tsadidagesh
     <component base="tsadi"/>
     <component base="dagesh" xOffset="342" yOffset="-265"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

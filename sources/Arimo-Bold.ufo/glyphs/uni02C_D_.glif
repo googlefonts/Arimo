@@ -8,15 +8,10 @@ uni02CD
   <outline>
     <contour>
       <point x="34" y="-159" type="line"/>
+      <point x="34" y="-159" type="line"/>
       <point x="34" y="-327" type="line"/>
       <point x="646" y="-327" type="line"/>
       <point x="646" y="-159" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

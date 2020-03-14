@@ -8,6 +8,7 @@ grave
   <outline>
     <contour>
       <point x="406" y="1183" type="line"/>
+      <point x="406" y="1183" type="line"/>
       <point x="575" y="1183" type="line"/>
       <point x="575" y="1214" type="line"/>
       <point x="324" y="1502" type="line"/>
@@ -15,10 +16,4 @@ grave
       <point x="66" y="1459" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

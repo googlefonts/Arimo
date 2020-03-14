@@ -8,23 +8,18 @@ resh
   <outline>
     <contour>
       <point x="930" y="0" type="line"/>
+      <point x="930" y="0" type="line"/>
       <point x="930" y="719" type="line" smooth="yes"/>
-      <point x="930" y="991"/>
-      <point x="692" y="1227"/>
-      <point x="416" y="1227" type="qcurve" smooth="yes"/>
+      <point x="930" y="1081.667"/>
+      <point x="784" y="1227"/>
+      <point x="416" y="1227" type="curve" smooth="yes"/>
       <point x="39" y="1227" type="line"/>
       <point x="39" y="1057" type="line"/>
       <point x="414" y="1057" type="line" smooth="yes"/>
-      <point x="598" y="1057"/>
-      <point x="745" y="903"/>
-      <point x="745" y="721" type="qcurve" smooth="yes"/>
+      <point x="659.333" y="1057"/>
+      <point x="745" y="963.667"/>
+      <point x="745" y="721" type="curve" smooth="yes"/>
       <point x="745" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

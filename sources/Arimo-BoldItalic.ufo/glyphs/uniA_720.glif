@@ -7,6 +7,7 @@ uniA720
   <outline>
     <contour>
       <point x="-218" y="1466" type="line"/>
+      <point x="-218" y="1466" type="line"/>
       <point x="-218" y="1115" type="line"/>
       <point x="-84" y="1115" type="line"/>
       <point x="-84" y="1334" type="line"/>
@@ -18,10 +19,4 @@ uniA720
       <point x="438" y="1466" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

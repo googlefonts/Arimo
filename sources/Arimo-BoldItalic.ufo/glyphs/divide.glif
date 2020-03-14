@@ -8,11 +8,13 @@ divide
   <outline>
     <contour>
       <point x="462" y="961" type="line"/>
+      <point x="462" y="961" type="line"/>
       <point x="700" y="961" type="line"/>
       <point x="700" y="1194" type="line"/>
       <point x="462" y="1194" type="line"/>
     </contour>
     <contour>
+      <point x="69" y="569" type="line"/>
       <point x="69" y="569" type="line"/>
       <point x="1096" y="569" type="line"/>
       <point x="1096" y="793" type="line"/>
@@ -20,15 +22,10 @@ divide
     </contour>
     <contour>
       <point x="462" y="170" type="line"/>
+      <point x="462" y="170" type="line"/>
       <point x="700" y="170" type="line"/>
       <point x="700" y="403" type="line"/>
       <point x="462" y="403" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

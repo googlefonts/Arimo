@@ -8,6 +8,7 @@ uni2042
   <outline>
     <contour>
       <point x="1202" y="1085" type="line"/>
+      <point x="1202" y="1085" type="line"/>
       <point x="1157" y="1217" type="line"/>
       <point x="893" y="1114" type="line"/>
       <point x="906" y="1409" type="line"/>
@@ -24,6 +25,7 @@ uni2042
       <point x="920" y="1012" type="line"/>
     </contour>
     <contour>
+      <point x="752" y="365" type="line"/>
       <point x="752" y="365" type="line"/>
       <point x="707" y="497" type="line"/>
       <point x="443" y="394" type="line"/>
@@ -42,6 +44,7 @@ uni2042
     </contour>
     <contour>
       <point x="1652" y="365" type="line"/>
+      <point x="1652" y="365" type="line"/>
       <point x="1607" y="497" type="line"/>
       <point x="1343" y="394" type="line"/>
       <point x="1356" y="689" type="line"/>
@@ -58,10 +61,4 @@ uni2042
       <point x="1370" y="292" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

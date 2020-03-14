@@ -9,10 +9,4 @@ oacute
     <component base="o"/>
     <component base="acute" xOffset="378"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

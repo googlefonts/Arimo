@@ -6,36 +6,33 @@ uni2DED
 </note>
   <outline>
     <contour>
-      <point x="-102" y="1460" type="qcurve" smooth="yes"/>
-      <point x="-102" y="1550"/>
-      <point x="-54" y="1636"/>
-      <point x="8" y="1636" type="qcurve" smooth="yes"/>
-      <point x="88" y="1636"/>
-      <point x="103" y="1548" type="qcurve"/>
+      <point x="-102" y="1460" type="curve"/>
+      <point x="-102" y="1460" type="line"/>
+      <point x="-102" y="1580"/>
+      <point x="-74.667" y="1636"/>
+      <point x="8" y="1636" type="curve" smooth="yes"/>
+      <point x="61.333" y="1636"/>
+      <point x="93" y="1606.667"/>
+      <point x="103" y="1548" type="curve"/>
       <point x="205" y="1557" type="line"/>
-      <point x="189" y="1632"/>
-      <point x="86" y="1715"/>
-      <point x="10" y="1715" type="qcurve" smooth="yes"/>
-      <point x="-94" y="1715"/>
-      <point x="-206" y="1582"/>
-      <point x="-206" y="1458" type="qcurve" smooth="yes"/>
-      <point x="-206" y="1330"/>
-      <point x="-94" y="1201"/>
-      <point x="11" y="1201" type="qcurve" smooth="yes"/>
-      <point x="89" y="1201"/>
-      <point x="197" y="1292"/>
-      <point x="206" y="1369" type="qcurve"/>
+      <point x="183.667" y="1657"/>
+      <point x="111.333" y="1715"/>
+      <point x="10" y="1715" type="curve" smooth="yes"/>
+      <point x="-128.667" y="1715"/>
+      <point x="-206" y="1623.333"/>
+      <point x="-206" y="1458" type="curve" smooth="yes"/>
+      <point x="-206" y="1287.333"/>
+      <point x="-129" y="1201"/>
+      <point x="11" y="1201" type="curve" smooth="yes"/>
+      <point x="115" y="1201"/>
+      <point x="194" y="1266.333"/>
+      <point x="206" y="1369" type="curve"/>
       <point x="107" y="1374" type="line"/>
-      <point x="100" y="1326"/>
-      <point x="47" y="1280"/>
-      <point x="9" y="1280" type="qcurve" smooth="yes"/>
-      <point x="-102" y="1280"/>
+      <point x="97.667" y="1310"/>
+      <point x="59.667" y="1280"/>
+      <point x="9" y="1280" type="curve" smooth="yes"/>
+      <point x="-65" y="1280"/>
+      <point x="-102" y="1340"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

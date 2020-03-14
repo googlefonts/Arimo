@@ -10,10 +10,4 @@ oneeighth
     <component base="fraction" xOffset="700"/>
     <component base="eightsuperior" xOffset="975" yOffset="-692"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

@@ -7,10 +7,4 @@ uniFE2B
   <outline>
     <component base="overscore" xOffset="-786" yOffset="-1541"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

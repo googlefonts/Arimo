@@ -8,6 +8,7 @@ uni266F
   <outline>
     <contour>
       <point x="974" y="445" type="line"/>
+      <point x="974" y="445" type="line"/>
       <point x="974" y="604" type="line"/>
       <point x="774" y="515" type="line"/>
       <point x="774" y="1016" type="line"/>
@@ -38,15 +39,10 @@ uni266F
     </contour>
     <contour>
       <point x="678" y="476" type="line"/>
+      <point x="678" y="476" type="line"/>
       <point x="346" y="316" type="line"/>
       <point x="346" y="817" type="line"/>
       <point x="678" y="977" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

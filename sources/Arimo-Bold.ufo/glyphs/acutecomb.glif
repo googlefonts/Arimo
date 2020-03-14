@@ -7,6 +7,7 @@ acutecomb
   <outline>
     <contour>
       <point x="-415" y="1572" type="line"/>
+      <point x="-415" y="1572" type="line"/>
       <point x="-266" y="1572" type="line"/>
       <point x="15" y="1816" type="line"/>
       <point x="15" y="1854" type="line"/>
@@ -14,10 +15,4 @@ acutecomb
       <point x="-415" y="1599" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

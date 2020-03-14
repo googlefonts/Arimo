@@ -8,6 +8,7 @@ uni2063
   <outline>
     <contour>
       <point x="313" y="0" type="line"/>
+      <point x="313" y="0" type="line"/>
       <point x="313" y="100" type="line"/>
       <point x="100" y="100" type="line"/>
       <point x="100" y="323" type="line"/>
@@ -15,6 +16,7 @@ uni2063
       <point x="0" y="0" type="line"/>
     </contour>
     <contour>
+      <point x="1638" y="1150" type="line"/>
       <point x="1638" y="1150" type="line"/>
       <point x="1638" y="1473" type="line"/>
       <point x="1325" y="1473" type="line"/>
@@ -24,6 +26,7 @@ uni2063
     </contour>
     <contour>
       <point x="1638" y="0" type="line"/>
+      <point x="1638" y="0" type="line"/>
       <point x="1638" y="323" type="line"/>
       <point x="1538" y="323" type="line"/>
       <point x="1538" y="100" type="line"/>
@@ -31,6 +34,7 @@ uni2063
       <point x="1325" y="0" type="line"/>
     </contour>
     <contour>
+      <point x="313" y="1373" type="line"/>
       <point x="313" y="1373" type="line"/>
       <point x="313" y="1473" type="line"/>
       <point x="0" y="1473" type="line"/>
@@ -40,11 +44,13 @@ uni2063
     </contour>
     <contour>
       <point x="1203" y="0" type="line"/>
+      <point x="1203" y="0" type="line"/>
       <point x="1203" y="100" type="line"/>
       <point x="880" y="100" type="line"/>
       <point x="880" y="0" type="line"/>
     </contour>
     <contour>
+      <point x="1638" y="575" type="line"/>
       <point x="1638" y="575" type="line"/>
       <point x="1638" y="898" type="line"/>
       <point x="1538" y="898" type="line"/>
@@ -52,11 +58,13 @@ uni2063
     </contour>
     <contour>
       <point x="1203" y="1373" type="line"/>
+      <point x="1203" y="1373" type="line"/>
       <point x="1203" y="1473" type="line"/>
       <point x="880" y="1473" type="line"/>
       <point x="880" y="1373" type="line"/>
     </contour>
     <contour>
+      <point x="758" y="1373" type="line"/>
       <point x="758" y="1373" type="line"/>
       <point x="758" y="1473" type="line"/>
       <point x="435" y="1473" type="line"/>
@@ -64,11 +72,13 @@ uni2063
     </contour>
     <contour>
       <point x="100" y="575" type="line"/>
+      <point x="100" y="575" type="line"/>
       <point x="100" y="898" type="line"/>
       <point x="0" y="898" type="line"/>
       <point x="0" y="575" type="line"/>
     </contour>
     <contour>
+      <point x="758" y="0" type="line"/>
       <point x="758" y="0" type="line"/>
       <point x="758" y="100" type="line"/>
       <point x="435" y="100" type="line"/>
@@ -76,21 +86,17 @@ uni2063
     </contour>
     <contour>
       <point x="899" y="719" type="line"/>
+      <point x="899" y="719" type="line"/>
       <point x="704" y="719" type="line"/>
       <point x="704" y="500" type="line"/>
       <point x="792" y="500" type="line"/>
-      <point x="792" y="374"/>
-      <point x="698" y="238" type="qcurve"/>
+      <point x="792" y="416"/>
+      <point x="760.667" y="328.667"/>
+      <point x="698" y="238" type="curve"/>
       <point x="821" y="238" type="line"/>
-      <point x="861" y="303"/>
-      <point x="899" y="445"/>
-      <point x="899" y="551" type="qcurve" smooth="yes"/>
+      <point x="874.333" y="324.667"/>
+      <point x="899" y="409.667"/>
+      <point x="899" y="551" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

@@ -7,6 +7,7 @@ uniA675
   <outline>
     <contour>
       <point x="124" y="1706" type="line"/>
+      <point x="124" y="1706" type="line"/>
       <point x="27" y="1706" type="line"/>
       <point x="-71" y="1210" type="line"/>
       <point x="31" y="1210" type="line"/>
@@ -20,10 +21,4 @@ uniA675
       <point x="71" y="1435" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

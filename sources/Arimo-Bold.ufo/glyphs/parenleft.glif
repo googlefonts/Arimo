@@ -7,26 +7,21 @@ parenleft
 </note>
   <outline>
     <contour>
-      <point x="399" y="-425" type="qcurve"/>
+      <point x="399" y="-425" type="curve"/>
+      <point x="399" y="-425" type="line"/>
       <point x="680" y="-425" type="line"/>
-      <point x="521" y="-192"/>
-      <point x="379" y="257"/>
-      <point x="379" y="530" type="qcurve" smooth="yes"/>
-      <point x="379" y="804"/>
-      <point x="522" y="1256"/>
-      <point x="680" y="1484" type="qcurve"/>
+      <point x="468" y="-114.333"/>
+      <point x="379" y="166"/>
+      <point x="379" y="530" type="curve" smooth="yes"/>
+      <point x="379" y="895.333"/>
+      <point x="469.333" y="1180"/>
+      <point x="680" y="1484" type="curve"/>
       <point x="399" y="1484" type="line"/>
-      <point x="242" y="1259"/>
-      <point x="102" y="810"/>
-      <point x="102" y="531" type="qcurve" smooth="yes"/>
-      <point x="102" y="251"/>
-      <point x="242" y="-199"/>
+      <point x="189.667" y="1184"/>
+      <point x="102" y="903"/>
+      <point x="102" y="531" type="curve" smooth="yes"/>
+      <point x="102" y="157.667"/>
+      <point x="189.667" y="-123.667"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.0">
+<designspace format="4.1">
   <axes>
     <axis tag="wght" name="Weight" minimum="700" maximum="700" default="700">
       <map input="700" output="100"/>
     </axis>
   </axes>
   <sources>
-    <source filename="Arimo-BoldItalic.ufo" name="Arimo Bold Italic" familyname="Arimo" stylename="Bold Italic">
+    <source filename="Arimo-Bold.ufo" name="Arimo Bold" familyname="Arimo" stylename="Bold">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -17,7 +17,7 @@
     </source>
   </sources>
   <instances>
-    <instance name="Arimo Bold Italic" familyname="Arimo" stylename="Bold Italic" filename="Arimo-BoldItalic.ufo" postscriptfontname="Arimo-BoldItalic">
+    <instance name="Arimo Bold" familyname="Arimo" stylename="Bold" filename="../instance_ufo/Arimo-Bold.ufo" postscriptfontname="Arimo-Bold" stylemapfamilyname="Arimo" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
@@ -37,18 +37,18 @@
                 <integer>2</integer>
                 <integer>2</integer>
                 <integer>2</integer>
-                <integer>9</integer>
+                <integer>2</integer>
                 <integer>2</integer>
                 <integer>4</integer>
               </array>
             </array>
             <array>
               <string>uniqueID</string>
-              <string>Monotype Imaging - Arimo Bold Italic</string>
+              <string>Monotype Imaging - Arimo Bold</string>
             </array>
             <array>
               <string>postscriptFullName</string>
-              <string>Arimo Bold Italic</string>
+              <string>Arimo Bold</string>
             </array>
             <array>
               <string>GASP Table</string>
@@ -62,19 +62,6 @@
               </dict>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>E64FF656-58E6-4C13-B3CC-343A43FBFB06</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Bold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>

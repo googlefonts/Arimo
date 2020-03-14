@@ -10,10 +10,4 @@ uni01C4
     <component base="Z" xOffset="1479"/>
     <component base="caron.uc" xOffset="1807"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

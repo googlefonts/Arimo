@@ -8,6 +8,7 @@ guilsinglright
   <outline>
     <contour>
       <point x="417" y="938" type="line"/>
+      <point x="417" y="938" type="line"/>
       <point x="185" y="938" type="line"/>
       <point x="180" y="899" type="line"/>
       <point x="368" y="546" type="line"/>
@@ -18,10 +19,4 @@ guilsinglright
       <point x="609" y="577" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

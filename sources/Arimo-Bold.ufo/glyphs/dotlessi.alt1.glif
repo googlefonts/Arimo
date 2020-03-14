@@ -7,15 +7,10 @@ dotlessi.alt1
   <outline>
     <contour>
       <point x="145" y="0" type="line"/>
+      <point x="145" y="0" type="line"/>
       <point x="426" y="0" type="line"/>
       <point x="426" y="1082" type="line"/>
       <point x="145" y="1082" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

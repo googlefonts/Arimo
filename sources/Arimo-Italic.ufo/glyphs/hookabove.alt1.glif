@@ -5,29 +5,30 @@ hookabove.alt1
 </note>
   <outline>
     <contour>
-      <point x="-252" y="1744" type="qcurve" smooth="yes"/>
-      <point x="-252" y="1703"/>
-      <point x="-353" y="1703" type="qcurve" smooth="yes"/>
+      <point x="-252" y="1744" type="curve"/>
+      <point x="-252" y="1744" type="line"/>
+      <point x="-252" y="1716.667"/>
+      <point x="-285.667" y="1703"/>
+      <point x="-353" y="1703" type="curve" smooth="yes"/>
       <point x="-367" y="1703" type="line"/>
       <point x="-380" y="1640" type="line"/>
       <point x="-287" y="1640" type="line"/>
       <point x="-281" y="1671" type="line"/>
-      <point x="-97" y="1682"/>
-      <point x="-97" y="1763" type="qcurve" smooth="yes"/>
-      <point x="-97" y="1847"/>
-      <point x="-293" y="1847" type="qcurve" smooth="yes"/>
-      <point x="-407" y="1847"/>
-      <point x="-484" y="1831" type="qcurve"/>
+      <point x="-158.333" y="1678.333"/>
+      <point x="-97" y="1709"/>
+      <point x="-97" y="1763" type="curve" smooth="yes"/>
+      <point x="-97" y="1819"/>
+      <point x="-162.333" y="1847"/>
+      <point x="-293" y="1847" type="curve" smooth="yes"/>
+      <point x="-369" y="1847"/>
+      <point x="-432.667" y="1841.667"/>
+      <point x="-484" y="1831" type="curve"/>
       <point x="-486" y="1766" type="line"/>
-      <point x="-403" y="1781"/>
-      <point x="-350" y="1781" type="qcurve" smooth="yes"/>
-      <point x="-252" y="1781"/>
+      <point x="-430.667" y="1776"/>
+      <point x="-385.333" y="1781"/>
+      <point x="-350" y="1781" type="curve" smooth="yes"/>
+      <point x="-284.667" y="1781"/>
+      <point x="-252" y="1768.667"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

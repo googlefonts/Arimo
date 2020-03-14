@@ -9,10 +9,4 @@ Acircumflex
     <component base="A"/>
     <component base="circumflex.uc" xOffset="381"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

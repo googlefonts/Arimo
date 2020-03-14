@@ -7,11 +7,13 @@ uni1AB4
   <outline>
     <contour>
       <point x="99" y="1219" type="line"/>
+      <point x="99" y="1219" type="line"/>
       <point x="262" y="1219" type="line"/>
       <point x="262" y="1403" type="line"/>
       <point x="99" y="1403" type="line"/>
     </contour>
     <contour>
+      <point x="-261" y="1219" type="line"/>
       <point x="-261" y="1219" type="line"/>
       <point x="-96" y="1219" type="line"/>
       <point x="-96" y="1403" type="line"/>
@@ -19,15 +21,10 @@ uni1AB4
     </contour>
     <contour>
       <point x="-86" y="1449" type="line"/>
+      <point x="-86" y="1449" type="line"/>
       <point x="79" y="1449" type="line"/>
       <point x="79" y="1633" type="line"/>
       <point x="-86" y="1633" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

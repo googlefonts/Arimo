@@ -8,11 +8,13 @@ uniA659
   <outline>
     <contour>
       <point x="1017" y="0" type="line"/>
+      <point x="1017" y="0" type="line"/>
       <point x="613" y="1082" type="line"/>
       <point x="400" y="1082" type="line"/>
       <point x="7" y="0" type="line"/>
     </contour>
     <contour>
+      <point x="243" y="131" type="line"/>
       <point x="243" y="131" type="line"/>
       <point x="365" y="493" type="line"/>
       <point x="654" y="493" type="line"/>
@@ -20,16 +22,12 @@ uniA659
     </contour>
     <contour>
       <point x="410" y="624" type="line"/>
-      <point x="461" y="774"/>
-      <point x="492" y="889" type="qcurve" smooth="yes"/>
+      <point x="410" y="624" type="line"/>
+      <point x="444" y="724"/>
+      <point x="471.333" y="812.333"/>
+      <point x="492" y="889" type="curve" smooth="yes"/>
       <point x="506" y="941" type="line"/>
       <point x="608" y="624" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

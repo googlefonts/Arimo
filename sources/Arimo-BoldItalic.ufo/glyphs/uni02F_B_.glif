@@ -8,6 +8,7 @@ uni02FB
   <outline>
     <contour>
       <point x="89" y="-75" type="line"/>
+      <point x="89" y="-75" type="line"/>
       <point x="89" y="-407" type="line"/>
       <point x="438" y="-407" type="line"/>
       <point x="438" y="-294" type="line"/>
@@ -15,10 +16,4 @@ uni02FB
       <point x="205" y="-75" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

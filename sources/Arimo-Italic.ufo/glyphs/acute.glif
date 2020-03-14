@@ -8,6 +8,7 @@ acute
   <outline>
     <contour>
       <point x="175" y="1201" type="line"/>
+      <point x="175" y="1201" type="line"/>
       <point x="269" y="1201" type="line"/>
       <point x="643" y="1479" type="line"/>
       <point x="648" y="1508" type="line"/>
@@ -15,10 +16,4 @@ acute
       <point x="178" y="1221" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

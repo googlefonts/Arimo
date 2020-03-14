@@ -9,10 +9,4 @@ uni04F2
     <component base="uni0423"/>
     <component base="hungarumlaut" xOffset="490" yOffset="332"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

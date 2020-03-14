@@ -8,6 +8,7 @@ uni02B7
   <outline>
     <contour>
       <point x="799" y="490" type="line"/>
+      <point x="799" y="490" type="line"/>
       <point x="1153" y="1252" type="line"/>
       <point x="1033" y="1252" type="line"/>
       <point x="768" y="645" type="line"/>
@@ -29,10 +30,4 @@ uni02B7
       <point x="657" y="490" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

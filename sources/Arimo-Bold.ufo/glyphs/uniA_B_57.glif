@@ -8,6 +8,7 @@ uniAB57
   <outline>
     <contour>
       <point x="951" y="0" type="line"/>
+      <point x="951" y="0" type="line"/>
       <point x="1256" y="0" type="line"/>
       <point x="857" y="562" type="line"/>
       <point x="1234" y="1082" type="line"/>
@@ -21,10 +22,4 @@ uniAB57
       <point x="699" y="392" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

@@ -10,10 +10,4 @@ uni01EC
     <component base="ogonek" xOffset="630"/>
     <component base="macron" xOffset="453" yOffset="391"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

@@ -9,10 +9,4 @@ eogonek
     <component base="e"/>
     <component base="ogonek" xOffset="335" yOffset="21"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

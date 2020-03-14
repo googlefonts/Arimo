@@ -9,10 +9,4 @@ Ohorntilde
     <component base="Ohorn"/>
     <component base="tilde.uc" xOffset="446"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

@@ -7,29 +7,28 @@ lamed
 </note>
   <outline>
     <contour>
-      <point x="193" y="162" type="qcurve"/>
+      <point x="193" y="162" type="curve"/>
+      <point x="193" y="162" type="line"/>
       <point x="193" y="-45" type="line"/>
-      <point x="557" y="85"/>
-      <point x="987" y="578"/>
-      <point x="987" y="870" type="qcurve" smooth="yes"/>
-      <point x="987" y="1227"/>
-      <point x="586" y="1227" type="qcurve" smooth="yes"/>
+      <point x="678.333" y="128.333"/>
+      <point x="987" y="480.667"/>
+      <point x="987" y="870" type="curve" smooth="yes"/>
+      <point x="987" y="1108"/>
+      <point x="853.333" y="1227"/>
+      <point x="586" y="1227" type="curve" smooth="yes"/>
       <point x="254" y="1227" type="line"/>
       <point x="254" y="1665" type="line"/>
       <point x="70" y="1665" type="line"/>
       <point x="70" y="1057" type="line"/>
       <point x="567" y="1057" type="line" smooth="yes"/>
-      <point x="801" y="1057"/>
-      <point x="801" y="838" type="qcurve" smooth="yes"/>
-      <point x="801" y="706"/>
-      <point x="658" y="450"/>
-      <point x="384" y="233"/>
+      <point x="723" y="1057"/>
+      <point x="801" y="984"/>
+      <point x="801" y="838" type="curve" smooth="yes"/>
+      <point x="801" y="662"/>
+      <point x="703.667" y="486.167"/>
+      <point x="521" y="341.5" type="curve" smooth="yes"/>
+      <point x="429.667" y="269.167"/>
+      <point x="320.333" y="209.333"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

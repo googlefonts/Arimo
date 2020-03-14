@@ -8,15 +8,10 @@ uni207B
   <outline>
     <contour>
       <point x="137" y="937" type="line"/>
+      <point x="137" y="937" type="line"/>
       <point x="694" y="937" type="line"/>
       <point x="714" y="1036" type="line"/>
       <point x="157" y="1036" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

@@ -10,10 +10,4 @@ uni01D6
     <component base="dieresis" xOffset="280"/>
     <component base="macron" xOffset="278" yOffset="308"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

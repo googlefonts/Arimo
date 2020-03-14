@@ -10,10 +10,4 @@ uni0231
     <component base="dotaccent" xOffset="262" yOffset="-55"/>
     <component base="macron" xOffset="299" yOffset="308"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

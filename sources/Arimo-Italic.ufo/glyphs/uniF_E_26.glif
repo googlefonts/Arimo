@@ -7,15 +7,10 @@ uniFE26
   <outline>
     <contour>
       <point x="530" y="1236" type="line"/>
+      <point x="530" y="1236" type="line"/>
       <point x="554" y="1363" type="line"/>
       <point x="-537" y="1363" type="line"/>
       <point x="-561" y="1236" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

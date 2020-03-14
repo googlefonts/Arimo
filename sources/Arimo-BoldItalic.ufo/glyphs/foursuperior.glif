@@ -8,6 +8,7 @@ foursuperior
   <outline>
     <contour>
       <point x="600" y="834" type="line"/>
+      <point x="600" y="834" type="line"/>
       <point x="703" y="834" type="line"/>
       <point x="731" y="977" type="line"/>
       <point x="628" y="977" type="line"/>
@@ -21,17 +22,13 @@ foursuperior
     </contour>
     <contour>
       <point x="243" y="977" type="line"/>
+      <point x="243" y="977" type="line"/>
       <point x="421" y="1168" type="line" smooth="yes"/>
-      <point x="453" y="1202"/>
-      <point x="490" y="1254" type="qcurve" smooth="yes"/>
+      <point x="442.333" y="1190.667"/>
+      <point x="465.333" y="1219.333"/>
+      <point x="490" y="1254" type="curve" smooth="yes"/>
       <point x="507" y="1276" type="line"/>
       <point x="445" y="977" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

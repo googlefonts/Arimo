@@ -9,10 +9,4 @@ uni03B9030403130300
     <component base="uni1FCD" xOffset="-39" yOffset="370"/>
     <component base="macron" xOffset="-54" yOffset="-10"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

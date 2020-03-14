@@ -9,15 +9,10 @@ fraction
   <outline>
     <contour>
       <point x="-231" y="0" type="line"/>
+      <point x="-231" y="0" type="line"/>
       <point x="857" y="1409" type="line"/>
       <point x="658" y="1409" type="line"/>
       <point x="-428" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

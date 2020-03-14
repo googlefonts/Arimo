@@ -6,6 +6,7 @@ brevegrave.lc
   <outline>
     <contour>
       <point x="2" y="1530" type="line"/>
+      <point x="2" y="1530" type="line"/>
       <point x="116" y="1530" type="line"/>
       <point x="119" y="1550" type="line"/>
       <point x="-63" y="1776" type="line"/>
@@ -13,24 +14,21 @@ brevegrave.lc
       <point x="-275" y="1747" type="line"/>
     </contour>
     <contour>
-      <point x="-44" y="1201" type="qcurve" smooth="yes"/>
-      <point x="228" y="1201"/>
-      <point x="337" y="1510" type="qcurve"/>
+      <point x="-44" y="1201" type="curve"/>
+      <point x="-44" y="1201" type="line"/>
+      <point x="137.333" y="1201"/>
+      <point x="264.333" y="1304"/>
+      <point x="337" y="1510" type="curve"/>
       <point x="220" y="1510" type="line"/>
-      <point x="190" y="1433"/>
-      <point x="70" y="1357"/>
-      <point x="-26" y="1357" type="qcurve" smooth="yes"/>
-      <point x="-211" y="1357"/>
-      <point x="-211" y="1510" type="qcurve"/>
+      <point x="180" y="1407.333"/>
+      <point x="102" y="1357"/>
+      <point x="-26" y="1357" type="curve" smooth="yes"/>
+      <point x="-149.333" y="1357"/>
+      <point x="-211" y="1408"/>
+      <point x="-211" y="1510" type="curve"/>
       <point x="-328" y="1510" type="line"/>
-      <point x="-328" y="1366"/>
-      <point x="-179" y="1201"/>
+      <point x="-328" y="1318"/>
+      <point x="-224" y="1201"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>
