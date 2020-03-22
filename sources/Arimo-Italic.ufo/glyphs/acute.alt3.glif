@@ -6,15 +6,10 @@ acute.alt3
   <outline>
     <contour>
       <point x="-462" y="1827" type="line"/>
+      <point x="-462" y="1827" type="line"/>
       <point x="-707" y="1547" type="line"/>
       <point x="-562" y="1547" type="line"/>
       <point x="-221" y="1827" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

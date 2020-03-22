@@ -8,6 +8,7 @@ Tbar
   <outline>
     <contour>
       <point x="720" y="1253" type="line"/>
+      <point x="720" y="1253" type="line"/>
       <point x="1204" y="1253" type="line"/>
       <point x="1204" y="1409" type="line"/>
       <point x="46" y="1409" type="line"/>
@@ -25,10 +26,4 @@ Tbar
       <point x="720" y="801" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

@@ -9,10 +9,4 @@ samekhdagesh
     <component base="samekh"/>
     <component base="dagesh" xOffset="721"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

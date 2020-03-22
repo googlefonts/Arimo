@@ -8,6 +8,7 @@ hungarumlaut
   <outline>
     <contour>
       <point x="50" y="1184" type="line"/>
+      <point x="50" y="1184" type="line"/>
       <point x="368" y="1441" type="line"/>
       <point x="368" y="1484" type="line"/>
       <point x="133" y="1484" type="line"/>
@@ -16,6 +17,7 @@ hungarumlaut
     </contour>
     <contour>
       <point x="456" y="1184" type="line"/>
+      <point x="456" y="1184" type="line"/>
       <point x="774" y="1441" type="line"/>
       <point x="774" y="1484" type="line"/>
       <point x="539" y="1484" type="line"/>
@@ -23,10 +25,4 @@ hungarumlaut
       <point x="314" y="1184" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

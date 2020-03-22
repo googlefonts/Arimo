@@ -9,10 +9,4 @@ uni2051
     <component base="asterisk" yOffset="110"/>
     <component base="asterisk" yOffset="-710"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

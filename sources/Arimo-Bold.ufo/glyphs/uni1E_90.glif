@@ -9,10 +9,4 @@ uni1E90
     <component base="Z"/>
     <component base="circumflex.uc" xOffset="303"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

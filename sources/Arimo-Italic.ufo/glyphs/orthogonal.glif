@@ -8,6 +8,7 @@ orthogonal
   <outline>
     <contour>
       <point x="408" y="1223" type="line"/>
+      <point x="408" y="1223" type="line"/>
       <point x="408" y="0" type="line"/>
       <point x="1632" y="0" type="line"/>
       <point x="1632" y="94" type="line"/>
@@ -15,10 +16,4 @@ orthogonal
       <point x="502" y="1223" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

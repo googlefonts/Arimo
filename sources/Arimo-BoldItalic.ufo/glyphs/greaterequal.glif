@@ -8,6 +8,7 @@ greaterequal
   <outline>
     <contour>
       <point x="87" y="285" type="line"/>
+      <point x="87" y="285" type="line"/>
       <point x="1113" y="631" type="line"/>
       <point x="1113" y="952" type="line"/>
       <point x="87" y="1298" type="line"/>
@@ -17,15 +18,10 @@ greaterequal
     </contour>
     <contour>
       <point x="87" y="0" type="line"/>
+      <point x="87" y="0" type="line"/>
       <point x="1113" y="0" type="line"/>
       <point x="1113" y="223" type="line"/>
       <point x="87" y="223" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

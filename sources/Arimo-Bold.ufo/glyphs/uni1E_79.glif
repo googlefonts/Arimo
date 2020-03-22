@@ -10,10 +10,4 @@ uni1E79
     <component base="acute.uc" xOffset="372" yOffset="-9"/>
     <component base="tildecomb" xOffset="1199" yOffset="-389"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

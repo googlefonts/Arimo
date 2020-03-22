@@ -7,13 +7,15 @@ florin
 </note>
   <outline>
     <contour>
-      <point x="1028" y="1312" type="qcurve"/>
+      <point x="1028" y="1312" type="curve"/>
+      <point x="1028" y="1312" type="line"/>
       <point x="1059" y="1434" type="line"/>
-      <point x="989" y="1454"/>
-      <point x="910" y="1454" type="qcurve" smooth="yes"/>
-      <point x="777" y="1454"/>
-      <point x="628" y="1327"/>
-      <point x="597" y="1174" type="qcurve" smooth="yes"/>
+      <point x="1012.333" y="1447.333"/>
+      <point x="962.667" y="1454"/>
+      <point x="910" y="1454" type="curve" smooth="yes"/>
+      <point x="732.667" y="1454"/>
+      <point x="638.333" y="1378"/>
+      <point x="597" y="1174" type="curve" smooth="yes"/>
       <point x="568" y="1022" type="line"/>
       <point x="417" y="1022" type="line"/>
       <point x="390" y="891" type="line"/>
@@ -25,16 +27,11 @@ florin
       <point x="960" y="1022" type="line"/>
       <point x="749" y="1022" type="line"/>
       <point x="775" y="1159" type="line" smooth="yes"/>
-      <point x="794" y="1253"/>
-      <point x="858" y="1327"/>
-      <point x="918" y="1327" type="qcurve" smooth="yes"/>
-      <point x="977" y="1327"/>
+      <point x="800.333" y="1284.333"/>
+      <point x="838" y="1327"/>
+      <point x="918" y="1327" type="curve" smooth="yes"/>
+      <point x="957.333" y="1327"/>
+      <point x="994" y="1322"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

@@ -9,10 +9,4 @@ uni03B9030603130300
     <component base="breve" xOffset="-19" yOffset="-9"/>
     <component base="uni1FCD" xOffset="-59" yOffset="470"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

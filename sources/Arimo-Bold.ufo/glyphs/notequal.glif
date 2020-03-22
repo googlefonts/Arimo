@@ -8,6 +8,7 @@ notequal
   <outline>
     <contour>
       <point x="461" y="291" type="line"/>
+      <point x="461" y="291" type="line"/>
       <point x="1096" y="291" type="line"/>
       <point x="1096" y="512" type="line"/>
       <point x="569" y="512" type="line"/>
@@ -29,10 +30,4 @@ notequal
       <point x="332" y="37" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

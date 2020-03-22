@@ -8,15 +8,10 @@ filledbox
   <outline>
     <contour>
       <point x="123" y="1108" type="line"/>
+      <point x="123" y="1108" type="line"/>
       <point x="123" y="117" type="line"/>
       <point x="1114" y="117" type="line"/>
       <point x="1114" y="1108" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

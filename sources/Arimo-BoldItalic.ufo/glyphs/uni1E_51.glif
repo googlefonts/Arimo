@@ -10,10 +10,4 @@ uni1E51
     <component base="macron" xOffset="223"/>
     <component base="grave.uc" xOffset="134" yOffset="-49"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

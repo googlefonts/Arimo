@@ -7,21 +7,17 @@ uni033B
   <outline>
     <contour>
       <point x="73" y="-425" type="line"/>
+      <point x="73" y="-425" type="line"/>
       <point x="73" y="-49" type="line"/>
       <point x="-303" y="-49" type="line"/>
       <point x="-303" y="-425" type="line"/>
     </contour>
     <contour>
       <point x="-25" y="-327" type="line"/>
+      <point x="-25" y="-327" type="line"/>
       <point x="-205" y="-327" type="line"/>
       <point x="-205" y="-147" type="line"/>
       <point x="-25" y="-147" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

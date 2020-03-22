@@ -7,21 +7,17 @@ uni0312
   <outline>
     <contour>
       <point x="-101" y="1003" type="line"/>
+      <point x="-101" y="1003" type="line"/>
       <point x="94" y="1003" type="line"/>
       <point x="94" y="1222" type="line"/>
       <point x="6" y="1222" type="line"/>
-      <point x="6" y="1348"/>
-      <point x="100" y="1484" type="qcurve"/>
+      <point x="6" y="1306"/>
+      <point x="37.333" y="1393.333"/>
+      <point x="100" y="1484" type="curve"/>
       <point x="-23" y="1484" type="line"/>
-      <point x="-63" y="1419"/>
-      <point x="-101" y="1277"/>
-      <point x="-101" y="1171" type="qcurve" smooth="yes"/>
+      <point x="-76.333" y="1397.333"/>
+      <point x="-101" y="1312.333"/>
+      <point x="-101" y="1171" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

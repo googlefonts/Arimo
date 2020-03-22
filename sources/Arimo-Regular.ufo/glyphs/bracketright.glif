@@ -8,6 +8,7 @@ bracketright
   <outline>
     <contour>
       <point x="16" y="-425" type="line"/>
+      <point x="16" y="-425" type="line"/>
       <point x="423" y="-425" type="line"/>
       <point x="423" y="1484" type="line"/>
       <point x="16" y="1484" type="line"/>
@@ -17,10 +18,4 @@ bracketright
       <point x="16" y="-296" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

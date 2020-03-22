@@ -8,6 +8,7 @@ Pi
   <outline>
     <contour>
       <point x="945" y="0" type="line"/>
+      <point x="945" y="0" type="line"/>
       <point x="1230" y="0" type="line"/>
       <point x="1504" y="1409" type="line"/>
       <point x="309" y="1409" type="line"/>
@@ -17,10 +18,4 @@ Pi
       <point x="1172" y="1165" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

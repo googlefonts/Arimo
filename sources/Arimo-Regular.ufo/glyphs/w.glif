@@ -8,6 +8,7 @@ w
   <outline>
     <contour>
       <point x="1174" y="0" type="line"/>
+      <point x="1174" y="0" type="line"/>
       <point x="1484" y="1082" type="line"/>
       <point x="1308" y="1082" type="line"/>
       <point x="1103" y="288" type="line"/>
@@ -17,23 +18,21 @@ w
       <point x="644" y="1082" type="line"/>
       <point x="418" y="223" type="line"/>
       <point x="401" y="149" type="line"/>
-      <point x="365" y="323"/>
-      <point x="358" y="347" type="qcurve" smooth="yes"/>
+      <point x="377" y="265"/>
+      <point x="362.667" y="331"/>
+      <point x="358" y="347" type="curve" smooth="yes"/>
       <point x="175" y="1082" type="line"/>
       <point x="-3" y="1082" type="line"/>
       <point x="300" y="0" type="line"/>
       <point x="508" y="0" type="line"/>
-      <point x="693" y="720"/>
-      <point x="731" y="889"/>
-      <point x="740" y="934" type="qcurve"/>
+      <point x="631.333" y="480"/>
+      <point x="699.333" y="748.167"/>
+      <point x="712" y="804.5" type="curve" smooth="yes"/>
+      <point x="724.667" y="860.833"/>
+      <point x="734" y="904"/>
+      <point x="740" y="934" type="curve"/>
       <point x="776" y="765" type="line"/>
       <point x="965" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

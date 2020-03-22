@@ -8,6 +8,7 @@ uniA681
   <outline>
     <contour>
       <point x="259" y="0" type="line"/>
+      <point x="259" y="0" type="line"/>
       <point x="1017" y="0" type="line"/>
       <point x="1017" y="-408" type="line"/>
       <point x="1262" y="-408" type="line"/>
@@ -18,25 +19,21 @@ uniA681
       <point x="604" y="1396" type="line"/>
       <point x="359" y="1396" type="line"/>
       <point x="359" y="1059" type="line"/>
-      <point x="315" y="725"/>
-      <point x="213" y="310"/>
-      <point x="139" y="190" type="qcurve"/>
+      <point x="300.333" y="613.667"/>
+      <point x="237.667" y="350"/>
+      <point x="139" y="190" type="curve"/>
       <point x="14" y="190" type="line"/>
       <point x="14" y="-408" type="line"/>
       <point x="259" y="-408" type="line"/>
     </contour>
     <contour>
       <point x="834" y="892" type="line"/>
+      <point x="834" y="892" type="line"/>
       <point x="834" y="190" type="line"/>
       <point x="430" y="190" type="line"/>
-      <point x="533" y="391"/>
-      <point x="598" y="892" type="qcurve"/>
+      <point x="498.667" y="324"/>
+      <point x="554.667" y="558"/>
+      <point x="598" y="892" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

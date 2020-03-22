@@ -6,19 +6,15 @@ uniFE28
 </note>
   <outline>
     <contour>
-      <point x="855" y="-44" type="qcurve"/>
+      <point x="855" y="-44" type="curve"/>
+      <point x="855" y="-44" type="line"/>
       <point x="672" y="-44" type="line"/>
-      <point x="571" y="-161"/>
-      <point x="252" y="-278"/>
-      <point x="15" y="-278" type="qcurve"/>
+      <point x="537.333" y="-200"/>
+      <point x="331" y="-278"/>
+      <point x="15" y="-278" type="curve"/>
       <point x="-14" y="-425" type="line"/>
-      <point x="583" y="-425"/>
+      <point x="384" y="-425"/>
+      <point x="673.667" y="-298"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

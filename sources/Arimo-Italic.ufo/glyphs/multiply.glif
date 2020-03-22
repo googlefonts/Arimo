@@ -8,6 +8,7 @@ multiply
   <outline>
     <contour>
       <point x="172" y="330" type="line"/>
+      <point x="172" y="330" type="line"/>
       <point x="274" y="225" type="line"/>
       <point x="630" y="580" type="line"/>
       <point x="983" y="227" type="line"/>
@@ -21,10 +22,4 @@ multiply
       <point x="526" y="684" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

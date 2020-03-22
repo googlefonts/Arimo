@@ -5,34 +5,36 @@ circumflextilde.lc
 </note>
   <outline>
     <contour>
-      <point x="151" y="1543" type="qcurve" smooth="yes"/>
-      <point x="220" y="1543"/>
-      <point x="304" y="1604"/>
-      <point x="348" y="1709"/>
-      <point x="353" y="1807" type="qcurve"/>
+      <point x="151" y="1543" type="curve"/>
+      <point x="151" y="1543" type="line"/>
+      <point x="243" y="1543"/>
+      <point x="296.667" y="1586.5"/>
+      <point x="326" y="1656.5" type="curve" smooth="yes"/>
+      <point x="340.667" y="1691.5"/>
+      <point x="349.667" y="1741.667"/>
+      <point x="353" y="1807" type="curve"/>
       <point x="231" y="1807" type="line"/>
-      <point x="222" y="1755"/>
-      <point x="186" y="1697"/>
-      <point x="142" y="1697" type="qcurve" smooth="yes"/>
-      <point x="116" y="1697"/>
-      <point x="49" y="1731"/>
-      <point x="-26" y="1773"/>
-      <point x="-108" y="1807"/>
-      <point x="-149" y="1807" type="qcurve" smooth="yes"/>
-      <point x="-217" y="1807"/>
-      <point x="-301" y="1748"/>
-      <point x="-344" y="1645"/>
-      <point x="-352" y="1543" type="qcurve"/>
+      <point x="219" y="1737.667"/>
+      <point x="200.667" y="1697"/>
+      <point x="142" y="1697" type="curve" smooth="yes"/>
+      <point x="68.132" y="1697"/>
+      <point x="-47.885" y="1807"/>
+      <point x="-149" y="1807" type="curve" smooth="yes"/>
+      <point x="-239.667" y="1807"/>
+      <point x="-293.833" y="1765.167"/>
+      <point x="-322.5" y="1696.5" type="curve" smooth="yes"/>
+      <point x="-336.833" y="1662.167"/>
+      <point x="-346.667" y="1611"/>
+      <point x="-352" y="1543" type="curve"/>
       <point x="-228" y="1543" type="line"/>
-      <point x="-218" y="1607"/>
-      <point x="-177" y="1654"/>
-      <point x="-140" y="1654" type="qcurve" smooth="yes"/>
-      <point x="-113" y="1654"/>
-      <point x="-45" y="1619"/>
-      <point x="31" y="1578"/>
-      <point x="111" y="1543"/>
+      <point x="-214.667" y="1628.333"/>
+      <point x="-189.333" y="1654"/>
+      <point x="-140" y="1654" type="curve" smooth="yes"/>
+      <point x="-66.176" y="1654"/>
+      <point x="54.2" y="1543"/>
     </contour>
     <contour>
+      <point x="-115" y="1489" type="line"/>
       <point x="-115" y="1489" type="line"/>
       <point x="-373" y="1201" type="line"/>
       <point x="-373" y="1173" type="line"/>
@@ -45,10 +47,4 @@ circumflextilde.lc
       <point x="114" y="1489" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

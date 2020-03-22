@@ -8,6 +8,7 @@ summation
   <outline>
     <contour>
       <point x="202" y="-455" type="line"/>
+      <point x="202" y="-455" type="line"/>
       <point x="1376" y="-455" type="line"/>
       <point x="1376" y="-303" type="line"/>
       <point x="446" y="-303" type="line"/>
@@ -21,10 +22,4 @@ summation
       <point x="202" y="-346" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

@@ -7,20 +7,17 @@ uniFE27
   <outline>
     <contour>
       <point x="0" y="-424" type="line"/>
+      <point x="0" y="-424" type="line"/>
       <point x="0" y="-301" type="line"/>
       <point x="-40" y="-302" type="line" smooth="yes"/>
-      <point x="-521" y="-302"/>
-      <point x="-650" y="-54" type="qcurve"/>
+      <point x="-360.667" y="-302"/>
+      <point x="-564" y="-219.333"/>
+      <point x="-650" y="-54" type="curve"/>
       <point x="-783" y="-54" type="line"/>
-      <point x="-623" y="-425"/>
-      <point x="-63" y="-425" type="qcurve" smooth="yes"/>
+      <point x="-676.333" y="-301.333"/>
+      <point x="-436.333" y="-425"/>
+      <point x="-63" y="-425" type="curve" smooth="yes"/>
       <point x="-31" y="-425" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

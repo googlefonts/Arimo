@@ -8,33 +8,37 @@ uni0522
   <outline>
     <contour>
       <point x="1121" y="0" type="line"/>
+      <point x="1121" y="0" type="line"/>
       <point x="1312" y="0" type="line"/>
       <point x="1312" y="720" type="line"/>
-      <point x="1434" y="769"/>
-      <point x="1605" y="806"/>
-      <point x="1683" y="806" type="qcurve" smooth="yes"/>
-      <point x="1864" y="806"/>
-      <point x="2041" y="556"/>
-      <point x="2041" y="286" type="qcurve" smooth="yes"/>
-      <point x="2041" y="17"/>
-      <point x="1835" y="-276"/>
-      <point x="1641" y="-276" type="qcurve" smooth="yes"/>
-      <point x="1510" y="-276"/>
-      <point x="1360" y="-199"/>
-      <point x="1315" y="-109" type="qcurve"/>
+      <point x="1474.667" y="785.333"/>
+      <point x="1579" y="806"/>
+      <point x="1683" y="806" type="curve" smooth="yes"/>
+      <point x="1924.333" y="806"/>
+      <point x="2041" y="646"/>
+      <point x="2041" y="286" type="curve" smooth="yes"/>
+      <point x="2041" y="-72.667"/>
+      <point x="1899.667" y="-276"/>
+      <point x="1641" y="-276" type="curve" smooth="yes"/>
+      <point x="1466.333" y="-276"/>
+      <point x="1375" y="-229"/>
+      <point x="1315" y="-109" type="curve"/>
       <point x="1137" y="-139" type="line"/>
-      <point x="1197" y="-282"/>
-      <point x="1455" y="-425"/>
-      <point x="1643" y="-425" type="qcurve" smooth="yes"/>
-      <point x="1817" y="-425"/>
-      <point x="2083" y="-256"/>
-      <point x="2230" y="69"/>
-      <point x="2230" y="289" type="qcurve" smooth="yes"/>
-      <point x="2230" y="620"/>
-      <point x="1956" y="960"/>
-      <point x="1691" y="960" type="qcurve" smooth="yes"/>
-      <point x="1500" y="960"/>
-      <point x="1312" y="870" type="qcurve"/>
+      <point x="1217" y="-329.667"/>
+      <point x="1392.333" y="-425"/>
+      <point x="1643" y="-425" type="curve" smooth="yes"/>
+      <point x="1875" y="-425"/>
+      <point x="2058.5" y="-310.167"/>
+      <point x="2156.5" y="-93.5" type="curve" smooth="yes"/>
+      <point x="2205.5" y="14.833"/>
+      <point x="2230" y="142.333"/>
+      <point x="2230" y="289" type="curve" smooth="yes"/>
+      <point x="2230" y="730.333"/>
+      <point x="2044.333" y="960"/>
+      <point x="1691" y="960" type="curve" smooth="yes"/>
+      <point x="1563.667" y="960"/>
+      <point x="1437.333" y="930"/>
+      <point x="1312" y="870" type="curve"/>
       <point x="1312" y="1409" type="line"/>
       <point x="1121" y="1409" type="line"/>
       <point x="1121" y="813" type="line"/>
@@ -47,10 +51,4 @@ uni0522
       <point x="1121" y="653" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

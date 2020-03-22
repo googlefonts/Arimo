@@ -5,11 +5,9 @@
     <key>com.github.googlei18n.ufo2ft.useProductionNames</key>
     <false/>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>1273</string>
+    <string>1267</string>
     <key>com.schriftgestaltung.customName</key>
     <string>Italic</string>
-    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <string></string>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
@@ -28,8 +26,6 @@
     <integer>100</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>5</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>B8E4E6F7-CD69-4587-8CB0-DED49904045E</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>

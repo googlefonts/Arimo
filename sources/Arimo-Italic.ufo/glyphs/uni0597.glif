@@ -7,15 +7,10 @@ uni0597
   <outline>
     <contour>
       <point x="348" y="1536" type="line"/>
+      <point x="348" y="1536" type="line"/>
       <point x="229" y="1704" type="line"/>
       <point x="45" y="1536" type="line"/>
       <point x="164" y="1368" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

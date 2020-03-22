@@ -7,6 +7,7 @@ bari.dotless
   <outline>
     <contour>
       <point x="44" y="617" type="line"/>
+      <point x="44" y="617" type="line"/>
       <point x="18" y="484" type="line"/>
       <point x="127" y="484" type="line"/>
       <point x="33" y="0" type="line"/>
@@ -20,10 +21,4 @@ bari.dotless
       <point x="153" y="617" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

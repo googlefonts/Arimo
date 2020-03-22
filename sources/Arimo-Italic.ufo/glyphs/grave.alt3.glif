@@ -6,15 +6,10 @@ grave.alt3
   <outline>
     <contour>
       <point x="-390" y="1547" type="line"/>
+      <point x="-390" y="1547" type="line"/>
       <point x="-249" y="1547" type="line"/>
       <point x="-365" y="1822" type="line"/>
       <point x="-585" y="1822" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

@@ -9,10 +9,4 @@ Odieresis
     <component base="O"/>
     <component base="dieresis" xOffset="514" yOffset="331"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

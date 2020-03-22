@@ -8,6 +8,7 @@ radical
   <outline>
     <contour>
       <point x="622" y="-14" type="line"/>
+      <point x="622" y="-14" type="line"/>
       <point x="1122" y="1620" type="line"/>
       <point x="993" y="1620" type="line"/>
       <point x="563" y="205" type="line"/>
@@ -18,10 +19,4 @@ radical
       <point x="516" y="-14" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

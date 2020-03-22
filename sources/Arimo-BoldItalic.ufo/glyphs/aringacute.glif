@@ -10,10 +10,4 @@ aringacute
     <component base="ring" xOffset="222"/>
     <component base="acute.uc" xOffset="378" yOffset="162"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

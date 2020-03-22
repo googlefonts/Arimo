@@ -7,6 +7,7 @@ uni030F
   <outline>
     <contour>
       <point x="516" y="1183" type="line"/>
+      <point x="516" y="1183" type="line"/>
       <point x="663" y="1183" type="line"/>
       <point x="671" y="1214" type="line"/>
       <point x="474" y="1502" type="line"/>
@@ -15,6 +16,7 @@ uni030F
     </contour>
     <contour>
       <point x="111" y="1183" type="line"/>
+      <point x="111" y="1183" type="line"/>
       <point x="258" y="1183" type="line"/>
       <point x="266" y="1214" type="line"/>
       <point x="69" y="1502" type="line"/>
@@ -22,10 +24,4 @@ uni030F
       <point x="-196" y="1459" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

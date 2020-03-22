@@ -8,6 +8,7 @@ dalet
   <outline>
     <contour>
       <point x="983" y="0" type="line"/>
+      <point x="983" y="0" type="line"/>
       <point x="983" y="999" type="line"/>
       <point x="1137" y="999" type="line"/>
       <point x="1137" y="1241" type="line"/>
@@ -17,10 +18,4 @@ dalet
       <point x="713" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

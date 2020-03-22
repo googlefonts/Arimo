@@ -9,10 +9,4 @@ ydieresis
     <component base="y" xOffset="18"/>
     <component base="dieresis" xOffset="239" yOffset="-3"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

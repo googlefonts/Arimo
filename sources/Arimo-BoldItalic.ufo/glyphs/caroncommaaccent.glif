@@ -7,21 +7,17 @@ caroncommaaccent
   <outline>
     <contour>
       <point x="225" y="1012" type="line"/>
-      <point x="293" y="1080"/>
-      <point x="353" y="1193"/>
-      <point x="368" y="1263" type="qcurve" smooth="yes"/>
+      <point x="225" y="1012" type="line"/>
+      <point x="315.667" y="1102.667"/>
+      <point x="348" y="1169.667"/>
+      <point x="368" y="1263" type="curve" smooth="yes"/>
       <point x="396" y="1409" type="line"/>
       <point x="151" y="1409" type="line"/>
       <point x="111" y="1202" type="line"/>
       <point x="219" y="1202" type="line"/>
-      <point x="202" y="1113"/>
-      <point x="88" y="1012" type="qcurve"/>
+      <point x="207.667" y="1142.667"/>
+      <point x="164" y="1079.333"/>
+      <point x="88" y="1012" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

@@ -8,14 +8,9 @@ triagup
   <outline>
     <contour>
       <point x="414" y="0" type="line"/>
+      <point x="414" y="0" type="line"/>
       <point x="1612" y="0" type="line"/>
       <point x="1014" y="1198" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

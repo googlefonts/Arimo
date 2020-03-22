@@ -8,6 +8,7 @@ asterisk
   <outline>
     <contour>
       <point x="574" y="1135" type="line"/>
+      <point x="574" y="1135" type="line"/>
       <point x="592" y="1409" type="line"/>
       <point x="377" y="1409" type="line"/>
       <point x="395" y="1135" type="line"/>
@@ -24,10 +25,4 @@ asterisk
       <point x="809" y="1239" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

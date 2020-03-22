@@ -7,25 +7,20 @@ uni1DFC
   <outline>
     <contour>
       <point x="657" y="-397" type="line"/>
-      <point x="598" y="-254"/>
-      <point x="316" y="-98"/>
-      <point x="132" y="-98" type="qcurve" smooth="yes"/>
-      <point x="-56" y="-98"/>
-      <point x="-390" y="-256"/>
-      <point x="-508" y="-397" type="qcurve"/>
+      <point x="657" y="-397" type="line"/>
+      <point x="578.333" y="-206.333"/>
+      <point x="377.333" y="-98"/>
+      <point x="132" y="-98" type="curve" smooth="yes"/>
+      <point x="-118.667" y="-98"/>
+      <point x="-350.667" y="-209"/>
+      <point x="-508" y="-397" type="curve"/>
       <point x="-391" y="-397" type="line"/>
-      <point x="-309" y="-325"/>
-      <point x="-31" y="-239"/>
-      <point x="106" y="-239" type="qcurve" smooth="yes"/>
-      <point x="241" y="-239"/>
-      <point x="482" y="-324"/>
-      <point x="540" y="-397" type="qcurve"/>
+      <point x="-281.667" y="-301"/>
+      <point x="-76.667" y="-239"/>
+      <point x="106" y="-239" type="curve" smooth="yes"/>
+      <point x="286" y="-239"/>
+      <point x="462.667" y="-299.667"/>
+      <point x="540" y="-397" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

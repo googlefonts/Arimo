@@ -6,6 +6,7 @@ circumflex.alt1
   <outline>
     <contour>
       <point x="541" y="1541" type="line"/>
+      <point x="541" y="1541" type="line"/>
       <point x="361" y="1715" type="line"/>
       <point x="197" y="1715" type="line"/>
       <point x="-32" y="1541" type="line"/>
@@ -17,10 +18,4 @@ circumflex.alt1
       <point x="537" y="1521" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

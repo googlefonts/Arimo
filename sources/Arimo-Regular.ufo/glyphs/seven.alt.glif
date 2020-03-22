@@ -5,23 +5,18 @@ seven.alt
 </note>
   <outline>
     <contour>
-      <point x="291" y="764" type="qcurve"/>
+      <point x="291" y="764" type="curve"/>
+      <point x="291" y="764" type="line"/>
       <point x="291" y="860" type="line"/>
       <point x="-291" y="860" type="line"/>
       <point x="-291" y="749" type="line"/>
       <point x="152" y="749" type="line"/>
-      <point x="-13" y="565"/>
-      <point x="-141" y="274"/>
-      <point x="-141" y="124" type="qcurve"/>
+      <point x="-68" y="503.667"/>
+      <point x="-141" y="324"/>
+      <point x="-141" y="124" type="curve"/>
       <point x="7" y="124" type="line"/>
-      <point x="7" y="297"/>
-      <point x="132" y="593"/>
+      <point x="7" y="354.667"/>
+      <point x="79" y="536"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

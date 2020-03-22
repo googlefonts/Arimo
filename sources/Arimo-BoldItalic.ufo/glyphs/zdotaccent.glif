@@ -9,10 +9,4 @@ zdotaccent
     <component base="z"/>
     <component base="dotaccent" xOffset="189"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

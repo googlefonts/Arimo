@@ -9,10 +9,4 @@ napostrophe
     <component base="n" xOffset="200"/>
     <component base="quoteright" xOffset="-161"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

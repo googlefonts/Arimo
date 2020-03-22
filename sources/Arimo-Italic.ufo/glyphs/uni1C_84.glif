@@ -8,20 +8,17 @@ uni1C84
   <outline>
     <contour>
       <point x="-27" y="1484" type="line"/>
+      <point x="-27" y="1484" type="line"/>
       <point x="-53" y="1353" type="line"/>
       <point x="635" y="1353" type="line"/>
-      <point x="333" y="711"/>
-      <point x="78" y="0" type="qcurve"/>
+      <point x="433.667" y="925"/>
+      <point x="248" y="474"/>
+      <point x="78" y="0" type="curve"/>
       <point x="258" y="0" type="line"/>
-      <point x="474" y="665"/>
-      <point x="828" y="1418" type="qcurve"/>
+      <point x="402" y="443.333"/>
+      <point x="592" y="916"/>
+      <point x="828" y="1418" type="curve"/>
       <point x="841" y="1484" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

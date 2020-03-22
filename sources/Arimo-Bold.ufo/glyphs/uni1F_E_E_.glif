@@ -8,6 +8,7 @@ uni1FEE
   <outline>
     <contour>
       <point x="336" y="1183" type="line"/>
+      <point x="336" y="1183" type="line"/>
       <point x="441" y="1183" type="line"/>
       <point x="662" y="1471" type="line"/>
       <point x="662" y="1508" type="line"/>
@@ -16,21 +17,17 @@ uni1FEE
     </contour>
     <contour>
       <point x="724" y="1199" type="line"/>
+      <point x="724" y="1199" type="line"/>
       <point x="941" y="1199" type="line"/>
       <point x="941" y="1418" type="line"/>
       <point x="724" y="1418" type="line"/>
     </contour>
     <contour>
       <point x="11" y="1199" type="line"/>
+      <point x="11" y="1199" type="line"/>
       <point x="225" y="1199" type="line"/>
       <point x="225" y="1418" type="line"/>
       <point x="11" y="1418" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

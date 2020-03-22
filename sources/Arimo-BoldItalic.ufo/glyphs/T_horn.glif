@@ -8,14 +8,15 @@ Thorn
   <outline>
     <contour>
       <point x="331" y="0" type="line"/>
+      <point x="331" y="0" type="line"/>
       <point x="384" y="271" type="line"/>
       <point x="762" y="271" type="line" smooth="yes"/>
-      <point x="1019" y="271"/>
-      <point x="1326" y="537"/>
-      <point x="1326" y="762" type="qcurve" smooth="yes"/>
-      <point x="1326" y="960"/>
-      <point x="1053" y="1184"/>
-      <point x="807" y="1184" type="qcurve" smooth="yes"/>
+      <point x="1104.667" y="271"/>
+      <point x="1326" y="462"/>
+      <point x="1326" y="762" type="curve" smooth="yes"/>
+      <point x="1326" y="1026"/>
+      <point x="1135" y="1184"/>
+      <point x="807" y="1184" type="curve" smooth="yes"/>
       <point x="561" y="1184" type="line"/>
       <point x="605" y="1409" type="line"/>
       <point x="310" y="1409" type="line"/>
@@ -23,20 +24,15 @@ Thorn
     </contour>
     <contour>
       <point x="428" y="498" type="line"/>
+      <point x="428" y="498" type="line"/>
       <point x="517" y="955" type="line"/>
       <point x="779" y="955" type="line" smooth="yes"/>
-      <point x="899" y="955"/>
-      <point x="1027" y="848"/>
-      <point x="1027" y="746" type="qcurve" smooth="yes"/>
-      <point x="1027" y="614"/>
-      <point x="872" y="498"/>
-      <point x="717" y="498" type="qcurve" smooth="yes"/>
+      <point x="939" y="955"/>
+      <point x="1027" y="882"/>
+      <point x="1027" y="746" type="curve" smooth="yes"/>
+      <point x="1027" y="570"/>
+      <point x="923.667" y="498"/>
+      <point x="717" y="498" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

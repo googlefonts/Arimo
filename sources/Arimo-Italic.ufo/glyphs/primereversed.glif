@@ -8,15 +8,10 @@ primereversed
   <outline>
     <contour>
       <point x="263" y="890" type="line"/>
+      <point x="263" y="890" type="line"/>
       <point x="365" y="890" type="line"/>
       <point x="403" y="1409" type="line"/>
       <point x="207" y="1409" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

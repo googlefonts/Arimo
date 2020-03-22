@@ -8,6 +8,7 @@ yen
   <outline>
     <contour>
       <point x="766" y="691" type="line"/>
+      <point x="766" y="691" type="line"/>
       <point x="1130" y="1409" type="line"/>
       <point x="841" y="1409" type="line"/>
       <point x="567" y="813" type="line"/>
@@ -32,10 +33,4 @@ yen
       <point x="1042" y="691" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

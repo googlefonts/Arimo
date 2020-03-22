@@ -10,10 +10,4 @@ uni1E08
     <component base="cedilla" xOffset="490"/>
     <component base="acute.uc" xOffset="512"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

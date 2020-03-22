@@ -8,11 +8,13 @@ uni205B
   <outline>
     <contour>
       <point x="856" y="1687" type="line"/>
+      <point x="856" y="1687" type="line"/>
       <point x="661" y="1687" type="line"/>
       <point x="661" y="1480" type="line"/>
       <point x="856" y="1480" type="line"/>
     </contour>
     <contour>
+      <point x="255" y="947" type="line"/>
       <point x="255" y="947" type="line"/>
       <point x="60" y="947" type="line"/>
       <point x="60" y="740" type="line"/>
@@ -20,21 +22,17 @@ uni205B
     </contour>
     <contour>
       <point x="1457" y="947" type="line"/>
+      <point x="1457" y="947" type="line"/>
       <point x="1262" y="947" type="line"/>
       <point x="1262" y="740" type="line"/>
       <point x="1457" y="740" type="line"/>
     </contour>
     <contour>
       <point x="856" y="207" type="line"/>
+      <point x="856" y="207" type="line"/>
       <point x="661" y="207" type="line"/>
       <point x="661" y="0" type="line"/>
       <point x="856" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

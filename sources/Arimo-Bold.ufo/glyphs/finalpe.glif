@@ -7,7 +7,8 @@ finalpe
 </note>
   <outline>
     <contour>
-      <point x="649" y="1241" type="qcurve" smooth="yes"/>
+      <point x="649" y="1241" type="curve"/>
+      <point x="649" y="1241" type="line"/>
       <point x="133" y="1241" type="line"/>
       <point x="133" y="449" type="line"/>
       <point x="647" y="449" type="line"/>
@@ -15,20 +16,14 @@ finalpe
       <point x="403" y="690" type="line"/>
       <point x="403" y="999" type="line"/>
       <point x="651" y="999" type="line" smooth="yes"/>
-      <point x="816" y="999"/>
-      <point x="948" y="851"/>
-      <point x="948" y="676" type="qcurve" smooth="yes"/>
+      <point x="871" y="999"/>
+      <point x="948" y="909.333"/>
+      <point x="948" y="676" type="curve" smooth="yes"/>
       <point x="948" y="-385" type="line"/>
       <point x="1219" y="-385" type="line"/>
       <point x="1219" y="729" type="line" smooth="yes"/>
-      <point x="1219" y="1006"/>
-      <point x="955" y="1241"/>
+      <point x="1219" y="1098.333"/>
+      <point x="1057" y="1241"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

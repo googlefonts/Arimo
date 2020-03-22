@@ -8,21 +8,17 @@ dieresis
   <outline>
     <contour>
       <point x="439" y="1219" type="line"/>
+      <point x="439" y="1219" type="line"/>
       <point x="602" y="1219" type="line"/>
       <point x="602" y="1403" type="line"/>
       <point x="439" y="1403" type="line"/>
     </contour>
     <contour>
       <point x="45" y="1219" type="line"/>
+      <point x="45" y="1219" type="line"/>
       <point x="210" y="1219" type="line"/>
       <point x="210" y="1403" type="line"/>
       <point x="45" y="1403" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

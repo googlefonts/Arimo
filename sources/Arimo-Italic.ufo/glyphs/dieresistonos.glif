@@ -8,6 +8,7 @@ dieresistonos
   <outline>
     <contour>
       <point x="210" y="1200" type="line"/>
+      <point x="210" y="1200" type="line"/>
       <point x="285" y="1200" type="line"/>
       <point x="537" y="1564" type="line"/>
       <point x="544" y="1601" type="line"/>
@@ -16,21 +17,17 @@ dieresistonos
     </contour>
     <contour>
       <point x="-4" y="1231" type="line"/>
+      <point x="-4" y="1231" type="line"/>
       <point x="145" y="1231" type="line"/>
       <point x="179" y="1403" type="line"/>
       <point x="29" y="1403" type="line"/>
     </contour>
     <contour>
       <point x="467" y="1231" type="line"/>
+      <point x="467" y="1231" type="line"/>
       <point x="617" y="1231" type="line"/>
       <point x="651" y="1403" type="line"/>
       <point x="501" y="1403" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

@@ -8,6 +8,7 @@ uni028D
   <outline>
     <contour>
       <point x="399" y="1082" type="line"/>
+      <point x="399" y="1082" type="line"/>
       <point x="-96" y="0" type="line"/>
       <point x="170" y="0" type="line"/>
       <point x="461" y="695" type="line"/>
@@ -24,16 +25,11 @@ uni028D
       <point x="1438" y="1082" type="line"/>
       <point x="1141" y="1082" type="line"/>
       <point x="839" y="424" type="line" smooth="yes"/>
-      <point x="797" y="334"/>
-      <point x="744" y="192" type="qcurve"/>
+      <point x="811" y="364"/>
+      <point x="779.333" y="286.667"/>
+      <point x="744" y="192" type="curve"/>
       <point x="739" y="422" type="line"/>
       <point x="696" y="1082" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

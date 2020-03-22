@@ -8,6 +8,7 @@ uniA741
   <outline>
     <contour>
       <point x="721" y="0" type="line"/>
+      <point x="721" y="0" type="line"/>
       <point x="916" y="0" type="line"/>
       <point x="580" y="617" type="line"/>
       <point x="1110" y="1082" type="line"/>
@@ -30,10 +31,4 @@ uniA741
       <point x="453" y="502" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

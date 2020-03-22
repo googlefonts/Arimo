@@ -8,6 +8,7 @@ lozenge
   <outline>
     <contour>
       <point x="576" y="0" type="line"/>
+      <point x="576" y="0" type="line"/>
       <point x="1035" y="721" type="line"/>
       <point x="576" y="1440" type="line"/>
       <point x="494" y="1440" type="line"/>
@@ -16,15 +17,10 @@ lozenge
     </contour>
     <contour>
       <point x="537" y="1286" type="line"/>
+      <point x="537" y="1286" type="line"/>
       <point x="889" y="721" type="line"/>
       <point x="537" y="147" type="line"/>
       <point x="183" y="721" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

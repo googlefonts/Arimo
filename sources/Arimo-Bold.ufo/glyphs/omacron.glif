@@ -9,10 +9,4 @@ omacron
     <component base="o"/>
     <component base="macron" xOffset="288"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

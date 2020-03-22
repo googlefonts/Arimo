@@ -8,6 +8,7 @@ tonos
   <outline>
     <contour>
       <point x="233" y="1218" type="line"/>
+      <point x="233" y="1218" type="line"/>
       <point x="308" y="1218" type="line"/>
       <point x="565" y="1506" type="line"/>
       <point x="572" y="1543" type="line"/>
@@ -15,10 +16,4 @@ tonos
       <point x="239" y="1251" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

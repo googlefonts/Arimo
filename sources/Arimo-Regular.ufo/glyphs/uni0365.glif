@@ -7,21 +7,17 @@ uni0365
   <outline>
     <contour>
       <point x="-60" y="1415" type="line"/>
+      <point x="-60" y="1415" type="line"/>
       <point x="61" y="1415" type="line"/>
       <point x="61" y="1536" type="line"/>
       <point x="-60" y="1536" type="line"/>
     </contour>
     <contour>
       <point x="-60" y="490" type="line"/>
+      <point x="-60" y="490" type="line"/>
       <point x="61" y="490" type="line"/>
       <point x="61" y="1253" type="line"/>
       <point x="-60" y="1253" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

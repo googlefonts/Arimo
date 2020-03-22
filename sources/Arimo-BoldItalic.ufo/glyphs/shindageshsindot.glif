@@ -10,10 +10,4 @@ shindageshsindot
     <component base="dagesh" xOffset="1049" yOffset="-79"/>
     <component base="holam" xOffset="145"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

@@ -8,11 +8,13 @@ uni205C
   <outline>
     <contour>
       <point x="100" y="185" type="line"/>
+      <point x="100" y="185" type="line"/>
       <point x="295" y="185" type="line"/>
       <point x="295" y="384" type="line"/>
       <point x="100" y="384" type="line"/>
     </contour>
     <contour>
+      <point x="671" y="608" type="line"/>
       <point x="671" y="608" type="line"/>
       <point x="1125" y="608" type="line"/>
       <point x="1125" y="754" type="line"/>
@@ -28,11 +30,13 @@ uni205C
     </contour>
     <contour>
       <point x="900" y="185" type="line"/>
+      <point x="900" y="185" type="line"/>
       <point x="1095" y="185" type="line"/>
       <point x="1095" y="384" type="line"/>
       <point x="900" y="384" type="line"/>
     </contour>
     <contour>
+      <point x="100" y="973" type="line"/>
       <point x="100" y="973" type="line"/>
       <point x="295" y="973" type="line"/>
       <point x="295" y="1172" type="line"/>
@@ -40,15 +44,10 @@ uni205C
     </contour>
     <contour>
       <point x="900" y="973" type="line"/>
+      <point x="900" y="973" type="line"/>
       <point x="1095" y="973" type="line"/>
       <point x="1095" y="1172" type="line"/>
       <point x="900" y="1172" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

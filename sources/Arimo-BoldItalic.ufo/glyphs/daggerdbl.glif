@@ -8,6 +8,7 @@ daggerdbl
   <outline>
     <contour>
       <point x="545" y="980" type="line"/>
+      <point x="545" y="980" type="line"/>
       <point x="511" y="670" type="line"/>
       <point x="425" y="363" type="line"/>
       <point x="90" y="390" type="line"/>
@@ -31,10 +32,4 @@ daggerdbl
       <point x="200" y="953" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

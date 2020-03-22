@@ -8,6 +8,7 @@ uni1DAB
   <outline>
     <contour>
       <point x="517" y="490" type="line"/>
+      <point x="517" y="490" type="line"/>
       <point x="517" y="595" type="line"/>
       <point x="208" y="595" type="line"/>
       <point x="208" y="1253" type="line"/>
@@ -15,10 +16,4 @@ uni1DAB
       <point x="88" y="490" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

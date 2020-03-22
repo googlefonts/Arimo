@@ -8,6 +8,7 @@ lslash
   <outline>
     <contour>
       <point x="32" y="0" type="line"/>
+      <point x="32" y="0" type="line"/>
       <point x="211" y="0" type="line"/>
       <point x="337" y="646" type="line"/>
       <point x="475" y="717" type="line"/>
@@ -21,10 +22,4 @@ lslash
       <point x="137" y="542" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

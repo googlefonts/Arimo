@@ -7,21 +7,17 @@ dieresis.uc
   <outline>
     <contour>
       <point x="469" y="1530" type="line"/>
+      <point x="469" y="1530" type="line"/>
       <point x="666" y="1530" type="line"/>
       <point x="666" y="1749" type="line"/>
       <point x="469" y="1749" type="line"/>
     </contour>
     <contour>
       <point x="15" y="1530" type="line"/>
+      <point x="15" y="1530" type="line"/>
       <point x="209" y="1530" type="line"/>
       <point x="209" y="1749" type="line"/>
       <point x="15" y="1749" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

@@ -8,6 +8,7 @@ caron
   <outline>
     <contour>
       <point x="487" y="1183" type="line"/>
+      <point x="487" y="1183" type="line"/>
       <point x="737" y="1500" type="line"/>
       <point x="737" y="1529" type="line"/>
       <point x="578" y="1529" type="line"/>
@@ -19,10 +20,4 @@ caron
       <point x="258" y="1183" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

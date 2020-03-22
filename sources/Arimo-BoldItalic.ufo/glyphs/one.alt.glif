@@ -6,6 +6,7 @@ one.alt
   <outline>
     <contour>
       <point x="-296" y="114" type="line"/>
+      <point x="-296" y="114" type="line"/>
       <point x="268" y="114" type="line"/>
       <point x="297" y="253" type="line"/>
       <point x="113" y="253" type="line"/>
@@ -18,10 +19,4 @@ one.alt
       <point x="-268" y="253" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

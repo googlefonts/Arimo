@@ -9,10 +9,4 @@ Cdotaccent
     <component base="C"/>
     <component base="dotaccent" xOffset="446" yOffset="263"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

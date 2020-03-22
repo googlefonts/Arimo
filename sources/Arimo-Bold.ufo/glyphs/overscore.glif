@@ -8,15 +8,10 @@ overscore
   <outline>
     <contour>
       <point x="1148" y="1452" type="line"/>
+      <point x="1148" y="1452" type="line"/>
       <point x="1148" y="1546" type="line"/>
       <point x="-17" y="1546" type="line"/>
       <point x="-17" y="1452" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

@@ -8,18 +8,20 @@ uni1FCD
   <outline>
     <contour>
       <point x="230" y="1484" type="line"/>
+      <point x="230" y="1484" type="line"/>
       <point x="0" y="1484" type="line"/>
       <point x="0" y="1292" type="line"/>
       <point x="106" y="1292" type="line"/>
-      <point x="106" y="1229"/>
-      <point x="50" y="1125"/>
-      <point x="3" y="1068" type="qcurve"/>
+      <point x="106" y="1208"/>
+      <point x="65.667" y="1144"/>
+      <point x="3" y="1068" type="curve"/>
       <point x="142" y="1068" type="line"/>
-      <point x="196" y="1147"/>
-      <point x="230" y="1269"/>
-      <point x="230" y="1344" type="qcurve" smooth="yes"/>
+      <point x="214" y="1173.333"/>
+      <point x="230" y="1244"/>
+      <point x="230" y="1344" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="539" y="1159" type="line"/>
       <point x="539" y="1159" type="line"/>
       <point x="644" y="1159" type="line"/>
       <point x="644" y="1192" type="line"/>
@@ -28,10 +30,4 @@ uni1FCD
       <point x="318" y="1447" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

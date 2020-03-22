@@ -8,21 +8,17 @@ uniA789
   <outline>
     <contour>
       <point x="197" y="800" type="line"/>
+      <point x="197" y="800" type="line"/>
       <point x="485" y="800" type="line"/>
       <point x="485" y="1082" type="line"/>
       <point x="197" y="1082" type="line"/>
     </contour>
     <contour>
       <point x="197" y="270" type="line"/>
+      <point x="197" y="270" type="line"/>
       <point x="485" y="270" type="line"/>
       <point x="485" y="551" type="line"/>
       <point x="197" y="551" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

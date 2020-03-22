@@ -9,10 +9,4 @@ Ytilde
     <component base="Y"/>
     <component base="tilde.uc" xOffset="342"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

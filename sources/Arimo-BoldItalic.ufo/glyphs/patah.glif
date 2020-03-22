@@ -7,15 +7,10 @@ patah
   <outline>
     <contour>
       <point x="-291" y="-125" type="line"/>
+      <point x="-291" y="-125" type="line"/>
       <point x="-311" y="-231" type="line"/>
       <point x="16" y="-231" type="line"/>
       <point x="37" y="-125" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

@@ -8,10 +8,4 @@ dottediacute
     <component base="i"/>
     <component base="acute.uc" xOffset="40" yOffset="50"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

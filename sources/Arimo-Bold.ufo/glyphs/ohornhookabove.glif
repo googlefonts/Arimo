@@ -9,10 +9,4 @@ ohornhookabove
     <component base="ohorn"/>
     <component base="hookabove.alt2" xOffset="921"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

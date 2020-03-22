@@ -7,15 +7,10 @@ glyph3279
   <outline>
     <contour>
       <point x="223" y="490" type="line"/>
+      <point x="223" y="490" type="line"/>
       <point x="430" y="1536" type="line"/>
       <point x="239" y="1536" type="line"/>
       <point x="32" y="490" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

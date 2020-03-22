@@ -6,22 +6,18 @@ uni0326
 </note>
   <outline>
     <contour>
-      <point x="122" y="-204" type="qcurve" smooth="yes"/>
+      <point x="122" y="-204" type="curve"/>
+      <point x="122" y="-204" type="line"/>
       <point x="122" y="-78" type="line"/>
       <point x="-123" y="-78" type="line"/>
       <point x="-123" y="-285" type="line"/>
       <point x="-15" y="-285" type="line"/>
-      <point x="-15" y="-355"/>
-      <point x="-109" y="-455" type="qcurve"/>
+      <point x="-15" y="-331.667"/>
+      <point x="-46.333" y="-388.333"/>
+      <point x="-109" y="-455" type="curve"/>
       <point x="28" y="-455" type="line"/>
-      <point x="79" y="-394"/>
-      <point x="122" y="-277"/>
+      <point x="96" y="-373.667"/>
+      <point x="122" y="-301.333"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

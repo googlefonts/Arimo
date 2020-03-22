@@ -5,26 +5,35 @@ circumflexhook.lc
 </note>
   <outline>
     <contour>
-      <point x="317" y="1653" type="qcurve" smooth="yes"/>
-      <point x="228" y="1653"/>
-      <point x="154" y="1629" type="qcurve"/>
+      <point x="317" y="1653" type="curve"/>
+      <point x="317" y="1653" type="line"/>
+      <point x="257.667" y="1653"/>
+      <point x="203.333" y="1645"/>
+      <point x="154" y="1629" type="curve"/>
       <point x="164" y="1549" type="line"/>
-      <point x="221" y="1568"/>
-      <point x="282" y="1568" type="qcurve" smooth="yes"/>
-      <point x="350" y="1568"/>
-      <point x="350" y="1527" type="qcurve" smooth="yes"/>
-      <point x="350" y="1500"/>
-      <point x="304" y="1474"/>
-      <point x="244" y="1471" type="qcurve"/>
+      <point x="202" y="1561.667"/>
+      <point x="241.333" y="1568"/>
+      <point x="282" y="1568" type="curve" smooth="yes"/>
+      <point x="327.333" y="1568"/>
+      <point x="350" y="1554.333"/>
+      <point x="350" y="1527" type="curve" smooth="yes"/>
+      <point x="350" y="1509"/>
+      <point x="342.333" y="1495.667"/>
+      <point x="327" y="1487" type="curve" smooth="yes"/>
+      <point x="311.667" y="1478.333"/>
+      <point x="284" y="1473"/>
+      <point x="244" y="1471" type="curve"/>
       <point x="226" y="1377" type="line"/>
       <point x="317" y="1377" type="line"/>
       <point x="324" y="1415" type="line"/>
-      <point x="404" y="1425"/>
-      <point x="490" y="1498"/>
-      <point x="490" y="1551" type="qcurve" smooth="yes"/>
-      <point x="490" y="1653"/>
+      <point x="430.667" y="1428.333"/>
+      <point x="490" y="1480.333"/>
+      <point x="490" y="1551" type="curve" smooth="yes"/>
+      <point x="490" y="1619"/>
+      <point x="432.333" y="1653"/>
     </contour>
     <contour>
+      <point x="268" y="1221" type="line"/>
       <point x="268" y="1221" type="line"/>
       <point x="97" y="1491" type="line"/>
       <point x="-106" y="1491" type="line"/>
@@ -36,10 +45,4 @@ circumflexhook.lc
       <point x="265" y="1201" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

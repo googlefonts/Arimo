@@ -7,45 +7,41 @@ question
 </note>
   <outline>
     <contour>
-      <point x="1133" y="1026" type="qcurve" smooth="yes"/>
-      <point x="1133" y="1215"/>
-      <point x="862" y="1430"/>
-      <point x="625" y="1430" type="qcurve" smooth="yes"/>
-      <point x="401" y="1430"/>
-      <point x="121" y="1204"/>
-      <point x="94" y="1001" type="qcurve"/>
+      <point x="1133" y="1026" type="curve"/>
+      <point x="1133" y="1026" type="line"/>
+      <point x="1133" y="1278"/>
+      <point x="941" y="1430"/>
+      <point x="625" y="1430" type="curve" smooth="yes"/>
+      <point x="326.333" y="1430"/>
+      <point x="130" y="1271.667"/>
+      <point x="94" y="1001" type="curve"/>
       <point x="379" y="989" type="line"/>
-      <point x="391" y="1086"/>
-      <point x="528" y="1204"/>
-      <point x="629" y="1204" type="qcurve" smooth="yes"/>
-      <point x="735" y="1204"/>
-      <point x="850" y="1102"/>
-      <point x="850" y="1014" type="qcurve" smooth="yes"/>
-      <point x="850" y="945"/>
-      <point x="762" y="832"/>
-      <point x="655" y="758" type="qcurve" smooth="yes"/>
-      <point x="555" y="688"/>
-      <point x="452" y="528"/>
-      <point x="446" y="426" type="qcurve"/>
+      <point x="395" y="1118.333"/>
+      <point x="494.333" y="1204"/>
+      <point x="629" y="1204" type="curve" smooth="yes"/>
+      <point x="770.333" y="1204"/>
+      <point x="850" y="1131.333"/>
+      <point x="850" y="1014" type="curve" smooth="yes"/>
+      <point x="850" y="922"/>
+      <point x="797.667" y="856.667"/>
+      <point x="655" y="758" type="curve" smooth="yes"/>
+      <point x="521.667" y="664.667"/>
+      <point x="454" y="562"/>
+      <point x="446" y="426" type="curve"/>
       <point x="713" y="426" type="line"/>
-      <point x="716" y="486"/>
-      <point x="783" y="586"/>
-      <point x="851" y="635" type="qcurve" smooth="yes"/>
+      <point x="717" y="506"/>
+      <point x="760.333" y="569.667"/>
+      <point x="851" y="635" type="curve" smooth="yes"/>
       <point x="927" y="690" type="line" smooth="yes"/>
-      <point x="1046" y="775"/>
-      <point x="1133" y="929"/>
+      <point x="1085.667" y="803.333"/>
+      <point x="1133" y="896.667"/>
     </contour>
     <contour>
+      <point x="438" y="0" type="line"/>
       <point x="438" y="0" type="line"/>
       <point x="727" y="0" type="line"/>
       <point x="727" y="270" type="line"/>
       <point x="438" y="270" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

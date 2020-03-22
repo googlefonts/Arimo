@@ -7,6 +7,7 @@ uni1DDE
   <outline>
     <contour>
       <point x="-23" y="1706" type="line"/>
+      <point x="-23" y="1706" type="line"/>
       <point x="-168" y="1706" type="line"/>
       <point x="-168" y="1210" type="line"/>
       <point x="169" y="1210" type="line"/>
@@ -14,10 +15,4 @@ uni1DDE
       <point x="-23" y="1310" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

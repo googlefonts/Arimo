@@ -8,6 +8,7 @@ franc
   <outline>
     <contour>
       <point x="359" y="1254" type="line"/>
+      <point x="359" y="1254" type="line"/>
       <point x="1070" y="1254" type="line"/>
       <point x="1070" y="1409" type="line"/>
       <point x="179" y="1409" type="line"/>
@@ -27,10 +28,4 @@ franc
       <point x="359" y="778" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

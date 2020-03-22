@@ -10,10 +10,4 @@ yodyod_patah
     <component base="yod" xOffset="618"/>
     <component base="patah" xOffset="618" yOffset="381"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

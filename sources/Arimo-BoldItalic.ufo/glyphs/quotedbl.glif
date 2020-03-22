@@ -8,21 +8,17 @@ quotedbl
   <outline>
     <contour>
       <point x="864" y="898" type="line"/>
+      <point x="864" y="898" type="line"/>
       <point x="992" y="1409" type="line"/>
       <point x="717" y="1409" type="line"/>
       <point x="645" y="898" type="line"/>
     </contour>
     <contour>
       <point x="438" y="898" type="line"/>
+      <point x="438" y="898" type="line"/>
       <point x="564" y="1409" type="line"/>
       <point x="291" y="1409" type="line"/>
       <point x="219" y="898" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

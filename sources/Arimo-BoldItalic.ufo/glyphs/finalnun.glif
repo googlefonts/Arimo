@@ -8,15 +8,10 @@ finalnun
   <outline>
     <contour>
       <point x="311" y="1241" type="line"/>
+      <point x="311" y="1241" type="line"/>
       <point x="-4" y="-385" type="line"/>
       <point x="266" y="-385" type="line"/>
       <point x="582" y="1241" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

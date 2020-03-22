@@ -8,6 +8,7 @@ alt_plussign
   <outline>
     <contour>
       <point x="1149" y="457" type="line"/>
+      <point x="1149" y="457" type="line"/>
       <point x="1149" y="715" type="line"/>
       <point x="754" y="715" type="line"/>
       <point x="754" y="1143" type="line"/>
@@ -17,10 +18,4 @@ alt_plussign
       <point x="90" y="457" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

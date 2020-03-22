@@ -8,6 +8,7 @@ AE
   <outline>
     <contour>
       <point x="863" y="0" type="line"/>
+      <point x="863" y="0" type="line"/>
       <point x="1834" y="0" type="line"/>
       <point x="1865" y="156" type="line"/>
       <point x="1085" y="156" type="line"/>
@@ -26,16 +27,11 @@ AE
     </contour>
     <contour>
       <point x="1109" y="1262" type="line"/>
+      <point x="1109" y="1262" type="line"/>
       <point x="973" y="561" type="line"/>
       <point x="500" y="561" type="line"/>
       <point x="822" y="1046" type="line"/>
       <point x="958" y="1262" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

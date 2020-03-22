@@ -8,6 +8,7 @@ lessequal
   <outline>
     <contour>
       <point x="49" y="631" type="line"/>
+      <point x="49" y="631" type="line"/>
       <point x="1075" y="285" type="line"/>
       <point x="1075" y="512" type="line"/>
       <point x="243" y="791" type="line"/>
@@ -17,15 +18,10 @@ lessequal
     </contour>
     <contour>
       <point x="49" y="0" type="line"/>
+      <point x="49" y="0" type="line"/>
       <point x="1073" y="0" type="line"/>
       <point x="1073" y="223" type="line"/>
       <point x="49" y="223" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

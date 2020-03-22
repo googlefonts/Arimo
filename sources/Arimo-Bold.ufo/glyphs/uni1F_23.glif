@@ -9,10 +9,4 @@ uni1F23
     <component base="eta"/>
     <component base="uni1FDD" xOffset="270" yOffset="100"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

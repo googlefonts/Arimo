@@ -9,10 +9,4 @@ uni040D
     <component base="uni0418"/>
     <component base="grave.uc" xOffset="285"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

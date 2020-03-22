@@ -8,15 +8,10 @@ vav
   <outline>
     <contour>
       <point x="309" y="1227" type="line"/>
+      <point x="309" y="1227" type="line"/>
       <point x="72" y="0" type="line"/>
       <point x="256" y="0" type="line"/>
       <point x="494" y="1227" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

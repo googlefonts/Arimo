@@ -9,10 +9,4 @@ wcircumflex
     <component base="w"/>
     <component base="circumflex" xOffset="429"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

@@ -9,10 +9,4 @@ uni01E2
     <component base="AE"/>
     <component base="macron" xOffset="1023" yOffset="336"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

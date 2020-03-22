@@ -7,24 +7,21 @@ sevensuperior
 </note>
   <outline>
     <contour>
-      <point x="632" y="1308" type="qcurve"/>
+      <point x="632" y="1308" type="curve"/>
+      <point x="632" y="1308" type="line"/>
       <point x="632" y="1409" type="line"/>
       <point x="43" y="1409" type="line"/>
       <point x="43" y="1296" type="line"/>
       <point x="503" y="1296" type="line"/>
-      <point x="333" y="1046"/>
-      <point x="209" y="719"/>
-      <point x="209" y="564" type="qcurve"/>
+      <point x="276.333" y="962.667"/>
+      <point x="209" y="770.667"/>
+      <point x="209" y="564" type="curve"/>
       <point x="342" y="564" type="line"/>
-      <point x="342" y="679"/>
-      <point x="395" y="891"/>
-      <point x="503" y="1112"/>
+      <point x="342" y="717.333"/>
+      <point x="377" y="854.167"/>
+      <point x="449" y="1001.5" type="curve" smooth="yes"/>
+      <point x="485" y="1075.167"/>
+      <point x="546" y="1177.333"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

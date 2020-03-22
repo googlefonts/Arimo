@@ -6,37 +6,30 @@ uni0330
 </note>
   <outline>
     <contour>
-      <point x="168" y="-391" type="qcurve" smooth="yes"/>
-      <point x="271" y="-391"/>
-      <point x="384" y="-255"/>
-      <point x="391" y="-98" type="qcurve"/>
+      <point x="168" y="-391" type="curve"/>
+      <point x="168" y="-391" type="line"/>
+      <point x="305.333" y="-391"/>
+      <point x="381.667" y="-307.333"/>
+      <point x="391" y="-98" type="curve"/>
       <point x="256" y="-98" type="line"/>
-      <point x="242" y="-172"/>
-      <point x="197" y="-221"/>
-      <point x="157" y="-221" type="qcurve" smooth="yes"/>
-      <point x="128" y="-221"/>
-      <point x="55" y="-183"/>
-      <point x="-29" y="-136"/>
-      <point x="-119" y="-98"/>
-      <point x="-164" y="-98" type="qcurve" smooth="yes"/>
-      <point x="-240" y="-98"/>
-      <point x="-332" y="-165"/>
-      <point x="-381" y="-278"/>
-      <point x="-389" y="-391" type="qcurve"/>
+      <point x="237.333" y="-196.667"/>
+      <point x="210.333" y="-221"/>
+      <point x="157" y="-221" type="curve" smooth="yes"/>
+      <point x="76.049" y="-221"/>
+      <point x="-52.737" y="-98"/>
+      <point x="-164" y="-98" type="curve" smooth="yes"/>
+      <point x="-265.333" y="-98"/>
+      <point x="-323.833" y="-146.167"/>
+      <point x="-356.5" y="-221.5" type="curve" smooth="yes"/>
+      <point x="-372.833" y="-259.167"/>
+      <point x="-383.667" y="-315.667"/>
+      <point x="-389" y="-391" type="curve"/>
       <point x="-252" y="-391" type="line"/>
-      <point x="-238" y="-314"/>
-      <point x="-195" y="-268"/>
-      <point x="-154" y="-268" type="qcurve" smooth="yes"/>
-      <point x="-124" y="-268"/>
-      <point x="-49" y="-306"/>
-      <point x="35" y="-353"/>
-      <point x="124" y="-391"/>
+      <point x="-233.333" y="-288.333"/>
+      <point x="-208.667" y="-268"/>
+      <point x="-154" y="-268" type="curve" smooth="yes"/>
+      <point x="-69.392" y="-268"/>
+      <point x="57.778" y="-391"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

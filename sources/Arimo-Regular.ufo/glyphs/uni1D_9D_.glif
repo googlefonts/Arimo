@@ -7,54 +7,64 @@ uni1D9D
 </note>
   <outline>
     <contour>
-      <point x="380" y="477" type="qcurve" smooth="yes"/>
-      <point x="471" y="477"/>
-      <point x="592" y="534"/>
-      <point x="655" y="628"/>
-      <point x="655" y="689" type="qcurve" smooth="yes"/>
-      <point x="655" y="851"/>
-      <point x="473" y="851" type="qcurve" smooth="yes"/>
-      <point x="338" y="851"/>
-      <point x="209" y="712" type="qcurve"/>
-      <point x="186" y="781"/>
-      <point x="186" y="876" type="qcurve" smooth="yes"/>
-      <point x="186" y="1037"/>
-      <point x="273" y="1168"/>
-      <point x="370" y="1168" type="qcurve" smooth="yes"/>
-      <point x="509" y="1168"/>
-      <point x="528" y="1030" type="qcurve"/>
+      <point x="380" y="477" type="curve"/>
+      <point x="380" y="477" type="line"/>
+      <point x="501.333" y="477"/>
+      <point x="581.5" y="518.333"/>
+      <point x="623.5" y="581" type="curve" smooth="yes"/>
+      <point x="644.5" y="612.333"/>
+      <point x="655" y="648.333"/>
+      <point x="655" y="689" type="curve" smooth="yes"/>
+      <point x="655" y="797"/>
+      <point x="594.333" y="851"/>
+      <point x="473" y="851" type="curve" smooth="yes"/>
+      <point x="383" y="851"/>
+      <point x="295" y="804.667"/>
+      <point x="209" y="712" type="curve"/>
+      <point x="193.667" y="758"/>
+      <point x="186" y="812.667"/>
+      <point x="186" y="876" type="curve" smooth="yes"/>
+      <point x="186" y="1090.667"/>
+      <point x="240.667" y="1168"/>
+      <point x="370" y="1168" type="curve" smooth="yes"/>
+      <point x="462.667" y="1168"/>
+      <point x="515.333" y="1122"/>
+      <point x="528" y="1030" type="curve"/>
       <point x="654" y="1040" type="line"/>
-      <point x="634" y="1148"/>
-      <point x="487" y="1268"/>
-      <point x="373" y="1268" type="qcurve" smooth="yes"/>
-      <point x="219" y="1268"/>
-      <point x="58" y="1062"/>
-      <point x="58" y="873" type="qcurve" smooth="yes"/>
-      <point x="58" y="710"/>
-      <point x="125" y="608" type="qcurve"/>
+      <point x="627.333" y="1184"/>
+      <point x="525" y="1268"/>
+      <point x="373" y="1268" type="curve" smooth="yes"/>
+      <point x="167.667" y="1268"/>
+      <point x="58" y="1125"/>
+      <point x="58" y="873" type="curve" smooth="yes"/>
+      <point x="58" y="764.333"/>
+      <point x="80.333" y="676"/>
+      <point x="125" y="608" type="curve"/>
       <point x="51" y="491" type="line"/>
       <point x="135" y="426" type="line"/>
-      <point x="160" y="478"/>
-      <point x="195" y="533" type="qcurve"/>
-      <point x="272" y="477"/>
+      <point x="151.667" y="460.667"/>
+      <point x="171.667" y="496.333"/>
+      <point x="195" y="533" type="curve"/>
+      <point x="246.333" y="495.667"/>
+      <point x="308" y="477"/>
     </contour>
     <contour>
-      <point x="380" y="571" type="qcurve" smooth="yes"/>
-      <point x="306" y="571"/>
-      <point x="259" y="622" type="qcurve"/>
-      <point x="358" y="753"/>
-      <point x="470" y="753" type="qcurve" smooth="yes"/>
-      <point x="554" y="753"/>
-      <point x="554" y="678" type="qcurve" smooth="yes"/>
-      <point x="554" y="649"/>
-      <point x="513" y="601"/>
-      <point x="436" y="571"/>
+      <point x="380" y="571" type="curve"/>
+      <point x="380" y="571" type="line"/>
+      <point x="330.667" y="571"/>
+      <point x="290.333" y="588"/>
+      <point x="259" y="622" type="curve"/>
+      <point x="325" y="709.333"/>
+      <point x="395.333" y="753"/>
+      <point x="470" y="753" type="curve" smooth="yes"/>
+      <point x="526" y="753"/>
+      <point x="554" y="728"/>
+      <point x="554" y="678" type="curve" smooth="yes"/>
+      <point x="554" y="639.333"/>
+      <point x="525.833" y="606"/>
+      <point x="474.5" y="586" type="curve" smooth="yes"/>
+      <point x="448.833" y="576"/>
+      <point x="417.333" y="571"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 14:23:36</string>
-    </dict>
-  </lib>
 </glyph>

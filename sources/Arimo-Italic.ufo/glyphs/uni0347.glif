@@ -7,21 +7,17 @@ uni0347
   <outline>
     <contour>
       <point x="-544" y="-236" type="line"/>
+      <point x="-544" y="-236" type="line"/>
       <point x="450" y="-236" type="line"/>
       <point x="470" y="-130" type="line"/>
       <point x="-524" y="-130" type="line"/>
     </contour>
     <contour>
       <point x="-581" y="-425" type="line"/>
+      <point x="-581" y="-425" type="line"/>
       <point x="413" y="-425" type="line"/>
       <point x="433" y="-319" type="line"/>
       <point x="-561" y="-319" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

@@ -9,10 +9,4 @@ uni2C7A
     <component base="o"/>
     <component base="ring" xOffset="102" yOffset="-1089"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

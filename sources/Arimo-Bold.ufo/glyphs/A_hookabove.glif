@@ -9,10 +9,4 @@ Ahookabove
     <component base="A"/>
     <component base="hookabovecomb" xOffset="1027"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

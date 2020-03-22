@@ -8,10 +8,4 @@ uni1DCB
     <component base="breve" xOffset="-658"/>
     <component base="uni0304" xOffset="165" yOffset="22"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

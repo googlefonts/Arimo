@@ -6,25 +6,21 @@ uni0339
 </note>
   <outline>
     <contour>
-      <point x="-116" y="-318" type="qcurve"/>
+      <point x="-116" y="-318" type="curve"/>
+      <point x="-116" y="-318" type="line"/>
       <point x="-116" y="-434" type="line"/>
-      <point x="-10" y="-434"/>
-      <point x="113" y="-331"/>
-      <point x="113" y="-237" type="qcurve" smooth="yes"/>
-      <point x="113" y="-144"/>
-      <point x="-11" y="-40"/>
-      <point x="-116" y="-40" type="qcurve"/>
+      <point x="25.333" y="-434"/>
+      <point x="113" y="-362.333"/>
+      <point x="113" y="-237" type="curve" smooth="yes"/>
+      <point x="113" y="-113"/>
+      <point x="24" y="-40"/>
+      <point x="-116" y="-40" type="curve"/>
       <point x="-116" y="-158" type="line"/>
-      <point x="-14" y="-158"/>
-      <point x="-14" y="-237" type="qcurve" smooth="yes"/>
-      <point x="-14" y="-273"/>
-      <point x="-63" y="-318"/>
+      <point x="-48" y="-158"/>
+      <point x="-14" y="-184.333"/>
+      <point x="-14" y="-237" type="curve" smooth="yes"/>
+      <point x="-14" y="-285"/>
+      <point x="-45.333" y="-318"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

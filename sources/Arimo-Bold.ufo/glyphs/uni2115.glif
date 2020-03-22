@@ -8,6 +8,7 @@ uni2115
   <outline>
     <contour>
       <point x="1286" y="1409" type="line"/>
+      <point x="1286" y="1409" type="line"/>
       <point x="1286" y="459" type="line"/>
       <point x="354" y="1409" type="line"/>
       <point x="199" y="1409" type="line"/>
@@ -20,15 +21,10 @@ uni2115
     </contour>
     <contour>
       <point x="307" y="1301" type="line"/>
+      <point x="307" y="1301" type="line"/>
       <point x="1286" y="309" type="line"/>
       <point x="1286" y="109" type="line"/>
       <point x="307" y="1098" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

@@ -7,10 +7,4 @@ uni032C
   <outline>
     <component base="caron.uc" xOffset="-340" yOffset="-1933"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

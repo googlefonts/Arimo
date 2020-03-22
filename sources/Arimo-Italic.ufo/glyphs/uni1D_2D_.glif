@@ -8,6 +8,7 @@ uni1D2D
   <outline>
     <contour>
       <point x="661" y="490" type="line"/>
+      <point x="661" y="490" type="line"/>
       <point x="1344" y="490" type="line"/>
       <point x="1366" y="606" type="line"/>
       <point x="824" y="606" type="line"/>
@@ -26,15 +27,10 @@ uni1D2D
     </contour>
     <contour>
       <point x="833" y="1375" type="line"/>
+      <point x="833" y="1375" type="line"/>
       <point x="739" y="890" type="line"/>
       <point x="429" y="890" type="line"/>
       <point x="743" y="1375" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/18 22:49:30</string>
-    </dict>
-  </lib>
 </glyph>

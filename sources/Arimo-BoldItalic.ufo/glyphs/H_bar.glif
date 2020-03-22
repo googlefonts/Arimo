@@ -8,6 +8,7 @@ Hbar
   <outline>
     <contour>
       <point x="956" y="0" type="line"/>
+      <point x="956" y="0" type="line"/>
       <point x="1240" y="0" type="line"/>
       <point x="1443" y="1045" type="line"/>
       <point x="1566" y="1045" type="line"/>
@@ -30,15 +31,10 @@ Hbar
     </contour>
     <contour>
       <point x="1121" y="848" type="line"/>
+      <point x="1121" y="848" type="line"/>
       <point x="495" y="848" type="line"/>
       <point x="533" y="1045" type="line"/>
       <point x="1159" y="1045" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

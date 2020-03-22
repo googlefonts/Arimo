@@ -8,6 +8,7 @@ uniA73A
   <outline>
     <contour>
       <point x="1862" y="460" type="line"/>
+      <point x="1862" y="460" type="line"/>
       <point x="1862" y="682" type="line"/>
       <point x="1723" y="682" type="line"/>
       <point x="1992" y="1409" type="line"/>
@@ -26,6 +27,7 @@ uniA73A
     </contour>
     <contour>
       <point x="739" y="1192" type="line"/>
+      <point x="739" y="1192" type="line"/>
       <point x="803" y="987" type="line"/>
       <point x="909" y="682" type="line"/>
       <point x="570" y="682" type="line"/>
@@ -34,14 +36,9 @@ uniA73A
     </contour>
     <contour>
       <point x="1327" y="246" type="line"/>
+      <point x="1327" y="246" type="line"/>
       <point x="1258" y="460" type="line"/>
       <point x="1385" y="460" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

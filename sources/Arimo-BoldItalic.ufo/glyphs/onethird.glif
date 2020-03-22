@@ -10,10 +10,4 @@ onethird
     <component base="fraction" xOffset="664"/>
     <component base="threesuperior" xOffset="883" yOffset="-696"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 22:35:12</string>
-    </dict>
-  </lib>
 </glyph>

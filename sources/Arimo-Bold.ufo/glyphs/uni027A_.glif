@@ -8,34 +8,33 @@ uni027A
   <outline>
     <contour>
       <point x="654" y="1484" type="line"/>
+      <point x="654" y="1484" type="line"/>
       <point x="373" y="1484" type="line"/>
       <point x="373" y="551" type="line" smooth="yes"/>
-      <point x="373" y="384"/>
-      <point x="256" y="214"/>
-      <point x="151" y="214" type="qcurve" smooth="yes"/>
-      <point x="98" y="214"/>
-      <point x="31" y="229" type="qcurve"/>
+      <point x="373" y="328.333"/>
+      <point x="291" y="214"/>
+      <point x="151" y="214" type="curve" smooth="yes"/>
+      <point x="115.667" y="214"/>
+      <point x="75.667" y="219"/>
+      <point x="31" y="229" type="curve"/>
       <point x="31" y="-6" type="line"/>
-      <point x="64" y="-21"/>
-      <point x="118" y="-21" type="qcurve" smooth="yes"/>
-      <point x="184" y="-21"/>
-      <point x="272" y="24"/>
-      <point x="336" y="117"/>
-      <point x="377" y="231" type="qcurve"/>
+      <point x="53" y="-16"/>
+      <point x="82" y="-21"/>
+      <point x="118" y="-21" type="curve" smooth="yes"/>
+      <point x="206" y="-21"/>
+      <point x="261.333" y="8.5"/>
+      <point x="304" y="70.5" type="curve" smooth="yes"/>
+      <point x="325.333" y="101.5"/>
+      <point x="349.667" y="155"/>
+      <point x="377" y="231" type="curve"/>
       <point x="381" y="231" type="line"/>
-      <point x="381" y="201"/>
-      <point x="391" y="18"/>
-      <point x="394" y="0" type="qcurve"/>
+      <point x="381" y="191"/>
+      <point x="390" y="24"/>
+      <point x="394" y="0" type="curve"/>
       <point x="662" y="0" type="line"/>
-      <point x="659" y="46"/>
-      <point x="654" y="165"/>
-      <point x="654" y="254" type="qcurve" smooth="yes"/>
+      <point x="658" y="61.333"/>
+      <point x="654" y="135.333"/>
+      <point x="654" y="254" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/19 19:15:40</string>
-    </dict>
-  </lib>
 </glyph>

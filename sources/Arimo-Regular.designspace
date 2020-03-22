@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.0">
+<designspace format="4.1">
   <axes>
     <axis tag="wght" name="Weight" minimum="400" maximum="400" default="400">
       <map input="400" output="100"/>
     </axis>
   </axes>
   <sources>
-    <source filename="Arimo-Italic.ufo" name="Arimo Italic" familyname="Arimo" stylename="Italic">
+    <source filename="Arimo-Regular.ufo" name="Arimo Regular" familyname="Arimo" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -17,7 +17,7 @@
     </source>
   </sources>
   <instances>
-    <instance name="Arimo Italic" familyname="Arimo" stylename="Italic" filename="Arimo-Italic.ufo" postscriptfontname="Arimo-Italic">
+    <instance name="Arimo Regular" familyname="Arimo" stylename="Regular" filename="../instance_ufo/Arimo-Regular.ufo" postscriptfontname="Arimo" stylemapfamilyname="Arimo" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
@@ -37,44 +37,31 @@
                 <integer>2</integer>
                 <integer>2</integer>
                 <integer>2</integer>
-                <integer>9</integer>
+                <integer>2</integer>
                 <integer>2</integer>
                 <integer>4</integer>
               </array>
             </array>
             <array>
               <string>uniqueID</string>
-              <string>Monotype Imaging - Arimo Italic</string>
+              <string>Monotype Imaging - Arimo</string>
             </array>
             <array>
               <string>postscriptFullName</string>
-              <string>Arimo Italic</string>
+              <string>Arimo</string>
             </array>
             <array>
               <string>GASP Table</string>
               <dict>
                 <key>14</key>
-                <string>7</string>
+                <integer>7</integer>
                 <key>65535</key>
-                <string>15</string>
+                <integer>15</integer>
                 <key>8</key>
-                <string>10</string>
+                <integer>10</integer>
               </dict>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>B8E4E6F7-CD69-4587-8CB0-DED49904045E</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
