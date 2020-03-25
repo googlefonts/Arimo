@@ -43,8 +43,7 @@ uniA7A8
       <point x="51" y="588" type="line"/>
       <point x="67" y="452" type="line"/>
       <point x="674" y="659" type="line"/>
-      <point x="682" y="657" type="line" smooth="yes"/>
-      <point x="796" y="625"/>
+      <point x="796.8707713809176" y="628.2823071547706"/>
       <point x="876.333" y="598.167"/>
       <point x="923" y="576.5" type="curve" smooth="yes"/>
       <point x="1016.333" y="533.167"/>

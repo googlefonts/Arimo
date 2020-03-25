@@ -20,7 +20,6 @@ uni052C
       <point x="1258" y="244" type="line"/>
       <point x="1485" y="1409" type="line"/>
       <point x="1190" y="1409" type="line"/>
-      <point x="1189" y="1405" type="line"/>
       <point x="519" y="736" type="line"/>
       <point x="483" y="768.667"/>
       <point x="465" y="816"/>
@@ -51,11 +50,10 @@ uni052C
     </contour>
     <contour>
       <point x="718" y="683" type="curve"/>
-      <point x="718" y="683" type="line"/>
       <point x="1130" y="1100" type="line"/>
       <point x="1060" y="736" type="line"/>
       <point x="932.667" y="700.667"/>
-      <point x="818.667" y="683"/>
+      <point x="819" y="683"/>
     </contour>
   </outline>
 </glyph>

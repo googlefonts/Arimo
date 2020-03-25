@@ -49,13 +49,11 @@ uni052C
       <point x="566" y="449"/>
     </contour>
     <contour>
-      <point x="642" y="603" type="curve"/>
-      <point x="642" y="603" type="line"/>
-      <point x="638" y="603" type="line"/>
+      <point x="638" y="603" type="curve"/>
       <point x="1140" y="1145" type="line"/>
       <point x="1044" y="653" type="line"/>
       <point x="932" y="627.667"/>
-      <point x="756.667" y="603"/>
+      <point x="757.0" y="603.0"/>
     </contour>
   </outline>
 </glyph>

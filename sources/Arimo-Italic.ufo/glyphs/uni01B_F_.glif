@@ -8,7 +8,6 @@ uni01BF
   <outline>
     <contour>
       <point x="128" y="-425" type="line"/>
-      <point x="128" y="-425" type="line"/>
       <point x="186" y="-126" type="line"/>
       <point x="334" y="-76.667"/>
       <point x="491.667" y="-22.667"/>
@@ -23,11 +22,8 @@ uni01BF
       <point x="473" y="1038.333"/>
       <point x="389" y="909" type="curve"/>
       <point x="385" y="909" type="line"/>
-      <point x="391" y="939"/>
-      <point x="395.5" y="968.5"/>
-      <point x="398.5" y="997.5" type="curve" smooth="yes"/>
-      <point x="401.5" y="1026.5"/>
-      <point x="404.667" y="1055"/>
+      <point x="397.0" y="969.0"/>
+      <point x="401.33399999999995" y="1027.0"/>
       <point x="408" y="1083" type="curve"/>
       <point x="242" y="1083" type="line"/>
       <point x="-51" y="-425" type="line"/>

@@ -8,7 +8,6 @@ threesuperior
   <outline>
     <contour>
       <point x="332" y="1049" type="line"/>
-      <point x="332" y="1049" type="line"/>
       <point x="311" y="940" type="line"/>
       <point x="372" y="940" type="line" smooth="yes"/>
       <point x="474.667" y="940"/>
@@ -49,7 +48,7 @@ threesuperior
       <point x="590" y="1204" type="curve" smooth="yes"/>
       <point x="590" y="1108"/>
       <point x="518.333" y="1049"/>
-      <point x="389" y="1049" type="curve" smooth="yes"/>
+      <point x="389" y="1049" type="curve"/>
     </contour>
   </outline>
 </glyph>

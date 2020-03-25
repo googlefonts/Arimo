@@ -8,7 +8,6 @@ lira
   <outline>
     <contour>
       <point x="1075" y="310" type="curve"/>
-      <point x="1075" y="310" type="line"/>
       <point x="924" y="334" type="line"/>
       <point x="890" y="213.333"/>
       <point x="807" y="153"/>
@@ -54,7 +53,7 @@ lira
       <point x="-12" y="0" type="line"/>
       <point x="686" y="0" type="line" smooth="yes"/>
       <point x="890" y="0"/>
-      <point x="1023" y="108.667"/>
+      <point x="1023" y="109"/>
     </contour>
   </outline>
 </glyph>

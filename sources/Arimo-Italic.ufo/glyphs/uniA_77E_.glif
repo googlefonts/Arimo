@@ -52,9 +52,8 @@ uniA77E
       <point x="612.667" y="514"/>
     </contour>
     <contour>
-      <point x="614" y="684" type="curve"/>
-      <point x="614" y="684" type="line"/>
-      <point x="439.333" y="684"/>
+      <point x="614" y="684" type="curve" smooth="yes"/>
+      <point x="439.0" y="684.0"/>
       <point x="337" y="784"/>
       <point x="337" y="948" type="curve" smooth="yes"/>
       <point x="337" y="1045.333"/>

@@ -8,7 +8,6 @@ dong
   <outline>
     <contour>
       <point x="695" y="567" type="curve"/>
-      <point x="695" y="567" type="line"/>
       <point x="698" y="567" type="line"/>
       <point x="690" y="525.667"/>
       <point x="684.667" y="485"/>
@@ -29,7 +28,7 @@ dong
       <point x="831" y="1289" type="line"/>
       <point x="788" y="1062" type="line"/>
       <point x="787" y="1062" type="line"/>
-      <point x="748.333" y="1150"/>
+      <point x="748" y="1150"/>
       <point x="691" y="1197"/>
       <point x="587" y="1197" type="curve" smooth="yes"/>
       <point x="428.333" y="1197"/>
@@ -42,12 +41,11 @@ dong
       <point x="290.333" y="431"/>
       <point x="445" y="431" type="curve" smooth="yes"/>
       <point x="559.667" y="431"/>
-      <point x="625.667" y="468.333"/>
+      <point x="626" y="468"/>
     </contour>
     <contour>
-      <point x="344" y="694" type="curve"/>
-      <point x="344" y="694" type="line"/>
-      <point x="344" y="816.667"/>
+      <point x="344" y="694" type="curve" smooth="yes"/>
+      <point x="344.0" y="817.0"/>
       <point x="387.333" y="980.5"/>
       <point x="458" y="1050.5" type="curve" smooth="yes"/>
       <point x="493.333" y="1085.5"/>
@@ -63,7 +61,7 @@ dong
       <point x="539.667" y="528"/>
       <point x="479" y="528" type="curve" smooth="yes"/>
       <point x="389" y="528"/>
-      <point x="344" y="583.333"/>
+      <point x="344" y="583"/>
     </contour>
     <contour>
       <point x="131" y="326" type="line"/>

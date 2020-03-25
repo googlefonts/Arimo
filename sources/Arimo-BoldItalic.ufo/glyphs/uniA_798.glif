@@ -7,7 +7,11 @@ uniA798
 </note>
   <outline>
     <contour>
-      <point x="107" y="745" type="line"/>
+      <point x="700" y="1181" type="line"/>
+      <point x="1391" y="1181" type="line"/>
+      <point x="1435" y="1409" type="line"/>
+      <point x="449" y="1409" type="line"/>
+      <point x="320" y="745" type="line"/>
       <point x="107" y="745" type="line"/>
       <point x="62" y="517" type="line"/>
       <point x="276" y="517" type="line"/>
@@ -29,11 +33,6 @@ uniA798
       <point x="939" y="517" type="line"/>
       <point x="983" y="745" type="line"/>
       <point x="615" y="745" type="line"/>
-      <point x="700" y="1181" type="line"/>
-      <point x="1391" y="1181" type="line"/>
-      <point x="1435" y="1409" type="line"/>
-      <point x="449" y="1409" type="line"/>
-      <point x="320" y="745" type="line"/>
     </contour>
   </outline>
 </glyph>

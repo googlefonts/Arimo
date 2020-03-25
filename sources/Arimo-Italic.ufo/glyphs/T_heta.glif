@@ -16,23 +16,26 @@ Theta
     <contour>
       <point x="928" y="1430" type="curve"/>
       <point x="928" y="1430" type="line"/>
-      <point x="610.667" y="1430"/>
-      <point x="347.167" y="1279.833"/>
-      <point x="206.5" y="1012.5" type="curve" smooth="yes"/>
-      <point x="136.167" y="878.833"/>
-      <point x="101" y="732.333"/>
+      <point x="611" y="1430"/>
+      <point x="347" y="1280"/>
+      <point x="207" y="1013" type="curve" smooth="yes"/>
+      <point x="136" y="879"/>
+      <point x="101" y="732"/>
       <point x="101" y="573" type="curve" smooth="yes"/>
-      <point x="101" y="202.333"/>
-      <point x="320.333" y="-20"/>
+      <point x="101" y="343"/>
+      <point x="185" y="171"/>
+      <point x="339" y="72" type="curve" smooth="yes"/>
+      <point x="434" y="12"/>
+      <point x="555" y="-20"/>
       <point x="699" y="-20" type="curve" smooth="yes"/>
-      <point x="1013.667" y="-20"/>
-      <point x="1271.333" y="126.833"/>
-      <point x="1414" y="387.5" type="curve" smooth="yes"/>
-      <point x="1485.333" y="517.833"/>
-      <point x="1522.667" y="672.333"/>
+      <point x="1014" y="-20"/>
+      <point x="1271" y="127"/>
+      <point x="1414" y="388" type="curve" smooth="yes"/>
+      <point x="1485" y="518"/>
+      <point x="1523" y="672"/>
       <point x="1526" y="851" type="curve" smooth="yes"/>
-      <point x="1526" y="1204.333"/>
-      <point x="1297.333" y="1430"/>
+      <point x="1526" y="1204"/>
+      <point x="1297" y="1430"/>
     </contour>
     <contour>
       <point x="919" y="1276" type="curve"/>

@@ -8,7 +8,6 @@ seven
   <outline>
     <contour>
       <point x="435" y="0" type="line"/>
-      <point x="435" y="0" type="line"/>
       <point x="468.333" y="170.667"/>
       <point x="521.333" y="324.5"/>
       <point x="592" y="466.5" type="curve" smooth="yes"/>

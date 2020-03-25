@@ -8,7 +8,6 @@ h
   <outline>
     <contour>
       <point x="383" y="897" type="curve"/>
-      <point x="383" y="897" type="line"/>
       <point x="380" y="897" type="line"/>
       <point x="399.333" y="964.333"/>
       <point x="415" y="1031.333"/>
@@ -37,7 +36,7 @@ h
       <point x="945.333" y="1101"/>
       <point x="748" y="1101" type="curve" smooth="yes"/>
       <point x="594.667" y="1101"/>
-      <point x="493.667" y="1050.333"/>
+      <point x="494" y="1050"/>
     </contour>
   </outline>
 </glyph>

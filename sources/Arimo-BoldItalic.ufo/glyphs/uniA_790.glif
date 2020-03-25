@@ -7,7 +7,7 @@ uniA790
 </note>
   <outline>
     <contour>
-      <point x="1100" y="-408" type="line"/>
+      <point x="1181" y="0" type="line"/>
       <point x="1100" y="-408" type="line"/>
       <point x="1350" y="-408" type="line"/>
       <point x="1479" y="244" type="line"/>
@@ -27,7 +27,6 @@ uniA790
       <point x="494.667" y="1023"/>
       <point x="510" y="1131" type="curve"/>
       <point x="884" y="0" type="line"/>
-      <point x="1181" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

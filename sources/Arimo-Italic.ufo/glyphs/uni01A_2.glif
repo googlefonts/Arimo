@@ -7,9 +7,8 @@ uni01A2
 </note>
   <outline>
     <contour>
-      <point x="709" y="-20" type="curve"/>
-      <point x="709" y="-20" type="line"/>
-      <point x="849" y="-20"/>
+      <point x="709" y="-20" type="curve" smooth="yes"/>
+      <point x="849.0" y="-20.0"/>
       <point x="964.667" y="2.667"/>
       <point x="1114" y="72" type="curve"/>
       <point x="1338" y="1223" type="line"/>
@@ -29,11 +28,10 @@ uni01A2
       <point x="111" y="732.333"/>
       <point x="111" y="573" type="curve" smooth="yes"/>
       <point x="111" y="202.333"/>
-      <point x="330.333" y="-20"/>
+      <point x="330" y="-20"/>
     </contour>
     <contour>
       <point x="1159" y="1228" type="curve"/>
-      <point x="1159" y="1228" type="line"/>
       <point x="956" y="181" type="line"/>
       <point x="886.667" y="150.333"/>
       <point x="806.667" y="135"/>
@@ -48,7 +46,7 @@ uni01A2
       <point x="730.333" y="1276"/>
       <point x="929" y="1276" type="curve" smooth="yes"/>
       <point x="1019.667" y="1276"/>
-      <point x="1096.333" y="1260"/>
+      <point x="1096" y="1260"/>
     </contour>
   </outline>
 </glyph>

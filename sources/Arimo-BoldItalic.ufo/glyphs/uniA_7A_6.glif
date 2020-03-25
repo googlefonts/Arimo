@@ -34,6 +34,15 @@ uniA7A6
       <point x="780" y="534" type="line"/>
     </contour>
     <contour>
+      <point x="516" y="955" type="line"/>
+      <point x="516" y="955" type="line"/>
+      <point x="560" y="1180" type="line"/>
+      <point x="924" y="1180" type="line" smooth="yes"/>
+      <point x="979.333" y="1180"/>
+      <point x="1027.667" y="1170.667"/>
+      <point x="1069" y="1152" type="curve"/>
+    </contour>
+    <contour>
       <point x="872" y="764" type="curve"/>
       <point x="872" y="764" type="line"/>
       <point x="479" y="764" type="line"/>
@@ -42,15 +51,6 @@ uniA7A6
       <point x="1166" y="993" type="line" smooth="yes"/>
       <point x="1166" y="843.667"/>
       <point x="1058.667" y="764"/>
-    </contour>
-    <contour>
-      <point x="516" y="955" type="line"/>
-      <point x="516" y="955" type="line"/>
-      <point x="560" y="1180" type="line"/>
-      <point x="924" y="1180" type="line" smooth="yes"/>
-      <point x="979.333" y="1180"/>
-      <point x="1027.667" y="1170.667"/>
-      <point x="1069" y="1152" type="curve"/>
     </contour>
   </outline>
 </glyph>

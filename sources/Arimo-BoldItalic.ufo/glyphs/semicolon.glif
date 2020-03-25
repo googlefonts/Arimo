@@ -8,13 +8,6 @@ semicolon
 </note>
   <outline>
     <contour>
-      <point x="235" y="752" type="line"/>
-      <point x="235" y="752" type="line"/>
-      <point x="523" y="752" type="line"/>
-      <point x="578" y="1034" type="line"/>
-      <point x="290" y="1034" type="line"/>
-    </contour>
-    <contour>
       <point x="207" y="-317" type="line"/>
       <point x="207" y="-317" type="line"/>
       <point x="307" y="-209"/>
@@ -27,6 +20,13 @@ semicolon
       <point x="199.333" y="-97.333"/>
       <point x="127" y="-213"/>
       <point x="23" y="-317" type="curve"/>
+    </contour>
+    <contour>
+      <point x="235" y="752" type="line"/>
+      <point x="235" y="752" type="line"/>
+      <point x="523" y="752" type="line"/>
+      <point x="578" y="1034" type="line"/>
+      <point x="290" y="1034" type="line"/>
     </contour>
   </outline>
 </glyph>

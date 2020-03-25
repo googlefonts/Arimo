@@ -7,7 +7,11 @@ uni050E
 </note>
   <outline>
     <contour>
-      <point x="600" y="1181" type="line"/>
+      <point x="895" y="1181" type="line"/>
+      <point x="1351" y="1181" type="line"/>
+      <point x="1395" y="1409" type="line"/>
+      <point x="189" y="1409" type="line"/>
+      <point x="145" y="1181" type="line"/>
       <point x="600" y="1181" type="line"/>
       <point x="469" y="507" type="line" smooth="yes"/>
       <point x="458.333" y="451"/>
@@ -31,11 +35,6 @@ uni050E
       <point x="744" y="399"/>
       <point x="746.667" y="425.333"/>
       <point x="752" y="448" type="curve" smooth="yes"/>
-      <point x="895" y="1181" type="line"/>
-      <point x="1351" y="1181" type="line"/>
-      <point x="1395" y="1409" type="line"/>
-      <point x="189" y="1409" type="line"/>
-      <point x="145" y="1181" type="line"/>
     </contour>
   </outline>
 </glyph>

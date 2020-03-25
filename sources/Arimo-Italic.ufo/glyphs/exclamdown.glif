@@ -8,13 +8,11 @@ exclamdown
   <outline>
     <contour>
       <point x="284" y="686" type="line"/>
-      <point x="284" y="686" type="line"/>
       <point x="64" y="-326" type="line"/>
       <point x="260" y="-326" type="line"/>
       <point x="432" y="686" type="line"/>
     </contour>
     <contour>
-      <point x="536" y="1083" type="line"/>
       <point x="536" y="1083" type="line"/>
       <point x="342" y="1083" type="line"/>
       <point x="302" y="882" type="line"/>

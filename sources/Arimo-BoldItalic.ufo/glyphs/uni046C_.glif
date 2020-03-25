@@ -7,23 +7,6 @@ uni046C
 </note>
   <outline>
     <contour>
-      <point x="1548" y="576" type="line"/>
-      <point x="1548" y="576" type="line"/>
-      <point x="1566" y="576" type="line" smooth="yes"/>
-      <point x="1724.667" y="576"/>
-      <point x="1819" y="504.333"/>
-      <point x="1819" y="379" type="curve" smooth="yes"/>
-      <point x="1819" y="359.667"/>
-      <point x="1817" y="339"/>
-      <point x="1813" y="317" type="curve" smooth="yes"/>
-      <point x="1752" y="0" type="line"/>
-      <point x="2038" y="0" type="line"/>
-      <point x="2091" y="283" type="line" smooth="yes"/>
-      <point x="2098.333" y="321"/>
-      <point x="2102" y="361.667"/>
-      <point x="2102" y="405" type="curve" smooth="yes"/>
-      <point x="2102" y="641"/>
-      <point x="1971.667" y="780.333"/>
       <point x="1725" y="799" type="curve"/>
       <point x="2215" y="1409" type="line"/>
       <point x="917" y="1409" type="line"/>
@@ -47,6 +30,22 @@ uni046C
       <point x="1263" y="576" type="line"/>
       <point x="1151" y="0" type="line"/>
       <point x="1436" y="0" type="line"/>
+      <point x="1548" y="576" type="line"/>
+      <point x="1566" y="576" type="line" smooth="yes"/>
+      <point x="1724.667" y="576"/>
+      <point x="1819" y="504.333"/>
+      <point x="1819" y="379" type="curve" smooth="yes"/>
+      <point x="1819" y="359.667"/>
+      <point x="1817" y="339"/>
+      <point x="1813" y="317" type="curve" smooth="yes"/>
+      <point x="1752" y="0" type="line"/>
+      <point x="2038" y="0" type="line"/>
+      <point x="2091" y="283" type="line" smooth="yes"/>
+      <point x="2098.333" y="321"/>
+      <point x="2102" y="361.667"/>
+      <point x="2102" y="405" type="curve" smooth="yes"/>
+      <point x="2102" y="641"/>
+      <point x="1971.667" y="780.333"/>
     </contour>
     <contour>
       <point x="1449" y="813" type="line"/>

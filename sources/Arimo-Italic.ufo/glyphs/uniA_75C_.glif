@@ -8,7 +8,6 @@ uniA75C
   <outline>
     <contour>
       <point x="1073" y="0" type="curve"/>
-      <point x="1073" y="0" type="line"/>
       <point x="1407" y="0" type="line"/>
       <point x="1436" y="153" type="line"/>
       <point x="1172" y="153" type="line"/>
@@ -61,7 +60,7 @@ uniA75C
       <point x="586" y="-425" type="curve"/>
       <point x="747" y="-425" type="line"/>
       <point x="831.667" y="-338.333"/>
-      <point x="940.333" y="-196.667"/>
+      <point x="940" y="-197"/>
     </contour>
   </outline>
 </glyph>

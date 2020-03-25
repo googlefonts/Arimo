@@ -8,7 +8,6 @@ uni2C7F
   <outline>
     <contour>
       <point x="-40" y="0" type="line"/>
-      <point x="-40" y="0" type="line"/>
       <point x="196" y="0" type="line" smooth="yes"/>
       <point x="301.333" y="0"/>
       <point x="329.667" y="-13.667"/>

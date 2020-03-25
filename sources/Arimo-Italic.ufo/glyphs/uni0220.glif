@@ -8,7 +8,6 @@ uni0220
   <outline>
     <contour>
       <point x="837" y="-425" type="line"/>
-      <point x="837" y="-425" type="line"/>
       <point x="1027" y="-425" type="line"/>
       <point x="1287" y="904" type="line" smooth="yes"/>
       <point x="1298.333" y="964.667"/>
@@ -40,7 +39,7 @@ uni0220
       <point x="1115" y="1048" type="curve" smooth="yes"/>
       <point x="1115" y="1012"/>
       <point x="1110.333" y="970.667"/>
-      <point x="1101" y="924" type="curve" smooth="yes"/>
+      <point x="1101" y="924" type="curve"/>
     </contour>
   </outline>
 </glyph>

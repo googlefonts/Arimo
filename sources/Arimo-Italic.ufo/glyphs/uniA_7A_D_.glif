@@ -35,9 +35,7 @@ uniA7AD
     </contour>
     <contour>
       <point x="201" y="714" type="line"/>
-      <point x="201" y="714" type="line"/>
-      <point x="192" y="714" type="line" smooth="yes"/>
-      <point x="127.333" y="714"/>
+      <point x="127.0" y="714.0"/>
       <point x="77.333" y="721.667"/>
       <point x="42" y="737" type="curve" smooth="yes"/>
       <point x="6.667" y="752.333"/>

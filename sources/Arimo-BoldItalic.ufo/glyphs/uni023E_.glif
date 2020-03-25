@@ -7,10 +7,6 @@ uni023E
 </note>
   <outline>
     <contour>
-      <point x="1149" y="1181" type="line"/>
-      <point x="1149" y="1181" type="line"/>
-      <point x="1351" y="1181" type="line"/>
-      <point x="1395" y="1409" type="line"/>
       <point x="1315" y="1409" type="line"/>
       <point x="1370" y="1484" type="line"/>
       <point x="1209" y="1484" type="line"/>
@@ -25,6 +21,9 @@ uni023E
       <point x="370" y="0" type="line"/>
       <point x="665" y="0" type="line"/>
       <point x="802" y="706" type="line"/>
+      <point x="1149" y="1181" type="line"/>
+      <point x="1351" y="1181" type="line"/>
+      <point x="1395" y="1409" type="line"/>
     </contour>
     <contour>
       <point x="861" y="1007" type="line"/>

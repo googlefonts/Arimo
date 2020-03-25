@@ -7,17 +7,6 @@ tbar
 </note>
   <outline>
     <contour>
-      <point x="376" y="-16" type="curve"/>
-      <point x="376" y="-16" type="line"/>
-      <point x="444.667" y="-16"/>
-      <point x="506" y="-8"/>
-      <point x="560" y="8" type="curve"/>
-      <point x="592" y="190" type="line"/>
-      <point x="541.333" y="181.333"/>
-      <point x="505.333" y="177"/>
-      <point x="484" y="177" type="curve" smooth="yes"/>
-      <point x="430.667" y="177"/>
-      <point x="397" y="206.667"/>
       <point x="397" y="268" type="curve" smooth="yes"/>
       <point x="397" y="290"/>
       <point x="400.667" y="319.667"/>
@@ -45,7 +34,17 @@ tbar
       <point x="116" y="256.333"/>
       <point x="116" y="209" type="curve" smooth="yes"/>
       <point x="116" y="65"/>
-      <point x="210.667" y="-16"/>
+      <point x="211" y="-16"/>
+      <point x="376" y="-16" type="curve" smooth="yes"/>
+      <point x="445.0" y="-16.0"/>
+      <point x="506" y="-8"/>
+      <point x="560" y="8" type="curve"/>
+      <point x="592" y="190" type="line"/>
+      <point x="541.333" y="181.333"/>
+      <point x="505.333" y="177"/>
+      <point x="484" y="177" type="curve" smooth="yes"/>
+      <point x="430.667" y="177"/>
+      <point x="397" y="206.667"/>
     </contour>
   </outline>
 </glyph>

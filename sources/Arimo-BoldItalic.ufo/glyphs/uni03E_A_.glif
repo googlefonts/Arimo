@@ -7,7 +7,10 @@ uni03EA
 </note>
   <outline>
     <contour>
-      <point x="777" y="1156" type="line"/>
+      <point x="1168" y="1430" type="curve" smooth="yes"/>
+      <point x="1010.667" y="1430"/>
+      <point x="937" y="1379"/>
+      <point x="815" y="1209" type="curve" smooth="yes"/>
       <point x="777" y="1156" type="line"/>
       <point x="761" y="1209" type="line" smooth="yes"/>
       <point x="711.667" y="1365"/>
@@ -39,16 +42,11 @@ uni03EA
       <point x="1435" y="1324" type="line"/>
       <point x="1373.667" y="1388"/>
       <point x="1273.333" y="1430"/>
-      <point x="1168" y="1430" type="curve" smooth="yes"/>
-      <point x="1010.667" y="1430"/>
-      <point x="935" y="1379.667"/>
-      <point x="815" y="1209" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="792" y="211" type="line"/>
-      <point x="792" y="211" type="line"/>
       <point x="396" y="211" type="line"/>
       <point x="673" y="618" type="line"/>
+      <point x="792" y="211" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -19,8 +19,11 @@ uni042F
       <point x="384" y="1409"/>
       <point x="190" y="1271"/>
       <point x="190" y="987" type="curve" smooth="yes"/>
-      <point x="190" y="815"/>
-      <point x="284.333" y="677"/>
+      <point x="190" y="871"/>
+      <point x="233" y="770"/>
+      <point x="316" y="697" type="curve" smooth="yes"/>
+      <point x="356" y="662"/>
+      <point x="405" y="634"/>
       <point x="463" y="613" type="curve"/>
     </contour>
     <contour>

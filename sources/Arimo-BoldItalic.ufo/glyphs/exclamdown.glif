@@ -7,18 +7,16 @@ exclamdown
 </note>
   <outline>
     <contour>
-      <point x="247" y="812" type="line"/>
-      <point x="247" y="812" type="line"/>
-      <point x="535" y="812" type="line"/>
-      <point x="588" y="1082" type="line"/>
-      <point x="300" y="1082" type="line"/>
-    </contour>
-    <contour>
-      <point x="20" y="-327" type="line"/>
+      <point x="242" y="654" type="line"/>
       <point x="20" y="-327" type="line"/>
       <point x="314" y="-327" type="line"/>
       <point x="472" y="654" type="line"/>
-      <point x="242" y="654" type="line"/>
+    </contour>
+    <contour>
+      <point x="588" y="1082" type="line"/>
+      <point x="300" y="1082" type="line"/>
+      <point x="247" y="812" type="line"/>
+      <point x="535" y="812" type="line"/>
     </contour>
   </outline>
 </glyph>

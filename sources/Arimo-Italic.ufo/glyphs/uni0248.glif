@@ -12,17 +12,20 @@ uni0248
       <point x="444" y="657" type="line"/>
       <point x="705" y="657" type="line"/>
       <point x="663" y="440" type="line" smooth="yes"/>
-      <point x="623" y="229.333"/>
-      <point x="538" y="135"/>
+      <point x="641" y="326"/>
+      <point x="607" y="247"/>
+      <point x="557" y="197" type="curve" smooth="yes"/>
+      <point x="515" y="155"/>
+      <point x="462" y="135"/>
       <point x="398" y="135" type="curve" smooth="yes"/>
-      <point x="264.667" y="135"/>
-      <point x="193.667" y="220"/>
+      <point x="265" y="135"/>
+      <point x="194" y="220"/>
       <point x="163" y="376" type="curve"/>
       <point x="-5" y="343" type="line"/>
-      <point x="29.667" y="107"/>
+      <point x="30" y="107"/>
       <point x="169" y="-20"/>
       <point x="381" y="-20" type="curve" smooth="yes"/>
-      <point x="638.333" y="-20"/>
+      <point x="638" y="-20"/>
       <point x="787" y="119"/>
       <point x="847" y="423" type="curve" smooth="yes"/>
       <point x="893" y="657" type="line"/>

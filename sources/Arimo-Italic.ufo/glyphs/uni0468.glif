@@ -32,15 +32,12 @@ uni0468
     <contour>
       <point x="1277" y="1265" type="curve"/>
       <point x="1277" y="1265" type="line"/>
-      <point x="1289" y="1182" type="line" smooth="yes"/>
-      <point x="1296.333" y="1124.667"/>
+      <point x="1297.2174347256782" y="1125.162743147393"/>
       <point x="1304.667" y="1072.667"/>
       <point x="1314" y="1026" type="curve" smooth="yes"/>
       <point x="1380" y="681" type="line"/>
       <point x="947" y="681" type="line"/>
-      <point x="1089.667" y="925"/>
-      <point x="1169.833" y="1063.167"/>
-      <point x="1187.5" y="1095.5" type="curve" smooth="yes"/>
+      <point x="1187.5" y="1095.5" type="line"/>
       <point x="1222.833" y="1160.167"/>
       <point x="1273" y="1255.667"/>
     </contour>

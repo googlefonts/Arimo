@@ -7,7 +7,7 @@ uniA766
 </note>
   <outline>
     <contour>
-      <point x="-40" y="276" type="line"/>
+      <point x="89" y="276" type="line"/>
       <point x="-40" y="276" type="line"/>
       <point x="-75" y="100" type="line"/>
       <point x="55" y="100" type="line"/>
@@ -28,7 +28,6 @@ uniA766
       <point x="576" y="1273" type="line"/>
       <point x="605" y="1409" type="line"/>
       <point x="310" y="1409" type="line"/>
-      <point x="89" y="276" type="line"/>
     </contour>
     <contour>
       <point x="443" y="587" type="line"/>

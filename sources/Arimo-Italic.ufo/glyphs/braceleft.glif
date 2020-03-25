@@ -13,10 +13,9 @@ braceleft
       <point x="487" y="-296" type="line"/>
       <point x="439" y="-296" type="line" smooth="yes"/>
       <point x="336.333" y="-296"/>
-      <point x="293" y="-245.667"/>
+      <point x="293" y="-246"/>
       <point x="293" y="-171" type="curve" smooth="yes"/>
-      <point x="293" y="-165" type="line" smooth="yes"/>
-      <point x="294.333" y="-142.333"/>
+      <point x="293" y="-147"/>
       <point x="299.333" y="-75"/>
       <point x="306" y="-43" type="curve" smooth="yes"/>
       <point x="367" y="276" type="line" smooth="yes"/>

@@ -6,6 +6,14 @@
 uni0413
 </note>
   <outline>
-    <component base="Gamma"/>
+    <contour>
+      <point x="1241" y="1410" type="line"/>
+      <point x="1241" y="1410" type="line"/>
+      <point x="337" y="1410" type="line"/>
+      <point x="63" y="1" type="line"/>
+      <point x="254" y="1" type="line"/>
+      <point x="498" y="1254" type="line"/>
+      <point x="1211" y="1254" type="line"/>
+    </contour>
   </outline>
 </glyph>

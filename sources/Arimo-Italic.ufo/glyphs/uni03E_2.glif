@@ -7,10 +7,9 @@ uni03E2
 </note>
   <outline>
     <contour>
-      <point x="1041" y="-20" type="curve"/>
-      <point x="1041" y="-20" type="line"/>
-      <point x="1159.667" y="-20"/>
-      <point x="1270.333" y="33.667"/>
+      <point x="1041" y="-20" type="curve" smooth="yes"/>
+      <point x="1160.0" y="-20.0"/>
+      <point x="1270" y="34"/>
       <point x="1349" y="131" type="curve"/>
       <point x="1353" y="131" type="line"/>
       <point x="1340" y="66" type="line" smooth="yes"/>
@@ -63,7 +62,7 @@ uni03E2
       <point x="640.333" y="22.667"/>
       <point x="763" y="148" type="curve"/>
       <point x="811.667" y="36"/>
-      <point x="904.333" y="-20"/>
+      <point x="904" y="-20"/>
     </contour>
   </outline>
 </glyph>

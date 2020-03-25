@@ -33,7 +33,6 @@ uni01A3
     </contour>
     <contour>
       <point x="769" y="950" type="curve"/>
-      <point x="769" y="950" type="line"/>
       <point x="610" y="124" type="line"/>
       <point x="579.333" y="116.667"/>
       <point x="543.333" y="113"/>
@@ -48,7 +47,7 @@ uni01A3
       <point x="550" y="969"/>
       <point x="640" y="969" type="curve" smooth="yes"/>
       <point x="684.667" y="969"/>
-      <point x="727.667" y="962.667"/>
+      <point x="728" y="963"/>
     </contour>
   </outline>
 </glyph>

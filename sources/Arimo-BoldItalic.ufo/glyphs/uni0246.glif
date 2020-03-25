@@ -38,9 +38,9 @@ uni0246
     </contour>
     <contour>
       <point x="391" y="310" type="line"/>
-      <point x="391" y="310" type="line"/>
       <point x="447" y="599" type="line"/>
       <point x="588" y="599" type="line"/>
+      <point x="391" y="310" type="line"/>
     </contour>
   </outline>
 </glyph>

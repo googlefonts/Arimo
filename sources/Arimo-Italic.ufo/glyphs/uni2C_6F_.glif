@@ -8,7 +8,6 @@ uni2C6F
   <outline>
     <contour>
       <point x="1530" y="1409" type="line"/>
-      <point x="1530" y="1409" type="line"/>
       <point x="1335" y="1409" type="line"/>
       <point x="1093" y="997" type="line"/>
       <point x="451" y="997" type="line"/>
@@ -18,7 +17,6 @@ uni2C6F
       <point x="686" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1006" y="848" type="line"/>
       <point x="1006" y="848" type="line"/>
       <point x="733" y="383" type="line" smooth="yes"/>
       <point x="685" y="301"/>
