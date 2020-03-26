@@ -33,7 +33,6 @@ uniA72E
     </contour>
     <contour>
       <point x="786" y="1137" type="curve"/>
-      <point x="786" y="1137" type="line"/>
       <point x="783" y="1133"/>
       <point x="775" y="1103"/>
       <point x="763" y="1046" type="curve" smooth="yes"/>
@@ -53,13 +52,19 @@ uniA72E
       <point x="946" y="279" type="line"/>
       <point x="900" y="50" type="line"/>
       <point x="1002" y="50" type="line"/>
-      <point x="986" y="-31.333"/>
+      <point x="986" y="-31"/>
       <point x="924" y="-121"/>
       <point x="848" y="-193" type="curve"/>
       <point x="995" y="-193" type="line"/>
-      <point x="1071" y="-115.667"/>
+      <point x="1071" y="-116"/>
       <point x="1114" y="-29"/>
       <point x="1138" y="95" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

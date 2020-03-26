@@ -6,18 +6,22 @@ dieresis.uc
 </note>
   <outline>
     <contour>
-      <point x="631" y="1530" type="line"/>
-      <point x="631" y="1530" type="line"/>
-      <point x="804" y="1530" type="line"/>
       <point x="839" y="1714" type="line"/>
       <point x="666" y="1714" type="line"/>
+      <point x="631" y="1530" type="line"/>
+      <point x="804" y="1530" type="line"/>
     </contour>
     <contour>
-      <point x="247" y="1530" type="line"/>
-      <point x="247" y="1530" type="line"/>
-      <point x="422" y="1530" type="line"/>
       <point x="457" y="1714" type="line"/>
       <point x="282" y="1714" type="line"/>
+      <point x="247" y="1530" type="line"/>
+      <point x="422" y="1530" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

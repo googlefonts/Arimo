@@ -10,4 +10,10 @@ seveneighths
     <component base="fraction" xOffset="681"/>
     <component base="eightsuperior" xOffset="858" yOffset="-563"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

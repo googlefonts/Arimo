@@ -7,9 +7,6 @@ uni1EFB
 </note>
   <outline>
     <contour>
-      <point x="35" y="0" type="line"/>
-      <point x="35" y="0" type="line"/>
-      <point x="315" y="0" type="line"/>
       <point x="516" y="1031" type="line"/>
       <point x="695" y="1031" type="line"/>
       <point x="495" y="0" type="line"/>
@@ -28,6 +25,14 @@ uni1EFB
       <point x="117" y="1201" type="line"/>
       <point x="84" y="1031" type="line"/>
       <point x="235" y="1031" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="315" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

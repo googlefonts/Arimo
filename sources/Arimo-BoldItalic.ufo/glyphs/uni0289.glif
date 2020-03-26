@@ -32,8 +32,11 @@ uni0289
       <point x="12" y="671" type="line"/>
       <point x="-24" y="482" type="line"/>
       <point x="116" y="482" type="line"/>
-      <point x="95" y="373"/>
-      <point x="85" y="300"/>
+      <point x="105" y="424"/>
+      <point x="97" y="377"/>
+      <point x="92" y="339" type="curve" smooth="yes"/>
+      <point x="87" y="306"/>
+      <point x="85" y="281"/>
       <point x="85" y="265" type="curve" smooth="yes"/>
       <point x="85" y="81"/>
       <point x="188" y="-19"/>
@@ -54,4 +57,10 @@ uni0289
       <point x="653" y="193"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

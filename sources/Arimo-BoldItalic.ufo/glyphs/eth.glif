@@ -8,7 +8,6 @@ eth
   <outline>
     <contour>
       <point x="661" y="1305" type="curve"/>
-      <point x="661" y="1305" type="line"/>
       <point x="512" y="1248" type="line"/>
       <point x="479" y="1069" type="line"/>
       <point x="756" y="1180" type="line"/>
@@ -48,7 +47,6 @@ eth
     </contour>
     <contour>
       <point x="658" y="787" type="curve"/>
-      <point x="658" y="787" type="line"/>
       <point x="746" y="787"/>
       <point x="807" y="760"/>
       <point x="839" y="711" type="curve" smooth="yes"/>
@@ -71,4 +69,10 @@ eth
       <point x="594" y="787"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

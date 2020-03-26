@@ -7,9 +7,6 @@ onesuperior
 </note>
   <outline>
     <contour>
-      <point x="61" y="563" type="line"/>
-      <point x="61" y="563" type="line"/>
-      <point x="617" y="563" type="line"/>
       <point x="638" y="670" type="line"/>
       <point x="423" y="670" type="line"/>
       <point x="567" y="1409" type="line"/>
@@ -19,6 +16,14 @@ onesuperior
       <point x="410" y="1279" type="line"/>
       <point x="292" y="670" type="line"/>
       <point x="81" y="670" type="line"/>
+      <point x="61" y="563" type="line"/>
+      <point x="617" y="563" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

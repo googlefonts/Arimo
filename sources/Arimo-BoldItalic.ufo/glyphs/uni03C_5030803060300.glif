@@ -10,4 +10,10 @@ uni03C5030803060300
     <component base="breve.alt1" xOffset="268" yOffset="210"/>
     <component base="dieresis" xOffset="223" yOffset="-39"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

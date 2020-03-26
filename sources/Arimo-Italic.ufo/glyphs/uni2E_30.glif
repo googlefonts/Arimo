@@ -8,7 +8,6 @@ uni2E30
   <outline>
     <contour>
       <point x="147" y="720" type="curve"/>
-      <point x="147" y="720" type="line"/>
       <point x="147" y="564"/>
       <point x="278" y="433"/>
       <point x="434" y="433" type="curve" smooth="yes"/>
@@ -23,18 +22,23 @@ uni2E30
     </contour>
     <contour>
       <point x="279" y="720" type="curve"/>
-      <point x="279" y="720" type="line"/>
-      <point x="279" y="802.667"/>
-      <point x="352.667" y="876"/>
+      <point x="279" y="803"/>
+      <point x="353" y="876"/>
       <point x="434" y="876" type="curve" smooth="yes"/>
-      <point x="519.333" y="876"/>
+      <point x="519" y="876"/>
       <point x="590" y="804"/>
       <point x="590" y="720" type="curve" smooth="yes"/>
-      <point x="590" y="634.667"/>
-      <point x="519.333" y="564"/>
+      <point x="590" y="635"/>
+      <point x="519" y="564"/>
       <point x="434" y="564" type="curve" smooth="yes"/>
       <point x="354" y="564"/>
-      <point x="279" y="633.333"/>
+      <point x="279" y="633"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

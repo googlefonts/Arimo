@@ -7,13 +7,18 @@ grave
 </note>
   <outline>
     <contour>
-      <point x="412" y="1201" type="line"/>
-      <point x="412" y="1201" type="line"/>
-      <point x="500" y="1201" type="line"/>
       <point x="503" y="1221" type="line"/>
       <point x="342" y="1508" type="line"/>
       <point x="135" y="1508" type="line"/>
       <point x="130" y="1479" type="line"/>
+      <point x="412" y="1201" type="line"/>
+      <point x="500" y="1201" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

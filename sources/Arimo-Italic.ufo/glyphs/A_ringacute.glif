@@ -10,4 +10,10 @@ Aringacute
     <component base="ring" xOffset="413" yOffset="136"/>
     <component base="acute.uc" xOffset="524" yOffset="301"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

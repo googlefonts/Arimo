@@ -7,11 +7,16 @@ bar
 </note>
   <outline>
     <contour>
-      <point x="191" y="-425" type="line"/>
-      <point x="191" y="-425" type="line"/>
-      <point x="453" y="-425" type="line"/>
       <point x="453" y="1484" type="line"/>
       <point x="191" y="1484" type="line"/>
+      <point x="191" y="-425" type="line"/>
+      <point x="453" y="-425" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

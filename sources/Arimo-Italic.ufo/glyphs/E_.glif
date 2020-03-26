@@ -7,9 +7,6 @@ E
 </note>
   <outline>
     <contour>
-      <point x="63" y="0" type="line"/>
-      <point x="63" y="0" type="line"/>
-      <point x="1153" y="0" type="line"/>
       <point x="1183" y="156" type="line"/>
       <point x="284" y="156" type="line"/>
       <point x="379" y="647" type="line"/>
@@ -20,6 +17,14 @@ E
       <point x="1355" y="1253" type="line"/>
       <point x="1385" y="1409" type="line"/>
       <point x="336" y="1409" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="1153" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -9,4 +9,10 @@ acircumflex
     <component base="a" xOffset="6"/>
     <component base="circumflex" xOffset="265"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

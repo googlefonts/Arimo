@@ -5,6 +5,23 @@
 uni030C
 </note>
   <outline>
-    <component base="caron" xOffset="-329"/>
+    <contour>
+      <point x="555" y="1500" type="line"/>
+      <point x="561" y="1529" type="line"/>
+      <point x="392" y="1529" type="line"/>
+      <point x="152" y="1336" type="line"/>
+      <point x="148" y="1336" type="line"/>
+      <point x="-26" y="1529" type="line"/>
+      <point x="-176" y="1529" type="line"/>
+      <point x="-182" y="1500" type="line"/>
+      <point x="15" y="1183" type="line"/>
+      <point x="244" y="1183" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

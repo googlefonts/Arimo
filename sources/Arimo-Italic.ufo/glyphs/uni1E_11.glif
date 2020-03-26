@@ -9,4 +9,10 @@ uni1E11
     <component base="d"/>
     <component base="commaaccent" xOffset="223"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

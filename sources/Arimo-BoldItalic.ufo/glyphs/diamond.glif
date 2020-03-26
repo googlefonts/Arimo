@@ -8,21 +8,26 @@ diamond
   <outline>
     <contour>
       <point x="519" y="1223" type="curve"/>
-      <point x="519" y="1223" type="line"/>
       <point x="415" y="1035"/>
-      <point x="220.667" y="782.667"/>
+      <point x="221" y="783"/>
       <point x="66" y="600" type="curve"/>
-      <point x="179.333" y="464"/>
-      <point x="268.167" y="350.5"/>
-      <point x="391.5" y="176.5" type="curve" smooth="yes"/>
-      <point x="453.167" y="89.5"/>
-      <point x="496.333" y="22.333"/>
+      <point x="179" y="464"/>
+      <point x="268" y="351"/>
+      <point x="392" y="177" type="curve" smooth="yes"/>
+      <point x="453" y="90"/>
+      <point x="496" y="22"/>
       <point x="521" y="-25" type="curve"/>
-      <point x="631.667" y="172.333"/>
-      <point x="887.333" y="506.667"/>
+      <point x="632" y="172"/>
+      <point x="887" y="507"/>
       <point x="978" y="600" type="curve"/>
-      <point x="815.333" y="782.667"/>
-      <point x="615" y="1056.333"/>
+      <point x="815" y="783"/>
+      <point x="615" y="1056"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

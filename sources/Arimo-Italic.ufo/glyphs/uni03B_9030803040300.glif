@@ -10,4 +10,10 @@ uni03B9030803040300
     <component base="macron" xOffset="-21" yOffset="180"/>
     <component base="uni1FEF.short" xOffset="25"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

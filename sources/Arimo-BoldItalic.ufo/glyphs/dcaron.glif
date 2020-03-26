@@ -9,4 +9,10 @@ dcaron
     <component base="d"/>
     <component base="caroncommaaccent" xOffset="1266" yOffset="75"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

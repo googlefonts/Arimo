@@ -39,7 +39,7 @@ uni024A
       <point x="1000" y="-357"/>
       <point x="1074" y="-425"/>
       <point x="1251" y="-425" type="curve" smooth="yes"/>
-      <point x="1303.0" y="-425.0"/>
+      <point x="1303" y="-425"/>
       <point x="1392" y="-416"/>
       <point x="1441" y="-405" type="curve"/>
       <point x="1486" y="-175" type="line"/>
@@ -51,21 +51,27 @@ uni024A
     </contour>
     <contour>
       <point x="741" y="212" type="curve" smooth="yes"/>
-      <point x="526.0" y="212"/>
-      <point x="400" y="334.333"/>
+      <point x="526" y="212"/>
+      <point x="400" y="334"/>
       <point x="400" y="581" type="curve" smooth="yes"/>
-      <point x="400" y="799.667"/>
+      <point x="400" y="800"/>
       <point x="486" y="1022"/>
       <point x="638" y="1122" type="curve" smooth="yes"/>
       <point x="714" y="1172"/>
       <point x="806" y="1197"/>
       <point x="914" y="1197" type="curve" smooth="yes"/>
       <point x="1040" y="1197"/>
-      <point x="1142.667" y="1158"/>
+      <point x="1143" y="1158"/>
       <point x="1222" y="1080" type="curve"/>
       <point x="1082" y="301" type="line"/>
-      <point x="992.667" y="241.667"/>
+      <point x="993" y="242"/>
       <point x="879" y="212"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -8,4 +8,10 @@ uni1DCC
     <component base="breve" xOffset="-228"/>
     <component base="uni0304" xOffset="-413" yOffset="22"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

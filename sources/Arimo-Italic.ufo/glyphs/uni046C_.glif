@@ -48,10 +48,15 @@ uni046C
       <point x="1821" y="740"/>
     </contour>
     <contour>
-      <point x="1327" y="766" type="line"/>
-      <point x="1327" y="766" type="line"/>
       <point x="1096" y="1253" type="line"/>
       <point x="1744" y="1253" type="line"/>
+      <point x="1327" y="766" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

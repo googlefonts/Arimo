@@ -8,7 +8,6 @@ breve
   <outline>
     <contour>
       <point x="426" y="1201" type="curve"/>
-      <point x="426" y="1201" type="line"/>
       <point x="595" y="1201"/>
       <point x="727" y="1313"/>
       <point x="795" y="1510" type="curve"/>
@@ -25,4 +24,10 @@ breve
       <point x="253" y="1201"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

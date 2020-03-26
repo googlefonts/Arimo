@@ -7,8 +7,6 @@ caron
 </note>
   <outline>
     <contour>
-      <point x="521" y="1201" type="line"/>
-      <point x="521" y="1201" type="line"/>
       <point x="798" y="1471" type="line"/>
       <point x="802" y="1491" type="line"/>
       <point x="690" y="1491" type="line"/>
@@ -18,6 +16,13 @@ caron
       <point x="140" y="1491" type="line"/>
       <point x="136" y="1471" type="line"/>
       <point x="317" y="1201" type="line"/>
+      <point x="521" y="1201" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

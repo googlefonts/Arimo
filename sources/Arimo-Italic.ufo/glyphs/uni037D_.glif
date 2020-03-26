@@ -6,7 +6,13 @@
 uni037D
 </note>
   <outline>
-    <component base="dotaccent" xOffset="25" yOffset="-844"/>
-    <component base="uni0254"/>
+    <component base="uni037B"/>
+    <component base="dotaccent" xOffset="25" yOffset="-845"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -7,6 +7,12 @@ yhookabove
 </note>
   <outline>
     <component base="y"/>
-    <component base="hookabove.alt2" xOffset="976"/>
+    <component base="hookabovecomb" xOffset="970" yOffset="-299"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

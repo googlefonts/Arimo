@@ -20,17 +20,29 @@ uni027C
       <point x="492" y="975"/>
       <point x="506" y="1082" type="curve"/>
       <point x="238" y="1082" type="line"/>
-      <point x="227" y="995"/>
-      <point x="213" y="911"/>
+      <point x="232" y="1037"/>
+      <point x="226" y="993"/>
+      <point x="219" y="950" type="curve" smooth="yes"/>
+      <point x="212" y="909"/>
+      <point x="204" y="869"/>
       <point x="196" y="830" type="curve" smooth="yes"/>
       <point x="-46" y="-425" type="line"/>
       <point x="235" y="-425" type="line"/>
       <point x="417" y="514" type="line" smooth="yes"/>
-      <point x="464" y="754"/>
-      <point x="566" y="868"/>
+      <point x="437" y="614"/>
+      <point x="466" y="692"/>
+      <point x="505" y="749" type="curve" smooth="yes"/>
+      <point x="560" y="829"/>
+      <point x="634" y="868"/>
       <point x="730" y="868" type="curve" smooth="yes"/>
       <point x="760" y="868"/>
       <point x="798" y="863"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

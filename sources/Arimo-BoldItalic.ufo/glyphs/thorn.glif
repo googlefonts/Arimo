@@ -9,20 +9,20 @@ thorn
     <contour>
       <point x="662" y="-20" type="curve" smooth="yes"/>
       <point x="894" y="-20"/>
-      <point x="1040.333" y="99.167"/>
-      <point x="1123" y="354.5" type="curve" smooth="yes"/>
-      <point x="1164.333" y="482.167"/>
-      <point x="1185" y="613.333"/>
+      <point x="1040" y="99"/>
+      <point x="1123" y="355" type="curve" smooth="yes"/>
+      <point x="1164" y="482"/>
+      <point x="1185" y="613"/>
       <point x="1185" y="748" type="curve" smooth="yes"/>
       <point x="1185" y="968"/>
       <point x="1060" y="1102"/>
       <point x="848" y="1102" type="curve" smooth="yes"/>
-      <point x="690.667" y="1102"/>
-      <point x="589" y="1046.333"/>
+      <point x="691" y="1102"/>
+      <point x="589" y="1046"/>
       <point x="493" y="913" type="curve"/>
       <point x="487" y="913" type="line"/>
-      <point x="497.667" y="947.667"/>
-      <point x="509" y="995.667"/>
+      <point x="498" y="948"/>
+      <point x="509" y="996"/>
       <point x="521" y="1057" type="curve" smooth="yes"/>
       <point x="604" y="1484" type="line"/>
       <point x="323" y="1484" type="line"/>
@@ -36,12 +36,11 @@ thorn
       <point x="342" y="148"/>
       <point x="347" y="178" type="curve"/>
       <point x="349" y="178" type="line"/>
-      <point x="391.667" y="52.667"/>
-      <point x="495.333" y="-20"/>
+      <point x="392" y="53"/>
+      <point x="495" y="-20"/>
     </contour>
     <contour>
       <point x="728" y="907" type="curve"/>
-      <point x="728" y="907" type="line"/>
       <point x="840" y="907"/>
       <point x="889" y="835"/>
       <point x="889" y="694" type="curve" smooth="yes"/>
@@ -64,4 +63,10 @@ thorn
       <point x="630" y="907"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

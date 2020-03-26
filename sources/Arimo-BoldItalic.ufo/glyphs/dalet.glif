@@ -7,8 +7,6 @@ dalet
 </note>
   <outline>
     <contour>
-      <point x="881" y="0" type="line"/>
-      <point x="881" y="0" type="line"/>
       <point x="1075" y="999" type="line"/>
       <point x="1229" y="999" type="line"/>
       <point x="1276" y="1241" type="line"/>
@@ -16,6 +14,13 @@ dalet
       <point x="133" y="999" type="line"/>
       <point x="805" y="999" type="line"/>
       <point x="610" y="0" type="line"/>
+      <point x="881" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -6,7 +6,13 @@
 uni0403
 </note>
   <outline>
-    <component base="uni0413"/>
     <component base="acute.uc" xOffset="369"/>
+    <component base="Gamma"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

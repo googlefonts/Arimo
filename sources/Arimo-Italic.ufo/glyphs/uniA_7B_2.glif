@@ -19,13 +19,13 @@ uniA7B2
       <point x="145" y="406"/>
       <point x="145" y="226" type="curve" smooth="yes"/>
       <point x="145" y="70"/>
-      <point x="252.333" y="-20"/>
+      <point x="252" y="-20"/>
       <point x="443" y="-20" type="curve" smooth="yes"/>
-      <point x="573.667" y="-20"/>
-      <point x="673.833" y="34.333"/>
-      <point x="746.5" y="149" type="curve" smooth="yes"/>
-      <point x="782.833" y="206.333"/>
-      <point x="813" y="283.667"/>
+      <point x="574" y="-20"/>
+      <point x="674" y="34"/>
+      <point x="747" y="149" type="curve" smooth="yes"/>
+      <point x="783" y="206"/>
+      <point x="813" y="284"/>
       <point x="837" y="381" type="curve"/>
       <point x="984" y="381" type="line"/>
     </contour>
@@ -40,7 +40,13 @@ uniA7B2
       <point x="339" y="172"/>
       <point x="339" y="231" type="curve" smooth="yes"/>
       <point x="339" y="318"/>
-      <point x="410.0" y="381.0"/>
+      <point x="410" y="381"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

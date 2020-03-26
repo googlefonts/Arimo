@@ -13,15 +13,7 @@ uniA658
       <point x="747" y="1409" type="line"/>
     </contour>
     <contour>
-      <point x="196" y="156" type="line"/>
-      <point x="196" y="156" type="line"/>
-      <point x="482" y="653" type="line"/>
-      <point x="941" y="653" type="line"/>
-      <point x="1032" y="156" type="line"/>
-    </contour>
-    <contour>
       <point x="830" y="1265" type="curve"/>
-      <point x="830" y="1265" type="line"/>
       <point x="871" y="1034" type="line"/>
       <point x="911" y="813" type="line"/>
       <point x="574" y="813" type="line"/>
@@ -29,5 +21,17 @@ uniA658
       <point x="744" y="1110"/>
       <point x="787" y="1188"/>
     </contour>
+    <contour>
+      <point x="196" y="156" type="line"/>
+      <point x="482" y="653" type="line"/>
+      <point x="941" y="653" type="line"/>
+      <point x="1032" y="156" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

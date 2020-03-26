@@ -7,7 +7,13 @@ Ecircumflexdotbelow
 </note>
   <outline>
     <component base="E"/>
-    <component base="dotbelow.alt1" xOffset="737"/>
-    <component base="caron.uc" xOffset="353"/>
+    <component base="circumflex.uc" xOffset="345"/>
+    <component base="dotbelowcomb" xOffset="1488"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

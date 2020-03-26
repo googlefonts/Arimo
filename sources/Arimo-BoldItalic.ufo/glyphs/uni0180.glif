@@ -48,7 +48,6 @@ uni0180
     </contour>
     <contour>
       <point x="728" y="867" type="curve"/>
-      <point x="728" y="867" type="line"/>
       <point x="837" y="867"/>
       <point x="892" y="802"/>
       <point x="892" y="654" type="curve" smooth="yes"/>
@@ -68,4 +67,10 @@ uni0180
       <point x="603" y="867"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -8,7 +8,6 @@ uniA736
   <outline>
     <contour>
       <point x="1466" y="-20" type="curve"/>
-      <point x="1466" y="-20" type="line"/>
       <point x="1837" y="-20"/>
       <point x="2063" y="171"/>
       <point x="2131" y="530" type="curve" smooth="yes"/>
@@ -35,7 +34,6 @@ uniA736
     </contour>
     <contour>
       <point x="830" y="1265" type="curve"/>
-      <point x="830" y="1265" type="line"/>
       <point x="844" y="1188"/>
       <point x="857" y="1111"/>
       <point x="871" y="1034" type="curve"/>
@@ -46,4 +44,10 @@ uniA736
       <point x="787" y="1188"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -6,7 +6,7 @@ circumflextilde
   <outline>
     <contour>
       <point x="148" y="1652" type="curve" smooth="yes"/>
-      <point x="224.0" y="1652.0"/>
+      <point x="224" y="1652"/>
       <point x="268" y="1677"/>
       <point x="300" y="1719" type="curve" smooth="yes"/>
       <point x="315" y="1740"/>
@@ -37,7 +37,6 @@ circumflextilde
     </contour>
     <contour>
       <point x="-22" y="1529" type="line"/>
-      <point x="-22" y="1529" type="line"/>
       <point x="115" y="1462" type="line"/>
       <point x="270" y="1462" type="line"/>
       <point x="272" y="1472" type="line"/>
@@ -48,4 +47,10 @@ circumflextilde
       <point x="-186" y="1462" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

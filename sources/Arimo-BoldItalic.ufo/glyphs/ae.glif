@@ -8,7 +8,6 @@ ae
   <outline>
     <contour>
       <point x="1027" y="476" type="curve"/>
-      <point x="1027" y="476" type="line"/>
       <point x="1727" y="476" type="line"/>
       <point x="1743" y="553"/>
       <point x="1751" y="625"/>
@@ -68,7 +67,23 @@ ae
       <point x="1022" y="451"/>
     </contour>
     <contour>
-      <point x="743" y="500" type="line"/>
+      <point x="1060" y="663" type="line"/>
+      <point x="1097" y="834"/>
+      <point x="1187" y="924"/>
+      <point x="1315" y="924" type="curve" smooth="yes"/>
+      <point x="1422" y="924"/>
+      <point x="1494" y="862"/>
+      <point x="1494" y="719" type="curve"/>
+      <point x="1491" y="663" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="325" type="curve" smooth="yes"/>
+      <point x="341" y="387"/>
+      <point x="369" y="435"/>
+      <point x="421" y="464" type="curve" smooth="yes"/>
+      <point x="461" y="488"/>
+      <point x="516" y="500"/>
+      <point x="582" y="500" type="curve" smooth="yes"/>
       <point x="743" y="500" type="line"/>
       <point x="721" y="411" type="line" smooth="yes"/>
       <point x="700" y="329"/>
@@ -79,24 +94,12 @@ ae
       <point x="475" y="176" type="curve" smooth="yes"/>
       <point x="388" y="176"/>
       <point x="341" y="229"/>
-      <point x="341" y="325" type="curve" smooth="yes"/>
-      <point x="341" y="387"/>
-      <point x="369" y="435"/>
-      <point x="421" y="464" type="curve" smooth="yes"/>
-      <point x="461" y="488"/>
-      <point x="516" y="500"/>
-      <point x="582" y="500" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="1491" y="663" type="line"/>
-      <point x="1491" y="663" type="line"/>
-      <point x="1060" y="663" type="line"/>
-      <point x="1097.333" y="833.667"/>
-      <point x="1187" y="924"/>
-      <point x="1315" y="924" type="curve" smooth="yes"/>
-      <point x="1421.667" y="924"/>
-      <point x="1494" y="861.667"/>
-      <point x="1494" y="719" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

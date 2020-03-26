@@ -7,33 +7,33 @@ percent
 </note>
   <outline>
     <contour>
+      <point x="546" y="1421" type="curve" smooth="yes"/>
+      <point x="329" y="1421"/>
+      <point x="192" y="1286"/>
+      <point x="136" y="1015" type="curve"/>
+      <point x="120" y="958"/>
+      <point x="112" y="900"/>
+      <point x="112" y="841" type="curve" smooth="yes"/>
+      <point x="112" y="642"/>
+      <point x="218" y="524"/>
+      <point x="407" y="524" type="curve" smooth="yes"/>
+      <point x="546" y="524"/>
+      <point x="658" y="588"/>
+      <point x="739" y="708" type="curve" smooth="yes"/>
+      <point x="780" y="768"/>
+      <point x="810" y="844"/>
+      <point x="829" y="935" type="curve"/>
+      <point x="846" y="999"/>
+      <point x="855" y="1058"/>
+      <point x="855" y="1113" type="curve" smooth="yes"/>
+      <point x="855" y="1312"/>
+      <point x="746" y="1421"/>
+    </contour>
+    <contour>
       <point x="486" y="0" type="line"/>
       <point x="1574" y="1409" type="line"/>
       <point x="1375" y="1409" type="line"/>
       <point x="289" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="546" y="1421" type="curve" smooth="yes"/>
-      <point x="329.0" y="1421.0"/>
-      <point x="192" y="1285.667"/>
-      <point x="136" y="1015" type="curve"/>
-      <point x="120" y="958.333"/>
-      <point x="112" y="900.333"/>
-      <point x="112" y="841" type="curve" smooth="yes"/>
-      <point x="112" y="642.333"/>
-      <point x="217.667" y="524"/>
-      <point x="407" y="524" type="curve" smooth="yes"/>
-      <point x="545.667" y="524"/>
-      <point x="657.667" y="588"/>
-      <point x="739" y="708" type="curve" smooth="yes"/>
-      <point x="779.667" y="768"/>
-      <point x="809.667" y="843.667"/>
-      <point x="829" y="935" type="curve"/>
-      <point x="846.333" y="999"/>
-      <point x="855" y="1058.333"/>
-      <point x="855" y="1113" type="curve" smooth="yes"/>
-      <point x="855" y="1311.667"/>
-      <point x="746" y="1421"/>
     </contour>
     <contour>
       <point x="545" y="1270" type="curve" smooth="yes"/>
@@ -60,25 +60,25 @@ percent
     </contour>
     <contour>
       <point x="1454" y="882" type="curve" smooth="yes"/>
-      <point x="1237.0" y="882.0"/>
-      <point x="1101" y="746.667"/>
+      <point x="1237" y="882"/>
+      <point x="1101" y="747"/>
       <point x="1045" y="476" type="curve"/>
-      <point x="1029" y="419.333"/>
-      <point x="1021" y="361.333"/>
+      <point x="1029" y="419"/>
+      <point x="1021" y="361"/>
       <point x="1021" y="302" type="curve" smooth="yes"/>
-      <point x="1021" y="103.333"/>
-      <point x="1126.667" y="-15"/>
+      <point x="1021" y="103"/>
+      <point x="1127" y="-15"/>
       <point x="1316" y="-15" type="curve" smooth="yes"/>
-      <point x="1454.667" y="-15"/>
-      <point x="1566.667" y="49"/>
+      <point x="1455" y="-15"/>
+      <point x="1567" y="49"/>
       <point x="1648" y="169" type="curve" smooth="yes"/>
-      <point x="1688.667" y="229"/>
-      <point x="1718.667" y="304.667"/>
+      <point x="1689" y="229"/>
+      <point x="1719" y="305"/>
       <point x="1738" y="396" type="curve"/>
-      <point x="1755.333" y="460"/>
-      <point x="1764" y="519.333"/>
+      <point x="1755" y="460"/>
+      <point x="1764" y="519"/>
       <point x="1764" y="574" type="curve" smooth="yes"/>
-      <point x="1764" y="772.667"/>
+      <point x="1764" y="773"/>
       <point x="1654" y="882"/>
     </contour>
     <contour>
@@ -105,4 +105,10 @@ percent
       <point x="1402" y="731"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

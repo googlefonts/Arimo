@@ -40,24 +40,29 @@ Phi
       <point x="944" y="397" type="line"/>
       <point x="1071" y="1052" type="line"/>
       <point x="1133" y="1052" type="line" smooth="yes"/>
-      <point x="1275.667" y="1052"/>
-      <point x="1363" y="951.667"/>
+      <point x="1276" y="1052"/>
+      <point x="1363" y="952"/>
       <point x="1363" y="789" type="curve" smooth="yes"/>
       <point x="1363" y="549"/>
-      <point x="1224.667" y="397"/>
+      <point x="1225" y="397"/>
       <point x="998" y="397" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="801" y="1052" type="line"/>
+      <point x="608" y="397" type="line" smooth="yes"/>
+      <point x="471" y="397"/>
+      <point x="387" y="499"/>
+      <point x="387" y="662" type="curve" smooth="yes"/>
+      <point x="387" y="913"/>
+      <point x="522" y="1052"/>
+      <point x="755" y="1052" type="curve" smooth="yes"/>
       <point x="801" y="1052" type="line"/>
       <point x="674" y="397" type="line"/>
-      <point x="608" y="397" type="line" smooth="yes"/>
-      <point x="470.667" y="397"/>
-      <point x="387" y="499.333"/>
-      <point x="387" y="662" type="curve" smooth="yes"/>
-      <point x="387" y="912.667"/>
-      <point x="521.667" y="1052"/>
-      <point x="755" y="1052" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

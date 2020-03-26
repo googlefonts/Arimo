@@ -8,7 +8,6 @@ uniA722
   <outline>
     <contour>
       <point x="706" y="1144" type="curve"/>
-      <point x="706" y="1144" type="line"/>
       <point x="706" y="1030"/>
       <point x="636" y="956"/>
       <point x="497" y="919" type="curve" smooth="yes"/>
@@ -42,7 +41,6 @@ uniA722
     </contour>
     <contour>
       <point x="549" y="354" type="curve"/>
-      <point x="549" y="354" type="line"/>
       <point x="549" y="247"/>
       <point x="488" y="175"/>
       <point x="365" y="136" type="curve" smooth="yes"/>
@@ -75,4 +73,10 @@ uniA722
       <point x="549" y="405"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

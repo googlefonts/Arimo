@@ -15,7 +15,7 @@ uni01BE
       <point x="801" y="637"/>
       <point x="704" y="659" type="curve" smooth="yes"/>
       <point x="518" y="701"/>
-      <point x="470.0" y="729.7159318688359"/>
+      <point x="470" y="730"/>
       <point x="470" y="791" type="curve" smooth="yes"/>
       <point x="470" y="800"/>
       <point x="473" y="820"/>
@@ -57,4 +57,10 @@ uni01BE
       <point x="1046" y="131"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

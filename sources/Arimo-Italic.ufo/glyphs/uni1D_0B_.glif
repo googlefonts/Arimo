@@ -8,4 +8,10 @@ uni1D0B
   <outline>
     <component base="kgreenlandic"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

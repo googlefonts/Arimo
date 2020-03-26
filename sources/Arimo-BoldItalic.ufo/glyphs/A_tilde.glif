@@ -7,6 +7,12 @@ Atilde
 </note>
   <outline>
     <component base="A"/>
-    <component base="tilde" xOffset="443" yOffset="347"/>
+    <component base="tilde.uc" xOffset="400" yOffset="1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

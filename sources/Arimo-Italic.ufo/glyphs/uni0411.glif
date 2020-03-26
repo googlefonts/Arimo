@@ -10,7 +10,7 @@ uni0411
       <point x="336" y="1409" type="line"/>
       <point x="62" y="0" type="line"/>
       <point x="665" y="0" type="line" smooth="yes"/>
-      <point x="1010.333" y="0"/>
+      <point x="1010" y="0"/>
       <point x="1219" y="161"/>
       <point x="1219" y="437" type="curve" smooth="yes"/>
       <point x="1219" y="677"/>
@@ -23,15 +23,20 @@ uni0411
     </contour>
     <contour>
       <point x="282" y="151" type="line"/>
-      <point x="282" y="151" type="line"/>
       <point x="382" y="661" type="line"/>
       <point x="727" y="661" type="line" smooth="yes"/>
       <point x="923" y="661"/>
-      <point x="1025" y="577.667"/>
+      <point x="1025" y="578"/>
       <point x="1025" y="427" type="curve" smooth="yes"/>
       <point x="1025" y="243"/>
       <point x="902" y="151"/>
       <point x="656" y="151" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

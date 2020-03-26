@@ -8,7 +8,6 @@ uniA71C
   <outline>
     <contour>
       <point x="872" y="1373" type="line"/>
-      <point x="872" y="1373" type="line"/>
       <point x="872" y="1395" type="line"/>
       <point x="586" y="1395" type="line"/>
       <point x="586" y="1910" type="line"/>
@@ -20,4 +19,10 @@ uniA71C
       <point x="517" y="1031" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -6,8 +6,6 @@ uniA721
 </note>
   <outline>
     <contour>
-      <point x="294" y="0" type="line"/>
-      <point x="294" y="0" type="line"/>
       <point x="319" y="125" type="line"/>
       <point x="80" y="125" type="line"/>
       <point x="124" y="355" type="line"/>
@@ -17,6 +15,13 @@ uniA721
       <point x="-175" y="355" type="line"/>
       <point x="-300" y="355" type="line"/>
       <point x="-369" y="0" type="line"/>
+      <point x="294" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

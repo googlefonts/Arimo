@@ -9,4 +9,10 @@ uhookabove
     <component base="u"/>
     <component base="hookabove.alt2" xOffset="1032"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

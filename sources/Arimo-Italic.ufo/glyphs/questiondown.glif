@@ -7,8 +7,13 @@ questiondown
 </note>
   <outline>
     <contour>
+      <point x="899" y="1083" type="line"/>
+      <point x="704" y="1083" type="line"/>
+      <point x="665" y="882" type="line"/>
+      <point x="860" y="882" type="line"/>
+    </contour>
+    <contour>
       <point x="497" y="-347" type="curve"/>
-      <point x="497" y="-347" type="line"/>
       <point x="774" y="-347"/>
       <point x="955" y="-225"/>
       <point x="1039" y="35" type="curve"/>
@@ -47,12 +52,11 @@ questiondown
       <point x="65" y="-199"/>
       <point x="234" y="-347"/>
     </contour>
-    <contour>
-      <point x="899" y="1083" type="line"/>
-      <point x="899" y="1083" type="line"/>
-      <point x="704" y="1083" type="line"/>
-      <point x="665" y="882" type="line"/>
-      <point x="860" y="882" type="line"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

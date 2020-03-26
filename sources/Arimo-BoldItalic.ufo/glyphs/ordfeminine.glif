@@ -8,7 +8,6 @@ ordfeminine
   <outline>
     <contour>
       <point x="679" y="697" type="curve"/>
-      <point x="679" y="697" type="line"/>
       <point x="730" y="697"/>
       <point x="767" y="701"/>
       <point x="790" y="709" type="curve"/>
@@ -38,7 +37,7 @@ ordfeminine
       <point x="594" y="1272"/>
       <point x="594" y="1217" type="curve" smooth="yes"/>
       <point x="594" y="1200"/>
-      <point x="589.6718265068523" y="1180.2934978356323"/>
+      <point x="590" y="1180"/>
       <point x="580" y="1130" type="curve"/>
       <point x="457" y="1128" type="line" smooth="yes"/>
       <point x="208" y="1124"/>
@@ -56,18 +55,23 @@ ordfeminine
       <point x="591" y="697"/>
     </contour>
     <contour>
-      <point x="561" y="1029" type="line"/>
-      <point x="561" y="1029" type="line"/>
-      <point x="545" y="969" type="line" smooth="yes"/>
-      <point x="521" y="874.333"/>
-      <point x="456.333" y="816"/>
-      <point x="387" y="816" type="curve" smooth="yes"/>
-      <point x="336.333" y="816"/>
-      <point x="298" y="846"/>
       <point x="298" y="914" type="curve" smooth="yes"/>
       <point x="298" y="986"/>
-      <point x="360.333" y="1024.333"/>
+      <point x="360" y="1024"/>
       <point x="463" y="1027" type="curve" smooth="yes"/>
+      <point x="561" y="1029" type="line"/>
+      <point x="545" y="969" type="line" smooth="yes"/>
+      <point x="521" y="874"/>
+      <point x="456" y="816"/>
+      <point x="387" y="816" type="curve" smooth="yes"/>
+      <point x="336" y="816"/>
+      <point x="298" y="846"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

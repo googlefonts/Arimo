@@ -46,15 +46,20 @@ uni0409
     </contour>
     <contour>
       <point x="1131" y="151" type="line"/>
-      <point x="1131" y="151" type="line"/>
       <point x="1231" y="661" type="line"/>
       <point x="1576" y="661" type="line" smooth="yes"/>
       <point x="1772" y="661"/>
-      <point x="1874" y="577.667"/>
+      <point x="1874" y="578"/>
       <point x="1874" y="427" type="curve" smooth="yes"/>
       <point x="1874" y="243"/>
       <point x="1751" y="151"/>
       <point x="1505" y="151" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

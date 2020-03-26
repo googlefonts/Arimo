@@ -10,4 +10,10 @@ uni03B9030803060301
     <component base="uni0306" xOffset="136" yOffset="196"/>
     <component base="tonos.short" xOffset="154"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

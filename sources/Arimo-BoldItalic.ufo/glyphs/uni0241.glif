@@ -32,9 +32,15 @@ uni0241
       <point x="762" y="568"/>
       <point x="671" y="546"/>
       <point x="557" y="546" type="curve" smooth="yes"/>
-      <point x="522.0" y="546.0"/>
+      <point x="522" y="546"/>
       <point x="487" y="550"/>
       <point x="450" y="559" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

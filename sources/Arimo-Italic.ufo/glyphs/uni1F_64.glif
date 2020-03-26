@@ -9,4 +9,10 @@ uni1F64
     <component base="omega"/>
     <component base="uni1FCE" xOffset="500" yOffset="100"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

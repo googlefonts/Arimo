@@ -9,4 +9,10 @@ uni03B1030603140301
     <component base="uni1FDE" xOffset="260" yOffset="440"/>
     <component base="breve.alt1" xOffset="210" yOffset="-29"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

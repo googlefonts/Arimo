@@ -26,12 +26,18 @@ uni0500
       <point x="1041" y="709" type="line"/>
       <point x="933" y="153" type="line"/>
       <point x="584" y="153" type="line" smooth="yes"/>
-      <point x="378.667" y="153"/>
-      <point x="272" y="239.333"/>
+      <point x="379" y="153"/>
+      <point x="272" y="239"/>
       <point x="272" y="398" type="curve" smooth="yes"/>
-      <point x="272" y="605.333"/>
-      <point x="399.333" y="709"/>
+      <point x="272" y="605"/>
+      <point x="399" y="709"/>
       <point x="654" y="709" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

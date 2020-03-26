@@ -9,4 +9,10 @@ uni04DE
     <component base="uni0417"/>
     <component base="dieresis.uc" xOffset="263"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

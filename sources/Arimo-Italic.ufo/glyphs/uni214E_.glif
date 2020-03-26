@@ -7,7 +7,7 @@ uni214E
 </note>
   <outline>
     <contour>
-      <point x="782" y="1082" type="line"/>
+      <point x="962" y="1082" type="line"/>
       <point x="782" y="1082" type="line"/>
       <point x="688" y="596" type="line"/>
       <point x="140" y="596" type="line"/>
@@ -17,7 +17,12 @@ uni214E
       <point x="12" y="139" type="line"/>
       <point x="-15" y="0" type="line"/>
       <point x="752" y="0" type="line"/>
-      <point x="962" y="1082" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

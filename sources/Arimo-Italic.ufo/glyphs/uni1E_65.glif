@@ -9,4 +9,10 @@ uni1E65
     <component base="s"/>
     <component base="uni03010307.cap" xOffset="660" yOffset="-302"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

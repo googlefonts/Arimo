@@ -9,4 +9,10 @@ uni03C5030403140300
     <component base="uni1FDD" xOffset="270" yOffset="350"/>
     <component base="macron" xOffset="193" yOffset="-14"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

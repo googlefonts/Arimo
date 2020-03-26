@@ -7,18 +7,22 @@ uniA71E
 </note>
   <outline>
     <contour>
-      <point x="544" y="934" type="line"/>
-      <point x="544" y="934" type="line"/>
-      <point x="636" y="1570" type="line"/>
-      <point x="406" y="1570" type="line"/>
-      <point x="250" y="934" type="line"/>
-    </contour>
-    <contour>
-      <point x="745" y="1996" type="line"/>
       <point x="745" y="1996" type="line"/>
       <point x="457" y="1996" type="line"/>
       <point x="404" y="1726" type="line"/>
       <point x="692" y="1726" type="line"/>
     </contour>
+    <contour>
+      <point x="636" y="1570" type="line"/>
+      <point x="406" y="1570" type="line"/>
+      <point x="250" y="934" type="line"/>
+      <point x="544" y="934" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

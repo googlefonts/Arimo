@@ -36,7 +36,7 @@ uni01AB
       <point x="93" y="203"/>
       <point x="93" y="166" type="curve" smooth="yes"/>
       <point x="93" y="54"/>
-      <point x="162.0" y="-20.0"/>
+      <point x="162" y="-20"/>
       <point x="276" y="-20" type="curve"/>
       <point x="266" y="-81" type="line" smooth="yes"/>
       <point x="243" y="-212"/>
@@ -50,4 +50,10 @@ uni01AB
       <point x="87" y="-425"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

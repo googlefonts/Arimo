@@ -41,7 +41,6 @@ thorn
     </contour>
     <contour>
       <point x="689" y="963" type="curve"/>
-      <point x="689" y="963" type="line"/>
       <point x="825" y="963"/>
       <point x="885" y="880"/>
       <point x="885" y="716" type="curve" smooth="yes"/>
@@ -64,4 +63,10 @@ thorn
       <point x="557" y="963"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

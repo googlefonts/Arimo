@@ -8,7 +8,6 @@ uniA66A
   <outline>
     <contour>
       <point x="938" y="1430" type="curve"/>
-      <point x="938" y="1430" type="line"/>
       <point x="621" y="1430"/>
       <point x="357" y="1280"/>
       <point x="217" y="1013" type="curve" smooth="yes"/>
@@ -32,7 +31,6 @@ uniA66A
     </contour>
     <contour>
       <point x="929" y="1276" type="curve"/>
-      <point x="929" y="1276" type="line"/>
       <point x="1194" y="1276"/>
       <point x="1345" y="1123"/>
       <point x="1345" y="847" type="curve" smooth="yes"/>
@@ -52,18 +50,22 @@ uniA66A
       <point x="796" y="1276"/>
     </contour>
     <contour>
-      <point x="506" y="616" type="line"/>
-      <point x="506" y="616" type="line"/>
-      <point x="701" y="616" type="line"/>
       <point x="744" y="836" type="line"/>
       <point x="549" y="836" type="line"/>
+      <point x="506" y="616" type="line"/>
+      <point x="701" y="616" type="line"/>
     </contour>
     <contour>
-      <point x="906" y="616" type="line"/>
-      <point x="906" y="616" type="line"/>
-      <point x="1101" y="616" type="line"/>
       <point x="1144" y="836" type="line"/>
       <point x="949" y="836" type="line"/>
+      <point x="906" y="616" type="line"/>
+      <point x="1101" y="616" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

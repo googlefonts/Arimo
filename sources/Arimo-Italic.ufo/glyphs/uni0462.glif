@@ -16,7 +16,7 @@ uni0462
       <point x="488" y="1047" type="line"/>
       <point x="285" y="0" type="line"/>
       <point x="877" y="0" type="line" smooth="yes"/>
-      <point x="1222.333" y="0"/>
+      <point x="1222" y="0"/>
       <point x="1431" y="161"/>
       <point x="1431" y="437" type="curve" smooth="yes"/>
       <point x="1431" y="677"/>
@@ -29,15 +29,20 @@ uni0462
     </contour>
     <contour>
       <point x="505" y="151" type="line"/>
-      <point x="505" y="151" type="line"/>
       <point x="605" y="661" type="line"/>
       <point x="939" y="661" type="line" smooth="yes"/>
       <point x="1135" y="661"/>
-      <point x="1237" y="577.667"/>
+      <point x="1237" y="578"/>
       <point x="1237" y="427" type="curve" smooth="yes"/>
       <point x="1237" y="243"/>
       <point x="1114" y="151"/>
       <point x="868" y="151" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

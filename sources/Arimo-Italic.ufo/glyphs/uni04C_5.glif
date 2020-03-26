@@ -7,12 +7,6 @@ uni04C5
 </note>
   <outline>
     <contour>
-      <point x="1190" y="1249" type="line"/>
-      <point x="1190" y="1249" type="line"/>
-      <point x="948" y="0" type="line"/>
-      <point x="1099" y="0" type="line"/>
-      <point x="881" y="-410" type="line"/>
-      <point x="1058" y="-410" type="line"/>
       <point x="1359" y="173" type="line"/>
       <point x="1167" y="173" type="line"/>
       <point x="1407" y="1409" type="line"/>
@@ -45,6 +39,17 @@ uni04C5
       <point x="610" y="1004"/>
       <point x="650" y="1126"/>
       <point x="690" y="1249" type="curve"/>
+      <point x="1190" y="1249" type="line"/>
+      <point x="948" y="0" type="line"/>
+      <point x="1099" y="0" type="line"/>
+      <point x="881" y="-410" type="line"/>
+      <point x="1058" y="-410" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

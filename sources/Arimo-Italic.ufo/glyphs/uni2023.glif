@@ -7,10 +7,15 @@ uni2023
 </note>
   <outline>
     <contour>
-      <point x="102" y="966" type="line"/>
+      <point x="679" y="679" type="line"/>
       <point x="102" y="966" type="line"/>
       <point x="102" y="390" type="line"/>
-      <point x="679" y="679" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

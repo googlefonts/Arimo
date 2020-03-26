@@ -31,13 +31,12 @@ trademark
       <point x="1441" y="634" type="line"/>
       <point x="1641" y="1128" type="line"/>
       <point x="1683" y="1231" type="line"/>
-      <point x="1691" y="1253" type="line"/>
-      <point x="1691" y="1196"/>
-      <point x="1691" y="1139"/>
-      <point x="1691" y="1082" type="curve"/>
+      <point x="1692" y="1253" type="line"/>
+      <point x="1692.0" y="1212"/>
+      <point x="1691.0" y="1170"/>
+      <point x="1691" y="1129" type="curve"/>
     </contour>
     <contour>
-      <point x="577" y="1298" type="line"/>
       <point x="577" y="1298" type="line"/>
       <point x="838" y="1298" type="line"/>
       <point x="838" y="1409" type="line"/>
@@ -48,4 +47,10 @@ trademark
       <point x="577" y="634" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

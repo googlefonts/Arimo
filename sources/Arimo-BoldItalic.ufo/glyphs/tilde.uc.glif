@@ -7,7 +7,6 @@ tilde.uc
   <outline>
     <contour>
       <point x="667" y="1529" type="curve"/>
-      <point x="667" y="1529" type="line"/>
       <point x="743" y="1529"/>
       <point x="806" y="1555"/>
       <point x="855" y="1615" type="curve" smooth="yes"/>
@@ -32,4 +31,10 @@ tilde.uc
       <point x="558" y="1529"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

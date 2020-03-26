@@ -9,4 +9,10 @@ uniA75F
     <component base="v"/>
     <component base="slash" xOffset="162" yOffset="-170"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

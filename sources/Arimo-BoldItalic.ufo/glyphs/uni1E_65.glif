@@ -10,4 +10,10 @@ uni1E65
     <component base="acute" xOffset="370"/>
     <component base="dotaccent" xOffset="-19"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

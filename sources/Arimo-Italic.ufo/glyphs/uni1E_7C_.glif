@@ -9,4 +9,10 @@ uni1E7C
     <component base="V"/>
     <component base="tilde.uc" xOffset="364"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

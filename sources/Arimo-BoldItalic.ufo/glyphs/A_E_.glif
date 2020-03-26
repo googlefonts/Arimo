@@ -7,7 +7,8 @@ AE
 </note>
   <outline>
     <contour>
-      <point x="837" y="0" type="line"/>
+      <point x="457" y="360" type="line"/>
+      <point x="907" y="360" type="line"/>
       <point x="837" y="0" type="line"/>
       <point x="1866" y="0" type="line"/>
       <point x="1910" y="227" type="line"/>
@@ -22,16 +23,19 @@ AE
       <point x="868" y="1409" type="line"/>
       <point x="-97" y="0" type="line"/>
       <point x="215" y="0" type="line"/>
-      <point x="457" y="360" type="line"/>
-      <point x="907" y="360" type="line"/>
     </contour>
     <contour>
-      <point x="1068" y="1192" type="line"/>
-      <point x="1068" y="1192" type="line"/>
-      <point x="950" y="582" type="line"/>
       <point x="602" y="582" type="line"/>
       <point x="871" y="983" type="line"/>
       <point x="1007" y="1192" type="line"/>
+      <point x="1068" y="1192" type="line"/>
+      <point x="950" y="582" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

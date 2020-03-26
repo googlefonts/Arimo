@@ -20,7 +20,9 @@ uni0220
       <point x="686" y="1375"/>
       <point x="562" y="1279" type="curve"/>
       <point x="562" y="1279" type="line"/>
-      <point x="588" y="1409" type="line"/>
+      <point x="571" y="1322"/>
+      <point x="579" y="1366"/>
+      <point x="588" y="1409" type="curve"/>
       <point x="316" y="1409" type="line"/>
       <point x="257" y="1105" type="line"/>
       <point x="42" y="0" type="line"/>
@@ -40,4 +42,10 @@ uni0220
       <point x="1057" y="754" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

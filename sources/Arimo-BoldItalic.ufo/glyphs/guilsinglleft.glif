@@ -7,9 +7,6 @@ guilsinglleft
 </note>
   <outline>
     <contour>
-      <point x="265" y="139" type="line"/>
-      <point x="265" y="139" type="line"/>
-      <point x="497" y="139" type="line"/>
       <point x="502" y="178" type="line"/>
       <point x="314" y="531" type="line"/>
       <point x="643" y="897" type="line"/>
@@ -17,6 +14,14 @@ guilsinglleft
       <point x="410" y="938" type="line"/>
       <point x="87" y="571" type="line"/>
       <point x="73" y="500" type="line"/>
+      <point x="265" y="139" type="line"/>
+      <point x="497" y="139" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

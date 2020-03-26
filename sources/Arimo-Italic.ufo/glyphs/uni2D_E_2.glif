@@ -6,13 +6,18 @@ uni2DE2
 </note>
   <outline>
     <contour>
-      <point x="368" y="1706" type="line"/>
+      <point x="172" y="1632" type="line"/>
+      <point x="354" y="1632" type="line"/>
       <point x="368" y="1706" type="line"/>
       <point x="87" y="1706" type="line"/>
       <point x="-11" y="1210" type="line"/>
       <point x="88" y="1210" type="line"/>
-      <point x="172" y="1632" type="line"/>
-      <point x="354" y="1632" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

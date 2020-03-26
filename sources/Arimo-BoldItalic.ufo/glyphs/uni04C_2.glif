@@ -9,4 +9,10 @@ uni04C2
     <component base="uni0436"/>
     <component base="breve.cyr" xOffset="444"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

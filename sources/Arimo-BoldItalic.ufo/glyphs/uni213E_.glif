@@ -7,20 +7,24 @@ uni213E
 </note>
   <outline>
     <contour>
-      <point x="1071" y="1410" type="line"/>
+      <point x="520" y="1254" type="line"/>
+      <point x="1071" y="1254" type="line"/>
       <point x="1071" y="1410" type="line"/>
       <point x="168" y="1410" type="line"/>
       <point x="168" y="0" type="line"/>
       <point x="520" y="0" type="line"/>
-      <point x="520" y="1254" type="line"/>
-      <point x="1071" y="1254" type="line"/>
     </contour>
     <contour>
-      <point x="299" y="120" type="line"/>
       <point x="299" y="120" type="line"/>
       <point x="299" y="1254" type="line"/>
       <point x="389" y="1254" type="line"/>
       <point x="389" y="120" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

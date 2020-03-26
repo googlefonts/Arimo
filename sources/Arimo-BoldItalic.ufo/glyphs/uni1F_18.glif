@@ -9,4 +9,10 @@ uni1F18
     <component base="E" xOffset="200"/>
     <component base="uni1FBD" xOffset="-274"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

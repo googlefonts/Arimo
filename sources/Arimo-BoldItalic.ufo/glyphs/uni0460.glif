@@ -48,8 +48,8 @@ uni0460
       <point x="1973" y="-20"/>
       <point x="2177" y="60"/>
       <point x="2327" y="204" type="curve" smooth="yes"/>
-      <point x="2491.4614558110356" y="362.97940728400124"/>
-      <point x="2587.0" y="601.8231981656451"/>
+      <point x="2491" y="363"/>
+      <point x="2587" y="602"/>
       <point x="2587" y="849" type="curve" smooth="yes"/>
       <point x="2587" y="1199"/>
       <point x="2367" y="1430"/>
@@ -67,8 +67,8 @@ uni0460
       <point x="2288" y="689"/>
       <point x="2236" y="534"/>
       <point x="2149" y="418" type="curve" smooth="yes"/>
-      <point x="2050.1600619586115" y="287.1038658370803"/>
-      <point x="1906.8318840087397" y="211.0"/>
+      <point x="2050" y="287"/>
+      <point x="1907" y="211"/>
       <point x="1747" y="211" type="curve" smooth="yes"/>
       <point x="1611" y="211"/>
       <point x="1505" y="251"/>
@@ -77,4 +77,10 @@ uni0460
       <point x="1221" y="651" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

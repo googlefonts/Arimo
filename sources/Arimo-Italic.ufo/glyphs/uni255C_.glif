@@ -7,8 +7,6 @@ uni255C
 </note>
   <outline>
     <contour>
-      <point x="978" y="549" type="line"/>
-      <point x="978" y="549" type="line"/>
       <point x="978" y="1864" type="line"/>
       <point x="833" y="1864" type="line"/>
       <point x="833" y="694" type="line"/>
@@ -18,6 +16,13 @@ uni255C
       <point x="473" y="694" type="line"/>
       <point x="-10" y="694" type="line"/>
       <point x="-10" y="549" type="line"/>
+      <point x="978" y="549" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

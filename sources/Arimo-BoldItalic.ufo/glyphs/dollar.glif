@@ -8,7 +8,6 @@ dollar
   <outline>
     <contour>
       <point x="1080" y="474" type="curve"/>
-      <point x="1080" y="474" type="line"/>
       <point x="1080" y="655"/>
       <point x="953" y="770"/>
       <point x="674" y="837" type="curve"/>
@@ -50,24 +49,28 @@ dollar
       <point x="1080" y="190"/>
     </contour>
     <contour>
-      <point x="810" y="413" type="curve"/>
-      <point x="810" y="413" type="line"/>
-      <point x="810" y="301"/>
-      <point x="707.333" y="231"/>
-      <point x="554" y="231" type="curve"/>
-      <point x="627" y="593" type="line"/>
-      <point x="753.667" y="563.667"/>
-      <point x="810" y="515.667"/>
-    </contour>
-    <contour>
       <point x="412" y="1006" type="curve"/>
-      <point x="412" y="1006" type="line"/>
-      <point x="412" y="1115.333"/>
+      <point x="412" y="1115"/>
       <point x="501" y="1194"/>
       <point x="633" y="1194" type="curve"/>
       <point x="566" y="863" type="line"/>
-      <point x="447.333" y="901.667"/>
-      <point x="412" y="940.667"/>
+      <point x="447" y="902"/>
+      <point x="412" y="941"/>
+    </contour>
+    <contour>
+      <point x="810" y="413" type="curve"/>
+      <point x="810" y="301"/>
+      <point x="707" y="231"/>
+      <point x="554" y="231" type="curve"/>
+      <point x="627" y="593" type="line"/>
+      <point x="754" y="564"/>
+      <point x="810" y="516"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

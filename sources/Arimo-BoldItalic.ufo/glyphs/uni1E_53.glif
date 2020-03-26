@@ -10,4 +10,10 @@ uni1E53
     <component base="macron" xOffset="248"/>
     <component base="acute.uc" xOffset="349" yOffset="-49"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

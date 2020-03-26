@@ -8,7 +8,6 @@ nine
   <outline>
     <contour>
       <point x="817" y="653" type="curve"/>
-      <point x="817" y="653" type="line"/>
       <point x="760" y="352"/>
       <point x="653" y="202"/>
       <point x="498" y="202" type="curve" smooth="yes"/>
@@ -48,7 +47,6 @@ nine
     </contour>
     <contour>
       <point x="855" y="1009" type="curve"/>
-      <point x="855" y="1009" type="line"/>
       <point x="855" y="894"/>
       <point x="819" y="806"/>
       <point x="756" y="756" type="curve" smooth="yes"/>
@@ -65,4 +63,10 @@ nine
       <point x="855" y="1125"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

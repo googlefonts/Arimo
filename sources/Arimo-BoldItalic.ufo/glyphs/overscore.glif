@@ -7,11 +7,16 @@ overscore
 </note>
   <outline>
     <contour>
-      <point x="1148" y="1452" type="line"/>
-      <point x="1148" y="1452" type="line"/>
       <point x="1148" y="1546" type="line"/>
       <point x="-17" y="1546" type="line"/>
       <point x="-17" y="1452" type="line"/>
+      <point x="1148" y="1452" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -9,4 +9,10 @@ Iotatonos
     <component base="I" xOffset="227"/>
     <component base="tonos" xOffset="-160" yOffset="-133"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

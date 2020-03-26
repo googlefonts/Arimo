@@ -8,7 +8,6 @@ OE
   <outline>
     <contour>
       <point x="893" y="0" type="curve"/>
-      <point x="893" y="0" type="line"/>
       <point x="1835" y="0" type="line"/>
       <point x="1865" y="156" type="line"/>
       <point x="1114" y="156" type="line"/>
@@ -38,22 +37,27 @@ OE
     </contour>
     <contour>
       <point x="712" y="145" type="curve"/>
-      <point x="712" y="145" type="line"/>
       <point x="444" y="145"/>
-      <point x="292" y="292.333"/>
+      <point x="292" y="292"/>
       <point x="292" y="563" type="curve" smooth="yes"/>
-      <point x="292" y="817.667"/>
-      <point x="394.5" y="1065.333"/>
-      <point x="580.5" y="1180" type="curve" smooth="yes"/>
-      <point x="673.5" y="1237.333"/>
+      <point x="292" y="818"/>
+      <point x="395" y="1065"/>
+      <point x="581" y="1180" type="curve" smooth="yes"/>
+      <point x="674" y="1237"/>
       <point x="785" y="1266"/>
       <point x="915" y="1266" type="curve" smooth="yes"/>
-      <point x="1006.333" y="1266"/>
-      <point x="1080" y="1262.333"/>
+      <point x="1006" y="1266"/>
+      <point x="1080" y="1262"/>
       <point x="1136" y="1255" type="curve"/>
       <point x="923" y="156" type="line"/>
-      <point x="868.333" y="148.667"/>
+      <point x="868" y="149"/>
       <point x="798" y="145"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

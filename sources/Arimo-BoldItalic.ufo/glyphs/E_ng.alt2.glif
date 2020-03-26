@@ -7,7 +7,6 @@ Eng.alt2
   <outline>
     <contour>
       <point x="870" y="-425" type="curve"/>
-      <point x="870" y="-425" type="line"/>
       <point x="1057" y="-425"/>
       <point x="1175" y="-320"/>
       <point x="1214" y="-128" type="curve" smooth="yes"/>
@@ -38,4 +37,10 @@ Eng.alt2
       <point x="807" y="-425"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

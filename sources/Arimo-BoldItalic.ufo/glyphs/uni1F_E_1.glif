@@ -9,4 +9,10 @@ uni1FE1
     <component base="upsilon"/>
     <component base="macron" xOffset="188"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

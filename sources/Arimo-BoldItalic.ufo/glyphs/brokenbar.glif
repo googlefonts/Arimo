@@ -7,18 +7,22 @@ brokenbar
 </note>
   <outline>
     <contour>
-      <point x="192" y="736" type="line"/>
-      <point x="192" y="736" type="line"/>
-      <point x="454" y="736" type="line"/>
       <point x="454" y="1484" type="line"/>
       <point x="192" y="1484" type="line"/>
+      <point x="192" y="736" type="line"/>
+      <point x="454" y="736" type="line"/>
     </contour>
     <contour>
-      <point x="192" y="-425" type="line"/>
-      <point x="192" y="-425" type="line"/>
-      <point x="454" y="-425" type="line"/>
       <point x="454" y="324" type="line"/>
       <point x="192" y="324" type="line"/>
+      <point x="192" y="-425" type="line"/>
+      <point x="454" y="-425" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

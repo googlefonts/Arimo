@@ -9,4 +9,10 @@ uni1E46
     <component base="N"/>
     <component base="dotbelowcomb" xOffset="631"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

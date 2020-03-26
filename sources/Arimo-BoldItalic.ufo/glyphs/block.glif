@@ -7,11 +7,16 @@ block
 </note>
   <outline>
     <contour>
-      <point x="1451" y="-621" type="line"/>
-      <point x="1451" y="-621" type="line"/>
       <point x="1451" y="1864" type="line"/>
       <point x="0" y="1864" type="line"/>
       <point x="0" y="-621" type="line"/>
+      <point x="1451" y="-621" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

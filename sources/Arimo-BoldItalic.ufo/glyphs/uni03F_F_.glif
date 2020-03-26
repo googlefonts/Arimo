@@ -44,11 +44,16 @@ uni03FF
       <point x="288" y="1306"/>
     </contour>
     <contour>
-      <point x="516" y="570" type="line"/>
-      <point x="516" y="570" type="line"/>
-      <point x="805" y="570" type="line"/>
       <point x="864" y="875" type="line"/>
       <point x="575" y="875" type="line"/>
+      <point x="516" y="570" type="line"/>
+      <point x="805" y="570" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -10,4 +10,10 @@ uni1E09
     <component base="cedilla" xOffset="141" yOffset="18"/>
     <component base="acute" xOffset="383"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -7,7 +7,13 @@ yen
 </note>
   <outline>
     <contour>
-      <point x="797" y="691" type="line"/>
+      <point x="647" y="236" type="line"/>
+      <point x="985" y="236" type="line"/>
+      <point x="1013" y="383" type="line"/>
+      <point x="675" y="383" type="line"/>
+      <point x="707" y="545" type="line"/>
+      <point x="1045" y="545" type="line"/>
+      <point x="1073" y="691" type="line"/>
       <point x="797" y="691" type="line"/>
       <point x="1301" y="1409" type="line"/>
       <point x="1007" y="1409" type="line"/>
@@ -24,13 +30,12 @@ yen
       <point x="375" y="236" type="line"/>
       <point x="329" y="0" type="line"/>
       <point x="601" y="0" type="line"/>
-      <point x="647" y="236" type="line"/>
-      <point x="985" y="236" type="line"/>
-      <point x="1013" y="383" type="line"/>
-      <point x="675" y="383" type="line"/>
-      <point x="707" y="545" type="line"/>
-      <point x="1045" y="545" type="line"/>
-      <point x="1073" y="691" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

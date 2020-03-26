@@ -7,17 +7,22 @@ circumflex
 </note>
   <outline>
     <contour>
-      <point x="742" y="1221" type="line"/>
+      <point x="458" y="1370" type="line"/>
+      <point x="460" y="1370" type="line"/>
+      <point x="646" y="1201" type="line"/>
+      <point x="738" y="1201" type="line"/>
       <point x="742" y="1221" type="line"/>
       <point x="571" y="1491" type="line"/>
       <point x="367" y="1491" type="line"/>
       <point x="81" y="1221" type="line"/>
       <point x="77" y="1201" type="line"/>
       <point x="193" y="1201" type="line"/>
-      <point x="458" y="1370" type="line"/>
-      <point x="460" y="1370" type="line"/>
-      <point x="646" y="1201" type="line"/>
-      <point x="738" y="1201" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

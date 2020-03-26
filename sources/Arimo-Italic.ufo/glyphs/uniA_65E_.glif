@@ -7,9 +7,6 @@ uniA65E
 </note>
   <outline>
     <contour>
-      <point x="666" y="-425" type="line"/>
-      <point x="666" y="-425" type="line"/>
-      <point x="857" y="-425" type="line"/>
       <point x="1111" y="855" type="line" smooth="yes"/>
       <point x="1122" y="913"/>
       <point x="1131" y="978"/>
@@ -48,6 +45,14 @@ uniA65E
       <point x="947" y="980"/>
       <point x="932" y="916"/>
       <point x="921" y="860" type="curve" smooth="yes"/>
+      <point x="666" y="-425" type="line"/>
+      <point x="857" y="-425" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

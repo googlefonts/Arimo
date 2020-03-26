@@ -6,13 +6,18 @@ acutecomb
 </note>
   <outline>
     <contour>
-      <point x="-158" y="1545" type="line"/>
-      <point x="-158" y="1545" type="line"/>
-      <point x="-10" y="1545" type="line"/>
       <point x="276" y="1784" type="line"/>
       <point x="268" y="1827" type="line"/>
       <point x="10" y="1827" type="line"/>
       <point x="-164" y="1576" type="line"/>
+      <point x="-158" y="1545" type="line"/>
+      <point x="-10" y="1545" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

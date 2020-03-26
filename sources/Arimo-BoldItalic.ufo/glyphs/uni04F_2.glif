@@ -7,6 +7,12 @@ uni04F2
 </note>
   <outline>
     <component base="uni0423"/>
-    <component base="hungarumlaut" xOffset="490" yOffset="332"/>
+    <component base="hungarumlaut.uc" xOffset="497"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

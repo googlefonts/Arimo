@@ -8,7 +8,6 @@ cent
   <outline>
     <contour>
       <point x="560" y="278" type="curve"/>
-      <point x="560" y="278" type="line"/>
       <point x="415" y="278"/>
       <point x="342" y="367"/>
       <point x="342" y="545" type="curve" smooth="yes"/>
@@ -54,4 +53,10 @@ cent
       <point x="697" y="278"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

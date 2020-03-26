@@ -8,4 +8,10 @@ uni02EC
   <outline>
     <component base="caron" xOffset="-265" yOffset="-1626"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -7,11 +7,16 @@ filledrect
 </note>
   <outline>
     <contour>
-      <point x="0" y="616" type="line"/>
+      <point x="2048" y="616" type="line"/>
       <point x="0" y="616" type="line"/>
       <point x="0" y="0" type="line"/>
       <point x="2048" y="0" type="line"/>
-      <point x="2048" y="616" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

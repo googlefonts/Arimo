@@ -10,4 +10,10 @@ shindageshshindot
     <component base="holam" xOffset="1432"/>
     <component base="dagesh" xOffset="1049" yOffset="-79"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -9,4 +9,10 @@ Omegatonos
     <component base="Omega" xOffset="51"/>
     <component base="tonos" xOffset="-233" yOffset="-98"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

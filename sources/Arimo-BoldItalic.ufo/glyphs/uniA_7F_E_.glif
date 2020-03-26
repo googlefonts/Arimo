@@ -7,11 +7,16 @@ uniA7FE
 </note>
   <outline>
     <contour>
-      <point x="37" y="0" type="line"/>
-      <point x="37" y="0" type="line"/>
-      <point x="332" y="0" type="line"/>
       <point x="693" y="1824" type="line"/>
       <point x="398" y="1824" type="line"/>
+      <point x="37" y="0" type="line"/>
+      <point x="332" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -9,4 +9,10 @@ qofdagesh
     <component base="qof"/>
     <component base="dagesh" xOffset="682" yOffset="57"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

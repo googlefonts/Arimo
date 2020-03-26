@@ -7,7 +7,12 @@ uniA732
 </note>
   <outline>
     <contour>
-      <point x="1881" y="0" type="line"/>
+      <point x="347" y="412" type="line"/>
+      <point x="986" y="412" type="line"/>
+      <point x="1061" y="0" type="line"/>
+      <point x="1256" y="0" type="line"/>
+      <point x="1170" y="412" type="line"/>
+      <point x="1806" y="412" type="line"/>
       <point x="1881" y="0" type="line"/>
       <point x="2076" y="0" type="line"/>
       <point x="1784" y="1409" type="line"/>
@@ -17,28 +22,26 @@ uniA732
       <point x="747" y="1409" type="line"/>
       <point x="-101" y="0" type="line"/>
       <point x="107" y="0" type="line"/>
-      <point x="347" y="412" type="line"/>
-      <point x="986" y="412" type="line"/>
-      <point x="1061" y="0" type="line"/>
-      <point x="1256" y="0" type="line"/>
-      <point x="1170" y="412" type="line"/>
-      <point x="1806" y="412" type="line"/>
     </contour>
     <contour>
-      <point x="1650" y="1265" type="line"/>
+      <point x="1251" y="561" type="line"/>
+      <point x="1521" y="1033" type="line"/>
       <point x="1650" y="1265" type="line"/>
       <point x="1691" y="1034" type="line"/>
       <point x="1778" y="561" type="line"/>
-      <point x="1251" y="561" type="line"/>
-      <point x="1521" y="1033" type="line"/>
     </contour>
     <contour>
-      <point x="830" y="1265" type="line"/>
+      <point x="431" y="561" type="line"/>
+      <point x="701" y="1033" type="line"/>
       <point x="830" y="1265" type="line"/>
       <point x="871" y="1034" type="line"/>
       <point x="958" y="561" type="line"/>
-      <point x="431" y="561" type="line"/>
-      <point x="701" y="1033" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

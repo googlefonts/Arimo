@@ -44,17 +44,22 @@ uniA7A0
       <point x="390" y="-20"/>
     </contour>
     <contour>
-      <point x="861" y="545" type="line"/>
+      <point x="303" y="490" type="curve"/>
+      <point x="890" y="692" type="line"/>
       <point x="861" y="545" type="line"/>
       <point x="1282" y="545" type="line"/>
       <point x="1231" y="291" type="line"/>
-      <point x="1117.667" y="192.333"/>
+      <point x="1118" y="192"/>
       <point x="936" y="135"/>
       <point x="748" y="135" type="curve" smooth="yes"/>
-      <point x="490.667" y="135"/>
-      <point x="333.667" y="263.333"/>
-      <point x="303" y="490" type="curve"/>
-      <point x="890" y="692" type="line"/>
+      <point x="491" y="135"/>
+      <point x="334" y="263"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -6,6 +6,17 @@
 anoteleia
 </note>
   <outline>
-    <component base="middot" xOffset="-6"/>
+    <contour>
+      <point x="530" y="836" type="line"/>
+      <point x="242" y="836" type="line"/>
+      <point x="183" y="531" type="line"/>
+      <point x="471" y="531" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

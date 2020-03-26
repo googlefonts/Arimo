@@ -7,6 +7,7 @@ mu1
 </note>
   <outline>
     <contour>
+      <point x="306" y="-45" type="line"/>
       <point x="322" y="70" type="line"/>
       <point x="328" y="70" type="line"/>
       <point x="348" y="15"/>
@@ -49,7 +50,12 @@ mu1
       <point x="244" y="1082" type="line"/>
       <point x="-47" y="-425" type="line"/>
       <point x="233" y="-425" type="line"/>
-      <point x="306" y="-45" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

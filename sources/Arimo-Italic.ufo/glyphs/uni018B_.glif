@@ -32,11 +32,17 @@ uni018B
       <point x="907" y="152" type="line"/>
       <point x="563" y="152" type="line" smooth="yes"/>
       <point x="367" y="152"/>
-      <point x="265" y="235.333"/>
+      <point x="265" y="235"/>
       <point x="265" y="386" type="curve" smooth="yes"/>
       <point x="265" y="570"/>
-      <point x="388.0" y="662.0"/>
+      <point x="388" y="662"/>
       <point x="634" y="662" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>
