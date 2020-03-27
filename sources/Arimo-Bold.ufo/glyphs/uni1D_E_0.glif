@@ -16,7 +16,9 @@ uni1DE0
       <point x="-4" y="1715"/>
       <point x="-53" y="1689"/>
       <point x="-85" y="1637" type="curve"/>
-      <point x="-92" y="1706" type="line"/>
+      <point x="-87" y="1660"/>
+      <point x="-90" y="1683"/>
+      <point x="-92" y="1706" type="curve"/>
       <point x="-230" y="1706" type="line"/>
       <point x="-227.333" y="1684.667"/>
       <point x="-226" y="1646"/>

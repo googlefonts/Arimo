@@ -7,8 +7,6 @@ uni02B6
 </note>
   <outline>
     <contour>
-      <point x="372" y="946" type="line"/>
-      <point x="372" y="946" type="line"/>
       <point x="243" y="946" type="line"/>
       <point x="243" y="1252" type="line"/>
       <point x="51" y="1252" type="line"/>
@@ -22,6 +20,8 @@ uni02B6
       <point x="549" y="920" type="curve"/>
       <point x="768" y="1252" type="line"/>
       <point x="557" y="1252" type="line"/>
+      <point x="372" y="946" type="line"/>
+      <point x="372" y="946" type="line"/>
     </contour>
     <contour>
       <point x="242" y="613" type="line"/>

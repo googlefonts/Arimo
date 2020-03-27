@@ -6,14 +6,13 @@ uni0355
 </note>
   <outline>
     <contour>
-      <point x="141" y="-175" type="line"/>
+      <point x="141" y="-257" type="line"/>
       <point x="141" y="-175" type="line"/>
       <point x="-140" y="-6" type="line"/>
       <point x="-140" y="-120" type="line"/>
       <point x="30" y="-216" type="line"/>
       <point x="-140" y="-312" type="line"/>
       <point x="-140" y="-426" type="line"/>
-      <point x="141" y="-257" type="line"/>
     </contour>
   </outline>
 </glyph>

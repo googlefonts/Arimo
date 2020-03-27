@@ -17,7 +17,9 @@ uni1DF0
       <point x="38.667" y="1201"/>
       <point x="83" y="1219"/>
       <point x="119" y="1279" type="curve"/>
-      <point x="126" y="1210" type="line"/>
+      <point x="121" y="1256"/>
+      <point x="124" y="1233"/>
+      <point x="126" y="1210" type="curve"/>
       <point x="264" y="1210" type="line"/>
       <point x="261.333" y="1231.333"/>
       <point x="260" y="1269.667"/>

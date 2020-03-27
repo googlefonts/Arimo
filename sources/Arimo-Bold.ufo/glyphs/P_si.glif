@@ -7,6 +7,8 @@ Psi
 </note>
   <outline>
     <contour>
+      <point x="689" y="0" type="line"/>
+      <point x="968" y="0" type="line"/>
       <point x="968" y="427" type="line"/>
       <point x="968" y="427" type="line"/>
       <point x="1008" y="427" type="line" smooth="yes"/>
@@ -34,8 +36,6 @@ Psi
       <point x="275.667" y="427"/>
       <point x="649" y="427" type="curve" smooth="yes"/>
       <point x="689" y="427" type="line"/>
-      <point x="689" y="0" type="line"/>
-      <point x="968" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

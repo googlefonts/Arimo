@@ -8,7 +8,6 @@ uni1D15
   <outline>
     <contour>
       <point x="483" y="1102" type="curve"/>
-      <point x="483" y="1102" type="line"/>
       <point x="483" y="976" type="line"/>
       <point x="599" y="970.667"/>
       <point x="663" y="909"/>
@@ -47,12 +46,11 @@ uni1D15
       <point x="840" y="693"/>
       <point x="840" y="821" type="curve" smooth="yes"/>
       <point x="840" y="986.333"/>
-      <point x="703" y="1096.667"/>
+      <point x="703" y="1097"/>
     </contour>
     <contour>
-      <point x="464" y="504" type="curve"/>
-      <point x="464" y="504" type="line"/>
-      <point x="610.667" y="504"/>
+      <point x="464" y="504" type="curve" smooth="yes"/>
+      <point x="611.0" y="504.0"/>
       <point x="692" y="433"/>
       <point x="692" y="321" type="curve" smooth="yes"/>
       <point x="692" y="182.333"/>
@@ -62,7 +60,7 @@ uni1D15
       <point x="243" y="187"/>
       <point x="243" y="307" type="curve" smooth="yes"/>
       <point x="243" y="424.333"/>
-      <point x="325.333" y="504"/>
+      <point x="325" y="504"/>
     </contour>
   </outline>
 </glyph>

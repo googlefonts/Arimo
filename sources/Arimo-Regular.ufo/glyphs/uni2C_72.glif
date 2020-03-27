@@ -14,18 +14,15 @@ uni2C72
       <point x="1664" y="1179" type="curve" smooth="yes"/>
       <point x="1478" y="514" type="line" smooth="yes"/>
       <point x="1465.333" y="469.333"/>
-      <point x="1440" y="365.667"/>
-      <point x="1402" y="203" type="curve" smooth="yes"/>
-      <point x="1393" y="168" type="line"/>
+      <point x="1424" y="302"/>
+      <point x="1393" y="168" type="curve"/>
       <point x="1371.667" y="267.333"/>
       <point x="1342.333" y="388.667"/>
       <point x="1305" y="532" type="curve" smooth="yes"/>
       <point x="1060" y="1409" type="line"/>
       <point x="877" y="1409" type="line"/>
-      <point x="713" y="828.333"/>
-      <point x="620.5" y="494.667"/>
-      <point x="599.5" y="408" type="curve" smooth="yes"/>
-      <point x="578.5" y="321.333"/>
+      <point x="618" y="481" type="line" smooth="yes"/>
+      <point x="594" y="395"/>
       <point x="560" y="241.333"/>
       <point x="544" y="168" type="curve"/>
       <point x="518.667" y="286.667"/>

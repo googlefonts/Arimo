@@ -8,7 +8,6 @@ uni04FD
   <outline>
     <contour>
       <point x="567" y="392" type="line"/>
-      <point x="567" y="392" type="line"/>
       <point x="781" y="67" type="line" smooth="yes"/>
       <point x="831.667" y="-6.333"/>
       <point x="857" y="-61"/>

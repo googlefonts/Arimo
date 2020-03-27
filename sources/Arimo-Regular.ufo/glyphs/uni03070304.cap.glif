@@ -5,18 +5,18 @@ uni03070304.cap
 </note>
   <outline>
     <contour>
-      <point x="-87" y="1468" type="line"/>
-      <point x="-87" y="1468" type="line"/>
       <point x="76" y="1468" type="line"/>
       <point x="76" y="1652" type="line"/>
       <point x="-87" y="1652" type="line"/>
+      <point x="-87" y="1468" type="line"/>
+      <point x="-87" y="1468" type="line"/>
     </contour>
     <contour>
+      <point x="-274" y="1835" type="line"/>
+      <point x="-274" y="1708" type="line"/>
       <point x="275" y="1708" type="line"/>
       <point x="275" y="1708" type="line"/>
       <point x="275" y="1835" type="line"/>
-      <point x="-274" y="1835" type="line"/>
-      <point x="-274" y="1708" type="line"/>
     </contour>
   </outline>
 </glyph>

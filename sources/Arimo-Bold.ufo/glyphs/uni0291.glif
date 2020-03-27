@@ -36,9 +36,8 @@ uni0291
       <point x="450.333" y="-83.333"/>
     </contour>
     <contour>
-      <point x="1148" y="288" type="curve"/>
-      <point x="1148" y="288" type="line"/>
-      <point x="1148" y="234.667"/>
+      <point x="1148" y="288" type="curve" smooth="yes"/>
+      <point x="1148.0" y="235.0"/>
       <point x="1106" y="205"/>
       <point x="1038" y="205" type="curve" smooth="yes"/>
       <point x="876" y="205" type="line"/>

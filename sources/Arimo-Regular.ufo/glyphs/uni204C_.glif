@@ -7,6 +7,8 @@ uni204C
 </note>
   <outline>
     <contour>
+      <point x="891" y="980" type="line"/>
+      <point x="1020" y="980" type="line"/>
       <point x="1020" y="1082" type="line"/>
       <point x="1020" y="1082" type="line"/>
       <point x="457" y="1082" type="line" smooth="yes"/>
@@ -19,8 +21,6 @@ uni204C
       <point x="1020" y="341" type="line"/>
       <point x="1020" y="443" type="line"/>
       <point x="891" y="443" type="line"/>
-      <point x="891" y="980" type="line"/>
-      <point x="1020" y="980" type="line"/>
     </contour>
     <contour>
       <point x="779" y="980" type="line"/>

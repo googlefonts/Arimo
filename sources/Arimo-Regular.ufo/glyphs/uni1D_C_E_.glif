@@ -7,7 +7,6 @@ uni1DCE
   <outline>
     <contour>
       <point x="-175" y="1601" type="curve"/>
-      <point x="-175" y="1601" type="line"/>
       <point x="-175" y="1494" type="line"/>
       <point x="-134.333" y="1510"/>
       <point x="-96" y="1518"/>

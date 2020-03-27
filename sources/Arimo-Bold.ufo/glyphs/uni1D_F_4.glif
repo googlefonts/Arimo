@@ -16,7 +16,9 @@ uni1DF4
       <point x="4.667" y="1201"/>
       <point x="49" y="1219"/>
       <point x="85" y="1279" type="curve"/>
-      <point x="92" y="1210" type="line"/>
+      <point x="87" y="1256"/>
+      <point x="90" y="1233"/>
+      <point x="92" y="1210" type="curve"/>
       <point x="230" y="1210" type="line"/>
       <point x="227.333" y="1231.333"/>
       <point x="226" y="1269.667"/>

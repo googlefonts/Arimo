@@ -52,18 +52,20 @@ uni1D70
       <point x="834" y="344" type="curve"/>
     </contour>
     <contour>
+      <point x="427" y="638" type="curve"/>
       <point x="427" y="638" type="line"/>
-      <point x="427" y="638" type="line"/>
-      <point x="443" y="791.333"/>
+      <point x="443" y="791"/>
       <point x="521" y="892"/>
       <point x="641" y="892" type="curve" smooth="yes"/>
-      <point x="769.667" y="892"/>
+      <point x="770" y="892"/>
       <point x="834" y="797"/>
       <point x="834" y="607" type="curve" smooth="yes"/>
       <point x="834" y="526" type="line"/>
-      <point x="762.667" y="538.667"/>
-      <point x="660" y="566.667"/>
-      <point x="526" y="610" type="curve" smooth="yes"/>
+      <point x="783" y="535"/>
+      <point x="716" y="552"/>
+      <point x="634" y="576" type="curve" smooth="yes"/>
+      <point x="600" y="586"/>
+      <point x="565.2642116739285" y="598.8949704356567"/>
     </contour>
   </outline>
 </glyph>

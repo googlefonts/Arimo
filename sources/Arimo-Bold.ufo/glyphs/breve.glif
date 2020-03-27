@@ -7,9 +7,8 @@ breve
 </note>
   <outline>
     <contour>
-      <point x="295" y="1183" type="curve"/>
-      <point x="295" y="1183" type="line"/>
-      <point x="499" y="1183"/>
+      <point x="296" y="1183" type="curve"/>
+      <point x="500" y="1183"/>
       <point x="627" y="1308.667"/>
       <point x="651" y="1506" type="curve"/>
       <point x="487" y="1506" type="line"/>
@@ -21,7 +20,7 @@ breve
       <point x="106" y="1506" type="curve"/>
       <point x="-57" y="1506" type="line"/>
       <point x="-42.333" y="1318"/>
-      <point x="93.667" y="1183"/>
+      <point x="95" y="1183"/>
     </contour>
   </outline>
 </glyph>

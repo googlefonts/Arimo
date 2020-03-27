@@ -7,7 +7,6 @@ uni0335
   <outline>
     <contour>
       <point x="325" y="255" type="line"/>
-      <point x="325" y="255" type="line"/>
       <point x="325" y="466" type="line"/>
       <point x="-325" y="466" type="line"/>
       <point x="-325" y="255" type="line"/>

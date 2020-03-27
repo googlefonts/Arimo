@@ -7,9 +7,8 @@ Uhorn
 </note>
   <outline>
     <contour>
-      <point x="715" y="-20" type="curve"/>
-      <point x="715" y="-20" type="line"/>
-      <point x="1112.333" y="-20"/>
+      <point x="715" y="-20" type="curve" smooth="yes"/>
+      <point x="1112.0" y="-20.0"/>
       <point x="1339" y="184.333"/>
       <point x="1339" y="543" type="curve" smooth="yes"/>
       <point x="1339" y="761" type="line"/>

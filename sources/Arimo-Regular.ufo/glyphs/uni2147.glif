@@ -48,7 +48,6 @@ uni2147
     <contour>
       <point x="675" y="996" type="curve"/>
       <point x="675" y="996" type="line"/>
-      <point x="694" y="996" type="line"/>
       <point x="712" y="994" type="line"/>
       <point x="636" y="627" type="line"/>
       <point x="568" y="611.667"/>

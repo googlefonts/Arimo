@@ -7,7 +7,10 @@ uni03DC
 </note>
   <outline>
     <contour>
-      <point x="359" y="1253" type="line"/>
+      <point x="878" y="443" type="line"/>
+      <point x="1059" y="443" type="line"/>
+      <point x="1059" y="810" type="line"/>
+      <point x="359" y="810" type="line"/>
       <point x="359" y="1253" type="line"/>
       <point x="1169" y="1253" type="line"/>
       <point x="1169" y="1409" type="line"/>
@@ -16,10 +19,6 @@ uni03DC
       <point x="359" y="0" type="line"/>
       <point x="359" y="652" type="line"/>
       <point x="878" y="652" type="line"/>
-      <point x="878" y="443" type="line"/>
-      <point x="1059" y="443" type="line"/>
-      <point x="1059" y="810" type="line"/>
-      <point x="359" y="810" type="line"/>
     </contour>
   </outline>
 </glyph>

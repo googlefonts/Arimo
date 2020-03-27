@@ -7,23 +7,19 @@ uniFE23
   <outline>
     <contour>
       <point x="0" y="1435" type="curve"/>
-      <point x="0" y="1435" type="line"/>
       <point x="0" y="1275" type="line"/>
       <point x="117.333" y="1247"/>
       <point x="235" y="1220"/>
       <point x="339" y="1220" type="curve" smooth="yes"/>
-      <point x="501.667" y="1220"/>
-      <point x="620.833" y="1254.167"/>
-      <point x="693.5" y="1329.5" type="curve" smooth="yes"/>
-      <point x="729.833" y="1367.167"/>
-      <point x="756.333" y="1420"/>
+      <point x="581.3542395136408" y="1220.0"/>
+      <point x="722.3103521388464" y="1281.1903729190353"/>
       <point x="773" y="1488" type="curve"/>
       <point x="625" y="1488" type="line"/>
       <point x="598.333" y="1398.667"/>
       <point x="519" y="1369"/>
       <point x="343" y="1369" type="curve" smooth="yes"/>
       <point x="251" y="1369"/>
-      <point x="129.333" y="1403"/>
+      <point x="122" y="1399"/>
     </contour>
   </outline>
 </glyph>

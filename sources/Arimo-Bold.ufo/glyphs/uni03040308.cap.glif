@@ -6,20 +6,17 @@ uni03040308.cap
   <outline>
     <contour>
       <point x="263" y="1683" type="line"/>
-      <point x="263" y="1683" type="line"/>
       <point x="263" y="1835" type="line"/>
       <point x="103" y="1835" type="line"/>
       <point x="103" y="1683" type="line"/>
     </contour>
     <contour>
       <point x="-103" y="1683" type="line"/>
-      <point x="-103" y="1683" type="line"/>
       <point x="-103" y="1835" type="line"/>
       <point x="-263" y="1835" type="line"/>
       <point x="-263" y="1683" type="line"/>
     </contour>
     <contour>
-      <point x="-306" y="1604" type="line"/>
       <point x="-306" y="1604" type="line"/>
       <point x="-306" y="1466" type="line"/>
       <point x="306" y="1466" type="line"/>

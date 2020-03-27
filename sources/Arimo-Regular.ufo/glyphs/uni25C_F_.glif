@@ -7,9 +7,8 @@ uni25CF
 </note>
   <outline>
     <contour>
-      <point x="618" y="1018" type="curve"/>
-      <point x="618" y="1018" type="line"/>
-      <point x="466" y="1018"/>
+      <point x="618" y="1018" type="curve" smooth="yes"/>
+      <point x="466.0" y="1018.0"/>
       <point x="307.5" y="934.5"/>
       <point x="233.5" y="792.5" type="curve" smooth="yes"/>
       <point x="196.5" y="721.5"/>
@@ -25,7 +24,7 @@ uni25CF
       <point x="981.167" y="882.667"/>
       <point x="836.5" y="960" type="curve" smooth="yes"/>
       <point x="764.167" y="998.667"/>
-      <point x="691.333" y="1018"/>
+      <point x="691" y="1018"/>
     </contour>
   </outline>
 </glyph>

@@ -7,13 +7,11 @@ uni0333
   <outline>
     <contour>
       <point x="-315" y="-398" type="line"/>
-      <point x="-315" y="-398" type="line"/>
       <point x="312" y="-398" type="line"/>
       <point x="312" y="-195" type="line"/>
       <point x="-315" y="-195" type="line"/>
     </contour>
     <contour>
-      <point x="-315" y="-771" type="line"/>
       <point x="-315" y="-771" type="line"/>
       <point x="312" y="-771" type="line"/>
       <point x="312" y="-570" type="line"/>

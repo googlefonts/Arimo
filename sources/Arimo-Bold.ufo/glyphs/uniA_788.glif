@@ -7,14 +7,13 @@ uniA788
 </note>
   <outline>
     <contour>
-      <point x="689" y="-404" type="line"/>
-      <point x="689" y="-404" type="line"/>
-      <point x="439" y="-109" type="line"/>
-      <point x="245" y="-109" type="line"/>
       <point x="-8" y="-404" type="line"/>
       <point x="219" y="-404" type="line"/>
       <point x="337" y="-255" type="line"/>
       <point x="463" y="-404" type="line"/>
+      <point x="689" y="-404" type="line"/>
+      <point x="439" y="-109" type="line"/>
+      <point x="245" y="-109" type="line"/>
     </contour>
   </outline>
 </glyph>

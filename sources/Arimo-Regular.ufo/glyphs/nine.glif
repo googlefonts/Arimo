@@ -37,11 +37,8 @@ nine
     <contour>
       <point x="846" y="907" type="curve"/>
       <point x="846" y="907" type="line"/>
-      <point x="846" y="796.333"/>
-      <point x="791.333" y="705.833"/>
-      <point x="702" y="658.5" type="curve" smooth="yes"/>
-      <point x="657.333" y="634.833"/>
-      <point x="609" y="623"/>
+      <point x="846.0" y="740.2561525232489"/>
+      <point x="711.6213893779575" y="623.0"/>
       <point x="557" y="623" type="curve" smooth="yes"/>
       <point x="386.333" y="623"/>
       <point x="279" y="750.667"/>

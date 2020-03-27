@@ -7,9 +7,8 @@ uni0184
 </note>
   <outline>
     <contour>
-      <point x="1263" y="418" type="curve"/>
-      <point x="1263" y="418" type="line"/>
-      <point x="1263" y="671.333"/>
+      <point x="1263" y="418" type="curve" smooth="yes"/>
+      <point x="1263.0" y="671.0"/>
       <point x="1082" y="823"/>
       <point x="766" y="823" type="curve" smooth="yes"/>
       <point x="359" y="823" type="line"/>
@@ -27,9 +26,8 @@ uni0184
       <point x="1263" y="336"/>
     </contour>
     <contour>
-      <point x="1071" y="416" type="curve"/>
-      <point x="1071" y="416" type="line"/>
-      <point x="1071" y="250.667"/>
+      <point x="1071" y="416" type="curve" smooth="yes"/>
+      <point x="1071.0" y="251.0"/>
       <point x="969.667" y="151"/>
       <point x="751" y="151" type="curve" smooth="yes"/>
       <point x="359" y="151" type="line"/>

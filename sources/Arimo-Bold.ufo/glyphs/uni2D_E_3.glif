@@ -15,10 +15,6 @@ uni2DE3
       <point x="-19" y="1605" type="curve"/>
     </contour>
     <contour>
-      <point x="-168" y="1210" type="line"/>
-      <point x="-168" y="1210" type="line"/>
-      <point x="169" y="1210" type="line"/>
-      <point x="169" y="1069" type="line"/>
       <point x="297" y="1069" type="line"/>
       <point x="297" y="1310" type="line"/>
       <point x="232" y="1310" type="line"/>
@@ -30,6 +26,10 @@ uni2DE3
       <point x="-297" y="1310" type="line"/>
       <point x="-297" y="1069" type="line"/>
       <point x="-168" y="1069" type="line"/>
+      <point x="-168" y="1210" type="line"/>
+      <point x="-168" y="1210" type="line"/>
+      <point x="169" y="1210" type="line"/>
+      <point x="169" y="1069" type="line"/>
     </contour>
   </outline>
 </glyph>

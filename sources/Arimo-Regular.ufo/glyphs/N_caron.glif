@@ -7,6 +7,6 @@ Ncaron
 </note>
   <outline>
     <component base="N"/>
-    <component base="caron.uc" xOffset="403"/>
+    <component base="caron.uc" xOffset="458"/>
   </outline>
 </glyph>

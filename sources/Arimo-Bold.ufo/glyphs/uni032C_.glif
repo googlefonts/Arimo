@@ -5,6 +5,17 @@
 uni032C
 </note>
   <outline>
-    <component base="caron.uc" xOffset="-340" yOffset="-1933"/>
+    <contour>
+      <point x="120" y="-403" type="line"/>
+      <point x="370" y="-127" type="line"/>
+      <point x="370" y="-98" type="line"/>
+      <point x="211" y="-98" type="line"/>
+      <point x="8" y="-250" type="line"/>
+      <point x="4" y="-250" type="line"/>
+      <point x="-207" y="-98" type="line"/>
+      <point x="-367" y="-98" type="line"/>
+      <point x="-367" y="-127" type="line"/>
+      <point x="-109" y="-403" type="line"/>
+    </contour>
   </outline>
 </glyph>

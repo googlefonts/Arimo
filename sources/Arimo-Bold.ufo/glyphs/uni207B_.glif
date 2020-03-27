@@ -7,11 +7,11 @@ uni207B
 </note>
   <outline>
     <contour>
+      <point x="620" y="1127" type="line"/>
+      <point x="63" y="1127" type="line"/>
       <point x="63" y="1007" type="line"/>
       <point x="63" y="1007" type="line"/>
       <point x="620" y="1007" type="line"/>
-      <point x="620" y="1127" type="line"/>
-      <point x="63" y="1127" type="line"/>
     </contour>
   </outline>
 </glyph>

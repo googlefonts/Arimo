@@ -14,9 +14,6 @@ circumflexgrave
       <point x="-210" y="1647" type="line"/>
     </contour>
     <contour>
-      <point x="323" y="1482" type="line"/>
-      <point x="323" y="1482" type="line"/>
-      <point x="99" y="1752" type="line"/>
       <point x="-105" y="1752" type="line"/>
       <point x="-329" y="1482" type="line"/>
       <point x="-329" y="1462" type="line"/>
@@ -25,6 +22,8 @@ circumflexgrave
       <point x="-1" y="1631" type="line"/>
       <point x="218" y="1462" type="line"/>
       <point x="323" y="1462" type="line"/>
+      <point x="323" y="1482" type="line"/>
+      <point x="99" y="1752" type="line"/>
     </contour>
   </outline>
 </glyph>

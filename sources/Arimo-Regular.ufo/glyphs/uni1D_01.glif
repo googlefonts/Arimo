@@ -7,7 +7,7 @@ uni1D01
 </note>
   <outline>
     <contour>
-      <point x="1456" y="0" type="line"/>
+      <point x="763" y="0" type="line"/>
       <point x="1456" y="0" type="line"/>
       <point x="1456" y="139" type="line"/>
       <point x="943" y="139" type="line"/>
@@ -23,7 +23,6 @@ uni1D01
       <point x="219" y="0" type="line"/>
       <point x="379" y="332" type="line"/>
       <point x="763" y="332" type="line"/>
-      <point x="763" y="0" type="line"/>
     </contour>
     <contour>
       <point x="443" y="470" type="line"/>

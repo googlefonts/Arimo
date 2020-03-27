@@ -7,6 +7,8 @@ uni2042
 </note>
   <outline>
     <contour>
+      <point x="1289" y="1042" type="line"/>
+      <point x="1221" y="1239" type="line"/>
       <point x="986" y="1135" type="line"/>
       <point x="986" y="1135" type="line"/>
       <point x="1004" y="1409" type="line"/>
@@ -21,10 +23,10 @@ uni2042
       <point x="1041" y="647" type="line"/>
       <point x="1225" y="768" type="line"/>
       <point x="1039" y="981" type="line"/>
-      <point x="1289" y="1042" type="line"/>
-      <point x="1221" y="1239" type="line"/>
     </contour>
     <contour>
+      <point x="789" y="342" type="line"/>
+      <point x="721" y="539" type="line"/>
       <point x="486" y="435" type="line"/>
       <point x="486" y="435" type="line"/>
       <point x="504" y="709" type="line"/>
@@ -39,10 +41,10 @@ uni2042
       <point x="541" y="-53" type="line"/>
       <point x="725" y="68" type="line"/>
       <point x="539" y="281" type="line"/>
-      <point x="789" y="342" type="line"/>
-      <point x="721" y="539" type="line"/>
     </contour>
     <contour>
+      <point x="1789" y="342" type="line"/>
+      <point x="1721" y="539" type="line"/>
       <point x="1486" y="435" type="line"/>
       <point x="1486" y="435" type="line"/>
       <point x="1504" y="709" type="line"/>
@@ -57,8 +59,6 @@ uni2042
       <point x="1541" y="-53" type="line"/>
       <point x="1725" y="68" type="line"/>
       <point x="1539" y="281" type="line"/>
-      <point x="1789" y="342" type="line"/>
-      <point x="1721" y="539" type="line"/>
     </contour>
   </outline>
 </glyph>

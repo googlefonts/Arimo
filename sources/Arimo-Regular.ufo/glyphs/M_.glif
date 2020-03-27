@@ -23,10 +23,10 @@ M
       <point x="168" y="1409" type="line"/>
       <point x="168" y="0" type="line"/>
       <point x="338" y="0" type="line"/>
-      <point x="338" y="940" type="line"/>
-      <point x="334" y="1129" type="line"/>
-      <point x="331" y="1240" type="line"/>
-      <point x="364" y="1130" type="line"/>
+      <point x="338" y="940" type="line" smooth="yes"/>
+      <point x="338.0" y="1040"/>
+      <point x="333" y="1140"/>
+      <point x="331" y="1240" type="curve"/>
       <point x="420" y="960" type="line"/>
       <point x="789" y="0" type="line"/>
       <point x="923" y="0" type="line"/>

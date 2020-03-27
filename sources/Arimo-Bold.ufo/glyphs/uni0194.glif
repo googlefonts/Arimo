@@ -34,25 +34,18 @@ uni0194
       <point x="322" y="1409" type="line"/>
     </contour>
     <contour>
-      <point x="734" y="-121" type="curve"/>
-      <point x="734" y="-121" type="line"/>
-      <point x="734" y="-185"/>
+      <point x="734" y="-121" type="curve" smooth="yes"/>
+      <point x="734.0" y="-185.0"/>
       <point x="701.333" y="-213"/>
       <point x="656" y="-213" type="curve" smooth="yes"/>
       <point x="610.667" y="-213"/>
       <point x="579" y="-184"/>
       <point x="579" y="-120" type="curve" smooth="yes"/>
-      <point x="579" y="-84"/>
-      <point x="586.5" y="-53.5"/>
-      <point x="600.5" y="-15.5" type="curve" smooth="yes"/>
-      <point x="607.5" y="3.5"/>
-      <point x="626" y="40.333"/>
+      <point x="579.0" y="-66.0"/>
+      <point x="607.0" y="9"/>
       <point x="656" y="95" type="curve"/>
-      <point x="688.667" y="35"/>
-      <point x="709.833" y="-9.833"/>
-      <point x="719.5" y="-39.5" type="curve" smooth="yes"/>
-      <point x="729.167" y="-69.167"/>
-      <point x="734" y="-96.333"/>
+      <point x="715" y="-3"/>
+      <point x="734.0" y="-71.5149882539568"/>
     </contour>
   </outline>
 </glyph>

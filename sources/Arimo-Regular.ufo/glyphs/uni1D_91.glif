@@ -7,13 +7,8 @@ uni1D91
 </note>
   <outline>
     <contour>
-      <point x="825" y="174" type="line"/>
-      <point x="825" y="174" type="line"/>
-      <point x="825" y="-129" type="line" smooth="yes"/>
-      <point x="825" y="-326.333"/>
-      <point x="918.333" y="-425"/>
       <point x="1105" y="-425" type="curve" smooth="yes"/>
-      <point x="1145.667" y="-425"/>
+      <point x="1146" y="-425"/>
       <point x="1187" y="-420"/>
       <point x="1229" y="-410" type="curve"/>
       <point x="1229" y="-256" type="line"/>
@@ -37,7 +32,6 @@ uni1D91
       <point x="915.333" y="1498"/>
       <point x="821" y="1399.333"/>
       <point x="821" y="1202" type="curve" smooth="yes"/>
-      <point x="821" y="1035" type="line"/>
       <point x="823" y="914" type="line"/>
       <point x="821" y="914" type="line"/>
       <point x="754.333" y="1044.667"/>
@@ -52,11 +46,14 @@ uni1D91
       <point x="646.667" y="-20"/>
       <point x="754.333" y="35.333"/>
       <point x="821" y="174" type="curve"/>
+      <point x="825" y="174" type="line"/>
+      <point x="825" y="-129" type="line" smooth="yes"/>
+      <point x="825" y="-326.333"/>
+      <point x="918" y="-425"/>
     </contour>
     <contour>
-      <point x="275" y="542" type="curve"/>
-      <point x="275" y="542" type="line"/>
-      <point x="275" y="843.333"/>
+      <point x="275" y="542" type="curve" smooth="yes"/>
+      <point x="275.0" y="843.0"/>
       <point x="350.667" y="969"/>
       <point x="532" y="969" type="curve" smooth="yes"/>
       <point x="733.333" y="969"/>
@@ -66,7 +63,7 @@ uni1D91
       <point x="734" y="119"/>
       <point x="530" y="119" type="curve" smooth="yes"/>
       <point x="350" y="119"/>
-      <point x="275" y="239.333"/>
+      <point x="275" y="239"/>
     </contour>
   </outline>
 </glyph>

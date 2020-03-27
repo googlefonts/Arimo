@@ -7,11 +7,6 @@ parenleft
 </note>
   <outline>
     <contour>
-      <point x="127" y="532" type="curve"/>
-      <point x="127" y="532" type="line"/>
-      <point x="127" y="528" type="line" smooth="yes"/>
-      <point x="127" y="145.333"/>
-      <point x="244" y="-152"/>
       <point x="496" y="-424" type="curve"/>
       <point x="670" y="-424" type="line"/>
       <point x="418" y="-142.667"/>
@@ -22,7 +17,10 @@ parenleft
       <point x="670" y="1484" type="curve"/>
       <point x="496" y="1484" type="line"/>
       <point x="245.333" y="1213.333"/>
-      <point x="127" y="917.333"/>
+      <point x="127.0" y="917.0"/>
+      <point x="127" y="528" type="curve" smooth="yes"/>
+      <point x="127" y="145.333"/>
+      <point x="244" y="-152"/>
     </contour>
   </outline>
 </glyph>

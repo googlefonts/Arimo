@@ -7,9 +7,8 @@ uni0454
 </note>
   <outline>
     <contour>
-      <point x="564" y="-20" type="curve"/>
-      <point x="564" y="-20" type="line"/>
-      <point x="800" y="-20"/>
+      <point x="564" y="-20" type="curve" smooth="yes"/>
+      <point x="800.0" y="-20.0"/>
       <point x="962" y="109.667"/>
       <point x="990" y="315" type="curve"/>
       <point x="808" y="327" type="line"/>
@@ -36,7 +35,7 @@ uni0454
       <point x="87" y="903.333"/>
       <point x="87" y="542" type="curve" smooth="yes"/>
       <point x="87" y="175.333"/>
-      <point x="254.667" y="-20"/>
+      <point x="255" y="-20"/>
     </contour>
   </outline>
 </glyph>

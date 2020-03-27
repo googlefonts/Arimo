@@ -8,7 +8,6 @@ uni04FA
   <outline>
     <contour>
       <point x="277" y="0" type="line"/>
-      <point x="277" y="0" type="line"/>
       <point x="277" y="-119" type="line" smooth="yes"/>
       <point x="277" y="-217.667"/>
       <point x="236" y="-267"/>
@@ -29,10 +28,10 @@ uni04FA
       <point x="779" y="659" type="line"/>
       <point x="779" y="806" type="line"/>
       <point x="359" y="806" type="line"/>
-      <point x="359" y="1254" type="line"/>
-      <point x="1071" y="1254" type="line"/>
-      <point x="1071" y="1410" type="line"/>
-      <point x="168" y="1410" type="line"/>
+      <point x="359" y="1253" type="line"/>
+      <point x="1071" y="1253" type="line"/>
+      <point x="1071" y="1409" type="line"/>
+      <point x="168" y="1409" type="line"/>
       <point x="168" y="806" type="line"/>
       <point x="-1" y="806" type="line"/>
       <point x="-1" y="659" type="line"/>

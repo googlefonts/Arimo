@@ -7,13 +7,11 @@ uni1D4D
 </note>
   <outline>
     <contour>
-      <point x="372" y="190" type="curve"/>
-      <point x="372" y="190" type="line"/>
-      <point x="582.667" y="190"/>
+      <point x="372" y="190" type="curve" smooth="yes"/>
+      <point x="583.0" y="190.0"/>
       <point x="681" y="297.333"/>
       <point x="681" y="512" type="curve" smooth="yes"/>
       <point x="681" y="1095" type="line"/>
-      <point x="684" y="1232" type="line"/>
       <point x="685" y="1253" type="line"/>
       <point x="571" y="1253" type="line"/>
       <point x="568.333" y="1249"/>
@@ -45,9 +43,8 @@ uni1D4D
       <point x="204" y="190"/>
     </contour>
     <contour>
-      <point x="560" y="871" type="curve"/>
-      <point x="560" y="871" type="line"/>
-      <point x="560" y="689.667"/>
+      <point x="560" y="871" type="curve" smooth="yes"/>
+      <point x="560.0" y="690.0"/>
       <point x="481.667" y="578"/>
       <point x="363" y="578" type="curve" smooth="yes"/>
       <point x="235" y="578"/>
@@ -57,7 +54,7 @@ uni1D4D
       <point x="239.667" y="1170"/>
       <point x="365" y="1170" type="curve" smooth="yes"/>
       <point x="482.333" y="1170"/>
-      <point x="560" y="1057.667"/>
+      <point x="560" y="1058"/>
     </contour>
   </outline>
 </glyph>

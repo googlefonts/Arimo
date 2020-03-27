@@ -18,7 +18,7 @@ semicolon
       <point x="184" y="-262" type="curve"/>
       <point x="307" y="-262" type="line"/>
       <point x="360.333" y="-175.333"/>
-      <point x="385" y="-90.333"/>
+      <point x="385.0" y="-90.0"/>
       <point x="385" y="51" type="curve" smooth="yes"/>
     </contour>
     <contour>

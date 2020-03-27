@@ -7,27 +7,25 @@ uni1FCE
 </note>
   <outline>
     <contour>
-      <point x="230" y="1484" type="line"/>
+      <point x="387" y="1484" type="line"/>
+      <point x="318" y="1192" type="line"/>
+      <point x="318" y="1159" type="line"/>
+      <point x="423" y="1159" type="line"/>
+      <point x="644" y="1447" type="line"/>
+      <point x="644" y="1484" type="line"/>
+    </contour>
+    <contour>
       <point x="230" y="1484" type="line"/>
       <point x="0" y="1484" type="line"/>
       <point x="0" y="1292" type="line"/>
       <point x="106" y="1292" type="line"/>
       <point x="106" y="1208"/>
-      <point x="65.667" y="1144"/>
+      <point x="66" y="1144"/>
       <point x="3" y="1068" type="curve"/>
       <point x="142" y="1068" type="line"/>
-      <point x="214" y="1173.333"/>
+      <point x="214" y="1173"/>
       <point x="230" y="1244"/>
       <point x="230" y="1344" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="318" y="1159" type="line"/>
-      <point x="318" y="1159" type="line"/>
-      <point x="423" y="1159" type="line"/>
-      <point x="644" y="1447" type="line"/>
-      <point x="644" y="1484" type="line"/>
-      <point x="387" y="1484" type="line"/>
-      <point x="318" y="1192" type="line"/>
     </contour>
   </outline>
 </glyph>

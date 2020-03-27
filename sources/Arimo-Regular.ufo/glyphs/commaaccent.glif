@@ -5,8 +5,7 @@ commaaccent
 </note>
   <outline>
     <contour>
-      <point x="328" y="-193" type="curve"/>
-      <point x="328" y="-193" type="line"/>
+      <point x="328" y="-193" type="curve" smooth="yes"/>
       <point x="328" y="-98" type="line"/>
       <point x="133" y="-98" type="line"/>
       <point x="133" y="-254" type="line"/>
@@ -16,7 +15,7 @@ commaaccent
       <point x="127" y="-434" type="curve"/>
       <point x="244" y="-434" type="line"/>
       <point x="297.333" y="-371.333"/>
-      <point x="328" y="-309"/>
+      <point x="328.0" y="-309.0"/>
     </contour>
   </outline>
   <lib>

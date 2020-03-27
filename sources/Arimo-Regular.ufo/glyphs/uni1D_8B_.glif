@@ -8,7 +8,6 @@ uni1D8B
   <outline>
     <contour>
       <point x="-89" y="-256" type="curve"/>
-      <point x="-89" y="-256" type="line"/>
       <point x="-89" y="-414" type="line"/>
       <point x="-55" y="-421.333"/>
       <point x="-20.667" y="-425"/>
@@ -49,14 +48,11 @@ uni1D8B
       <point x="136" y="1366"/>
       <point x="136" y="1130" type="curve" smooth="yes"/>
       <point x="136" y="-37" type="line" smooth="yes"/>
-      <point x="136" y="-151.488"/>
-      <point x="128.836" y="-213.272"/>
-      <point x="80.5" y="-248.5" type="curve" smooth="yes"/>
-      <point x="60.833" y="-262.833"/>
-      <point x="33" y="-270"/>
+      <point x="136.0" y="-199.6688156871941"/>
+      <point x="119" y="-270.0"/>
       <point x="-3" y="-270" type="curve" smooth="yes"/>
       <point x="-25" y="-270"/>
-      <point x="-53.667" y="-265.333"/>
+      <point x="-54" y="-265"/>
     </contour>
   </outline>
 </glyph>

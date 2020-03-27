@@ -6,6 +6,12 @@
 anoteleia
 </note>
   <outline>
-    <component base="middot" xOffset="56"/>
+    <contour>
+      <point x="197" y="531" type="line"/>
+      <point x="197" y="531" type="line"/>
+      <point x="485" y="531" type="line"/>
+      <point x="485" y="836" type="line"/>
+      <point x="197" y="836" type="line"/>
+    </contour>
   </outline>
 </glyph>

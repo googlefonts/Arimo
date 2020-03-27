@@ -6,6 +6,8 @@ uni1DDB
 </note>
   <outline>
     <contour>
+      <point x="14" y="1477" type="line"/>
+      <point x="14" y="1369" type="line"/>
       <point x="103" y="1369" type="line"/>
       <point x="103" y="1369" type="line"/>
       <point x="103" y="1323" type="line"/>
@@ -35,8 +37,6 @@ uni1DDB
       <point x="174.667" y="1221.667"/>
       <point x="242" y="1263" type="curve"/>
       <point x="242" y="1477" type="line"/>
-      <point x="14" y="1477" type="line"/>
-      <point x="14" y="1369" type="line"/>
     </contour>
   </outline>
 </glyph>

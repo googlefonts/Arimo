@@ -7,21 +7,25 @@ uni1DB0
 </note>
   <outline>
     <contour>
-      <point x="714" y="490" type="line"/>
-      <point x="714" y="490" type="line"/>
-      <point x="714" y="1252" type="line"/>
-      <point x="544" y="1252" type="line"/>
-      <point x="544" y="879" type="line"/>
-      <point x="550" y="726" type="line"/>
       <point x="243" y="1252" type="line"/>
       <point x="48" y="1252" type="line"/>
       <point x="48" y="490" type="line"/>
       <point x="218" y="490" type="line"/>
       <point x="218" y="879" type="line" smooth="yes"/>
       <point x="218" y="927"/>
-      <point x="216" y="975.667"/>
+      <point x="216" y="976"/>
       <point x="212" y="1025" type="curve"/>
       <point x="537" y="490" type="line"/>
+      <point x="714" y="490" type="line"/>
+      <point x="714" y="1252" type="line"/>
+      <point x="544" y="1252" type="line"/>
+      <point x="544" y="879" type="line" smooth="yes"/>
+      <point x="544.0" y="828"/>
+      <point x="548" y="777"/>
+      <point x="550" y="726" type="curve"/>
+      <point x="527" y="768"/>
+      <point x="504" y="812"/>
+      <point x="479" y="854" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

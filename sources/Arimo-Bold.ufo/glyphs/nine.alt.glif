@@ -5,13 +5,6 @@ nine.alt
 </note>
   <outline>
     <contour>
-      <point x="294" y="503" type="curve"/>
-      <point x="294" y="503" type="line"/>
-      <point x="294" y="753"/>
-      <point x="195.333" y="878"/>
-      <point x="-2" y="878" type="curve" smooth="yes"/>
-      <point x="-188.667" y="878"/>
-      <point x="-294" y="784.667"/>
       <point x="-294" y="622" type="curve" smooth="yes"/>
       <point x="-294" y="466"/>
       <point x="-201" y="368"/>
@@ -30,22 +23,27 @@ nine.alt
       <point x="-163.333" y="103"/>
       <point x="-18" y="103" type="curve" smooth="yes"/>
       <point x="182" y="103"/>
-      <point x="294" y="233.667"/>
+      <point x="294" y="234"/>
+      <point x="294" y="503" type="curve" smooth="yes"/>
+      <point x="294.0" y="753.0"/>
+      <point x="195.333" y="878"/>
+      <point x="-2" y="878" type="curve" smooth="yes"/>
+      <point x="-188.667" y="878"/>
+      <point x="-294" y="785"/>
     </contour>
     <contour>
-      <point x="104" y="605" type="curve"/>
-      <point x="104" y="605" type="line"/>
-      <point x="104" y="539.667"/>
-      <point x="57" y="497"/>
-      <point x="-7" y="497" type="curve" smooth="yes"/>
-      <point x="-75" y="497"/>
-      <point x="-111" y="550.333"/>
       <point x="-111" y="621" type="curve" smooth="yes"/>
       <point x="-111" y="697"/>
       <point x="-72.333" y="744"/>
       <point x="-7" y="744" type="curve" smooth="yes"/>
       <point x="57" y="744"/>
-      <point x="104" y="691.667"/>
+      <point x="104" y="692"/>
+      <point x="104" y="605" type="curve" smooth="yes"/>
+      <point x="104.0" y="540.0"/>
+      <point x="57" y="497"/>
+      <point x="-7" y="497" type="curve" smooth="yes"/>
+      <point x="-75" y="497"/>
+      <point x="-111" y="550"/>
     </contour>
   </outline>
 </glyph>

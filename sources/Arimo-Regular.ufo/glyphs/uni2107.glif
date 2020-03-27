@@ -44,17 +44,11 @@ uni2107
       <point x="175.667" y="705.333"/>
       <point x="70" y="584.333"/>
       <point x="70" y="391" type="curve" smooth="yes"/>
-      <point x="70" y="229.667"/>
-      <point x="155.333" y="97.833"/>
-      <point x="306" y="30.5" type="curve" smooth="yes"/>
-      <point x="381.333" y="-3.167"/>
-      <point x="469.333" y="-20"/>
+      <point x="70.0" y="149.24621389449507"/>
+      <point x="266.38281868293484" y="-20.0"/>
       <point x="570" y="-20" type="curve" smooth="yes"/>
-      <point x="746" y="-20"/>
-      <point x="867.167" y="21.667"/>
-      <point x="958.5" y="107" type="curve" smooth="yes"/>
-      <point x="1004.167" y="149.667"/>
-      <point x="1047.667" y="212.667"/>
+      <point x="789" y="-20"/>
+      <point x="964.4877976502428" y="44.96631363771564"/>
     </contour>
   </outline>
 </glyph>

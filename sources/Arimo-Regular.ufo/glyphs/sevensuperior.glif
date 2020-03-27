@@ -13,15 +13,18 @@ sevensuperior
       <point x="43" y="1409" type="line"/>
       <point x="43" y="1296" type="line"/>
       <point x="503" y="1296" type="line"/>
-      <point x="276.333" y="962.667"/>
-      <point x="209" y="770.667"/>
+      <point x="417" y="1170"/>
+      <point x="354" y="1064"/>
+      <point x="309" y="970" type="curve" smooth="yes"/>
+      <point x="235" y="815"/>
+      <point x="209" y="693"/>
       <point x="209" y="564" type="curve"/>
       <point x="342" y="564" type="line"/>
-      <point x="342" y="717.333"/>
-      <point x="377" y="854.167"/>
-      <point x="449" y="1001.5" type="curve" smooth="yes"/>
-      <point x="485" y="1075.167"/>
-      <point x="546" y="1177.333"/>
+      <point x="342" y="717"/>
+      <point x="377" y="854"/>
+      <point x="449" y="1002" type="curve" smooth="yes"/>
+      <point x="485" y="1075"/>
+      <point x="546" y="1177"/>
     </contour>
   </outline>
 </glyph>

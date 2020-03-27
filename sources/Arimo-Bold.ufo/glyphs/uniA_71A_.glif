@@ -6,13 +6,12 @@ uniA71A
 </note>
   <outline>
     <contour>
-      <point x="265" y="1115" type="line"/>
+      <point x="-264" y="1247" type="line"/>
+      <point x="-264" y="1115" type="line"/>
       <point x="265" y="1115" type="line"/>
       <point x="265" y="1466" type="line"/>
       <point x="131" y="1466" type="line"/>
       <point x="131" y="1247" type="line"/>
-      <point x="-264" y="1247" type="line"/>
-      <point x="-264" y="1115" type="line"/>
     </contour>
   </outline>
 </glyph>

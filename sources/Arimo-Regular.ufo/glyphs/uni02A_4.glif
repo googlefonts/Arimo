@@ -7,11 +7,6 @@ uni02A4
 </note>
   <outline>
     <contour>
-      <point x="821" y="174" type="curve"/>
-      <point x="821" y="174" type="line"/>
-      <point x="825" y="174" type="line"/>
-      <point x="825" y="118"/>
-      <point x="831" y="21.333"/>
       <point x="835" y="0" type="curve"/>
       <point x="1007" y="0" type="line"/>
       <point x="1003" y="36"/>
@@ -35,13 +30,10 @@ uni02A4
       <point x="920.667" y="-335.333"/>
       <point x="1072.667" y="-426"/>
       <point x="1318" y="-426" type="curve" smooth="yes"/>
-      <point x="1503.333" y="-426"/>
-      <point x="1656.5" y="-332.333"/>
-      <point x="1738.5" y="-179" type="curve" smooth="yes"/>
-      <point x="1779.5" y="-102.333"/>
-      <point x="1800" y="-19.667"/>
+      <point x="1596.4703545859961" y="-426.0"/>
+      <point x="1800" y="-206"/>
       <point x="1800" y="69" type="curve" smooth="yes"/>
-      <point x="1800" y="326.333"/>
+      <point x="1800" y="326"/>
       <point x="1638.333" y="509.667"/>
       <point x="1385" y="543" type="curve"/>
       <point x="1764" y="904" type="line"/>
@@ -63,11 +55,15 @@ uni02A4
       <point x="484" y="-20" type="curve" smooth="yes"/>
       <point x="646.667" y="-20"/>
       <point x="754.333" y="35.333"/>
+      <point x="821" y="174" type="curve"/>
+      <point x="821" y="174" type="line"/>
+      <point x="825" y="174" type="line"/>
+      <point x="825" y="118"/>
+      <point x="831" y="21"/>
     </contour>
     <contour>
-      <point x="275" y="542" type="curve"/>
-      <point x="275" y="542" type="line"/>
-      <point x="275" y="843.333"/>
+      <point x="275" y="542" type="curve" smooth="yes"/>
+      <point x="275.0" y="843.0"/>
       <point x="350.667" y="969"/>
       <point x="532" y="969" type="curve" smooth="yes"/>
       <point x="733.333" y="969"/>
@@ -77,7 +73,7 @@ uni02A4
       <point x="734" y="119"/>
       <point x="530" y="119" type="curve" smooth="yes"/>
       <point x="350" y="119"/>
-      <point x="275" y="239.333"/>
+      <point x="275" y="239"/>
     </contour>
   </outline>
 </glyph>

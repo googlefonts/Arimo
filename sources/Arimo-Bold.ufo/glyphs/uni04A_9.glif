@@ -7,10 +7,6 @@ uni04A9
 </note>
   <outline>
     <contour>
-      <point x="932" y="-20" type="curve"/>
-      <point x="932" y="-20" type="line"/>
-      <point x="1025.333" y="-20"/>
-      <point x="1069.333" y="-13.667"/>
       <point x="1136" y="17" type="curve"/>
       <point x="1137" y="207" type="line"/>
       <point x="1095.667" y="185.667"/>
@@ -52,11 +48,13 @@ uni04A9
       <point x="770" y="15" type="curve"/>
       <point x="822" y="-8.333"/>
       <point x="876" y="-20"/>
+      <point x="932" y="-20" type="curve" smooth="yes"/>
+      <point x="1025.0" y="-20.0"/>
+      <point x="1069" y="-14"/>
     </contour>
     <contour>
-      <point x="844" y="499" type="curve"/>
-      <point x="844" y="499" type="line"/>
-      <point x="844" y="396.333"/>
+      <point x="844" y="499" type="curve" smooth="yes"/>
+      <point x="844.0" y="396.0"/>
       <point x="815.333" y="266"/>
       <point x="774" y="222" type="curve"/>
       <point x="730" y="280.667"/>
@@ -66,7 +64,7 @@ uni04A9
       <point x="723" y="684"/>
       <point x="771" y="684" type="curve" smooth="yes"/>
       <point x="819.667" y="684"/>
-      <point x="844" y="622.333"/>
+      <point x="844" y="622"/>
     </contour>
   </outline>
 </glyph>

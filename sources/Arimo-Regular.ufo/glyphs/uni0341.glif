@@ -6,13 +6,12 @@ uni0341
 </note>
   <outline>
     <contour>
-      <point x="334" y="1474" type="line"/>
-      <point x="334" y="1474" type="line"/>
-      <point x="155" y="1474" type="line"/>
-      <point x="18" y="1206" type="line"/>
       <point x="18" y="1194" type="line"/>
       <point x="138" y="1194" type="line"/>
       <point x="334" y="1459" type="line"/>
+      <point x="334" y="1474" type="line"/>
+      <point x="155" y="1474" type="line"/>
+      <point x="18" y="1206" type="line"/>
     </contour>
   </outline>
 </glyph>

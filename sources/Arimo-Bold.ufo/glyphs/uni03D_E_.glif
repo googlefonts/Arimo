@@ -11,11 +11,8 @@ uni03DE
       <point x="1430" y="1275" type="line"/>
       <point x="1401" y="1286" type="line"/>
       <point x="477" y="730" type="line"/>
-      <point x="501.667" y="854"/>
-      <point x="518.333" y="948.333"/>
-      <point x="527" y="1013" type="curve" smooth="yes"/>
-      <point x="535.667" y="1077.667"/>
-      <point x="540" y="1131.667"/>
+      <point x="526.334" y="978.0"/>
+      <point x="540.0" y="1088.3339999999998"/>
       <point x="540" y="1175" type="curve" smooth="yes"/>
       <point x="540" y="1329.667"/>
       <point x="433" y="1428"/>
@@ -30,11 +27,8 @@ uni03DE
       <point x="222" y="1203"/>
       <point x="262" y="1158.333"/>
       <point x="262" y="1049" type="curve" smooth="yes"/>
-      <point x="262" y="934.333"/>
-      <point x="241" y="802.833"/>
-      <point x="213" y="659.5" type="curve" smooth="yes"/>
-      <point x="190.326" y="543.43"/>
-      <point x="145.368" y="331.642"/>
+      <point x="262.0" y="840.5007726811559"/>
+      <point x="188" y="481"/>
       <point x="125" y="203" type="curve"/>
       <point x="154" y="192" type="line"/>
       <point x="483.333" y="425.333"/>

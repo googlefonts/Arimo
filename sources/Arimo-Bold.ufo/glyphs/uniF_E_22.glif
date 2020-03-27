@@ -7,7 +7,6 @@ uniFE22
   <outline>
     <contour>
       <point x="620" y="1254" type="curve"/>
-      <point x="620" y="1254" type="line"/>
       <point x="620" y="1447" type="line"/>
       <point x="441.333" y="1490.333"/>
       <point x="304.667" y="1512"/>
@@ -20,7 +19,7 @@ uniFE22
       <point x="93.667" y="1331"/>
       <point x="211" y="1331" type="curve" smooth="yes"/>
       <point x="340.333" y="1331"/>
-      <point x="477.333" y="1295.333"/>
+      <point x="477" y="1295"/>
     </contour>
   </outline>
 </glyph>

@@ -8,7 +8,6 @@ uni0466
   <outline>
     <contour>
       <point x="571" y="511" type="line"/>
-      <point x="571" y="511" type="line"/>
       <point x="571" y="0" type="line"/>
       <point x="802" y="0" type="line"/>
       <point x="802" y="511" type="line"/>
@@ -22,7 +21,6 @@ uni0466
       <point x="458" y="511" type="line"/>
     </contour>
     <contour>
-      <point x="684" y="1192" type="line"/>
       <point x="684" y="1192" type="line"/>
       <point x="848" y="733" type="line"/>
       <point x="524" y="733" type="line"/>

@@ -7,6 +7,8 @@ uni2046
 </note>
   <outline>
     <contour>
+      <point x="16" y="-425" type="line"/>
+      <point x="423" y="-425" type="line"/>
       <point x="423" y="1484" type="line"/>
       <point x="423" y="1484" type="line"/>
       <point x="16" y="1484" type="line"/>
@@ -18,8 +20,6 @@ uni2046
       <point x="249" y="464" type="line"/>
       <point x="249" y="-296" type="line"/>
       <point x="16" y="-296" type="line"/>
-      <point x="16" y="-425" type="line"/>
-      <point x="423" y="-425" type="line"/>
     </contour>
   </outline>
 </glyph>

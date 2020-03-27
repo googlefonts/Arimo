@@ -7,9 +7,8 @@ ordmasculine
 </note>
   <outline>
     <contour>
-      <point x="723" y="1042" type="curve"/>
-      <point x="723" y="1042" type="line"/>
-      <point x="723" y="1302"/>
+      <point x="723" y="1042" type="curve" smooth="yes"/>
+      <point x="723.0" y="1302.0"/>
       <point x="607.333" y="1432"/>
       <point x="376" y="1432" type="curve" smooth="yes"/>
       <point x="148" y="1432"/>
@@ -19,12 +18,11 @@ ordmasculine
       <point x="148" y="651"/>
       <point x="372" y="651" type="curve" smooth="yes"/>
       <point x="605.333" y="651"/>
-      <point x="723" y="791.333"/>
+      <point x="723" y="791"/>
     </contour>
     <contour>
-      <point x="574" y="1042" type="curve"/>
-      <point x="574" y="1042" type="line"/>
-      <point x="574" y="844.667"/>
+      <point x="574" y="1042" type="curve" smooth="yes"/>
+      <point x="574.0" y="845.0"/>
       <point x="519" y="756"/>
       <point x="371" y="756" type="curve" smooth="yes"/>
       <point x="236.333" y="756"/>
@@ -34,7 +32,7 @@ ordmasculine
       <point x="235" y="1327"/>
       <point x="379" y="1327" type="curve" smooth="yes"/>
       <point x="517.667" y="1327"/>
-      <point x="574" y="1247.333"/>
+      <point x="574" y="1247"/>
     </contour>
   </outline>
 </glyph>

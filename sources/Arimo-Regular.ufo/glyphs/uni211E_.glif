@@ -32,16 +32,15 @@ uni211E
       <point x="876" y="326" type="line"/>
     </contour>
     <contour>
-      <point x="986" y="1004" type="curve"/>
-      <point x="986" y="1004" type="line"/>
-      <point x="986" y="834.667"/>
-      <point x="871.333" y="736"/>
-      <point x="670" y="736" type="curve" smooth="yes"/>
       <point x="359" y="736" type="line"/>
       <point x="359" y="1256" type="line"/>
       <point x="662" y="1256" type="line" smooth="yes"/>
       <point x="871.333" y="1256"/>
       <point x="986" y="1168"/>
+      <point x="986" y="1004" type="curve" smooth="yes"/>
+      <point x="986.0" y="835.0"/>
+      <point x="871.333" y="736"/>
+      <point x="670" y="736" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

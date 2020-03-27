@@ -7,9 +7,8 @@ uni028B
 </note>
   <outline>
     <contour>
-      <point x="767" y="1102" type="curve"/>
-      <point x="767" y="1102" type="line"/>
-      <point x="727" y="1102"/>
+      <point x="767" y="1102" type="curve" smooth="yes"/>
+      <point x="727.0" y="1102.0"/>
       <point x="623.333" y="1094.333"/>
       <point x="574" y="1085" type="curve"/>
       <point x="574" y="877" type="line"/>
@@ -35,7 +34,13 @@ uni028B
       <point x="1098" y="221.667"/>
       <point x="1098" y="663" type="curve" smooth="yes"/>
       <point x="1098" y="971"/>
-      <point x="984.333" y="1102"/>
+      <point x="984" y="1102"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.6412,0.6294,1</string>
+    </dict>
+  </lib>
 </glyph>

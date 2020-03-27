@@ -8,7 +8,6 @@ uni1D18
   <outline>
     <contour>
       <point x="322" y="0" type="line"/>
-      <point x="322" y="0" type="line"/>
       <point x="322" y="419" type="line"/>
       <point x="604" y="419" type="line" smooth="yes"/>
       <point x="849.333" y="419"/>
@@ -21,7 +20,6 @@ uni1D18
       <point x="142" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="322" y="945" type="line"/>
       <point x="322" y="945" type="line"/>
       <point x="592" y="945" type="line" smooth="yes"/>
       <point x="733.333" y="945"/>

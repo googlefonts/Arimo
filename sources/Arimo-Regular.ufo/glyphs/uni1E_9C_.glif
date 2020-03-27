@@ -7,10 +7,6 @@ uni1E9C
 </note>
   <outline>
     <contour>
-      <point x="29" y="1082" type="line"/>
-      <point x="29" y="1082" type="line"/>
-      <point x="29" y="951" type="line"/>
-      <point x="181" y="951" type="line"/>
       <point x="181" y="734" type="line"/>
       <point x="22" y="616" type="line"/>
       <point x="22" y="457" type="line"/>
@@ -36,6 +32,10 @@ uni1E9C
       <point x="181" y="1401.333"/>
       <point x="181" y="1204" type="curve" smooth="yes"/>
       <point x="181" y="1082" type="line"/>
+      <point x="29" y="1082" type="line"/>
+      <point x="29" y="1082" type="line"/>
+      <point x="29" y="951" type="line"/>
+      <point x="181" y="951" type="line"/>
     </contour>
   </outline>
 </glyph>

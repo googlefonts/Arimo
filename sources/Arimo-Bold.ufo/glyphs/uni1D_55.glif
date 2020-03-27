@@ -8,7 +8,6 @@ uni1D55
   <outline>
     <contour>
       <point x="250" y="869" type="curve"/>
-      <point x="250" y="869" type="line"/>
       <point x="50" y="869" type="line"/>
       <point x="50" y="623.667"/>
       <point x="186" y="475"/>

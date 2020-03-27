@@ -7,7 +7,8 @@ uni0246
 </note>
   <outline>
     <contour>
-      <point x="478" y="0" type="line"/>
+      <point x="262" y="-110" type="line"/>
+      <point x="425" y="-110" type="line"/>
       <point x="478" y="0" type="line"/>
       <point x="1286" y="0" type="line"/>
       <point x="1286" y="228" type="line"/>
@@ -26,8 +27,6 @@ uni0246
       <point x="137" y="1409" type="line"/>
       <point x="137" y="0" type="line"/>
       <point x="315" y="0" type="line"/>
-      <point x="262" y="-110" type="line"/>
-      <point x="425" y="-110" type="line"/>
     </contour>
     <contour>
       <point x="432" y="827" type="line"/>
@@ -37,7 +36,7 @@ uni0246
       <point x="719" y="827" type="line"/>
     </contour>
     <contour>
-      <point x="432" y="238" type="line"/>
+      <point x="433" y="238" type="line"/>
       <point x="432" y="238" type="line"/>
       <point x="432" y="599" type="line"/>
       <point x="608" y="599" type="line"/>

@@ -7,8 +7,7 @@ uni0257
 </note>
   <outline>
     <contour>
-      <point x="1108" y="236" type="curve"/>
-      <point x="1108" y="236" type="line"/>
+      <point x="1108" y="236" type="curve" smooth="yes"/>
       <point x="1108" y="1152" type="line" smooth="yes"/>
       <point x="1108" y="1235.333"/>
       <point x="1151" y="1277"/>
@@ -23,7 +22,6 @@ uni0257
       <point x="951" y="1493"/>
       <point x="827" y="1385.667"/>
       <point x="827" y="1203" type="curve" smooth="yes"/>
-      <point x="827" y="1089" type="line"/>
       <point x="829" y="911" type="line"/>
       <point x="827" y="911" type="line"/>
       <point x="767" y="1037.667"/>
@@ -44,12 +42,11 @@ uni0257
       <point x="844" y="0" type="curve"/>
       <point x="1116" y="0" type="line"/>
       <point x="1110.667" y="90.667"/>
-      <point x="1108" y="169.333"/>
+      <point x="1108.0" y="169.0"/>
     </contour>
     <contour>
-      <point x="831" y="547" type="curve"/>
-      <point x="831" y="547" type="line"/>
-      <point x="831" y="307"/>
+      <point x="831" y="547" type="curve" smooth="yes"/>
+      <point x="831.0" y="307.0"/>
       <point x="746" y="172"/>
       <point x="598" y="172" type="curve" smooth="yes"/>
       <point x="450.667" y="172"/>
@@ -59,7 +56,7 @@ uni0257
       <point x="449.333" y="911"/>
       <point x="600" y="911" type="curve" smooth="yes"/>
       <point x="752" y="911"/>
-      <point x="831" y="780.333"/>
+      <point x="831" y="780"/>
     </contour>
   </outline>
 </glyph>

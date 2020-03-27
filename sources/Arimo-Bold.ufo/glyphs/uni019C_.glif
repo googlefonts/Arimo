@@ -31,11 +31,11 @@ uni019C
       <point x="1071" y="-20"/>
       <point x="1243" y="-20" type="curve" smooth="yes"/>
       <point x="1392.333" y="-20"/>
-      <point x="1500" y="34.333"/>
-      <point x="1576" y="169" type="curve"/>
-      <point x="1580" y="169" type="line"/>
-      <point x="1592" y="1" type="line"/>
-      <point x="1894" y="1" type="line"/>
+      <point x="1514" y="34"/>
+      <point x="1590" y="169" type="curve"/>
+      <point x="1594" y="169" type="line"/>
+      <point x="1606" y="0" type="line"/>
+      <point x="1894" y="0" type="line"/>
       <point x="1894" y="1409" type="line"/>
       <point x="1599" y="1409" type="line"/>
       <point x="1599" y="503" type="line" smooth="yes"/>

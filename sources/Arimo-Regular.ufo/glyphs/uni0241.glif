@@ -8,7 +8,6 @@ uni0241
   <outline>
     <contour>
       <point x="445" y="0" type="line"/>
-      <point x="445" y="0" type="line"/>
       <point x="625" y="0" type="line"/>
       <point x="625" y="380" type="line"/>
       <point x="918.333" y="390.667"/>

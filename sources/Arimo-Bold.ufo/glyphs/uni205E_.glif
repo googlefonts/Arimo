@@ -7,18 +7,18 @@ uni205E
 </note>
   <outline>
     <contour>
-      <point x="197" y="1202" type="line"/>
-      <point x="197" y="1202" type="line"/>
-      <point x="485" y="1202" type="line"/>
-      <point x="485" y="1484" type="line"/>
-      <point x="197" y="1484" type="line"/>
-    </contour>
-    <contour>
       <point x="197" y="0" type="line"/>
       <point x="197" y="0" type="line"/>
       <point x="485" y="0" type="line"/>
       <point x="485" y="281" type="line"/>
       <point x="197" y="281" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="1202" type="line"/>
+      <point x="197" y="1202" type="line"/>
+      <point x="485" y="1202" type="line"/>
+      <point x="485" y="1484" type="line"/>
+      <point x="197" y="1484" type="line"/>
     </contour>
     <contour>
       <point x="197" y="801" type="line"/>

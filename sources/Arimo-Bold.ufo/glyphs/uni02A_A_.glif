@@ -48,13 +48,10 @@ uni02AA
       <point x="1179.667" y="396"/>
       <point x="1232" y="359.333"/>
       <point x="1232" y="290" type="curve" smooth="yes"/>
-      <point x="1232" y="242.667"/>
-      <point x="1210.5" y="210.167"/>
-      <point x="1167.5" y="192.5" type="curve" smooth="yes"/>
-      <point x="1124.5" y="174.833"/>
-      <point x="1047" y="166"/>
+      <point x="1232.0" y="194.94814174647394"/>
+      <point x="1136" y="166"/>
       <point x="935" y="166" type="curve" smooth="yes"/>
-      <point x="744.333" y="166"/>
+      <point x="744" y="166"/>
       <point x="552" y="215"/>
       <point x="424" y="295" type="curve"/>
       <point x="424" y="1484" type="line"/>

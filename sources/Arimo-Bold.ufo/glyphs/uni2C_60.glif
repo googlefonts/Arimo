@@ -7,14 +7,6 @@ uni2C60
 </note>
   <outline>
     <contour>
-      <point x="10" y="1018" type="line"/>
-      <point x="10" y="1018" type="line"/>
-      <point x="10" y="825" type="line"/>
-      <point x="147" y="825" type="line"/>
-      <point x="147" y="638" type="line"/>
-      <point x="10" y="638" type="line"/>
-      <point x="10" y="445" type="line"/>
-      <point x="147" y="445" type="line"/>
       <point x="147" y="0" type="line"/>
       <point x="1188" y="0" type="line"/>
       <point x="1188" y="228" type="line"/>
@@ -30,6 +22,13 @@ uni2C60
       <point x="442" y="1409" type="line"/>
       <point x="147" y="1409" type="line"/>
       <point x="147" y="1018" type="line"/>
+      <point x="10" y="1018" type="line"/>
+      <point x="10" y="825" type="line"/>
+      <point x="147" y="825" type="line"/>
+      <point x="147" y="638" type="line"/>
+      <point x="10" y="638" type="line"/>
+      <point x="10" y="445" type="line"/>
+      <point x="147" y="445" type="line"/>
     </contour>
   </outline>
 </glyph>

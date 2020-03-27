@@ -6,17 +6,14 @@ uniFE20
 </note>
   <outline>
     <contour>
-      <point x="4" y="1463" type="line"/>
-      <point x="4" y="1463" type="line"/>
+      <point x="4" y="1463" type="curve"/>
       <point x="4" y="1586" type="line"/>
-      <point x="-20" y="1586" type="line" smooth="yes"/>
-      <point x="-378.667" y="1586"/>
+      <point x="-399" y="1586"/>
       <point x="-631" y="1468.333"/>
       <point x="-791" y="1215" type="curve"/>
       <point x="-658" y="1215" type="line"/>
       <point x="-532.667" y="1388.333"/>
-      <point x="-313.333" y="1463"/>
-      <point x="0" y="1463" type="curve" smooth="yes"/>
+      <point x="-313.0" y="1463.0"/>
     </contour>
   </outline>
 </glyph>

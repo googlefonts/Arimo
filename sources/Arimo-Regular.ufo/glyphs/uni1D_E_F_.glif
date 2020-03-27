@@ -6,7 +6,7 @@ uni1DEF
 </note>
   <outline>
     <contour>
-      <point x="-157" y="1147" type="line"/>
+      <point x="-157" y="1147" type="curve"/>
       <point x="-157" y="1147" type="line"/>
       <point x="-157" y="1071" type="line"/>
       <point x="-135.667" y="1065.667"/>
@@ -18,8 +18,10 @@ uni1DEF
       <point x="36" y="1691" type="line" smooth="yes"/>
       <point x="36" y="1732.333"/>
       <point x="45" y="1754"/>
-      <point x="85" y="1754" type="curve"/>
-      <point x="130" y="1749" type="line"/>
+      <point x="85" y="1754" type="curve" smooth="yes"/>
+      <point x="100" y="1754.0"/>
+      <point x="115" y="1751"/>
+      <point x="130" y="1749" type="curve"/>
       <point x="130" y="1825" type="line"/>
       <point x="108.667" y="1830.333"/>
       <point x="86.667" y="1833"/>
@@ -30,7 +32,9 @@ uni1DEF
       <point x="-63" y="1205" type="line" smooth="yes"/>
       <point x="-63" y="1163.667"/>
       <point x="-72" y="1142"/>
-      <point x="-112" y="1142" type="curve"/>
+      <point x="-112" y="1142" type="curve" smooth="yes"/>
+      <point x="-127" y="1142.0"/>
+      <point x="-142" y="1145"/>
     </contour>
   </outline>
 </glyph>

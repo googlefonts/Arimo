@@ -7,9 +7,8 @@ smileface
 </note>
   <outline>
     <contour>
-      <point x="1657" y="584" type="curve"/>
-      <point x="1657" y="584" type="line"/>
-      <point x="1657" y="916"/>
+      <point x="1657" y="584" type="curve" smooth="yes"/>
+      <point x="1657.0" y="916.0"/>
       <point x="1389" y="1196"/>
       <point x="1045" y="1196" type="curve" smooth="yes"/>
       <point x="701" y="1196"/>
@@ -19,12 +18,11 @@ smileface
       <point x="707.667" y="-27"/>
       <point x="1045" y="-27" type="curve" smooth="yes"/>
       <point x="1381" y="-25.667"/>
-      <point x="1657" y="245.333"/>
+      <point x="1657" y="245"/>
     </contour>
     <contour>
-      <point x="1567" y="584" type="curve"/>
-      <point x="1567" y="584" type="line"/>
-      <point x="1565.667" y="297.333"/>
+      <point x="1567" y="584" type="curve" smooth="yes"/>
+      <point x="1567.0" y="297"/>
       <point x="1334.333" y="61"/>
       <point x="1045" y="61" type="curve" smooth="yes"/>
       <point x="757" y="62.333"/>
@@ -37,7 +35,7 @@ smileface
       <point x="899.667" y="1108"/>
       <point x="1045" y="1108" type="curve" smooth="yes"/>
       <point x="1333" y="1106.667"/>
-      <point x="1567" y="873.333"/>
+      <point x="1567" y="873"/>
     </contour>
     <contour>
       <point x="889" y="711" type="curve"/>

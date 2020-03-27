@@ -47,11 +47,8 @@ uni1E9E
       <point x="663.667" y="-9.333"/>
       <point x="759.667" y="-20"/>
       <point x="865" y="-20" type="curve" smooth="yes"/>
-      <point x="1054.333" y="-20"/>
-      <point x="1208.167" y="50.333"/>
-      <point x="1287.5" y="177" type="curve" smooth="yes"/>
-      <point x="1327.167" y="240.333"/>
-      <point x="1347" y="314.667"/>
+      <point x="1147.7963904051505" y="-20.0"/>
+      <point x="1347.0" y="141.80409807696333"/>
     </contour>
   </outline>
 </glyph>

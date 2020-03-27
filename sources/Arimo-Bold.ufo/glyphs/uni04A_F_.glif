@@ -13,10 +13,8 @@ uni04AF
       <point x="704" y="0" type="line"/>
       <point x="1130" y="1082" type="line"/>
       <point x="836" y="1082" type="line"/>
-      <point x="705.333" y="692"/>
-      <point x="629.5" y="462.333"/>
-      <point x="608.5" y="393" type="curve" smooth="yes"/>
-      <point x="587.5" y="323.667"/>
+      <point x="640" y="487" type="line" smooth="yes"/>
+      <point x="617" y="418"/>
       <point x="573" y="273"/>
       <point x="565" y="241" type="curve"/>
       <point x="527.667" y="374.333"/>

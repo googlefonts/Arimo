@@ -69,9 +69,8 @@ section
       <point x="818.667" y="1484"/>
     </contour>
     <contour>
-      <point x="866" y="663" type="curve"/>
-      <point x="866" y="663" type="line"/>
-      <point x="866" y="549.667"/>
+      <point x="866" y="663" type="curve" smooth="yes"/>
+      <point x="866.0" y="550.0"/>
       <point x="770.667" y="477.667"/>
       <point x="612" y="475" type="curve"/>
       <point x="526" y="497"/>

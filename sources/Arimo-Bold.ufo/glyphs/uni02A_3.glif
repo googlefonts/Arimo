@@ -37,9 +37,8 @@ uni02A3
       <point x="836" y="28"/>
     </contour>
     <contour>
-      <point x="831" y="547" type="curve"/>
-      <point x="831" y="547" type="line"/>
-      <point x="831" y="307"/>
+      <point x="831" y="547" type="curve" smooth="yes"/>
+      <point x="831.0" y="307.0"/>
       <point x="746" y="172"/>
       <point x="598" y="172" type="curve" smooth="yes"/>
       <point x="450.667" y="172"/>
@@ -49,13 +48,13 @@ uni02A3
       <point x="449.333" y="911"/>
       <point x="600" y="911" type="curve" smooth="yes"/>
       <point x="752" y="911"/>
-      <point x="831" y="780.333"/>
+      <point x="831" y="780"/>
     </contour>
     <contour>
+      <point x="1108" y="199" type="line"/>
       <point x="1108" y="879" type="line"/>
       <point x="1108" y="879" type="line"/>
       <point x="1712" y="879" type="line"/>
-      <point x="1108" y="199" type="line"/>
     </contour>
   </outline>
 </glyph>

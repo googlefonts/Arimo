@@ -11,9 +11,10 @@ v
       <point x="613" y="0" type="line"/>
       <point x="1017" y="1082" type="line"/>
       <point x="826" y="1082" type="line"/>
-      <point x="580" y="376" type="line"/>
-      <point x="541" y="258" type="line"/>
-      <point x="506" y="141" type="line"/>
+      <point x="580" y="376" type="line" smooth="yes"/>
+      <point x="558" y="313"/>
+      <point x="530.642" y="219.255"/>
+      <point x="506" y="141" type="curve"/>
       <point x="468.667" y="272.333"/>
       <point x="445.667" y="351.333"/>
       <point x="437" y="378" type="curve" smooth="yes"/>

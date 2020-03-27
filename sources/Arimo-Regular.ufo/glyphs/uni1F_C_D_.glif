@@ -8,7 +8,6 @@ uni1FCD
   <outline>
     <contour>
       <point x="622" y="1196" type="line"/>
-      <point x="622" y="1196" type="line"/>
       <point x="549" y="1484" type="line"/>
       <point x="319" y="1484" type="line"/>
       <point x="319" y="1470" type="line"/>
@@ -16,7 +15,6 @@ uni1FCD
       <point x="622" y="1184" type="line"/>
     </contour>
     <contour>
-      <point x="245" y="1484" type="line"/>
       <point x="245" y="1484" type="line"/>
       <point x="46" y="1484" type="line"/>
       <point x="46" y="1319" type="line"/>

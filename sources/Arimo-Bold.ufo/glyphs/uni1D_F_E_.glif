@@ -7,7 +7,6 @@ uni1DFE
   <outline>
     <contour>
       <point x="-145" y="1366" type="line"/>
-      <point x="-145" y="1366" type="line"/>
       <point x="-145" y="1308" type="line"/>
       <point x="144" y="1131" type="line"/>
       <point x="144" y="1258" type="line"/>

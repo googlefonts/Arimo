@@ -7,8 +7,6 @@ comma
 </note>
   <outline>
     <contour>
-      <point x="432" y="66" type="curve"/>
-      <point x="432" y="66" type="line"/>
       <point x="432" y="305" type="line"/>
       <point x="143" y="305" type="line"/>
       <point x="143" y="0" type="line"/>
@@ -18,7 +16,8 @@ comma
       <point x="139" y="-317" type="curve"/>
       <point x="324" y="-317" type="line"/>
       <point x="400" y="-211.667"/>
-      <point x="432" y="-94"/>
+      <point x="432.0" y="-94.0"/>
+      <point x="432" y="66" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

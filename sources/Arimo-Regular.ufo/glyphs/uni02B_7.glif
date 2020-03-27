@@ -11,30 +11,15 @@ uni02B7
       <point x="786" y="491" type="line"/>
       <point x="997" y="1253" type="line"/>
       <point x="877" y="1253" type="line"/>
-      <point x="748" y="735" type="line"/>
-      <point x="730" y="658" type="line"/>
       <point x="717" y="596" type="line"/>
-      <point x="686" y="730" type="line"/>
       <point x="557" y="1253" type="line"/>
       <point x="426" y="1253" type="line"/>
-      <point x="275" y="656" type="line"/>
       <point x="261" y="596" type="line"/>
-      <point x="255.667" y="634"/>
-      <point x="245.667" y="680.333"/>
-      <point x="231" y="735" type="curve" smooth="yes"/>
       <point x="107" y="1253" type="line"/>
       <point x="-14" y="1253" type="line"/>
       <point x="192" y="491" type="line"/>
       <point x="333" y="491" type="line"/>
-      <point x="421.667" y="848.333"/>
-      <point x="468.5" y="1039.167"/>
-      <point x="473.5" y="1063.5" type="curve" smooth="yes"/>
-      <point x="478.5" y="1087.833"/>
-      <point x="484.333" y="1116"/>
-      <point x="491" y="1148" type="curve"/>
-      <point x="507.667" y="1064"/>
-      <point x="519.667" y="1009"/>
-      <point x="527" y="983" type="curve" smooth="yes"/>
+      <point x="491" y="1148" type="line"/>
       <point x="644" y="491" type="line"/>
     </contour>
   </outline>

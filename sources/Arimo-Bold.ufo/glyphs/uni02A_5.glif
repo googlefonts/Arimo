@@ -53,19 +53,18 @@ uni02A5
       <point x="1536.333" y="-83.333"/>
     </contour>
     <contour>
-      <point x="831" y="547" type="curve"/>
-      <point x="831" y="547" type="line"/>
-      <point x="831" y="307"/>
-      <point x="746" y="172"/>
-      <point x="598" y="172" type="curve" smooth="yes"/>
-      <point x="450.667" y="172"/>
-      <point x="377" y="294.667"/>
       <point x="377" y="540" type="curve" smooth="yes"/>
-      <point x="377" y="790.667"/>
+      <point x="377" y="791"/>
       <point x="449.333" y="911"/>
       <point x="600" y="911" type="curve" smooth="yes"/>
       <point x="752" y="911"/>
-      <point x="831" y="780.333"/>
+      <point x="831" y="780"/>
+      <point x="831" y="547" type="curve" smooth="yes"/>
+      <point x="831.0" y="307.0"/>
+      <point x="746" y="172"/>
+      <point x="598" y="172" type="curve" smooth="yes"/>
+      <point x="450.667" y="172"/>
+      <point x="377" y="295"/>
     </contour>
     <contour>
       <point x="1108" y="879" type="line"/>
@@ -74,9 +73,8 @@ uni02A5
       <point x="1108" y="195" type="line"/>
     </contour>
     <contour>
-      <point x="2234" y="288" type="curve"/>
-      <point x="2234" y="288" type="line"/>
-      <point x="2234" y="234.667"/>
+      <point x="2234" y="288" type="curve" smooth="yes"/>
+      <point x="2234.0" y="235.0"/>
       <point x="2192" y="205"/>
       <point x="2124" y="205" type="curve" smooth="yes"/>
       <point x="1962" y="205" type="line"/>

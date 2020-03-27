@@ -18,11 +18,11 @@ uni20B8
       <point x="710" y="0" type="line"/>
     </contour>
     <contour>
+      <point x="100" y="1262" type="line"/>
+      <point x="1028" y="1262" type="line"/>
       <point x="1028" y="1409" type="line"/>
       <point x="1028" y="1409" type="line"/>
       <point x="100" y="1409" type="line"/>
-      <point x="100" y="1262" type="line"/>
-      <point x="1028" y="1262" type="line"/>
     </contour>
   </outline>
 </glyph>

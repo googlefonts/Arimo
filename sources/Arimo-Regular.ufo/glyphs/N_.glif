@@ -20,9 +20,10 @@ N
       <point x="168" y="1409" type="line"/>
       <point x="168" y="0" type="line"/>
       <point x="338" y="0" type="line"/>
-      <point x="338" y="936" type="line"/>
-      <point x="333" y="1103" type="line"/>
-      <point x="328" y="1200" type="line"/>
+      <point x="338" y="936" type="line" smooth="yes"/>
+      <point x="338.0" y="1024"/>
+      <point x="331" y="1112"/>
+      <point x="328" y="1200" type="curve"/>
     </contour>
   </outline>
 </glyph>

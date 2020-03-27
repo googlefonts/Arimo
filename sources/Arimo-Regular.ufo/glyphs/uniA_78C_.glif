@@ -7,13 +7,12 @@ uniA78C
 </note>
   <outline>
     <contour>
-      <point x="285" y="1259" type="line"/>
+      <point x="232" y="848" type="line"/>
       <point x="285" y="1259" type="line"/>
       <point x="285" y="1484" type="line"/>
       <point x="100" y="1484" type="line"/>
       <point x="100" y="1259" type="line"/>
       <point x="151" y="848" type="line"/>
-      <point x="232" y="848" type="line"/>
     </contour>
   </outline>
 </glyph>

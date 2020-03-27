@@ -7,9 +7,13 @@ uni2C66
 </note>
   <outline>
     <contour>
-      <point x="420" y="-18" type="curve"/>
-      <point x="420" y="-18" type="line"/>
-      <point x="508.667" y="-18"/>
+      <point x="-61" y="-425" type="line"/>
+      <point x="102" y="-425" type="line"/>
+      <point x="299" y="3" type="line"/>
+      <point x="333.667" y="-11"/>
+      <point x="374" y="-18"/>
+      <point x="420" y="-18" type="curve" smooth="yes"/>
+      <point x="509.0" y="-18.0"/>
       <point x="587.667" y="-6.667"/>
       <point x="657" y="16" type="curve"/>
       <point x="657" y="190" type="line"/>
@@ -33,11 +37,6 @@ uni2C66
       <point x="162" y="197.333"/>
       <point x="170.333" y="150.333"/>
       <point x="187" y="113" type="curve"/>
-      <point x="-61" y="-425" type="line"/>
-      <point x="102" y="-425" type="line"/>
-      <point x="299" y="3" type="line"/>
-      <point x="333.667" y="-11"/>
-      <point x="374" y="-18"/>
     </contour>
     <contour>
       <point x="440" y="660" type="line"/>

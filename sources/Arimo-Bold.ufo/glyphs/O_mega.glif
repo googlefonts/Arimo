@@ -7,9 +7,8 @@ Omega
 </note>
   <outline>
     <contour>
-      <point x="821" y="1430" type="curve"/>
-      <point x="821" y="1430" type="line"/>
-      <point x="378.333" y="1430"/>
+      <point x="821" y="1430" type="curve" smooth="yes"/>
+      <point x="378.0" y="1430.0"/>
       <point x="111" y="1203.667"/>
       <point x="111" y="829" type="curve" smooth="yes"/>
       <point x="111" y="545"/>
@@ -45,7 +44,7 @@ Omega
       <point x="1531" y="542.667"/>
       <point x="1531" y="828" type="curve" smooth="yes"/>
       <point x="1531" y="1201.333"/>
-      <point x="1263.667" y="1430"/>
+      <point x="1264" y="1430"/>
     </contour>
   </outline>
 </glyph>

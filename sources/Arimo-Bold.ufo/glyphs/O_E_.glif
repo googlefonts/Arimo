@@ -29,11 +29,8 @@ OE
       <point x="84" y="260.333"/>
       <point x="347.667" y="-10"/>
       <point x="793" y="-10" type="curve" smooth="yes"/>
-      <point x="829" y="-10"/>
-      <point x="864.833" y="-8.667"/>
-      <point x="900.5" y="-6" type="curve" smooth="yes"/>
-      <point x="936.167" y="-3.333"/>
-      <point x="966.667" y="-1.333"/>
+      <point x="864.0069943750161" y="-10.0"/>
+      <point x="940.6154061319224" y="-2.7038117722396677"/>
     </contour>
     <contour>
       <point x="963" y="1169" type="curve"/>

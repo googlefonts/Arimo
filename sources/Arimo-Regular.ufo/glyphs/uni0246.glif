@@ -37,11 +37,11 @@ uni0246
       <point x="721" y="801" type="line"/>
     </contour>
     <contour>
+      <point x="412" y="156" type="line"/>
       <point x="359" y="156" type="line"/>
       <point x="359" y="156" type="line"/>
       <point x="359" y="647" type="line"/>
       <point x="647" y="647" type="line"/>
-      <point x="412" y="156" type="line"/>
     </contour>
   </outline>
 </glyph>

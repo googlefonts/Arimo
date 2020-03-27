@@ -7,14 +7,6 @@ uni20AE
 </note>
   <outline>
     <contour>
-      <point x="720" y="1253" type="line"/>
-      <point x="720" y="1253" type="line"/>
-      <point x="1204" y="1253" type="line"/>
-      <point x="1204" y="1409" type="line"/>
-      <point x="46" y="1409" type="line"/>
-      <point x="46" y="1253" type="line"/>
-      <point x="530" y="1253" type="line"/>
-      <point x="530" y="798" type="line"/>
       <point x="203" y="627" type="line"/>
       <point x="203" y="473" type="line"/>
       <point x="530" y="642" type="line"/>
@@ -32,6 +24,13 @@ uni20AE
       <point x="1047" y="911" type="line"/>
       <point x="1047" y="1070" type="line"/>
       <point x="720" y="898" type="line"/>
+      <point x="720" y="1253" type="line"/>
+      <point x="1204" y="1253" type="line"/>
+      <point x="1204" y="1409" type="line"/>
+      <point x="46" y="1409" type="line"/>
+      <point x="46" y="1253" type="line"/>
+      <point x="530" y="1253" type="line"/>
+      <point x="530" y="798" type="line"/>
     </contour>
   </outline>
 </glyph>

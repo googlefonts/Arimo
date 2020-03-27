@@ -7,10 +7,15 @@ uni0336
   <outline>
     <contour>
       <point x="598" y="284" type="line"/>
-      <point x="598" y="284" type="line"/>
       <point x="598" y="409" type="line"/>
       <point x="-595" y="409" type="line"/>
       <point x="-595" y="284" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3216,0.6784,0.4118,1</string>
+    </dict>
+  </lib>
 </glyph>

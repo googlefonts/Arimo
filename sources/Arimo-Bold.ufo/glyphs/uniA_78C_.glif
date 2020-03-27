@@ -8,9 +8,10 @@ uniA78C
   <outline>
     <contour>
       <point x="356" y="831" type="line"/>
-      <point x="356" y="831" type="line"/>
+      <point x="390" y="1284" type="line"/>
       <point x="390" y="1484" type="line"/>
       <point x="97" y="1484" type="line"/>
+      <point x="97" y="1285" type="line"/>
       <point x="132" y="831" type="line"/>
     </contour>
   </outline>

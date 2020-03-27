@@ -8,34 +8,36 @@ uni04C6
   <outline>
     <contour>
       <point x="857" y="-311" type="line"/>
-      <point x="857" y="-311" type="line"/>
       <point x="1029" y="-311" type="line"/>
       <point x="1223" y="161" type="line"/>
       <point x="1053" y="161" type="line"/>
       <point x="1053" y="1082" type="line"/>
       <point x="335" y="1082" type="line"/>
       <point x="291" y="757" type="line" smooth="yes"/>
-      <point x="267.667" y="581"/>
-      <point x="246.833" y="448"/>
-      <point x="228.5" y="358" type="curve"/>
-      <point x="145.167" y="131.333"/>
-      <point x="115.667" y="113"/>
+      <point x="268" y="581"/>
+      <point x="245" y="446"/>
+      <point x="229" y="358" type="curve" smooth="yes"/>
+      <point x="189" y="137"/>
+      <point x="127" y="113"/>
       <point x="79" y="113" type="curve" smooth="yes"/>
-      <point x="50.333" y="113"/>
-      <point x="27.667" y="116"/>
+      <point x="50" y="113"/>
+      <point x="28" y="116"/>
       <point x="11" y="122" type="curve"/>
       <point x="11" y="-7" type="line"/>
-      <point x="40.333" y="-15.667"/>
-      <point x="71.667" y="-20"/>
+      <point x="40" y="-16"/>
+      <point x="72" y="-20"/>
       <point x="105" y="-20" type="curve" smooth="yes"/>
-      <point x="219.667" y="-20"/>
-      <point x="287.667" y="28"/>
+      <point x="171" y="-20"/>
+      <point x="221" y="-4"/>
+      <point x="262" y="29" type="curve" smooth="yes"/>
+      <point x="292" y="54"/>
+      <point x="316" y="88"/>
       <point x="337" y="132" type="curve" smooth="yes"/>
-      <point x="361.667" y="184"/>
-      <point x="384.667" y="260.833"/>
-      <point x="406" y="362.5" type="curve" smooth="yes"/>
-      <point x="427.333" y="464.167"/>
-      <point x="457.667" y="660.333"/>
+      <point x="362" y="184"/>
+      <point x="385" y="261"/>
+      <point x="406" y="362" type="curve" smooth="yes"/>
+      <point x="427" y="464"/>
+      <point x="458" y="660"/>
       <point x="497" y="951" type="curve"/>
       <point x="872" y="951" type="line"/>
       <point x="872" y="0" type="line"/>

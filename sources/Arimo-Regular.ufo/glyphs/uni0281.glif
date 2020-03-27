@@ -24,8 +24,6 @@ uni0281
       <point x="522" y="643" type="line"/>
     </contour>
     <contour>
-      <point x="592" y="137" type="curve"/>
-      <point x="592" y="137" type="line"/>
       <point x="322" y="137" type="line"/>
       <point x="322" y="507" type="line"/>
       <point x="596" y="507" type="line" smooth="yes"/>
@@ -33,7 +31,8 @@ uni0281
       <point x="815" y="444.667"/>
       <point x="815" y="320" type="curve" smooth="yes"/>
       <point x="815" y="197.333"/>
-      <point x="736" y="137"/>
+      <point x="736.0" y="137"/>
+      <point x="592" y="137" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

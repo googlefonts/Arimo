@@ -8,13 +8,11 @@ uni1FED
   <outline>
     <contour>
       <point x="705" y="1232" type="line"/>
-      <point x="705" y="1232" type="line"/>
       <point x="705" y="1418" type="line"/>
       <point x="532" y="1418" type="line"/>
       <point x="532" y="1232" type="line"/>
     </contour>
     <contour>
-      <point x="471" y="1245" type="line"/>
       <point x="471" y="1245" type="line"/>
       <point x="340" y="1507" type="line"/>
       <point x="162" y="1507" type="line"/>
@@ -23,7 +21,6 @@ uni1FED
       <point x="471" y="1232" type="line"/>
     </contour>
     <contour>
-      <point x="151" y="1232" type="line"/>
       <point x="151" y="1232" type="line"/>
       <point x="151" y="1418" type="line"/>
       <point x="-22" y="1418" type="line"/>

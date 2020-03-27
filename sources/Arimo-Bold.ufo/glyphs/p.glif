@@ -7,9 +7,8 @@ p
 </note>
   <outline>
     <contour>
-      <point x="1167" y="546" type="curve"/>
-      <point x="1167" y="546" type="line"/>
-      <point x="1167" y="903.333"/>
+      <point x="1167" y="546" type="curve" smooth="yes"/>
+      <point x="1167.0" y="903.0"/>
       <point x="1022" y="1105"/>
       <point x="770" y="1105" type="curve" smooth="yes"/>
       <point x="602.667" y="1105"/>
@@ -34,12 +33,11 @@ p
       <point x="600" y="-20"/>
       <point x="752" y="-20" type="curve" smooth="yes"/>
       <point x="1016" y="-20"/>
-      <point x="1167" y="184.667"/>
+      <point x="1167" y="185"/>
     </contour>
     <contour>
-      <point x="874" y="546" type="curve"/>
-      <point x="874" y="546" type="line"/>
-      <point x="874" y="296.667"/>
+      <point x="874" y="546" type="curve" smooth="yes"/>
+      <point x="874.0" y="297.0"/>
       <point x="799" y="172"/>
       <point x="649" y="172" type="curve" smooth="yes"/>
       <point x="502.333" y="172"/>
@@ -49,7 +47,7 @@ p
       <point x="501.667" y="910"/>
       <point x="651" y="910" type="curve" smooth="yes"/>
       <point x="799.667" y="910"/>
-      <point x="874" y="788.667"/>
+      <point x="874" y="789"/>
     </contour>
   </outline>
 </glyph>

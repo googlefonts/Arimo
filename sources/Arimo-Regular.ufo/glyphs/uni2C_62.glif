@@ -8,7 +8,6 @@ uni2C62
   <outline>
     <contour>
       <point x="218" y="0" type="line"/>
-      <point x="218" y="0" type="line"/>
       <point x="1088" y="0" type="line"/>
       <point x="1088" y="156" type="line"/>
       <point x="409" y="156" type="line"/>
@@ -29,15 +28,19 @@ uni2C62
       <point x="409" y="1409" type="line"/>
       <point x="218" y="1409" type="line"/>
       <point x="218" y="831" type="line"/>
-      <point x="180" y="834" type="line"/>
+      <point x="205" y="832"/>
+      <point x="193" y="834.0"/>
+      <point x="180" y="834" type="curve" smooth="yes"/>
       <point x="68" y="834"/>
       <point x="-10.333" y="744.667"/>
       <point x="-13" y="606" type="curve"/>
       <point x="117" y="606" type="line"/>
       <point x="117" y="668.667"/>
       <point x="131" y="701"/>
-      <point x="183" y="701" type="curve"/>
-      <point x="218" y="697" type="line"/>
+      <point x="183" y="701" type="curve" smooth="yes"/>
+      <point x="195" y="701.0"/>
+      <point x="206" y="698"/>
+      <point x="218" y="697" type="curve"/>
     </contour>
   </outline>
 </glyph>

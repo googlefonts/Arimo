@@ -18,9 +18,13 @@ uni1D58
       <point x="504" y="518.667"/>
       <point x="560" y="620" type="curve"/>
       <point x="562" y="620" type="line"/>
-      <point x="566" y="490" type="line"/>
+      <point x="563" y="577"/>
+      <point x="565" y="533"/>
+      <point x="566" y="490" type="curve"/>
       <point x="682" y="490" type="line"/>
-      <point x="678" y="653" type="line"/>
+      <point x="681" y="544"/>
+      <point x="679" y="599"/>
+      <point x="678" y="653" type="curve"/>
       <point x="678" y="1253" type="line"/>
       <point x="556" y="1253" type="line"/>
       <point x="556" y="811" type="line" smooth="yes"/>

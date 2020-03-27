@@ -7,8 +7,6 @@ uni019D
 </note>
   <outline>
     <contour>
-      <point x="474" y="1409" type="line"/>
-      <point x="474" y="1409" type="line"/>
       <point x="137" y="1409" type="line"/>
       <point x="137" y="-32" type="line" smooth="yes"/>
       <point x="137" y="-137.333"/>
@@ -36,6 +34,8 @@ uni019D
       <point x="1079" y="507.333"/>
       <point x="1085" y="415.667"/>
       <point x="1097" y="315" type="curve"/>
+      <point x="474" y="1409" type="line"/>
+      <point x="474" y="1409" type="line"/>
     </contour>
   </outline>
 </glyph>

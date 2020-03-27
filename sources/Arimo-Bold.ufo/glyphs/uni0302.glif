@@ -5,6 +5,18 @@
 uni0302
 </note>
   <outline>
-    <component base="circumflex" xOffset="-367"/>
+    <contour>
+      <point x="370" y="1211" type="line"/>
+      <point x="370" y="1211" type="line"/>
+      <point x="120" y="1529" type="line"/>
+      <point x="-109" y="1529" type="line"/>
+      <point x="-367" y="1211" type="line"/>
+      <point x="-367" y="1183" type="line"/>
+      <point x="-207" y="1183" type="line"/>
+      <point x="4" y="1375" type="line"/>
+      <point x="8" y="1375" type="line"/>
+      <point x="211" y="1183" type="line"/>
+      <point x="370" y="1183" type="line"/>
+    </contour>
   </outline>
 </glyph>

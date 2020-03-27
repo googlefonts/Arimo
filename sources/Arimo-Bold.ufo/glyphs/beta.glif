@@ -7,9 +7,8 @@ beta
 </note>
   <outline>
     <contour>
-      <point x="1181" y="405" type="curve"/>
-      <point x="1181" y="405" type="line"/>
-      <point x="1181" y="610.333"/>
+      <point x="1181" y="405" type="curve" smooth="yes"/>
+      <point x="1181.0" y="610.0"/>
       <point x="1059" y="756.333"/>
       <point x="859" y="795" type="curve"/>
       <point x="1007.667" y="853"/>
@@ -32,7 +31,7 @@ beta
       <point x="614.667" y="-20"/>
       <point x="728" y="-20" type="curve" smooth="yes"/>
       <point x="1016" y="-20"/>
-      <point x="1181" y="139.667"/>
+      <point x="1181" y="140"/>
     </contour>
     <contour>
       <point x="424" y="255" type="curve"/>

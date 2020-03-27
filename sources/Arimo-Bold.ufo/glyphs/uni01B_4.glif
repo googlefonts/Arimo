@@ -7,13 +7,25 @@ uni01B4
 </note>
   <outline>
     <contour>
-      <point x="1181" y="1493" type="curve"/>
-      <point x="1181" y="1493" type="line"/>
-      <point x="1042.333" y="1493"/>
+      <point x="283" y="-425" type="curve" smooth="yes"/>
+      <point x="483" y="-425"/>
+      <point x="606" y="-333"/>
+      <point x="700" y="-57" type="curve" smooth="yes"/>
+      <point x="1111" y="1153" type="line" smooth="yes"/>
+      <point x="1132.333" y="1215.667"/>
+      <point x="1163.333" y="1259"/>
+      <point x="1222" y="1259" type="curve" smooth="yes"/>
+      <point x="1258" y="1259"/>
+      <point x="1294.667" y="1247"/>
+      <point x="1332" y="1223" type="curve"/>
+      <point x="1427" y="1419" type="line"/>
+      <point x="1347" y="1468.333"/>
+      <point x="1265" y="1493"/>
+      <point x="1181" y="1493" type="curve" smooth="yes"/>
+      <point x="1042.0" y="1493.0"/>
       <point x="942.667" y="1414.667"/>
       <point x="884" y="1228" type="curve" smooth="yes"/>
       <point x="674" y="571" type="line"/>
-      <point x="593" y="278" type="line"/>
       <point x="584" y="241" type="line"/>
       <point x="569.333" y="295.667"/>
       <point x="499" y="529.667"/>
@@ -30,21 +42,7 @@ uni01B4
       <point x="106" y="-212" type="curve"/>
       <point x="106" y="-412" type="line"/>
       <point x="156.667" y="-420.667"/>
-      <point x="215.667" y="-425"/>
-      <point x="283" y="-425" type="curve" smooth="yes"/>
-      <point x="483" y="-425"/>
-      <point x="597.333" y="-330.333"/>
-      <point x="700" y="-57" type="curve"/>
-      <point x="1111" y="1153" type="line" smooth="yes"/>
-      <point x="1132.333" y="1215.667"/>
-      <point x="1163.333" y="1259"/>
-      <point x="1222" y="1259" type="curve" smooth="yes"/>
-      <point x="1258" y="1259"/>
-      <point x="1294.667" y="1247"/>
-      <point x="1332" y="1223" type="curve"/>
-      <point x="1427" y="1419" type="line"/>
-      <point x="1347" y="1468.333"/>
-      <point x="1265" y="1493"/>
+      <point x="216" y="-425"/>
     </contour>
   </outline>
 </glyph>

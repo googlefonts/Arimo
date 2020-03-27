@@ -8,7 +8,6 @@ uni1D8E
   <outline>
     <contour>
       <point x="49" y="137" type="line"/>
-      <point x="49" y="137" type="line"/>
       <point x="49" y="0" type="line"/>
       <point x="791" y="0" type="line"/>
       <point x="791" y="-120" type="line" smooth="yes"/>

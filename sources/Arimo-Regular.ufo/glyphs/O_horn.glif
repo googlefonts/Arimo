@@ -7,9 +7,8 @@ Ohorn
 </note>
   <outline>
     <contour>
-      <point x="1495" y="711" type="curve"/>
-      <point x="1495" y="711" type="line"/>
-      <point x="1495" y="790.333"/>
+      <point x="1495" y="711" type="curve" smooth="yes"/>
+      <point x="1495.0" y="790.0"/>
       <point x="1486.333" y="865.333"/>
       <point x="1469" y="936" type="curve"/>
       <point x="1635.667" y="1017.333"/>
@@ -28,22 +27,18 @@ Ohorn
       <point x="357" y="1430"/>
       <point x="97" y="1161.667"/>
       <point x="97" y="711" type="curve" smooth="yes"/>
-      <point x="97" y="415"/>
-      <point x="210.5" y="185.333"/>
-      <point x="420.5" y="68" type="curve" smooth="yes"/>
-      <point x="525.5" y="9.333"/>
-      <point x="650.333" y="-20"/>
+      <point x="97.0" y="266.699382985189"/>
+      <point x="361.5855027746623" y="-20.0"/>
       <point x="795" y="-20" type="curve" smooth="yes"/>
       <point x="1081.667" y="-20"/>
       <point x="1297.833" y="102.667"/>
       <point x="1410.5" y="324" type="curve" smooth="yes"/>
       <point x="1466.833" y="434.667"/>
-      <point x="1495" y="563.667"/>
+      <point x="1495" y="564"/>
     </contour>
     <contour>
-      <point x="1300" y="711" type="curve"/>
-      <point x="1300" y="711" type="line"/>
-      <point x="1300" y="344.333"/>
+      <point x="1300" y="711" type="curve" smooth="yes"/>
+      <point x="1300.0" y="344.0"/>
       <point x="1120.333" y="135"/>
       <point x="795" y="135" type="curve" smooth="yes"/>
       <point x="479" y="135"/>
@@ -53,7 +48,7 @@ Ohorn
       <point x="474.333" y="1274"/>
       <point x="797" y="1274" type="curve" smooth="yes"/>
       <point x="1117" y="1274"/>
-      <point x="1300" y="1061.667"/>
+      <point x="1300" y="1062"/>
     </contour>
   </outline>
 </glyph>

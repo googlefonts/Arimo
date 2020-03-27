@@ -14,9 +14,11 @@ uni1DA0
       <point x="272" y="1253" type="line"/>
       <point x="272" y="1321" type="line" smooth="yes"/>
       <point x="272" y="1407.667"/>
-      <point x="298.333" y="1435"/>
+      <point x="298" y="1435"/>
       <point x="361" y="1435" type="curve"/>
-      <point x="415" y="1429" type="line"/>
+      <point x="379" y="1434"/>
+      <point x="397" y="1431"/>
+      <point x="415" y="1429" type="curve"/>
       <point x="415" y="1526" type="line"/>
       <point x="395.667" y="1531.333"/>
       <point x="367" y="1534"/>

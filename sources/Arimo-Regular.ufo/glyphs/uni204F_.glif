@@ -7,17 +7,13 @@ uni204F
 </note>
   <outline>
     <contour>
+      <point x="184" y="875" type="line"/>
+      <point x="379" y="875" type="line"/>
       <point x="379" y="1082" type="line"/>
       <point x="379" y="1082" type="line"/>
       <point x="184" y="1082" type="line"/>
-      <point x="184" y="875" type="line"/>
-      <point x="379" y="875" type="line"/>
     </contour>
     <contour>
-      <point x="291" y="0" type="curve"/>
-      <point x="291" y="0" type="line"/>
-      <point x="379" y="0" type="line"/>
-      <point x="379" y="207" type="line"/>
       <point x="184" y="207" type="line"/>
       <point x="184" y="51" type="line" smooth="yes"/>
       <point x="184" y="-87.667"/>
@@ -26,6 +22,10 @@ uni204F
       <point x="385" y="-262" type="line"/>
       <point x="322.333" y="-171.333"/>
       <point x="291" y="-84"/>
+      <point x="291" y="0" type="curve"/>
+      <point x="291" y="0" type="line"/>
+      <point x="379" y="0" type="line"/>
+      <point x="379" y="207" type="line"/>
     </contour>
   </outline>
 </glyph>

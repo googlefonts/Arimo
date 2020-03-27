@@ -14,18 +14,18 @@ uni03080300.cap
       <point x="106" y="1680" type="line"/>
     </contour>
     <contour>
-      <point x="-265" y="1618" type="line"/>
-      <point x="-265" y="1618" type="line"/>
       <point x="-265" y="1466" type="line"/>
       <point x="-105" y="1466" type="line"/>
       <point x="-105" y="1618" type="line"/>
+      <point x="-265" y="1618" type="line"/>
+      <point x="-265" y="1618" type="line"/>
     </contour>
     <contour>
-      <point x="101" y="1618" type="line"/>
-      <point x="101" y="1618" type="line"/>
       <point x="101" y="1466" type="line"/>
       <point x="261" y="1466" type="line"/>
       <point x="261" y="1618" type="line"/>
+      <point x="101" y="1618" type="line"/>
+      <point x="101" y="1618" type="line"/>
     </contour>
   </outline>
 </glyph>

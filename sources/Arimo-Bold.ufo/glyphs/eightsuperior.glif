@@ -7,9 +7,8 @@ eightsuperior
 </note>
   <outline>
     <contour>
-      <point x="633" y="897" type="curve"/>
-      <point x="633" y="897" type="line"/>
-      <point x="633" y="991.667"/>
+      <point x="633" y="897" type="curve" smooth="yes"/>
+      <point x="633.0" y="992.0"/>
       <point x="576.333" y="1056.333"/>
       <point x="483" y="1071" type="curve"/>
       <point x="483" y="1073" type="line"/>
@@ -36,9 +35,8 @@ eightsuperior
       <point x="633" y="761"/>
     </contour>
     <contour>
-      <point x="427" y="1216" type="curve"/>
-      <point x="427" y="1216" type="line"/>
-      <point x="427" y="1158"/>
+      <point x="427" y="1216" type="curve" smooth="yes"/>
+      <point x="427.0" y="1158.0"/>
       <point x="397.667" y="1129"/>
       <point x="339" y="1129" type="curve" smooth="yes"/>
       <point x="280.333" y="1129"/>
@@ -48,12 +46,11 @@ eightsuperior
       <point x="280.333" y="1299"/>
       <point x="339" y="1299" type="curve" smooth="yes"/>
       <point x="397.667" y="1299"/>
-      <point x="427" y="1271.333"/>
+      <point x="427" y="1271"/>
     </contour>
     <contour>
-      <point x="444" y="912" type="curve"/>
-      <point x="444" y="912" type="line"/>
-      <point x="444" y="838.667"/>
+      <point x="444" y="912" type="curve" smooth="yes"/>
+      <point x="444.0" y="839.0"/>
       <point x="409.667" y="811"/>
       <point x="339" y="811" type="curve" smooth="yes"/>
       <point x="266.333" y="811"/>
@@ -63,7 +60,7 @@ eightsuperior
       <point x="265" y="1004"/>
       <point x="335" y="1004" type="curve" smooth="yes"/>
       <point x="407.667" y="1004"/>
-      <point x="444" y="973.333"/>
+      <point x="444" y="973"/>
     </contour>
   </outline>
 </glyph>

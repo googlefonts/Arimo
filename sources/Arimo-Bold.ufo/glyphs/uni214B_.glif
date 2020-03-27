@@ -7,18 +7,8 @@ uni214B
 </note>
   <outline>
     <contour>
-      <point x="1389" y="1012" type="curve"/>
-      <point x="1389" y="1012" type="line"/>
-      <point x="1389" y="1268"/>
-      <point x="1212" y="1417"/>
-      <point x="904" y="1417" type="curve" smooth="yes"/>
-      <point x="764.667" y="1417"/>
-      <point x="638.333" y="1374"/>
-      <point x="525" y="1288" type="curve"/>
-      <point x="430.333" y="1366.667"/>
-      <point x="309.667" y="1409"/>
       <point x="195" y="1409" type="curve" smooth="yes"/>
-      <point x="144.333" y="1409"/>
+      <point x="144" y="1409"/>
       <point x="100.667" y="1401.667"/>
       <point x="64" y="1387" type="curve"/>
       <point x="64" y="1184" type="line"/>
@@ -55,6 +45,15 @@ uni214B
       <point x="1051" y="584" type="curve"/>
       <point x="1285.667" y="693.333"/>
       <point x="1389" y="832"/>
+      <point x="1389" y="1012" type="curve" smooth="yes"/>
+      <point x="1389.0" y="1268.0"/>
+      <point x="1212" y="1417"/>
+      <point x="904" y="1417" type="curve" smooth="yes"/>
+      <point x="764.667" y="1417"/>
+      <point x="638.333" y="1374"/>
+      <point x="525" y="1288" type="curve"/>
+      <point x="430.333" y="1366.667"/>
+      <point x="310" y="1409"/>
     </contour>
     <contour>
       <point x="609" y="279" type="curve"/>

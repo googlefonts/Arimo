@@ -8,7 +8,6 @@ uni02AF
   <outline>
     <contour>
       <point x="1095" y="144" type="line"/>
-      <point x="1095" y="144" type="line"/>
       <point x="1095" y="-27" type="line" smooth="yes"/>
       <point x="1095" y="-283"/>
       <point x="1222.333" y="-425"/>
@@ -29,11 +28,8 @@ uni02AF
       <point x="1096" y="244.333"/>
       <point x="985.333" y="118"/>
       <point x="816" y="118" type="curve" smooth="yes"/>
-      <point x="702.667" y="118"/>
-      <point x="642" y="151.5"/>
-      <point x="614" y="225.5" type="curve" smooth="yes"/>
-      <point x="600" y="262.5"/>
-      <point x="593" y="319"/>
+      <point x="646.0005000000001" y="118.0"/>
+      <point x="593.0" y="198"/>
       <point x="593" y="395" type="curve" smooth="yes"/>
       <point x="593" y="682" type="line" smooth="yes"/>
       <point x="593" y="978"/>
@@ -46,11 +42,8 @@ uni02AF
       <point x="119.667" y="925.333"/>
       <point x="168.667" y="938"/>
       <point x="228" y="938" type="curve" smooth="yes"/>
-      <point x="321.333" y="938"/>
-      <point x="371.167" y="897.833"/>
-      <point x="394.5" y="822.5" type="curve" smooth="yes"/>
-      <point x="406.167" y="784.833"/>
-      <point x="412" y="721.333"/>
+      <point x="368.2209808323889" y="938.0"/>
+      <point x="412.0" y="870"/>
       <point x="412" y="632" type="curve" smooth="yes"/>
       <point x="412" y="360" type="line" smooth="yes"/>
       <point x="412" y="85.333"/>

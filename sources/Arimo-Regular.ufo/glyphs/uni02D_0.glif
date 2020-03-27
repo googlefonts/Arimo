@@ -14,11 +14,11 @@ uni02D0
       <point x="291" y="867" type="line"/>
     </contour>
     <contour>
-      <point x="177" y="0" type="line"/>
-      <point x="177" y="0" type="line"/>
       <point x="392" y="0" type="line"/>
       <point x="291" y="215" type="line"/>
       <point x="278" y="215" type="line"/>
+      <point x="177" y="0" type="line"/>
+      <point x="177" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

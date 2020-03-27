@@ -12,16 +12,15 @@ uni030C0307.cap
       <point x="-79" y="1683" type="line"/>
     </contour>
     <contour>
-      <point x="151" y="1619" type="line"/>
+      <point x="98" y="1466" type="line"/>
+      <point x="306" y="1609" type="line"/>
+      <point x="306" y="1619" type="line"/>
       <point x="151" y="1619" type="line"/>
       <point x="0" y="1552" type="line"/>
       <point x="-151" y="1619" type="line"/>
       <point x="-306" y="1619" type="line"/>
       <point x="-306" y="1607" type="line"/>
       <point x="-97" y="1466" type="line"/>
-      <point x="98" y="1466" type="line"/>
-      <point x="306" y="1609" type="line"/>
-      <point x="306" y="1619" type="line"/>
     </contour>
   </outline>
 </glyph>

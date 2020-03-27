@@ -15,10 +15,7 @@ uni2123
       <point x="726" y="406.667"/>
       <point x="686" y="246"/>
       <point x="686" y="238" type="curve"/>
-      <point x="679" y="265" type="line" smooth="yes"/>
-      <point x="661.667" y="335.667"/>
-      <point x="640.333" y="412.333"/>
-      <point x="615" y="495" type="curve"/>
+      <point x="615" y="495" type="line"/>
       <point x="1007" y="1551" type="line"/>
       <point x="403" y="1750" type="line"/>
       <point x="341" y="1589" type="line"/>

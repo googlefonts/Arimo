@@ -8,7 +8,6 @@ uni023F
   <outline>
     <contour>
       <point x="79" y="170" type="line"/>
-      <point x="79" y="170" type="line"/>
       <point x="89" y="156"/>
       <point x="101" y="142.333"/>
       <point x="115" y="129" type="curve" smooth="yes"/>

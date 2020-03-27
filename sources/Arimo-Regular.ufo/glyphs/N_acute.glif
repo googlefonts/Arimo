@@ -7,6 +7,6 @@ Nacute
 </note>
   <outline>
     <component base="N"/>
-    <component base="acute.uc" xOffset="529"/>
+    <component base="acute.uc" xOffset="607"/>
   </outline>
 </glyph>

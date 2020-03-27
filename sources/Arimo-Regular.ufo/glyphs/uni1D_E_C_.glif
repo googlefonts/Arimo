@@ -10,29 +10,39 @@ uni1DEC
       <point x="-50" y="1210" type="line"/>
       <point x="50" y="1210" type="line"/>
       <point x="50" y="1430" type="line"/>
-      <point x="64" y="1429" type="line" smooth="yes"/>
-      <point x="131.064" y="1429"/>
+      <point x="55" y="1429"/>
+      <point x="59" y="1429"/>
+      <point x="64" y="1429" type="curve" smooth="yes"/>
+      <point x="131" y="1429"/>
       <point x="152.802" y="1460.814"/>
       <point x="164" y="1544" type="curve"/>
       <point x="104" y="1544" type="line"/>
       <point x="98.667" y="1510.667"/>
-      <point x="87.667" y="1501"/>
+      <point x="88" y="1501"/>
       <point x="61" y="1501" type="curve" smooth="yes"/>
-      <point x="50" y="1501" type="line"/>
+      <point x="57" y="1501.0"/>
+      <point x="54" y="1501.0"/>
+      <point x="50" y="1501" type="curve"/>
       <point x="50" y="1580" type="line"/>
-      <point x="64" y="1579" type="line" smooth="yes"/>
-      <point x="131.064" y="1579"/>
+      <point x="55" y="1580"/>
+      <point x="59" y="1579"/>
+      <point x="64" y="1579" type="curve" smooth="yes"/>
+      <point x="131" y="1579"/>
       <point x="152.802" y="1610.814"/>
       <point x="164" y="1694" type="curve"/>
       <point x="104" y="1694" type="line"/>
       <point x="98.667" y="1660.667"/>
-      <point x="87.667" y="1651"/>
+      <point x="88" y="1651"/>
       <point x="61" y="1651" type="curve" smooth="yes"/>
-      <point x="50" y="1651" type="line"/>
+      <point x="57" y="1651.0"/>
+      <point x="54" y="1651.0"/>
+      <point x="50" y="1651" type="curve"/>
       <point x="50" y="1835" type="line"/>
       <point x="-50" y="1835" type="line"/>
       <point x="-50" y="1691" type="line"/>
-      <point x="-74" y="1694" type="line"/>
+      <point x="-58" y="1692"/>
+      <point x="-66" y="1694.0"/>
+      <point x="-74" y="1694" type="curve" smooth="yes"/>
       <point x="-134" y="1694"/>
       <point x="-164" y="1668.333"/>
       <point x="-176" y="1579" type="curve"/>
@@ -44,7 +54,9 @@ uni1DEC
       <point x="-56.667" y="1620.667"/>
       <point x="-50" y="1618" type="curve"/>
       <point x="-50" y="1541" type="line"/>
-      <point x="-74" y="1544" type="line"/>
+      <point x="-58" y="1542"/>
+      <point x="-66" y="1544.0"/>
+      <point x="-74" y="1544" type="curve" smooth="yes"/>
       <point x="-134" y="1544"/>
       <point x="-164" y="1518.333"/>
       <point x="-176" y="1429" type="curve"/>

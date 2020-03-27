@@ -7,9 +7,8 @@ Eng
 </note>
   <outline>
     <contour>
-      <point x="904" y="-20" type="curve"/>
-      <point x="904" y="-20" type="line"/>
-      <point x="1216" y="-20"/>
+      <point x="904" y="-20" type="curve" smooth="yes"/>
+      <point x="1216.0" y="-20.0"/>
       <point x="1355" y="142"/>
       <point x="1355" y="542" type="curve" smooth="yes"/>
       <point x="1355" y="889" type="line" smooth="yes"/>
