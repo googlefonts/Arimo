@@ -12,11 +12,11 @@ caroncommaaccent
       <point x="130" y="1242" type="line"/>
       <point x="218" y="1242" type="line"/>
       <point x="218" y="1182"/>
-      <point x="186.667" y="1118.667"/>
+      <point x="187" y="1119"/>
       <point x="124" y="1052" type="curve"/>
       <point x="241" y="1052" type="line"/>
-      <point x="294.333" y="1114.667"/>
-      <point x="325.0" y="1187.0"/>
+      <point x="294" y="1115"/>
+      <point x="325" y="1187"/>
     </contour>
   </outline>
 </glyph>

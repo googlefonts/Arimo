@@ -7,8 +7,13 @@ uni1DA8
 </note>
   <outline>
     <contour>
+      <point x="456" y="1536" type="line"/>
+      <point x="334" y="1536" type="line"/>
+      <point x="334" y="1415" type="line"/>
+      <point x="456" y="1415" type="line"/>
+    </contour>
+    <contour>
       <point x="232" y="191" type="curve"/>
-      <point x="232" y="191" type="line"/>
       <point x="369" y="191"/>
       <point x="456" y="291"/>
       <point x="456" y="432" type="curve" smooth="yes"/>
@@ -27,15 +32,7 @@ uni1DA8
       <point x="87" y="191"/>
     </contour>
     <contour>
-      <point x="334" y="1415" type="line"/>
-      <point x="334" y="1415" type="line"/>
-      <point x="456" y="1415" type="line"/>
-      <point x="456" y="1536" type="line"/>
-      <point x="334" y="1536" type="line"/>
-    </contour>
-    <contour>
       <point x="213" y="291" type="curve"/>
-      <point x="213" y="291" type="line"/>
       <point x="153" y="291"/>
       <point x="113" y="324"/>
       <point x="113" y="376" type="curve" smooth="yes"/>

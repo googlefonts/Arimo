@@ -7,7 +7,7 @@ uni1FC7
 </note>
   <outline>
     <component base="eta"/>
-    <component base="uni0345" xOffset="280"/>
     <component base="tilde" xOffset="255"/>
+    <component base="uni0345" xOffset="280"/>
   </outline>
 </glyph>

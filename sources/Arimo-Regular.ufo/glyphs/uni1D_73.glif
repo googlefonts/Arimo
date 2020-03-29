@@ -10,7 +10,7 @@ uni1D73
       <point x="142" y="686" type="curve" smooth="yes"/>
       <point x="142" y="522" type="line"/>
       <point x="126" y="524"/>
-      <point x="111" y="526.0"/>
+      <point x="111" y="526"/>
       <point x="95" y="526" type="curve" smooth="yes"/>
       <point x="32" y="526"/>
       <point x="-20" y="498"/>
@@ -59,7 +59,7 @@ uni1D73
       <point x="249" y="1031"/>
       <point x="188" y="907" type="curve" smooth="yes"/>
       <point x="157" y="845"/>
-      <point x="142.0" y="771.0"/>
+      <point x="142" y="771"/>
     </contour>
   </outline>
 </glyph>

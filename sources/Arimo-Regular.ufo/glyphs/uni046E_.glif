@@ -69,11 +69,11 @@ uni046E
       <point x="818" y="654"/>
       <point x="943" y="580"/>
       <point x="943" y="403" type="curve" smooth="yes"/>
-      <point x="943.0" y="279.08716152028205"/>
-      <point x="890.7935952848027" y="210.21242859298587"/>
+      <point x="943" y="279"/>
+      <point x="891" y="210"/>
       <point x="808" y="172" type="curve" smooth="yes"/>
-      <point x="748.4432879270669" y="145.10342035415923"/>
-      <point x="707.3847964093704" y="133.77003232330952"/>
+      <point x="748" y="145"/>
+      <point x="707" y="134"/>
       <point x="503" y="115" type="curve" smooth="yes"/>
       <point x="356" y="101"/>
       <point x="269" y="79"/>

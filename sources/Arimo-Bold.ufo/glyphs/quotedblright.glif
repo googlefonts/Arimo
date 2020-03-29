@@ -13,11 +13,11 @@ quotedblright
       <point x="585" y="1149" type="line"/>
       <point x="712" y="1149" type="line"/>
       <point x="712" y="1049"/>
-      <point x="667.667" y="943"/>
+      <point x="668" y="943"/>
       <point x="579" y="831" type="curve"/>
       <point x="763" y="831" type="line"/>
-      <point x="840.333" y="937.667"/>
-      <point x="872.0" y="1056.0"/>
+      <point x="840" y="938"/>
+      <point x="872" y="1056"/>
     </contour>
     <contour>
       <point x="442" y="1217" type="curve" smooth="yes"/>
@@ -26,11 +26,11 @@ quotedblright
       <point x="155" y="1149" type="line"/>
       <point x="282" y="1149" type="line"/>
       <point x="282" y="1049"/>
-      <point x="238.333" y="943"/>
+      <point x="238" y="943"/>
       <point x="151" y="831" type="curve"/>
       <point x="333" y="831" type="line"/>
-      <point x="411.667" y="940.333"/>
-      <point x="442.0" y="1050.0"/>
+      <point x="412" y="940"/>
+      <point x="442" y="1050"/>
     </contour>
   </outline>
 </glyph>

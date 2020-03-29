@@ -6,12 +6,6 @@ uni202E
 </note>
   <outline>
     <contour>
-      <point x="-238" y="1055" type="line"/>
-      <point x="-238" y="1055" type="line"/>
-      <point x="-238" y="977" type="line"/>
-      <point x="-42" y="977" type="line"/>
-      <point x="-42" y="-273" type="line"/>
-      <point x="42" y="-273" type="line"/>
       <point x="42" y="977" type="line"/>
       <point x="238" y="977" type="line"/>
       <point x="238" y="1411" type="line"/>
@@ -19,6 +13,11 @@ uni202E
       <point x="-238" y="1332" type="line"/>
       <point x="157" y="1332" type="line"/>
       <point x="157" y="1055" type="line"/>
+      <point x="-238" y="1055" type="line"/>
+      <point x="-238" y="977" type="line"/>
+      <point x="-42" y="977" type="line"/>
+      <point x="-42" y="-273" type="line"/>
+      <point x="42" y="-273" type="line"/>
     </contour>
   </outline>
 </glyph>

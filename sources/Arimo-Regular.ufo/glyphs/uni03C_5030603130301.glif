@@ -7,6 +7,6 @@ uni03C5030603130301
   <outline>
     <component base="upsilon"/>
     <component base="uni1FCE" xOffset="220" yOffset="350"/>
-    <component base="uni0306" xOffset="540" yOffset="-39"/>
+    <component base="breve" xOffset="246" yOffset="-46"/>
   </outline>
 </glyph>

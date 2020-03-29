@@ -6,11 +6,10 @@ uni0320
 </note>
   <outline>
     <contour>
-      <point x="-429" y="-298" type="line"/>
-      <point x="-429" y="-298" type="line"/>
-      <point x="429" y="-298" type="line"/>
       <point x="429" y="-113" type="line"/>
       <point x="-429" y="-113" type="line"/>
+      <point x="-429" y="-298" type="line"/>
+      <point x="429" y="-298" type="line"/>
     </contour>
   </outline>
 </glyph>

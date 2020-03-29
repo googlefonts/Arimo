@@ -7,7 +7,6 @@ tilde.uc
   <outline>
     <contour>
       <point x="492" y="1530" type="curve"/>
-      <point x="492" y="1530" type="line"/>
       <point x="605" y="1530"/>
       <point x="671" y="1601"/>
       <point x="694" y="1798" type="curve"/>
@@ -22,7 +21,7 @@ tilde.uc
       <point x="237" y="1798"/>
       <point x="180" y="1798" type="curve" smooth="yes"/>
       <point x="73" y="1798"/>
-      <point x="-1.6620118676740603" y="1737.283313285452"/>
+      <point x="-2" y="1737"/>
       <point x="-23" y="1530" type="curve"/>
       <point x="68" y="1530" type="line"/>
       <point x="80" y="1606"/>

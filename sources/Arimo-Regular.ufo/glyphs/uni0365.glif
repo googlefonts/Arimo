@@ -6,18 +6,16 @@ uni0365
 </note>
   <outline>
     <contour>
-      <point x="-60" y="1415" type="line"/>
-      <point x="-60" y="1415" type="line"/>
-      <point x="61" y="1415" type="line"/>
       <point x="61" y="1536" type="line"/>
       <point x="-60" y="1536" type="line"/>
+      <point x="-60" y="1415" type="line"/>
+      <point x="61" y="1415" type="line"/>
     </contour>
     <contour>
-      <point x="-60" y="490" type="line"/>
-      <point x="-60" y="490" type="line"/>
-      <point x="61" y="490" type="line"/>
       <point x="61" y="1253" type="line"/>
       <point x="-60" y="1253" type="line"/>
+      <point x="-60" y="490" type="line"/>
+      <point x="61" y="490" type="line"/>
     </contour>
   </outline>
 </glyph>

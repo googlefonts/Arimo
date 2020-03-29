@@ -7,7 +7,13 @@ yen
 </note>
   <outline>
     <contour>
-      <point x="720" y="709" type="line"/>
+      <point x="658" y="303" type="line"/>
+      <point x="1041" y="303" type="line"/>
+      <point x="1041" y="430" type="line"/>
+      <point x="658" y="430" type="line"/>
+      <point x="658" y="584" type="line"/>
+      <point x="1041" y="584" type="line"/>
+      <point x="1041" y="709" type="line"/>
       <point x="720" y="709" type="line"/>
       <point x="1142" y="1409" type="line"/>
       <point x="943" y="1409" type="line"/>
@@ -24,13 +30,6 @@ yen
       <point x="480" y="303" type="line"/>
       <point x="480" y="0" type="line"/>
       <point x="658" y="0" type="line"/>
-      <point x="658" y="303" type="line"/>
-      <point x="1041" y="303" type="line"/>
-      <point x="1041" y="430" type="line"/>
-      <point x="658" y="430" type="line"/>
-      <point x="658" y="584" type="line"/>
-      <point x="1041" y="584" type="line"/>
-      <point x="1041" y="709" type="line"/>
     </contour>
   </outline>
 </glyph>

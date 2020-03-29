@@ -12,7 +12,7 @@ uni1DB0
       <point x="95" y="490" type="line"/>
       <point x="210" y="490" type="line"/>
       <point x="210" y="958" type="line" smooth="yes"/>
-      <point x="210.0" y="996"/>
+      <point x="210" y="996"/>
       <point x="207" y="1035"/>
       <point x="205" y="1073" type="curve"/>
       <point x="226" y="1030"/>
@@ -23,7 +23,7 @@ uni1DB0
       <point x="682" y="1252" type="line"/>
       <point x="566" y="1252" type="line"/>
       <point x="566" y="784" type="line" smooth="yes"/>
-      <point x="566.0" y="755"/>
+      <point x="566" y="755"/>
       <point x="568" y="725"/>
       <point x="569" y="696" type="curve"/>
       <point x="554" y="727"/>

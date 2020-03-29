@@ -12,10 +12,10 @@ uni01BE
       <point x="167" y="701"/>
       <point x="201" y="616"/>
       <point x="294" y="556" type="curve" smooth="yes"/>
-      <point x="354.2869942662001" y="517.2440751145856"/>
-      <point x="459.5821441886315" y="490.07699962718317"/>
+      <point x="354" y="517"/>
+      <point x="460" y="490"/>
       <point x="542" y="467" type="curve" smooth="yes"/>
-      <point x="674.804025802992" y="430.10999283250226"/>
+      <point x="675" y="430"/>
       <point x="745" y="395"/>
       <point x="745" y="285" type="curve" smooth="yes"/>
       <point x="745" y="179"/>
@@ -43,7 +43,6 @@ uni01BE
       <point x="352" y="749"/>
       <point x="347" y="788"/>
       <point x="347" y="844" type="curve" smooth="yes"/>
-      <point x="347" y="951" type="line"/>
       <point x="347" y="951" type="line"/>
       <point x="532" y="951" type="line"/>
       <point x="532" y="1082" type="line"/>

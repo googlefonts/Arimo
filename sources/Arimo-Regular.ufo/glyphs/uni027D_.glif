@@ -8,13 +8,12 @@ uni027D
   <outline>
     <contour>
       <point x="142" y="830" type="curve"/>
-      <point x="142" y="830" type="line"/>
       <point x="142" y="-129" type="line" smooth="yes"/>
       <point x="142" y="-326"/>
       <point x="234" y="-425"/>
       <point x="419" y="-425" type="curve" smooth="yes"/>
       <point x="450" y="-425"/>
-      <point x="474.84991737794957" y="-422.1103062679486"/>
+      <point x="475" y="-422"/>
       <point x="530" y="-414" type="curve"/>
       <point x="530" y="-250" type="line"/>
       <point x="501" y="-259"/>

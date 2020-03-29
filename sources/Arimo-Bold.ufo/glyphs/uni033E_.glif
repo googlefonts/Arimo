@@ -8,23 +8,23 @@ uni033E
     <contour>
       <point x="-100" y="1501" type="curve" smooth="yes"/>
       <point x="-100" y="1430"/>
-      <point x="-17" y="1343.195"/>
+      <point x="-17" y="1343"/>
       <point x="-17" y="1289" type="curve" smooth="yes"/>
-      <point x="-17" y="1243.667"/>
-      <point x="-49.333" y="1233"/>
+      <point x="-17" y="1244"/>
+      <point x="-49" y="1233"/>
       <point x="-100" y="1225" type="curve"/>
       <point x="-100" y="1134" type="line"/>
-      <point x="48" y="1144.667"/>
-      <point x="100" y="1195.333"/>
+      <point x="48" y="1145"/>
+      <point x="100" y="1195"/>
       <point x="100" y="1282" type="curve" smooth="yes"/>
-      <point x="100" y="1354.544"/>
-      <point x="14" y="1442.948"/>
+      <point x="100" y="1355"/>
+      <point x="14" y="1443"/>
       <point x="14" y="1495" type="curve" smooth="yes"/>
-      <point x="14" y="1537.667"/>
-      <point x="49.333" y="1550.667"/>
+      <point x="14" y="1538"/>
+      <point x="49" y="1551"/>
       <point x="100" y="1560" type="curve"/>
       <point x="100" y="1649" type="line"/>
-      <point x="-55.022606770974306" y="1638.9331263274269"/>
+      <point x="-55" y="1639"/>
       <point x="-100" y="1579"/>
     </contour>
   </outline>

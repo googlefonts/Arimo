@@ -13,7 +13,6 @@ hungarumlaut
       <point x="239" y="1508" type="line"/>
       <point x="22" y="1221" type="line"/>
       <point x="22" y="1201" type="line"/>
-      <point x="22" y="1201" type="line"/>
     </contour>
     <contour>
       <point x="463" y="1201" type="line"/>
@@ -21,7 +20,6 @@ hungarumlaut
       <point x="793" y="1508" type="line"/>
       <point x="586" y="1508" type="line"/>
       <point x="369" y="1221" type="line"/>
-      <point x="369" y="1201" type="line"/>
       <point x="369" y="1201" type="line"/>
     </contour>
   </outline>

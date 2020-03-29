@@ -17,10 +17,8 @@ uni0515
       <point x="1092" y="728" type="line"/>
       <point x="861" y="1082" type="line"/>
       <point x="331" y="1082" type="line"/>
-      <point x="317" y="979"/>
-      <point x="304" y="888"/>
-      <point x="293" y="807" type="curve" smooth="yes"/>
-      <point x="267" y="626"/>
+      <point x="293" y="807" type="line" smooth="yes"/>
+      <point x="268" y="626"/>
       <point x="245" y="501"/>
       <point x="234" y="431" type="curve" smooth="yes"/>
       <point x="195" y="192"/>

@@ -38,7 +38,7 @@ uni0502
     </contour>
     <contour>
       <point x="283" y="407" type="curve" smooth="yes"/>
-      <point x="283.0" y="568.0"/>
+      <point x="283" y="568"/>
       <point x="392" y="659"/>
       <point x="611" y="659" type="curve" smooth="yes"/>
       <point x="987" y="659" type="line"/>

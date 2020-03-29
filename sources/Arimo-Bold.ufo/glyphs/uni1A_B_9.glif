@@ -6,11 +6,10 @@ uni1AB9
 </note>
   <outline>
     <contour>
-      <point x="40" y="35" type="line"/>
+      <point x="167" y="-18" type="line"/>
       <point x="40" y="35" type="line"/>
       <point x="-167" y="-462" type="line"/>
       <point x="-40" y="-515" type="line"/>
-      <point x="167" y="-18" type="line"/>
     </contour>
   </outline>
 </glyph>

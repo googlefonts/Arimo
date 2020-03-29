@@ -7,15 +7,14 @@ Pi
 </note>
   <outline>
     <contour>
-      <point x="1056" y="0" type="line"/>
+      <point x="431" y="1165" type="line"/>
+      <point x="1056" y="1165" type="line"/>
       <point x="1056" y="0" type="line"/>
       <point x="1341" y="0" type="line"/>
       <point x="1341" y="1409" type="line"/>
       <point x="137" y="1409" type="line"/>
       <point x="137" y="0" type="line"/>
       <point x="431" y="0" type="line"/>
-      <point x="431" y="1165" type="line"/>
-      <point x="1056" y="1165" type="line"/>
     </contour>
   </outline>
 </glyph>

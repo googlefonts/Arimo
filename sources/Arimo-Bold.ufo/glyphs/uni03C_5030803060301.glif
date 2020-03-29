@@ -8,6 +8,6 @@ uni03C5030803060301
     <component base="upsilon"/>
     <component base="dieresis" xOffset="224" yOffset="-34"/>
     <component base="breve" xOffset="267" yOffset="252"/>
-    <component base="tonos" xOffset="299" yOffset="515"/>
+    <component base="tonos.short" xOffset="268" yOffset="108"/>
   </outline>
 </glyph>

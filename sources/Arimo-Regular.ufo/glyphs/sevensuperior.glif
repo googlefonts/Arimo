@@ -8,7 +8,6 @@ sevensuperior
   <outline>
     <contour>
       <point x="632" y="1308" type="curve"/>
-      <point x="632" y="1308" type="line"/>
       <point x="632" y="1409" type="line"/>
       <point x="43" y="1409" type="line"/>
       <point x="43" y="1296" type="line"/>

@@ -7,7 +7,7 @@ uni1FE2
 </note>
   <outline>
     <component base="upsilon"/>
-    <component base="uni1FEF" xOffset="145" yOffset="303"/>
     <component base="dieresis" xOffset="215"/>
+    <component base="uni1FEF" xOffset="145" yOffset="303"/>
   </outline>
 </glyph>

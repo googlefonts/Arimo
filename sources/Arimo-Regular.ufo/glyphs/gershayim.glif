@@ -7,18 +7,16 @@ gershayim
 </note>
   <outline>
     <contour>
-      <point x="352" y="1030" type="line"/>
-      <point x="352" y="1030" type="line"/>
       <point x="584" y="1665" type="line"/>
       <point x="352" y="1665" type="line"/>
       <point x="215" y="1030" type="line"/>
+      <point x="352" y="1030" type="line"/>
     </contour>
     <contour>
-      <point x="799" y="1030" type="line"/>
-      <point x="799" y="1030" type="line"/>
       <point x="1030" y="1665" type="line"/>
       <point x="799" y="1665" type="line"/>
       <point x="662" y="1030" type="line"/>
+      <point x="799" y="1030" type="line"/>
     </contour>
   </outline>
 </glyph>

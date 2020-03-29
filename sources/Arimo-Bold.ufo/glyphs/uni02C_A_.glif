@@ -7,13 +7,12 @@ uni02CA
 </note>
   <outline>
     <contour>
-      <point x="126" y="1202" type="line"/>
-      <point x="126" y="1202" type="line"/>
-      <point x="275" y="1202" type="line"/>
       <point x="556" y="1446" type="line"/>
       <point x="556" y="1484" type="line"/>
       <point x="298" y="1484" type="line"/>
       <point x="126" y="1229" type="line"/>
+      <point x="126" y="1202" type="line"/>
+      <point x="275" y="1202" type="line"/>
     </contour>
   </outline>
 </glyph>

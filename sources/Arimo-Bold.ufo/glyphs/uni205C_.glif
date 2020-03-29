@@ -10,7 +10,6 @@ uni205C
       <point x="485" y="161" type="line"/>
       <point x="711" y="161" type="line"/>
       <point x="711" y="569" type="line"/>
-      <point x="711" y="569" type="line"/>
       <point x="1113" y="569" type="line"/>
       <point x="1113" y="793" type="line"/>
       <point x="711" y="793" type="line"/>
@@ -25,13 +24,11 @@ uni205C
       <point x="315" y="1201" type="line"/>
       <point x="100" y="1201" type="line"/>
       <point x="100" y="977" type="line"/>
-      <point x="100" y="977" type="line"/>
       <point x="315" y="977" type="line"/>
     </contour>
     <contour>
       <point x="1099" y="1201" type="line"/>
       <point x="884" y="1201" type="line"/>
-      <point x="884" y="977" type="line"/>
       <point x="884" y="977" type="line"/>
       <point x="1099" y="977" type="line"/>
     </contour>
@@ -39,13 +36,11 @@ uni205C
       <point x="315" y="385" type="line"/>
       <point x="100" y="385" type="line"/>
       <point x="100" y="161" type="line"/>
-      <point x="100" y="161" type="line"/>
       <point x="315" y="161" type="line"/>
     </contour>
     <contour>
       <point x="1099" y="385" type="line"/>
       <point x="884" y="385" type="line"/>
-      <point x="884" y="161" type="line"/>
       <point x="884" y="161" type="line"/>
       <point x="1099" y="161" type="line"/>
     </contour>

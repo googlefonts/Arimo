@@ -7,11 +7,10 @@ uni2012
 </note>
   <outline>
     <contour>
-      <point x="-4" y="448" type="line"/>
-      <point x="-4" y="448" type="line"/>
-      <point x="1135" y="448" type="line"/>
       <point x="1135" y="651" type="line"/>
       <point x="-4" y="651" type="line"/>
+      <point x="-4" y="448" type="line"/>
+      <point x="1135" y="448" type="line"/>
     </contour>
   </outline>
 </glyph>

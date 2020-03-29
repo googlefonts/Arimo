@@ -7,29 +7,19 @@ uniA7FA
 </note>
   <outline>
     <contour>
-      <point x="1285" y="1154" type="line"/>
+      <point x="695" y="810" type="line"/>
+      <point x="946" y="0" type="line"/>
+      <point x="1285" y="0" type="line"/>
       <point x="1285" y="1154" type="line"/>
       <point x="1050" y="1154" type="line"/>
-      <point x="1050" y="384" type="line"/>
       <point x="1052" y="314" type="line"/>
-      <point x="1040" y="368.667"/>
-      <point x="1021" y="435"/>
-      <point x="995" y="513" type="curve" smooth="yes"/>
       <point x="789" y="1154" type="line"/>
       <point x="600" y="1154" type="line"/>
-      <point x="393" y="513" type="line"/>
       <point x="335" y="315" type="line"/>
-      <point x="339" y="456" type="line"/>
       <point x="339" y="1154" type="line"/>
       <point x="104" y="1154" type="line"/>
       <point x="104" y="0" type="line"/>
       <point x="444" y="0" type="line"/>
-      <point x="650" y="642" type="line"/>
-      <point x="685" y="770" type="line"/>
-      <point x="695" y="810" type="line"/>
-      <point x="744" y="645" type="line"/>
-      <point x="946" y="0" type="line"/>
-      <point x="1285" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

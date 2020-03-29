@@ -7,7 +7,18 @@ Upsilondieresis
 </note>
   <outline>
     <contour>
-      <point x="831" y="578" type="line"/>
+      <point x="1004" y="1749" type="line"/>
+      <point x="807" y="1749" type="line"/>
+      <point x="807" y="1530" type="line"/>
+      <point x="1004" y="1530" type="line"/>
+    </contour>
+    <contour>
+      <point x="547" y="1749" type="line"/>
+      <point x="353" y="1749" type="line"/>
+      <point x="353" y="1530" type="line"/>
+      <point x="547" y="1530" type="line"/>
+    </contour>
+    <contour>
       <point x="831" y="578" type="line"/>
       <point x="1333" y="1409" type="line"/>
       <point x="1024" y="1409" type="line"/>
@@ -17,20 +28,6 @@ Upsilondieresis
       <point x="537" y="578" type="line"/>
       <point x="537" y="0" type="line"/>
       <point x="831" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="807" y="1530" type="line"/>
-      <point x="807" y="1530" type="line"/>
-      <point x="1004" y="1530" type="line"/>
-      <point x="1004" y="1749" type="line"/>
-      <point x="807" y="1749" type="line"/>
-    </contour>
-    <contour>
-      <point x="353" y="1530" type="line"/>
-      <point x="353" y="1530" type="line"/>
-      <point x="547" y="1530" type="line"/>
-      <point x="547" y="1749" type="line"/>
-      <point x="353" y="1749" type="line"/>
     </contour>
   </outline>
 </glyph>

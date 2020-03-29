@@ -7,25 +7,22 @@ uni2E2B
 </note>
   <outline>
     <contour>
-      <point x="745" y="924" type="line"/>
-      <point x="745" y="924" type="line"/>
-      <point x="457" y="924" type="line"/>
       <point x="457" y="643" type="line"/>
       <point x="745" y="643" type="line"/>
+      <point x="745" y="924" type="line"/>
+      <point x="457" y="924" type="line"/>
     </contour>
     <contour>
-      <point x="375" y="282" type="line"/>
-      <point x="375" y="282" type="line"/>
-      <point x="87" y="282" type="line"/>
       <point x="87" y="0" type="line"/>
       <point x="375" y="0" type="line"/>
+      <point x="375" y="282" type="line"/>
+      <point x="87" y="282" type="line"/>
     </contour>
     <contour>
-      <point x="1115" y="282" type="line"/>
-      <point x="1115" y="282" type="line"/>
-      <point x="827" y="282" type="line"/>
       <point x="827" y="0" type="line"/>
       <point x="1115" y="0" type="line"/>
+      <point x="1115" y="282" type="line"/>
+      <point x="827" y="282" type="line"/>
     </contour>
   </outline>
 </glyph>

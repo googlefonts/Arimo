@@ -7,13 +7,12 @@ uni1DAB
 </note>
   <outline>
     <contour>
-      <point x="553" y="490" type="line"/>
-      <point x="553" y="490" type="line"/>
       <point x="553" y="634" type="line"/>
       <point x="257" y="634" type="line"/>
       <point x="257" y="1252" type="line"/>
       <point x="66" y="1252" type="line"/>
       <point x="66" y="490" type="line"/>
+      <point x="553" y="490" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -7,27 +7,13 @@ uni04A8
 </note>
   <outline>
     <contour>
-      <point x="945" y="261" type="curve"/>
-      <point x="887.667" y="339.667"/>
-      <point x="838" y="504.333"/>
-      <point x="838" y="639" type="curve" smooth="yes"/>
-      <point x="838.0" y="829.6659999999999"/>
-      <point x="879.6659999999999" y="914.0"/>
-      <point x="945" y="914" type="curve" smooth="yes"/>
-      <point x="1014.3340000000001" y="914.0"/>
-      <point x="1041.0" y="833.6659999999999"/>
-      <point x="1041" y="639" type="curve" smooth="yes"/>
-      <point x="1041" y="515"/>
-      <point x="1000" y="338"/>
-    </contour>
-    <contour>
       <point x="1393" y="16" type="curve"/>
-      <point x="1392" y="260" type="line"/>
-      <point x="1339" y="229"/>
-      <point x="1270" y="213"/>
-      <point x="1186" y="213" type="curve" smooth="yes"/>
-      <point x="1178" y="213.0"/>
-      <point x="1169" y="213.0"/>
+      <point x="1342" y="240" type="line"/>
+      <point x="1301" y="223"/>
+      <point x="1270" y="211"/>
+      <point x="1231" y="210" type="curve" smooth="yes"/>
+      <point x="1208" y="209"/>
+      <point x="1180" y="210"/>
       <point x="1161" y="213" type="curve"/>
       <point x="1230" y="341"/>
       <point x="1275" y="516"/>
@@ -41,8 +27,11 @@ uni04A8
       <point x="598" y="495"/>
       <point x="640" y="345"/>
       <point x="723" y="200" type="curve"/>
-      <point x="487" y="200"/>
-      <point x="358" y="376"/>
+      <point x="680" y="200"/>
+      <point x="640" y="206"/>
+      <point x="604" y="218" type="curve" smooth="yes"/>
+      <point x="444" y="270"/>
+      <point x="358" y="435"/>
       <point x="358" y="696" type="curve" smooth="yes"/>
       <point x="358" y="1028"/>
       <point x="454" y="1195"/>
@@ -60,11 +49,8 @@ uni04A8
       <point x="82" y="964"/>
       <point x="59" y="833"/>
       <point x="59" y="683" type="curve" smooth="yes"/>
-      <point x="59" y="415"/>
-      <point x="164" y="190"/>
-      <point x="350" y="70" type="curve" smooth="yes"/>
-      <point x="443" y="10"/>
-      <point x="550" y="-20"/>
+      <point x="59" y="281"/>
+      <point x="306" y="-20"/>
       <point x="672" y="-20" type="curve" smooth="yes"/>
       <point x="779" y="-20"/>
       <point x="871" y="-3"/>
@@ -74,6 +60,20 @@ uni04A8
       <point x="1201" y="-20" type="curve" smooth="yes"/>
       <point x="1278" y="-20"/>
       <point x="1342" y="-8"/>
+    </contour>
+    <contour>
+      <point x="945" y="261" type="curve"/>
+      <point x="888" y="340"/>
+      <point x="838" y="504"/>
+      <point x="838" y="639" type="curve" smooth="yes"/>
+      <point x="838" y="830"/>
+      <point x="880" y="914"/>
+      <point x="945" y="914" type="curve" smooth="yes"/>
+      <point x="1014" y="914"/>
+      <point x="1041" y="834"/>
+      <point x="1041" y="639" type="curve" smooth="yes"/>
+      <point x="1041" y="515"/>
+      <point x="1000" y="338"/>
     </contour>
   </outline>
 </glyph>

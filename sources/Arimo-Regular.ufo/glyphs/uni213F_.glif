@@ -7,25 +7,22 @@ uni213F
 </note>
   <outline>
     <contour>
-      <point x="168" y="1409" type="line"/>
-      <point x="168" y="1409" type="line"/>
-      <point x="168" y="0" type="line"/>
-      <point x="520" y="0" type="line"/>
       <point x="520" y="1248" type="line"/>
       <point x="960" y="1248" type="line"/>
       <point x="960" y="0" type="line"/>
       <point x="1312" y="0" type="line"/>
       <point x="1312" y="1409" type="line"/>
+      <point x="168" y="1409" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1091" y="1248" type="line"/>
+      <point x="1091" y="120" type="line"/>
       <point x="1091" y="1248" type="line"/>
       <point x="1181" y="1248" type="line"/>
       <point x="1181" y="120" type="line"/>
-      <point x="1091" y="120" type="line"/>
     </contour>
     <contour>
-      <point x="299" y="120" type="line"/>
       <point x="299" y="120" type="line"/>
       <point x="299" y="1248" type="line"/>
       <point x="389" y="1248" type="line"/>

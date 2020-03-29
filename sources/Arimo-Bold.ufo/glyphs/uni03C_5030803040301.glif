@@ -6,8 +6,8 @@ uni03C5030803040301
 </note>
   <outline>
     <component base="upsilon"/>
-    <component base="dieresis" xOffset="227" yOffset="-34"/>
-    <component base="tonos" xOffset="287" yOffset="515"/>
     <component base="macron" xOffset="222" yOffset="249"/>
+    <component base="dieresis" xOffset="227" yOffset="-34"/>
+    <component base="tonos.short" xOffset="269" yOffset="108"/>
   </outline>
 </glyph>

@@ -7,9 +7,6 @@ summation
 </note>
   <outline>
     <contour>
-      <point x="154" y="-434" type="line"/>
-      <point x="154" y="-434" type="line"/>
-      <point x="1328" y="-434" type="line"/>
       <point x="1328" y="-282" type="line"/>
       <point x="398" y="-282" type="line"/>
       <point x="998" y="493" type="line"/>
@@ -20,6 +17,8 @@ summation
       <point x="170" y="1303" type="line"/>
       <point x="789" y="491" type="line"/>
       <point x="154" y="-325" type="line"/>
+      <point x="154" y="-434" type="line"/>
+      <point x="1328" y="-434" type="line"/>
     </contour>
   </outline>
 </glyph>

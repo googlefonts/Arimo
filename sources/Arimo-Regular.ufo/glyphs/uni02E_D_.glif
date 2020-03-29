@@ -7,18 +7,16 @@ uni02ED
 </note>
   <outline>
     <contour>
-      <point x="653" y="1446" type="line"/>
-      <point x="653" y="1446" type="line"/>
       <point x="653" y="1564" type="line"/>
       <point x="29" y="1564" type="line"/>
       <point x="29" y="1446" type="line"/>
+      <point x="653" y="1446" type="line"/>
     </contour>
     <contour>
-      <point x="653" y="1239" type="line"/>
-      <point x="653" y="1239" type="line"/>
       <point x="653" y="1357" type="line"/>
       <point x="29" y="1357" type="line"/>
       <point x="29" y="1239" type="line"/>
+      <point x="653" y="1239" type="line"/>
     </contour>
   </outline>
 </glyph>

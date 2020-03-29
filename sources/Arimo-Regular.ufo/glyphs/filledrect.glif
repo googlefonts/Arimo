@@ -7,11 +7,10 @@ filledrect
 </note>
   <outline>
     <contour>
-      <point x="0" y="616" type="line"/>
+      <point x="2048" y="616" type="line"/>
       <point x="0" y="616" type="line"/>
       <point x="0" y="0" type="line"/>
       <point x="2048" y="0" type="line"/>
-      <point x="2048" y="616" type="line"/>
     </contour>
   </outline>
 </glyph>

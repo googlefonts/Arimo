@@ -7,20 +7,19 @@ V
 </note>
   <outline>
     <contour>
-      <point x="834" y="0" type="line"/>
-      <point x="834" y="0" type="line"/>
       <point x="1352" y="1409" type="line"/>
       <point x="1047" y="1409" type="line"/>
       <point x="758" y="504" type="line" smooth="yes"/>
-      <point x="745.333" y="464.667"/>
-      <point x="730.0762531425775" y="404.72321840888003"/>
+      <point x="745" y="465"/>
+      <point x="730" y="405"/>
       <point x="686" y="238" type="curve"/>
-      <point x="655.333" y="356"/>
-      <point x="630.667" y="444.667"/>
+      <point x="655" y="356"/>
+      <point x="631" y="445"/>
       <point x="612" y="504" type="curve" smooth="yes"/>
       <point x="322" y="1409" type="line"/>
       <point x="14" y="1409" type="line"/>
       <point x="535" y="0" type="line"/>
+      <point x="834" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

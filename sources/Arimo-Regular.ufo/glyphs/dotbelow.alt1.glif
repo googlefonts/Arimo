@@ -5,11 +5,10 @@ dotbelow.alt1
 </note>
   <outline>
     <contour>
-      <point x="-241" y="-311" type="line"/>
-      <point x="-241" y="-311" type="line"/>
-      <point x="-61" y="-311" type="line"/>
       <point x="-61" y="-139" type="line"/>
       <point x="-241" y="-139" type="line"/>
+      <point x="-241" y="-311" type="line"/>
+      <point x="-61" y="-311" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -13,11 +13,11 @@ quotesinglbase
       <point x="133" y="0" type="line"/>
       <point x="221" y="0" type="line"/>
       <point x="221" y="-84"/>
-      <point x="189.667" y="-171.333"/>
+      <point x="190" y="-171"/>
       <point x="127" y="-262" type="curve"/>
       <point x="250" y="-262" type="line"/>
-      <point x="303.333" y="-175.333"/>
-      <point x="328.0" y="-90.0"/>
+      <point x="303" y="-175"/>
+      <point x="328" y="-90"/>
     </contour>
   </outline>
 </glyph>

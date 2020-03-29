@@ -10,12 +10,12 @@ commaaccent
       <point x="133" y="-98" type="line"/>
       <point x="133" y="-254" type="line"/>
       <point x="221" y="-254" type="line"/>
-      <point x="221" y="-315.333"/>
+      <point x="221" y="-315"/>
       <point x="187" y="-370"/>
       <point x="127" y="-434" type="curve"/>
       <point x="244" y="-434" type="line"/>
-      <point x="297.333" y="-371.333"/>
-      <point x="328.0" y="-309.0"/>
+      <point x="297" y="-371"/>
+      <point x="328" y="-309"/>
     </contour>
   </outline>
   <lib>

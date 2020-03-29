@@ -7,11 +7,10 @@ vav
 </note>
   <outline>
     <contour>
-      <point x="174" y="1227" type="line"/>
+      <point x="358" y="1227" type="line"/>
       <point x="174" y="1227" type="line"/>
       <point x="174" y="0" type="line"/>
       <point x="358" y="0" type="line"/>
-      <point x="358" y="1227" type="line"/>
     </contour>
   </outline>
 </glyph>

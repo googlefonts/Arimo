@@ -8,11 +8,10 @@ fraction
 </note>
   <outline>
     <contour>
-      <point x="-268" y="0" type="line"/>
-      <point x="-268" y="0" type="line"/>
       <point x="610" y="1409" type="line"/>
       <point x="465" y="1409" type="line"/>
       <point x="-416" y="0" type="line"/>
+      <point x="-268" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

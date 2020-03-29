@@ -6,25 +6,22 @@ uniA676
 </note>
   <outline>
     <contour>
-      <point x="-42" y="1210" type="line"/>
-      <point x="-42" y="1210" type="line"/>
-      <point x="57" y="1210" type="line"/>
-      <point x="57" y="1706" type="line"/>
-      <point x="-42" y="1706" type="line"/>
-    </contour>
-    <contour>
-      <point x="42" y="1751" type="line"/>
-      <point x="42" y="1751" type="line"/>
-      <point x="134" y="1751" type="line"/>
       <point x="134" y="1835" type="line"/>
       <point x="42" y="1835" type="line"/>
+      <point x="42" y="1751" type="line"/>
+      <point x="134" y="1751" type="line"/>
     </contour>
     <contour>
-      <point x="-133" y="1751" type="line"/>
-      <point x="-133" y="1751" type="line"/>
-      <point x="-40" y="1751" type="line"/>
       <point x="-40" y="1835" type="line"/>
       <point x="-133" y="1835" type="line"/>
+      <point x="-133" y="1751" type="line"/>
+      <point x="-40" y="1751" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="1706" type="line"/>
+      <point x="-42" y="1706" type="line"/>
+      <point x="-42" y="1210" type="line"/>
+      <point x="57" y="1210" type="line"/>
     </contour>
   </outline>
 </glyph>

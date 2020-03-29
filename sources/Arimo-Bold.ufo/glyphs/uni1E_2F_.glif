@@ -8,6 +8,6 @@ uni1E2F
   <outline>
     <component base="dotlessi"/>
     <component base="dieresis" xOffset="-54"/>
-    <component base="acute.uc" xOffset="35" yOffset="-29"/>
+    <component base="acute" xOffset="38" yOffset="310"/>
   </outline>
 </glyph>

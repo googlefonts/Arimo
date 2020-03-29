@@ -7,22 +7,8 @@ uni1FDF
 </note>
   <outline>
     <contour>
-      <point x="433" y="1474" type="line"/>
-      <point x="433" y="1474" type="line"/>
-      <point x="234" y="1474" type="line"/>
-      <point x="234" y="1397" type="line" smooth="yes"/>
-      <point x="234" y="1282"/>
-      <point x="250" y="1219"/>
-      <point x="310" y="1147" type="curve"/>
-      <point x="437" y="1147" type="line"/>
-      <point x="377" y="1215"/>
-      <point x="346" y="1262"/>
-      <point x="346" y="1309" type="curve"/>
-      <point x="433" y="1309" type="line"/>
-    </contour>
-    <contour>
       <point x="498" y="1518" type="curve" smooth="yes"/>
-      <point x="574.0" y="1518.0"/>
+      <point x="574" y="1518"/>
       <point x="628" y="1545"/>
       <point x="662" y="1615" type="curve" smooth="yes"/>
       <point x="680" y="1652"/>
@@ -47,6 +33,19 @@ uni1FDF
       <point x="192" y="1612" type="curve" smooth="yes"/>
       <point x="277" y="1612"/>
       <point x="390" y="1518"/>
+    </contour>
+    <contour>
+      <point x="346" y="1309" type="curve"/>
+      <point x="433" y="1309" type="line"/>
+      <point x="433" y="1474" type="line"/>
+      <point x="234" y="1474" type="line"/>
+      <point x="234" y="1397" type="line" smooth="yes"/>
+      <point x="234" y="1282"/>
+      <point x="250" y="1219"/>
+      <point x="310" y="1147" type="curve"/>
+      <point x="437" y="1147" type="line"/>
+      <point x="377" y="1215"/>
+      <point x="346" y="1262"/>
     </contour>
   </outline>
 </glyph>

@@ -6,7 +6,11 @@ uni1DDF
 </note>
   <outline>
     <contour>
-      <point x="260" y="1210" type="line"/>
+      <point x="-162" y="1573" type="line"/>
+      <point x="-38" y="1210" type="line"/>
+      <point x="45" y="1210" type="line"/>
+      <point x="163" y="1572" type="line"/>
+      <point x="163" y="1210" type="line"/>
       <point x="260" y="1210" type="line"/>
       <point x="260" y="1707" type="line"/>
       <point x="124" y="1707" type="line"/>
@@ -21,11 +25,6 @@ uni1DDF
       <point x="-259" y="1707" type="line"/>
       <point x="-259" y="1210" type="line"/>
       <point x="-162" y="1210" type="line"/>
-      <point x="-162" y="1573" type="line"/>
-      <point x="-38" y="1210" type="line"/>
-      <point x="45" y="1210" type="line"/>
-      <point x="163" y="1572" type="line"/>
-      <point x="163" y="1210" type="line"/>
     </contour>
   </outline>
 </glyph>

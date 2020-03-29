@@ -8,7 +8,6 @@ uni2120
   <outline>
     <contour>
       <point x="857" y="844" type="curve"/>
-      <point x="857" y="844" type="line"/>
       <point x="857" y="932"/>
       <point x="813" y="988"/>
       <point x="738" y="1026" type="curve" smooth="yes"/>
@@ -70,8 +69,7 @@ uni2120
       <point x="1441" y="634" type="line"/>
       <point x="1623" y="1083" type="line"/>
       <point x="1691" y="1253" type="line"/>
-      <point x="1691" y="1091" type="line"/>
-      <point x="1691" y="634" type="line"/>
+      <point x="1691" y="1077" type="line"/>
       <point x="1691" y="634" type="line"/>
       <point x="1817" y="634" type="line"/>
       <point x="1817" y="1409" type="line"/>

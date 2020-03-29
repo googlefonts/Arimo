@@ -6,8 +6,8 @@
 uni1E09
 </note>
   <outline>
-    <component base="c"/>
     <component base="cedilla" xOffset="300"/>
+    <component base="c"/>
     <component base="acute" xOffset="280"/>
   </outline>
 </glyph>

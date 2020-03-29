@@ -18,7 +18,7 @@ uni04C5
       <point x="410" y="1409" type="line"/>
       <point x="336" y="851" type="line" smooth="yes"/>
       <point x="298" y="564"/>
-      <point x="259.9009408423741" y="377.10773905887925"/>
+      <point x="260" y="377"/>
       <point x="223" y="280" type="curve" smooth="yes"/>
       <point x="184" y="179"/>
       <point x="145" y="139"/>

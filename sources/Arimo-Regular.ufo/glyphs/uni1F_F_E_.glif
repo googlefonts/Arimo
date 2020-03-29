@@ -7,18 +7,17 @@ uni1FFE
 </note>
   <outline>
     <contour>
-      <point x="435" y="1484" type="line"/>
+      <point x="348" y="1319" type="curve"/>
+      <point x="435" y="1319" type="line"/>
       <point x="435" y="1484" type="line"/>
       <point x="236" y="1484" type="line"/>
       <point x="236" y="1407" type="line" smooth="yes"/>
-      <point x="236" y="1292.333"/>
+      <point x="236" y="1292"/>
       <point x="252" y="1229"/>
       <point x="312" y="1157" type="curve"/>
       <point x="439" y="1157" type="line"/>
       <point x="379" y="1225"/>
-      <point x="348" y="1272.333"/>
-      <point x="348" y="1319" type="curve"/>
-      <point x="435" y="1319" type="line"/>
+      <point x="348" y="1272"/>
     </contour>
   </outline>
 </glyph>

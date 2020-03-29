@@ -8,30 +8,30 @@ ordmasculine
   <outline>
     <contour>
       <point x="713" y="1073" type="curve" smooth="yes"/>
-      <point x="713.0" y="1297.0"/>
-      <point x="592.333" y="1419"/>
+      <point x="713" y="1297"/>
+      <point x="592" y="1419"/>
       <point x="379" y="1419" type="curve" smooth="yes"/>
-      <point x="168.333" y="1419"/>
+      <point x="168" y="1419"/>
       <point x="45" y="1289"/>
       <point x="45" y="1073" type="curve" smooth="yes"/>
-      <point x="45" y="854.333"/>
-      <point x="172.333" y="725"/>
+      <point x="45" y="854"/>
+      <point x="172" y="725"/>
       <point x="375" y="725" type="curve" smooth="yes"/>
       <point x="587" y="725"/>
       <point x="713" y="857"/>
     </contour>
     <contour>
       <point x="513" y="1073" type="curve" smooth="yes"/>
-      <point x="513.0" y="930.0"/>
+      <point x="513" y="930"/>
       <point x="474" y="865"/>
       <point x="374" y="865" type="curve" smooth="yes"/>
-      <point x="284.667" y="865"/>
-      <point x="243" y="931.667"/>
+      <point x="285" y="865"/>
+      <point x="243" y="932"/>
       <point x="243" y="1073" type="curve" smooth="yes"/>
-      <point x="243" y="1211.667"/>
-      <point x="283.667" y="1276"/>
+      <point x="243" y="1212"/>
+      <point x="284" y="1276"/>
       <point x="381" y="1276" type="curve" smooth="yes"/>
-      <point x="478.333" y="1276"/>
+      <point x="478" y="1276"/>
       <point x="513" y="1214"/>
     </contour>
   </outline>

@@ -8,33 +8,31 @@ uni2070
   <outline>
     <contour>
       <point x="642" y="1053" type="curve"/>
-      <point x="642" y="1053" type="line"/>
-      <point x="642" y="1299.667"/>
-      <point x="550.667" y="1426"/>
+      <point x="642" y="1300"/>
+      <point x="551" y="1426"/>
       <point x="344" y="1426" type="curve" smooth="yes"/>
-      <point x="130.667" y="1426"/>
-      <point x="40" y="1306.333"/>
+      <point x="131" y="1426"/>
+      <point x="40" y="1306"/>
       <point x="40" y="1053" type="curve" smooth="yes"/>
       <point x="40" y="809"/>
-      <point x="134.667" y="684"/>
+      <point x="135" y="684"/>
       <point x="336" y="684" type="curve" smooth="yes"/>
-      <point x="541.333" y="684"/>
+      <point x="541" y="684"/>
       <point x="642" y="813"/>
     </contour>
     <contour>
       <point x="453" y="1053" type="curve"/>
-      <point x="453" y="1053" type="line"/>
-      <point x="453.0" y="870.9138735228587"/>
-      <point x="421.7296389108941" y="811.0"/>
+      <point x="453" y="871"/>
+      <point x="422" y="811"/>
       <point x="340" y="811" type="curve" smooth="yes"/>
-      <point x="256.8760410842984" y="811.0"/>
-      <point x="229.0" y="872.6595584654485"/>
+      <point x="257" y="811"/>
+      <point x="229" y="873"/>
       <point x="229" y="1053" type="curve" smooth="yes"/>
-      <point x="229.0" y="1236.2347143675952"/>
-      <point x="256.67701379555353" y="1299.0"/>
+      <point x="229" y="1236"/>
+      <point x="257" y="1299"/>
       <point x="343" y="1299" type="curve" smooth="yes"/>
-      <point x="426.6269017671741" y="1299.0"/>
-      <point x="453.0" y="1233.5909481028157"/>
+      <point x="427" y="1299"/>
+      <point x="453" y="1234"/>
     </contour>
   </outline>
 </glyph>

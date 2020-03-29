@@ -6,7 +6,6 @@ seven.alt
   <outline>
     <contour>
       <point x="291" y="764" type="curve"/>
-      <point x="291" y="764" type="line"/>
       <point x="291" y="860" type="line"/>
       <point x="-291" y="860" type="line"/>
       <point x="-291" y="749" type="line"/>

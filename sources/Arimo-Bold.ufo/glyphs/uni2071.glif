@@ -10,13 +10,11 @@ uni2071
       <point x="326" y="1484" type="line"/>
       <point x="150" y="1484" type="line"/>
       <point x="150" y="1353" type="line"/>
-      <point x="150" y="1353" type="line"/>
       <point x="326" y="1353" type="line"/>
     </contour>
     <contour>
       <point x="326" y="1248" type="line"/>
       <point x="150" y="1248" type="line"/>
-      <point x="150" y="694" type="line"/>
       <point x="150" y="694" type="line"/>
       <point x="326" y="694" type="line"/>
     </contour>

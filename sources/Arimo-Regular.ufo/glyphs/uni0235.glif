@@ -9,8 +9,8 @@ uni0235
     <contour>
       <point x="825" y="686" type="curve" smooth="yes"/>
       <point x="825" y="55" type="line" smooth="yes"/>
-      <point x="825.0" y="22.0"/>
-      <point x="826.0" y="-4"/>
+      <point x="825" y="22"/>
+      <point x="826" y="-4"/>
       <point x="829" y="-37" type="curve"/>
       <point x="757" y="-101"/>
       <point x="677" y="-196"/>
@@ -20,8 +20,8 @@ uni0235
       <point x="916" y="-362"/>
       <point x="1004" y="-425"/>
       <point x="1127" y="-425" type="curve" smooth="yes"/>
-      <point x="1274.57237251038" y="-425.0"/>
-      <point x="1396.0" y="-334.10076260607576"/>
+      <point x="1275" y="-425"/>
+      <point x="1396" y="-334"/>
       <point x="1396" y="-167" type="curve" smooth="yes"/>
       <point x="1396" y="-6"/>
       <point x="1300" y="87"/>
@@ -37,8 +37,8 @@ uni0235
       <point x="400" y="1046"/>
       <point x="317" y="897" type="curve"/>
       <point x="314" y="897" type="line"/>
-      <point x="310.0" y="1025.0"/>
-      <point x="308.0" y="1076.0"/>
+      <point x="310" y="1025"/>
+      <point x="308" y="1076"/>
       <point x="306" y="1082" type="curve"/>
       <point x="136" y="1082" type="line"/>
       <point x="140" y="1054"/>
@@ -55,16 +55,16 @@ uni0235
     </contour>
     <contour>
       <point x="1241" y="-171" type="curve" smooth="yes"/>
-      <point x="1241.0" y="-242.0"/>
-      <point x="1195.333" y="-281"/>
+      <point x="1241" y="-242"/>
+      <point x="1195" y="-281"/>
       <point x="1126" y="-281" type="curve" smooth="yes"/>
-      <point x="1044.667" y="-281"/>
-      <point x="994" y="-213.667"/>
+      <point x="1045" y="-281"/>
+      <point x="994" y="-214"/>
       <point x="994" y="-107" type="curve"/>
-      <point x="1036.667" y="-80.333"/>
-      <point x="1075.333" y="-58"/>
+      <point x="1037" y="-80"/>
+      <point x="1075" y="-58"/>
       <point x="1126" y="-58" type="curve" smooth="yes"/>
-      <point x="1203.333" y="-58"/>
+      <point x="1203" y="-58"/>
       <point x="1241" y="-107"/>
     </contour>
   </outline>

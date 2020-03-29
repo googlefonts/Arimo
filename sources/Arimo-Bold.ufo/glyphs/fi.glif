@@ -8,7 +8,12 @@ fi
 </note>
   <outline>
     <contour>
-      <point x="473" y="892" type="line"/>
+      <point x="1106" y="1484" type="line"/>
+      <point x="825" y="1484" type="line"/>
+      <point x="825" y="1277" type="line"/>
+      <point x="1106" y="1277" type="line"/>
+    </contour>
+    <contour>
       <point x="473" y="892" type="line"/>
       <point x="686" y="892" type="line"/>
       <point x="686" y="1082" type="line"/>
@@ -35,18 +40,10 @@ fi
       <point x="473" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="825" y="1277" type="line"/>
-      <point x="825" y="1277" type="line"/>
-      <point x="1106" y="1277" type="line"/>
-      <point x="1106" y="1484" type="line"/>
-      <point x="825" y="1484" type="line"/>
-    </contour>
-    <contour>
-      <point x="825" y="0" type="line"/>
-      <point x="825" y="0" type="line"/>
-      <point x="1106" y="0" type="line"/>
       <point x="1106" y="1082" type="line"/>
       <point x="825" y="1082" type="line"/>
+      <point x="825" y="0" type="line"/>
+      <point x="1106" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

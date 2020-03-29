@@ -8,7 +8,6 @@ uniAB60
   <outline>
     <contour>
       <point x="1366" y="647" type="curve"/>
-      <point x="1366" y="647" type="line"/>
       <point x="1094" y="647" type="line"/>
       <point x="1094" y="1082" type="line"/>
       <point x="143" y="1082" type="line"/>
@@ -18,7 +17,7 @@ uniAB60
       <point x="812" y="892" type="line"/>
       <point x="812" y="0" type="line"/>
       <point x="1367" y="0" type="line" smooth="yes"/>
-      <point x="1672.333" y="0"/>
+      <point x="1672" y="0"/>
       <point x="1843" y="117"/>
       <point x="1843" y="329" type="curve" smooth="yes"/>
       <point x="1843" y="541"/>
@@ -26,14 +25,13 @@ uniAB60
     </contour>
     <contour>
       <point x="1094" y="175" type="line"/>
-      <point x="1094" y="175" type="line"/>
       <point x="1094" y="475" type="line"/>
       <point x="1307" y="475" type="line" smooth="yes"/>
-      <point x="1484.333" y="475"/>
-      <point x="1556" y="430.333"/>
+      <point x="1484" y="475"/>
+      <point x="1556" y="430"/>
       <point x="1556" y="329" type="curve" smooth="yes"/>
       <point x="1556" y="221"/>
-      <point x="1479.333" y="175"/>
+      <point x="1479" y="175"/>
       <point x="1306" y="175" type="curve" smooth="yes"/>
     </contour>
   </outline>

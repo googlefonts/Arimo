@@ -7,18 +7,16 @@ colon
 </note>
   <outline>
     <contour>
-      <point x="187" y="875" type="line"/>
-      <point x="187" y="875" type="line"/>
-      <point x="382" y="875" type="line"/>
       <point x="382" y="1082" type="line"/>
       <point x="187" y="1082" type="line"/>
+      <point x="187" y="875" type="line"/>
+      <point x="382" y="875" type="line"/>
     </contour>
     <contour>
-      <point x="187" y="0" type="line"/>
-      <point x="187" y="0" type="line"/>
-      <point x="382" y="0" type="line"/>
       <point x="382" y="207" type="line"/>
       <point x="187" y="207" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="382" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

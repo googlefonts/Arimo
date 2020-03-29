@@ -6,7 +6,17 @@
 uni2016
 </note>
   <outline>
-    <component base="bar"/>
-    <component base="bar" xOffset="324"/>
+    <contour>
+      <point x="349" y="1484" type="line"/>
+      <point x="183" y="1484" type="line"/>
+      <point x="183" y="-434" type="line"/>
+      <point x="349" y="-434" type="line"/>
+    </contour>
+    <contour>
+      <point x="673" y="1484" type="line"/>
+      <point x="507" y="1484" type="line"/>
+      <point x="507" y="-434" type="line"/>
+      <point x="673" y="-434" type="line"/>
+    </contour>
   </outline>
 </glyph>

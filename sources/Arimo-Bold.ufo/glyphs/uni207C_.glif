@@ -10,13 +10,11 @@ uni207C
       <point x="619" y="1246" type="line"/>
       <point x="63" y="1246" type="line"/>
       <point x="63" y="1126" type="line"/>
-      <point x="63" y="1126" type="line"/>
       <point x="619" y="1126" type="line"/>
     </contour>
     <contour>
       <point x="619" y="1007" type="line"/>
       <point x="63" y="1007" type="line"/>
-      <point x="63" y="887" type="line"/>
       <point x="63" y="887" type="line"/>
       <point x="619" y="887" type="line"/>
     </contour>

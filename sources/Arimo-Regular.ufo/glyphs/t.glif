@@ -8,9 +8,8 @@ t
   <outline>
     <contour>
       <point x="554" y="8" type="curve"/>
-      <point x="554" y="8" type="line"/>
       <point x="554" y="141" type="line"/>
-      <point x="508.667" y="131.667"/>
+      <point x="509" y="132"/>
       <point x="474" y="127"/>
       <point x="450" y="127" type="curve" smooth="yes"/>
       <point x="366" y="127"/>
@@ -27,11 +26,11 @@ t
       <point x="31" y="951" type="line"/>
       <point x="156" y="951" type="line"/>
       <point x="156" y="229" type="line" smooth="yes"/>
-      <point x="156" y="65.667"/>
+      <point x="156" y="66"/>
       <point x="228" y="-16"/>
       <point x="372" y="-16" type="curve" smooth="yes"/>
       <point x="434" y="-16"/>
-      <point x="494.667" y="-8"/>
+      <point x="495" y="-8"/>
     </contour>
   </outline>
 </glyph>

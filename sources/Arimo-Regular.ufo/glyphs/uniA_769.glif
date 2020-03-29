@@ -8,12 +8,11 @@ uniA769
   <outline>
     <contour>
       <point x="318" y="-11" type="line"/>
-      <point x="318" y="-11" type="line"/>
       <point x="857" y="1082" type="line"/>
       <point x="666" y="1082" type="line"/>
       <point x="399" y="490" type="line" smooth="yes"/>
       <point x="375" y="438"/>
-      <point x="348.333" y="373.667"/>
+      <point x="348" y="374"/>
       <point x="319" y="297" type="curve"/>
       <point x="319" y="1082" type="line"/>
       <point x="138" y="1082" type="line"/>

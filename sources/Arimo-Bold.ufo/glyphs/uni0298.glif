@@ -35,11 +35,10 @@ uni0298
       <point x="1206" y="1015"/>
     </contour>
     <contour>
-      <point x="651" y="568" type="line"/>
-      <point x="651" y="568" type="line"/>
-      <point x="940" y="568" type="line"/>
       <point x="940" y="873" type="line"/>
       <point x="651" y="873" type="line"/>
+      <point x="651" y="568" type="line"/>
+      <point x="940" y="568" type="line"/>
     </contour>
   </outline>
 </glyph>

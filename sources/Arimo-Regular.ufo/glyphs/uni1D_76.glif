@@ -15,7 +15,7 @@ uni1D76
       <point x="632" y="444"/>
       <point x="704" y="431"/>
       <point x="738" y="431" type="curve" smooth="yes"/>
-      <point x="821.0" y="431.0"/>
+      <point x="821" y="431"/>
       <point x="875" y="463"/>
       <point x="902" y="528" type="curve" smooth="yes"/>
       <point x="917" y="562"/>

@@ -12,11 +12,11 @@ commaaccentrotate
       <point x="325" y="1378" type="line"/>
       <point x="237" y="1378" type="line"/>
       <point x="237" y="1438"/>
-      <point x="268.333" y="1501.333"/>
+      <point x="268" y="1501"/>
       <point x="331" y="1568" type="curve"/>
       <point x="214" y="1568" type="line"/>
-      <point x="160.667" y="1505.333"/>
-      <point x="130.0" y="1433.0"/>
+      <point x="161" y="1505"/>
+      <point x="130" y="1433"/>
     </contour>
   </outline>
 </glyph>

@@ -16,7 +16,6 @@ guillemotright
       <point x="808" y="537" type="line"/>
       <point x="552" y="176" type="line"/>
       <point x="552" y="141" type="line"/>
-      <point x="552" y="141" type="line"/>
     </contour>
     <contour>
       <point x="333" y="141" type="line"/>
@@ -27,7 +26,6 @@ guillemotright
       <point x="95" y="903" type="line"/>
       <point x="349" y="537" type="line"/>
       <point x="93" y="176" type="line"/>
-      <point x="93" y="141" type="line"/>
       <point x="93" y="141" type="line"/>
     </contour>
   </outline>

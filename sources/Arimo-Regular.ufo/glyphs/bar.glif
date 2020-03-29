@@ -7,11 +7,10 @@ bar
 </note>
   <outline>
     <contour>
-      <point x="183" y="-434" type="line"/>
-      <point x="183" y="-434" type="line"/>
-      <point x="349" y="-434" type="line"/>
       <point x="349" y="1484" type="line"/>
       <point x="183" y="1484" type="line"/>
+      <point x="183" y="-434" type="line"/>
+      <point x="349" y="-434" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -7,13 +7,11 @@ uniF00A
   <outline>
     <contour>
       <point x="42" y="1831" type="line"/>
-      <point x="42" y="1831" type="line"/>
       <point x="-42" y="1831" type="line"/>
       <point x="-42" y="863" type="line"/>
       <point x="42" y="863" type="line"/>
     </contour>
     <contour>
-      <point x="42" y="543" type="line"/>
       <point x="42" y="543" type="line"/>
       <point x="-42" y="543" type="line"/>
       <point x="-42" y="-425" type="line"/>

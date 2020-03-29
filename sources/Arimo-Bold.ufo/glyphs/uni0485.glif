@@ -9,11 +9,11 @@ uni0485
       <point x="-122" y="1484" type="line"/>
       <point x="-122" y="1358" type="line" smooth="yes"/>
       <point x="-122" y="1262"/>
-      <point x="-96" y="1189.667"/>
+      <point x="-96" y="1190"/>
       <point x="-28" y="1107" type="curve"/>
       <point x="109" y="1107" type="line"/>
-      <point x="46.333" y="1173.667"/>
-      <point x="15" y="1230.333"/>
+      <point x="46" y="1174"/>
+      <point x="15" y="1230"/>
       <point x="15" y="1277" type="curve"/>
       <point x="123" y="1277" type="line"/>
       <point x="123" y="1484" type="line"/>

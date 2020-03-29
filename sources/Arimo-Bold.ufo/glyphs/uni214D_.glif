@@ -8,27 +8,24 @@ uni214D
   <outline>
     <contour>
       <point x="1628" y="1468" type="line"/>
-      <point x="1628" y="1468" type="line"/>
       <point x="1483" y="1468" type="line"/>
       <point x="657" y="-42" type="line"/>
       <point x="802" y="-42" type="line"/>
     </contour>
     <contour>
-      <point x="745" y="592" type="line"/>
+      <point x="309" y="816" type="line"/>
+      <point x="659" y="816" type="line"/>
       <point x="745" y="592" type="line"/>
       <point x="963" y="592" type="line"/>
       <point x="607" y="1484" type="line"/>
       <point x="360" y="1484" type="line"/>
       <point x="2" y="592" type="line"/>
       <point x="222" y="592" type="line"/>
-      <point x="309" y="816" type="line"/>
-      <point x="659" y="816" type="line"/>
     </contour>
     <contour>
-      <point x="483" y="1318" type="line"/>
+      <point x="359" y="966" type="line"/>
       <point x="483" y="1318" type="line"/>
       <point x="609" y="966" type="line"/>
-      <point x="359" y="966" type="line"/>
     </contour>
     <contour>
       <point x="2037" y="246" type="curve" smooth="yes"/>
@@ -60,11 +57,11 @@ uni214D
       <point x="1285" y="532"/>
       <point x="1330" y="467"/>
       <point x="1410" y="424" type="curve" smooth="yes"/>
-      <point x="1474.9785837451866" y="389.8862435337771"/>
-      <point x="1654.5533582738822" y="359.61508997021457"/>
+      <point x="1475" y="390"/>
+      <point x="1655" y="360"/>
       <point x="1743" y="331" type="curve" smooth="yes"/>
-      <point x="1819.5066078306695" y="304.38900597194106"/>
-      <point x="1841.0" y="277.46575006419454"/>
+      <point x="1820" y="304"/>
+      <point x="1841" y="277"/>
       <point x="1841" y="236" type="curve" smooth="yes"/>
       <point x="1841" y="160"/>
       <point x="1779" y="133"/>

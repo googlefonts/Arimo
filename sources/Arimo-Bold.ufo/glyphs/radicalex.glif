@@ -7,11 +7,10 @@ radicalex
 </note>
   <outline>
     <contour>
-      <point x="812" y="1454" type="line"/>
-      <point x="812" y="1454" type="line"/>
       <point x="812" y="1620" type="line"/>
       <point x="-130" y="1620" type="line"/>
       <point x="-130" y="1454" type="line"/>
+      <point x="812" y="1454" type="line"/>
     </contour>
   </outline>
 </glyph>

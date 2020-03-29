@@ -6,12 +6,6 @@ bari.dotless
 </note>
   <outline>
     <contour>
-      <point x="22" y="658" type="line"/>
-      <point x="22" y="658" type="line"/>
-      <point x="22" y="455" type="line"/>
-      <point x="143" y="455" type="line"/>
-      <point x="143" y="0" type="line"/>
-      <point x="424" y="0" type="line"/>
       <point x="424" y="455" type="line"/>
       <point x="547" y="455" type="line"/>
       <point x="547" y="658" type="line"/>
@@ -19,6 +13,11 @@ bari.dotless
       <point x="424" y="1082" type="line"/>
       <point x="143" y="1082" type="line"/>
       <point x="143" y="658" type="line"/>
+      <point x="22" y="658" type="line"/>
+      <point x="22" y="455" type="line"/>
+      <point x="143" y="455" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

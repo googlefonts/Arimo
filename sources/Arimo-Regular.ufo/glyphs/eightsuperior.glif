@@ -8,7 +8,7 @@ eightsuperior
   <outline>
     <contour>
       <point x="642" y="800" type="curve" smooth="yes"/>
-      <point x="642.0" y="912.0"/>
+      <point x="642" y="912"/>
       <point x="580" y="988"/>
       <point x="471" y="1007" type="curve"/>
       <point x="471" y="1010" type="line"/>
@@ -36,7 +36,7 @@ eightsuperior
     </contour>
     <contour>
       <point x="479" y="1193" type="curve" smooth="yes"/>
-      <point x="479.0" y="1093.0"/>
+      <point x="479" y="1093"/>
       <point x="434" y="1059"/>
       <point x="343" y="1059" type="curve" smooth="yes"/>
       <point x="254" y="1059"/>
@@ -50,7 +50,7 @@ eightsuperior
     </contour>
     <contour>
       <point x="500" y="814" type="curve" smooth="yes"/>
-      <point x="500.0" y="699.0"/>
+      <point x="500" y="699"/>
       <point x="453" y="653"/>
       <point x="345" y="653" type="curve" smooth="yes"/>
       <point x="238" y="653"/>

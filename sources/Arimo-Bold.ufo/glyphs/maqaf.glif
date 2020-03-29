@@ -7,11 +7,10 @@ maqaf
 </note>
   <outline>
     <contour>
-      <point x="133" y="1356" type="line"/>
+      <point x="705" y="1356" type="line"/>
       <point x="133" y="1356" type="line"/>
       <point x="133" y="1145" type="line"/>
       <point x="705" y="1145" type="line"/>
-      <point x="705" y="1356" type="line"/>
     </contour>
   </outline>
 </glyph>

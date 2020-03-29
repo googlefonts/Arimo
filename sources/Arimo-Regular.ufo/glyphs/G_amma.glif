@@ -7,13 +7,12 @@ Gamma
 </note>
   <outline>
     <contour>
-      <point x="1071" y="1410" type="line"/>
+      <point x="359" y="1254" type="line"/>
+      <point x="1071" y="1254" type="line"/>
       <point x="1071" y="1410" type="line"/>
       <point x="168" y="1410" type="line"/>
       <point x="168" y="1" type="line"/>
       <point x="359" y="1" type="line"/>
-      <point x="359" y="1254" type="line"/>
-      <point x="1071" y="1254" type="line"/>
     </contour>
   </outline>
 </glyph>

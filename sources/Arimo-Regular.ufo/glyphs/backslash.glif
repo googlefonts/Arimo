@@ -7,11 +7,10 @@ backslash
 </note>
   <outline>
     <contour>
-      <point x="407" y="-20" type="line"/>
-      <point x="407" y="-20" type="line"/>
-      <point x="569" y="-20" type="line"/>
       <point x="158" y="1484" type="line"/>
       <point x="0" y="1484" type="line"/>
+      <point x="407" y="-20" type="line"/>
+      <point x="569" y="-20" type="line"/>
     </contour>
   </outline>
 </glyph>

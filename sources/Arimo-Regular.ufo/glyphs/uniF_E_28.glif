@@ -7,14 +7,13 @@ uniFE28
   <outline>
     <contour>
       <point x="0" y="-302" type="curve"/>
-      <point x="0" y="-302" type="line"/>
       <point x="1" y="-425" type="line"/>
-      <point x="374.333" y="-425"/>
-      <point x="638.667" y="-301.333"/>
+      <point x="374" y="-425"/>
+      <point x="639" y="-301"/>
       <point x="794" y="-54" type="curve"/>
       <point x="661" y="-54" type="line"/>
-      <point x="535.667" y="-227.333"/>
-      <point x="314.667" y="-302"/>
+      <point x="536" y="-227"/>
+      <point x="315" y="-302"/>
     </contour>
   </outline>
 </glyph>

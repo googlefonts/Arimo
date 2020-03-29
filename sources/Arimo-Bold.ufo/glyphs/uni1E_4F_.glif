@@ -7,7 +7,7 @@ uni1E4F
 </note>
   <outline>
     <component base="o"/>
+    <component base="tilde" xOffset="249" yOffset="-9"/>
     <component base="dieresis.uc" xOffset="282" yOffset="-9"/>
-    <component base="tildecomb" xOffset="1199" yOffset="-389"/>
   </outline>
 </glyph>

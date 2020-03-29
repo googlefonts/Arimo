@@ -13,15 +13,15 @@ uni1D3A
       <point x="674" y="1483" type="line"/>
       <point x="674" y="906" type="line" smooth="yes"/>
       <point x="674" y="854"/>
-      <point x="678" y="789.333"/>
+      <point x="678" y="789"/>
       <point x="686" y="712" type="curve"/>
       <point x="263" y="1483" type="line"/>
       <point x="34" y="1483" type="line"/>
       <point x="34" y="490" type="line"/>
       <point x="212" y="490" type="line"/>
       <point x="212" y="1076" type="line" smooth="yes"/>
-      <point x="212" y="1112.667"/>
-      <point x="208" y="1172.333"/>
+      <point x="212" y="1113"/>
+      <point x="208" y="1172"/>
       <point x="200" y="1255" type="curve"/>
     </contour>
   </outline>

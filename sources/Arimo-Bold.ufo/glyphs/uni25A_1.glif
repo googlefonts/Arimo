@@ -7,18 +7,16 @@ uni25A1
 </note>
   <outline>
     <contour>
-      <point x="6" y="1225" type="line"/>
+      <point x="1231" y="1225" type="line"/>
       <point x="6" y="1225" type="line"/>
       <point x="6" y="0" type="line"/>
       <point x="1231" y="0" type="line"/>
-      <point x="1231" y="1225" type="line"/>
     </contour>
     <contour>
-      <point x="82" y="1149" type="line"/>
+      <point x="82" y="76" type="line"/>
       <point x="82" y="1149" type="line"/>
       <point x="1155" y="1149" type="line"/>
       <point x="1155" y="76" type="line"/>
-      <point x="82" y="76" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -7,22 +7,8 @@ uniA787
 </note>
   <outline>
     <contour>
-      <point x="679" y="-20" type="curve"/>
-      <point x="679" y="-20" type="line"/>
-      <point x="857.667" y="-20"/>
-      <point x="999.667" y="46"/>
-      <point x="1085" y="162" type="curve" smooth="yes"/>
-      <point x="1127.667" y="220"/>
-      <point x="1154" y="286"/>
-      <point x="1164" y="360" type="curve"/>
-      <point x="882" y="373" type="line"/>
-      <point x="864.667" y="239.667"/>
-      <point x="787.667" y="172"/>
-      <point x="681" y="172" type="curve" smooth="yes"/>
-      <point x="533.667" y="172"/>
-      <point x="460" y="296.667"/>
-      <point x="460" y="546" type="curve" smooth="yes"/>
-      <point x="460" y="702"/>
+      <point x="460" y="527" type="curve" smooth="yes"/>
+      <point x="460" y="683"/>
       <point x="521" y="823"/>
       <point x="629" y="879" type="curve"/>
       <point x="1148" y="879" type="line"/>
@@ -30,11 +16,21 @@ uniA787
       <point x="100" y="1082" type="line"/>
       <point x="100" y="879" type="line"/>
       <point x="281" y="879" type="line"/>
-      <point x="203.667" y="788.333"/>
-      <point x="165" y="673.667"/>
+      <point x="204" y="788"/>
+      <point x="165" y="674"/>
       <point x="165" y="535" type="curve" smooth="yes"/>
-      <point x="165" y="185.667"/>
+      <point x="165" y="186"/>
       <point x="351" y="-20"/>
+      <point x="679" y="-20" type="curve" smooth="yes"/>
+      <point x="948" y="-20"/>
+      <point x="1134" y="139"/>
+      <point x="1164" y="360" type="curve"/>
+      <point x="882" y="373" type="line"/>
+      <point x="865" y="240"/>
+      <point x="788" y="172"/>
+      <point x="681" y="172" type="curve" smooth="yes"/>
+      <point x="534" y="172"/>
+      <point x="460" y="278"/>
     </contour>
   </outline>
 </glyph>

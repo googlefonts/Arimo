@@ -8,11 +8,11 @@ uni018D
   <outline>
     <contour>
       <point x="1171" y="552" type="curve" smooth="yes"/>
-      <point x="1171.0" y="908.0"/>
+      <point x="1171" y="908"/>
       <point x="979" y="1102"/>
       <point x="627" y="1102" type="curve" smooth="yes"/>
-      <point x="286.5" y="1102.0"/>
-      <point x="80.0" y="885.0"/>
+      <point x="287" y="1102"/>
+      <point x="80" y="885"/>
       <point x="80" y="552" type="curve" smooth="yes"/>
       <point x="80" y="327"/>
       <point x="160" y="170"/>
@@ -28,14 +28,14 @@ uni018D
     </contour>
     <contour>
       <point x="877" y="552" type="curve" smooth="yes"/>
-      <point x="877.0" y="312.0"/>
-      <point x="790.667" y="192"/>
+      <point x="877" y="312"/>
+      <point x="791" y="192"/>
       <point x="618" y="192" type="curve" smooth="yes"/>
-      <point x="463.333" y="192"/>
-      <point x="375" y="317.333"/>
+      <point x="463" y="192"/>
+      <point x="375" y="317"/>
       <point x="375" y="552" type="curve" smooth="yes"/>
       <point x="375" y="790"/>
-      <point x="460.333" y="909"/>
+      <point x="460" y="909"/>
       <point x="631" y="909" type="curve" smooth="yes"/>
       <point x="795" y="909"/>
       <point x="877" y="790"/>

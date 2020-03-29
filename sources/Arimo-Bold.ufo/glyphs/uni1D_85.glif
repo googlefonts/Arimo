@@ -9,8 +9,8 @@ uni1D85
     <contour>
       <point x="74" y="-197" type="curve"/>
       <point x="74" y="-408" type="line"/>
-      <point x="132" y="-419.333"/>
-      <point x="182.333" y="-425"/>
+      <point x="132" y="-419"/>
+      <point x="182" y="-425"/>
       <point x="225" y="-425" type="curve" smooth="yes"/>
       <point x="445" y="-425"/>
       <point x="547" y="-313"/>
@@ -22,10 +22,10 @@ uni1D85
       <point x="143" y="0" type="line"/>
       <point x="308" y="0" type="line"/>
       <point x="308" y="-84" type="line" smooth="yes"/>
-      <point x="308" y="-167.333"/>
+      <point x="308" y="-167"/>
       <point x="265" y="-209"/>
       <point x="179" y="-209" type="curve" smooth="yes"/>
-      <point x="148.0" y="-209.0"/>
+      <point x="148" y="-209"/>
       <point x="113" y="-205"/>
     </contour>
   </outline>

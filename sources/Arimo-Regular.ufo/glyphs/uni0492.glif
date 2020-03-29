@@ -7,12 +7,6 @@ uni0492
 </note>
   <outline>
     <contour>
-      <point x="-1" y="806" type="line"/>
-      <point x="-1" y="806" type="line"/>
-      <point x="-1" y="659" type="line"/>
-      <point x="168" y="659" type="line"/>
-      <point x="168" y="0" type="line"/>
-      <point x="359" y="0" type="line"/>
       <point x="359" y="659" type="line"/>
       <point x="779" y="659" type="line"/>
       <point x="779" y="806" type="line"/>
@@ -22,6 +16,11 @@ uni0492
       <point x="1071" y="1410" type="line"/>
       <point x="168" y="1410" type="line"/>
       <point x="168" y="806" type="line"/>
+      <point x="-1" y="806" type="line"/>
+      <point x="-1" y="659" type="line"/>
+      <point x="168" y="659" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="359" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

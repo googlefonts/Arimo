@@ -8,32 +8,32 @@ Eng.alt2
     <contour>
       <point x="1065" y="-425" type="curve" smooth="yes"/>
       <point x="1228" y="-425"/>
-      <point x="1312.0" y="-334.0"/>
+      <point x="1312" y="-334"/>
       <point x="1312" y="-134" type="curve" smooth="yes"/>
       <point x="1312" y="1409" type="line"/>
       <point x="1140" y="1409" type="line"/>
       <point x="1140" y="545" type="line" smooth="yes"/>
-      <point x="1140" y="486.333"/>
-      <point x="1144" y="391.667"/>
+      <point x="1140" y="486"/>
+      <point x="1144" y="392"/>
       <point x="1152" y="261" type="curve"/>
       <point x="390" y="1409" type="line"/>
       <point x="168" y="1409" type="line"/>
       <point x="168" y="0" type="line"/>
       <point x="338" y="0" type="line"/>
       <point x="338" y="936" type="line" smooth="yes"/>
-      <point x="338.0" y="1024"/>
+      <point x="338" y="1024"/>
       <point x="331" y="1112"/>
       <point x="328" y="1200" type="curve"/>
       <point x="1125" y="-3" type="line"/>
       <point x="1125" y="-94" type="line" smooth="yes"/>
-      <point x="1125.0" y="-220.13038064698478"/>
-      <point x="1109.8357145522764" y="-270.0"/>
+      <point x="1125" y="-220"/>
+      <point x="1110" y="-270"/>
       <point x="1010" y="-270" type="curve" smooth="yes"/>
-      <point x="983.333" y="-270"/>
-      <point x="952.667" y="-266.333"/>
+      <point x="983" y="-270"/>
+      <point x="953" y="-266"/>
       <point x="918" y="-259" type="curve"/>
       <point x="918" y="-411" type="line"/>
-      <point x="961.333" y="-420.333"/>
+      <point x="961" y="-420"/>
       <point x="1010" y="-425"/>
     </contour>
   </outline>

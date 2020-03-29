@@ -17,7 +17,7 @@ uni0514
       <point x="410" y="1409" type="line"/>
       <point x="352" y="968" type="line" smooth="yes"/>
       <point x="305" y="611"/>
-      <point x="264.8069979287447" y="390.0184156019597"/>
+      <point x="265" y="390"/>
       <point x="223" y="280" type="curve" smooth="yes"/>
       <point x="184" y="179"/>
       <point x="145" y="139"/>

@@ -7,7 +7,7 @@ uni1E51
 </note>
   <outline>
     <component base="o"/>
-    <component base="grave.uc" xOffset="144" yOffset="-69"/>
     <component base="macron" xOffset="283" yOffset="-11"/>
+    <component base="grave" xOffset="210" yOffset="259"/>
   </outline>
 </glyph>

@@ -14,10 +14,10 @@ uni048D
       <point x="142" y="0" type="line"/>
       <point x="591" y="0" type="line" smooth="yes"/>
       <point x="855" y="0"/>
-      <point x="1005" y="112.667"/>
+      <point x="1005" y="113"/>
       <point x="1005" y="318" type="curve" smooth="yes"/>
       <point x="1005" y="530"/>
-      <point x="863.333" y="624"/>
+      <point x="863" y="624"/>
       <point x="590" y="624" type="curve" smooth="yes"/>
       <point x="322" y="624" type="line"/>
       <point x="322" y="1168" type="line"/>
@@ -31,11 +31,11 @@ uni048D
       <point x="322" y="127" type="line"/>
       <point x="322" y="499" type="line"/>
       <point x="565" y="499" type="line" smooth="yes"/>
-      <point x="742.333" y="499"/>
-      <point x="814" y="443.333"/>
+      <point x="742" y="499"/>
+      <point x="814" y="443"/>
       <point x="814" y="318" type="curve" smooth="yes"/>
       <point x="814" y="186"/>
-      <point x="737.333" y="127"/>
+      <point x="737" y="127"/>
       <point x="564" y="127" type="curve"/>
     </contour>
   </outline>

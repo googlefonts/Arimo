@@ -7,20 +7,19 @@ uni035C
   <outline>
     <contour>
       <point x="794" y="-54" type="curve"/>
-      <point x="794" y="-54" type="line"/>
       <point x="661" y="-54" type="line"/>
-      <point x="535.667" y="-227.333"/>
-      <point x="314.667" y="-302"/>
+      <point x="536" y="-227"/>
+      <point x="315" y="-302"/>
       <point x="0" y="-302" type="curve" smooth="yes"/>
-      <point x="-314.667" y="-302"/>
-      <point x="-534.667" y="-227.333"/>
+      <point x="-315" y="-302"/>
+      <point x="-535" y="-227"/>
       <point x="-660" y="-54" type="curve"/>
       <point x="-793" y="-54" type="line"/>
-      <point x="-633" y="-308.667"/>
-      <point x="-357.667" y="-425"/>
+      <point x="-633" y="-309"/>
+      <point x="-358" y="-425"/>
       <point x="1" y="-425" type="curve" smooth="yes"/>
-      <point x="359.667" y="-425"/>
-      <point x="634" y="-308.667"/>
+      <point x="360" y="-425"/>
+      <point x="634" y="-309"/>
     </contour>
   </outline>
 </glyph>

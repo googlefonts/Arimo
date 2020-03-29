@@ -10,13 +10,11 @@ uni2059
       <point x="428" y="1082" type="line"/>
       <point x="140" y="1082" type="line"/>
       <point x="140" y="800" type="line"/>
-      <point x="140" y="800" type="line"/>
       <point x="428" y="800" type="line"/>
     </contour>
     <contour>
       <point x="1304" y="1082" type="line"/>
       <point x="1016" y="1082" type="line"/>
-      <point x="1016" y="800" type="line"/>
       <point x="1016" y="800" type="line"/>
       <point x="1304" y="800" type="line"/>
     </contour>
@@ -24,20 +22,17 @@ uni2059
       <point x="866" y="682" type="line"/>
       <point x="578" y="682" type="line"/>
       <point x="578" y="400" type="line"/>
-      <point x="578" y="400" type="line"/>
       <point x="866" y="400" type="line"/>
     </contour>
     <contour>
       <point x="428" y="281" type="line"/>
       <point x="140" y="281" type="line"/>
       <point x="140" y="0" type="line"/>
-      <point x="140" y="0" type="line"/>
       <point x="428" y="0" type="line"/>
     </contour>
     <contour>
       <point x="1304" y="281" type="line"/>
       <point x="1016" y="281" type="line"/>
-      <point x="1016" y="0" type="line"/>
       <point x="1016" y="0" type="line"/>
       <point x="1304" y="0" type="line"/>
     </contour>

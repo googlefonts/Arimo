@@ -7,7 +7,8 @@ uni20A8
 </note>
   <outline>
     <contour>
-      <point x="1164" y="0" type="line"/>
+      <point x="359" y="585" type="line"/>
+      <point x="798" y="585" type="line"/>
       <point x="1164" y="0" type="line"/>
       <point x="1384" y="0" type="line"/>
       <point x="984" y="607" type="line"/>
@@ -20,8 +21,6 @@ uni20A8
       <point x="168" y="1409" type="line"/>
       <point x="168" y="0" type="line"/>
       <point x="359" y="0" type="line"/>
-      <point x="359" y="585" type="line"/>
-      <point x="798" y="585" type="line"/>
     </contour>
     <contour>
       <point x="1136" y="1004" type="curve" smooth="yes"/>

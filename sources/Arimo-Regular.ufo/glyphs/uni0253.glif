@@ -8,7 +8,7 @@ uni0253
   <outline>
     <contour>
       <point x="1053" y="546" type="curve" smooth="yes"/>
-      <point x="1053.0" y="919.0"/>
+      <point x="1053" y="919"/>
       <point x="928" y="1102"/>
       <point x="655" y="1102" type="curve" smooth="yes"/>
       <point x="492" y="1102"/>
@@ -46,14 +46,14 @@ uni0253
     </contour>
     <contour>
       <point x="864" y="540" type="curve" smooth="yes"/>
-      <point x="864.0" y="239.0"/>
-      <point x="788.333" y="113"/>
+      <point x="864" y="239"/>
+      <point x="788" y="113"/>
       <point x="607" y="113" type="curve" smooth="yes"/>
       <point x="403" y="113"/>
       <point x="318" y="245"/>
       <point x="318" y="529" type="curve" smooth="yes"/>
-      <point x="318" y="830.333"/>
-      <point x="406.333" y="963"/>
+      <point x="318" y="830"/>
+      <point x="406" y="963"/>
       <point x="609" y="963" type="curve" smooth="yes"/>
       <point x="789" y="963"/>
       <point x="864" y="843"/>

@@ -33,15 +33,15 @@ uni20B3
       <point x="385" y="935" type="line"/>
     </contour>
     <contour>
+      <point x="567" y="935" type="line"/>
+      <point x="685" y="1265" type="line"/>
+      <point x="803" y="935" type="line"/>
+    </contour>
+    <contour>
       <point x="422" y="561" type="line"/>
       <point x="509" y="786" type="line"/>
       <point x="861" y="786" type="line"/>
       <point x="949" y="561" type="line"/>
-    </contour>
-    <contour>
-      <point x="567" y="935" type="line"/>
-      <point x="685" y="1265" type="line"/>
-      <point x="803" y="935" type="line"/>
     </contour>
   </outline>
 </glyph>

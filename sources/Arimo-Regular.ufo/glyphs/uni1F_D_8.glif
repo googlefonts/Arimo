@@ -7,6 +7,6 @@ uni1FD8
 </note>
   <outline>
     <component base="I"/>
-    <component base="breve" xOffset="-19" yOffset="362"/>
+    <component base="breve.uc" xOffset="-26"/>
   </outline>
 </glyph>

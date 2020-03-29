@@ -6,7 +6,7 @@ uni03B1030603130301
 </note>
   <outline>
     <component base="alpha"/>
-    <component base="breve" xOffset="310" yOffset="-9"/>
     <component base="uni1FCE" xOffset="330" yOffset="470"/>
+    <component base="breve" xOffset="310" yOffset="-9"/>
   </outline>
 </glyph>

@@ -7,11 +7,10 @@ uniA7FE
 </note>
   <outline>
     <contour>
-      <point x="189" y="0" type="line"/>
-      <point x="189" y="0" type="line"/>
-      <point x="380" y="0" type="line"/>
       <point x="380" y="1824" type="line"/>
       <point x="189" y="1824" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="380" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

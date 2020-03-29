@@ -7,15 +7,14 @@ uni2524
 </note>
   <outline>
     <contour>
-      <point x="-10" y="549" type="line"/>
-      <point x="-10" y="549" type="line"/>
-      <point x="653" y="549" type="line"/>
-      <point x="653" y="-621" type="line"/>
-      <point x="798" y="-621" type="line"/>
       <point x="798" y="1864" type="line"/>
       <point x="653" y="1864" type="line"/>
       <point x="653" y="694" type="line"/>
       <point x="-10" y="694" type="line"/>
+      <point x="-10" y="549" type="line"/>
+      <point x="653" y="549" type="line"/>
+      <point x="653" y="-621" type="line"/>
+      <point x="798" y="-621" type="line"/>
     </contour>
   </outline>
 </glyph>

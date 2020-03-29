@@ -10,24 +10,24 @@ uni0242
       <point x="354" y="0" type="line"/>
       <point x="534" y="0" type="line"/>
       <point x="534" y="314" type="line"/>
-      <point x="735.333" y="364.667"/>
-      <point x="848" y="506.333"/>
+      <point x="735" y="365"/>
+      <point x="848" y="506"/>
       <point x="848" y="697" type="curve" smooth="yes"/>
       <point x="848" y="957"/>
-      <point x="697.333" y="1102"/>
+      <point x="697" y="1102"/>
       <point x="424" y="1102" type="curve" smooth="yes"/>
-      <point x="206.667" y="1102"/>
-      <point x="54.667" y="979"/>
+      <point x="207" y="1102"/>
+      <point x="55" y="979"/>
       <point x="20" y="779" type="curve"/>
       <point x="205" y="765" type="line"/>
-      <point x="223.667" y="895.667"/>
-      <point x="296.667" y="961"/>
+      <point x="224" y="896"/>
+      <point x="297" y="961"/>
       <point x="424" y="961" type="curve" smooth="yes"/>
-      <point x="593.333" y="961"/>
-      <point x="660" y="876.333"/>
+      <point x="593" y="961"/>
+      <point x="660" y="876"/>
       <point x="660" y="699" type="curve" smooth="yes"/>
       <point x="660" y="535"/>
-      <point x="544.667" y="432"/>
+      <point x="545" y="432"/>
       <point x="354" y="432" type="curve"/>
     </contour>
   </outline>

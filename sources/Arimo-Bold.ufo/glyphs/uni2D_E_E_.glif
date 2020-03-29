@@ -6,15 +6,14 @@ uni2DEE
 </note>
   <outline>
     <contour>
-      <point x="-207" y="1706" type="line"/>
+      <point x="72" y="1605" type="line"/>
+      <point x="207" y="1605" type="line"/>
+      <point x="207" y="1706" type="line"/>
       <point x="-207" y="1706" type="line"/>
       <point x="-207" y="1605" type="line"/>
       <point x="-73" y="1605" type="line"/>
       <point x="-73" y="1210" type="line"/>
       <point x="72" y="1210" type="line"/>
-      <point x="72" y="1605" type="line"/>
-      <point x="207" y="1605" type="line"/>
-      <point x="207" y="1706" type="line"/>
     </contour>
   </outline>
 </glyph>

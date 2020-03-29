@@ -7,9 +7,6 @@ onesuperior
 </note>
   <outline>
     <contour>
-      <point x="80" y="563" type="line"/>
-      <point x="80" y="563" type="line"/>
-      <point x="637" y="563" type="line"/>
       <point x="637" y="670" type="line"/>
       <point x="422" y="670" type="line"/>
       <point x="422" y="1409" type="line"/>
@@ -19,6 +16,8 @@ onesuperior
       <point x="291" y="1290" type="line"/>
       <point x="291" y="670" type="line"/>
       <point x="80" y="670" type="line"/>
+      <point x="80" y="563" type="line"/>
+      <point x="637" y="563" type="line"/>
     </contour>
   </outline>
 </glyph>

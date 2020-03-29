@@ -25,11 +25,9 @@ uni0512
       <point x="1177" y="-129" type="curve" smooth="yes"/>
       <point x="1177" y="1409" type="line"/>
       <point x="410" y="1409" type="line"/>
-      <point x="390" y="1252"/>
-      <point x="372" y="1116"/>
-      <point x="356" y="996" type="curve" smooth="yes"/>
-      <point x="305.64203944900163" y="620.1137944586192"/>
-      <point x="265.79465688681717" y="392.617518123203"/>
+      <point x="356" y="996" type="line" smooth="yes"/>
+      <point x="307" y="620"/>
+      <point x="266" y="393"/>
       <point x="223" y="280" type="curve" smooth="yes"/>
       <point x="184" y="179"/>
       <point x="145" y="139"/>

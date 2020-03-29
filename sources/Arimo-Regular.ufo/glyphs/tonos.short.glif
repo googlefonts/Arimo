@@ -6,13 +6,12 @@ tonos.short
 </note>
   <outline>
     <contour>
-      <point x="203" y="1590" type="line"/>
-      <point x="203" y="1590" type="line"/>
-      <point x="278" y="1590" type="line"/>
       <point x="479" y="1798" type="line"/>
       <point x="479" y="1835" type="line"/>
       <point x="272" y="1835" type="line"/>
       <point x="203" y="1623" type="line"/>
+      <point x="203" y="1590" type="line"/>
+      <point x="278" y="1590" type="line"/>
     </contour>
   </outline>
   <lib>

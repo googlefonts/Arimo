@@ -7,11 +7,10 @@ dotaccent
 </note>
   <outline>
     <contour>
-      <point x="156" y="1312" type="line"/>
-      <point x="156" y="1312" type="line"/>
-      <point x="336" y="1312" type="line"/>
       <point x="336" y="1484" type="line"/>
       <point x="156" y="1484" type="line"/>
+      <point x="156" y="1312" type="line"/>
+      <point x="336" y="1312" type="line"/>
     </contour>
   </outline>
 </glyph>

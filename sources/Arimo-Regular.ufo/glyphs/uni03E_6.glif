@@ -10,17 +10,17 @@ uni03E6
       <point x="164" y="-275" type="line"/>
       <point x="164" y="-424" type="line"/>
       <point x="509" y="-424" type="line" smooth="yes"/>
-      <point x="906.8723737369082" y="-424.0"/>
+      <point x="907" y="-424"/>
       <point x="1074" y="-318"/>
       <point x="1171" y="-153" type="curve" smooth="yes"/>
       <point x="1241" y="-34"/>
-      <point x="1279" y="124.333"/>
+      <point x="1279" y="124"/>
       <point x="1279" y="331" type="curve" smooth="yes"/>
       <point x="1279" y="707"/>
       <point x="1073" y="932"/>
       <point x="729" y="932" type="curve" smooth="yes"/>
-      <point x="622.333" y="932"/>
-      <point x="520.5860371249228" y="914.0142153803251"/>
+      <point x="622" y="932"/>
+      <point x="521" y="914"/>
       <point x="354" y="845" type="curve"/>
       <point x="354" y="1410" type="line"/>
       <point x="164" y="1410" type="line"/>
@@ -28,16 +28,16 @@ uni03E6
       <point x="354" y="0" type="line"/>
       <point x="354" y="688" type="line"/>
       <point x="470" y="744"/>
-      <point x="608.667" y="778"/>
+      <point x="609" y="778"/>
       <point x="722" y="778" type="curve" smooth="yes"/>
-      <point x="960.667" y="778"/>
+      <point x="961" y="778"/>
       <point x="1089" y="617"/>
       <point x="1089" y="325" type="curve" smooth="yes"/>
-      <point x="1089.0" y="32.99950000000001"/>
-      <point x="1014.5" y="-125.49900000000001"/>
-      <point x="885.5" y="-202.5" type="curve" smooth="yes"/>
-      <point x="799.5" y="-253.833"/>
-      <point x="711.333" y="-275"/>
+      <point x="1089" y="33"/>
+      <point x="1015" y="-125"/>
+      <point x="886" y="-202" type="curve" smooth="yes"/>
+      <point x="800" y="-254"/>
+      <point x="711" y="-275"/>
       <point x="466" y="-275" type="curve"/>
     </contour>
   </outline>

@@ -6,11 +6,10 @@ uniFE2D
 </note>
   <outline>
     <contour>
-      <point x="550" y="-324" type="line"/>
-      <point x="550" y="-324" type="line"/>
       <point x="550" y="-197" type="line"/>
       <point x="-550" y="-197" type="line"/>
       <point x="-550" y="-324" type="line"/>
+      <point x="550" y="-324" type="line"/>
     </contour>
   </outline>
 </glyph>

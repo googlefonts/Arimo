@@ -7,7 +7,9 @@ uniA743
 </note>
   <outline>
     <contour>
-      <point x="448" y="78" type="line"/>
+      <point x="424" y="406" type="line"/>
+      <point x="545" y="490" type="line"/>
+      <point x="649" y="312" type="line"/>
       <point x="448" y="78" type="line"/>
       <point x="720" y="78" type="line"/>
       <point x="760" y="125" type="line"/>
@@ -25,9 +27,6 @@ uniA743
       <point x="143" y="1484" type="line"/>
       <point x="143" y="0" type="line"/>
       <point x="424" y="0" type="line"/>
-      <point x="424" y="406" type="line"/>
-      <point x="545" y="490" type="line"/>
-      <point x="649" y="312" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -7,7 +7,7 @@ uni2C75
 </note>
   <outline>
     <contour>
-      <point x="1046" y="604" type="line"/>
+      <point x="432" y="604" type="line"/>
       <point x="1046" y="604" type="line"/>
       <point x="1046" y="848" type="line"/>
       <point x="432" y="848" type="line"/>
@@ -15,7 +15,6 @@ uni2C75
       <point x="137" y="1409" type="line"/>
       <point x="137" y="0" type="line"/>
       <point x="432" y="0" type="line"/>
-      <point x="432" y="604" type="line"/>
     </contour>
   </outline>
 </glyph>

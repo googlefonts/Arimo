@@ -6,18 +6,16 @@ dieresis.uc
 </note>
   <outline>
     <contour>
-      <point x="469" y="1530" type="line"/>
-      <point x="469" y="1530" type="line"/>
-      <point x="666" y="1530" type="line"/>
       <point x="666" y="1749" type="line"/>
       <point x="469" y="1749" type="line"/>
+      <point x="469" y="1530" type="line"/>
+      <point x="666" y="1530" type="line"/>
     </contour>
     <contour>
-      <point x="15" y="1530" type="line"/>
-      <point x="15" y="1530" type="line"/>
-      <point x="209" y="1530" type="line"/>
       <point x="209" y="1749" type="line"/>
       <point x="15" y="1749" type="line"/>
+      <point x="15" y="1530" type="line"/>
+      <point x="209" y="1530" type="line"/>
     </contour>
   </outline>
 </glyph>

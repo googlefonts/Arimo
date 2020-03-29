@@ -7,20 +7,18 @@ lozenge
 </note>
   <outline>
     <contour>
-      <point x="558" y="0" type="line"/>
-      <point x="558" y="0" type="line"/>
       <point x="1012" y="723" type="line"/>
       <point x="558" y="1446" type="line"/>
       <point x="454" y="1446" type="line"/>
       <point x="3" y="721" type="line"/>
       <point x="454" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="507" y="1204" type="line"/>
+      <point x="218" y="723" type="line"/>
       <point x="507" y="1204" type="line"/>
       <point x="796" y="723" type="line"/>
       <point x="507" y="229" type="line"/>
-      <point x="218" y="723" type="line"/>
     </contour>
   </outline>
 </glyph>

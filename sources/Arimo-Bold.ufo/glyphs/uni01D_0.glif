@@ -6,7 +6,7 @@
 uni01D0
 </note>
   <outline>
-    <component base="dotlessi"/>
+    <component base="dotlessi.alt1"/>
     <component base="caron" xOffset="-82"/>
   </outline>
 </glyph>

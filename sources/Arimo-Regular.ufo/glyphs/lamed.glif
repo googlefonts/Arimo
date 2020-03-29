@@ -8,7 +8,6 @@ lamed
   <outline>
     <contour>
       <point x="193" y="162" type="curve"/>
-      <point x="193" y="162" type="line"/>
       <point x="193" y="-45" type="line"/>
       <point x="372" y="19"/>
       <point x="527" y="107"/>

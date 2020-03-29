@@ -6,11 +6,10 @@ uni1DDD
 </note>
   <outline>
     <contour>
-      <point x="-50" y="1210" type="line"/>
-      <point x="-50" y="1210" type="line"/>
-      <point x="50" y="1210" type="line"/>
       <point x="50" y="1835" type="line"/>
       <point x="-50" y="1835" type="line"/>
+      <point x="-50" y="1210" type="line"/>
+      <point x="50" y="1210" type="line"/>
     </contour>
   </outline>
 </glyph>

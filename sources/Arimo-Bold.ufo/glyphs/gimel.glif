@@ -8,7 +8,6 @@ gimel
   <outline>
     <contour>
       <point x="332" y="1241" type="curve"/>
-      <point x="332" y="1241" type="line"/>
       <point x="160" y="1241" type="line"/>
       <point x="160" y="999" type="line"/>
       <point x="295" y="999" type="line" smooth="yes"/>

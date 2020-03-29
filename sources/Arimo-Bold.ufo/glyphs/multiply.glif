@@ -7,9 +7,6 @@ multiply
 </note>
   <outline>
     <contour>
-      <point x="86" y="326" type="line"/>
-      <point x="86" y="326" type="line"/>
-      <point x="244" y="168" type="line"/>
       <point x="600" y="526" type="line"/>
       <point x="952" y="172" type="line"/>
       <point x="1110" y="332" type="line"/>
@@ -20,6 +17,8 @@ multiply
       <point x="248" y="1192" type="line"/>
       <point x="90" y="1036" type="line"/>
       <point x="442" y="684" type="line"/>
+      <point x="86" y="326" type="line"/>
+      <point x="244" y="168" type="line"/>
     </contour>
   </outline>
 </glyph>

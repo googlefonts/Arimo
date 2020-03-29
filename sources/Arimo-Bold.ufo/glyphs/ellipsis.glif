@@ -7,25 +7,22 @@ ellipsis
 </note>
   <outline>
     <contour>
-      <point x="1528" y="0" type="line"/>
-      <point x="1528" y="0" type="line"/>
-      <point x="1816" y="0" type="line"/>
       <point x="1816" y="305" type="line"/>
       <point x="1528" y="305" type="line"/>
+      <point x="1528" y="0" type="line"/>
+      <point x="1816" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="880" y="0" type="line"/>
-      <point x="880" y="0" type="line"/>
-      <point x="1166" y="0" type="line"/>
       <point x="1166" y="305" type="line"/>
       <point x="880" y="305" type="line"/>
+      <point x="880" y="0" type="line"/>
+      <point x="1166" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="225" y="0" type="line"/>
-      <point x="225" y="0" type="line"/>
-      <point x="513" y="0" type="line"/>
       <point x="513" y="305" type="line"/>
       <point x="225" y="305" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="513" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

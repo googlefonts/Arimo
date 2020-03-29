@@ -5,6 +5,12 @@
 uniFE2B
 </note>
   <outline>
-    <component base="overscore" xOffset="-647" yOffset="-1541"/>
+    <component base="uni0331" xOffset="-307"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.6412,0.6294,1</string>
+    </dict>
+  </lib>
 </glyph>

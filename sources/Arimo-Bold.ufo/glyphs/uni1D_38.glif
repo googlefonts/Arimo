@@ -7,13 +7,12 @@ uni1D38
 </note>
   <outline>
     <contour>
-      <point x="41" y="475" type="line"/>
-      <point x="41" y="475" type="line"/>
-      <point x="756" y="475" type="line"/>
       <point x="756" y="630" type="line"/>
       <point x="242" y="630" type="line"/>
       <point x="242" y="1433" type="line"/>
       <point x="41" y="1433" type="line"/>
+      <point x="41" y="475" type="line"/>
+      <point x="756" y="475" type="line"/>
     </contour>
   </outline>
 </glyph>

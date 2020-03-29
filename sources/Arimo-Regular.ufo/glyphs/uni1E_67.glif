@@ -7,6 +7,7 @@ uni1E67
 </note>
   <outline>
     <component base="s"/>
-    <component base="uni030C0307.cap" xOffset="507" yOffset="-317"/>
+    <component base="caron.uc" xOffset="174" yOffset="-348"/>
+    <component base="dotaccent" xOffset="261" yOffset="148"/>
   </outline>
 </glyph>

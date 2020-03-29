@@ -7,7 +7,7 @@ uni03B9030803040300
   <outline>
     <component base="iota" xOffset="-2"/>
     <component base="dieresis" xOffset="-59" yOffset="-34"/>
-    <component base="uni1FEF" xOffset="-128" yOffset="515"/>
     <component base="macron" xOffset="-63" yOffset="249"/>
+    <component base="uni1FEF.short" xOffset="-119" yOffset="107"/>
   </outline>
 </glyph>

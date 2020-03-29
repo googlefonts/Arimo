@@ -6,18 +6,16 @@ uni033B
 </note>
   <outline>
     <contour>
-      <point x="188" y="-425" type="line"/>
-      <point x="188" y="-425" type="line"/>
       <point x="188" y="-49" type="line"/>
       <point x="-188" y="-49" type="line"/>
       <point x="-188" y="-425" type="line"/>
+      <point x="188" y="-425" type="line"/>
     </contour>
     <contour>
-      <point x="90" y="-327" type="line"/>
-      <point x="90" y="-327" type="line"/>
       <point x="-90" y="-327" type="line"/>
       <point x="-90" y="-147" type="line"/>
       <point x="90" y="-147" type="line"/>
+      <point x="90" y="-327" type="line"/>
     </contour>
   </outline>
 </glyph>

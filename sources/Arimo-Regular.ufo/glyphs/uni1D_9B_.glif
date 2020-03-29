@@ -34,18 +34,18 @@ uni1D9B
       <point x="91" y="1183"/>
       <point x="91" y="1095" type="curve" smooth="yes"/>
       <point x="91" y="660" type="line" smooth="yes"/>
-      <point x="91.0" y="603"/>
+      <point x="91" y="603"/>
       <point x="91" y="547"/>
     </contour>
     <contour>
       <point x="214" y="862" type="curve" smooth="yes"/>
       <point x="214" y="1070"/>
-      <point x="273.333" y="1169"/>
+      <point x="273" y="1169"/>
       <point x="412" y="1169" type="curve" smooth="yes"/>
       <point x="536" y="1169"/>
       <point x="585" y="1079"/>
       <point x="585" y="870" type="curve" smooth="yes"/>
-      <point x="585.0" y="654.0"/>
+      <point x="585" y="654"/>
       <point x="530" y="569"/>
       <point x="410" y="569" type="curve" smooth="yes"/>
       <point x="274" y="569"/>

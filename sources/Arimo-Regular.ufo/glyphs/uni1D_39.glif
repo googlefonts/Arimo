@@ -23,7 +23,7 @@ uni1D39
       <point x="52" y="490" type="line"/>
       <point x="179" y="490" type="line"/>
       <point x="179" y="1153" type="line" smooth="yes"/>
-      <point x="179.0" y="1206"/>
+      <point x="179" y="1206"/>
       <point x="177" y="1258"/>
       <point x="176" y="1311" type="curve"/>
       <point x="187" y="1266"/>
@@ -33,10 +33,10 @@ uni1D39
       <point x="574" y="490" type="line"/>
       <point x="814" y="1151" type="line" smooth="yes"/>
       <point x="826" y="1185"/>
-      <point x="863.333" y="1297"/>
+      <point x="863" y="1297"/>
       <point x="866" y="1311" type="curve"/>
       <point x="864" y="1287"/>
-      <point x="863.0" y="1234.0"/>
+      <point x="863" y="1234"/>
       <point x="863" y="1153" type="curve" smooth="yes"/>
     </contour>
   </outline>

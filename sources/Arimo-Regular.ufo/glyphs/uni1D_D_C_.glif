@@ -6,7 +6,8 @@ uni1DDC
 </note>
   <outline>
     <contour>
-      <point x="94" y="1210" type="line"/>
+      <point x="-111" y="1386" type="line"/>
+      <point x="-65" y="1424" type="line"/>
       <point x="94" y="1210" type="line"/>
       <point x="211" y="1210" type="line"/>
       <point x="0" y="1491" type="line"/>
@@ -17,8 +18,6 @@ uni1DDC
       <point x="-211" y="1835" type="line"/>
       <point x="-211" y="1210" type="line"/>
       <point x="-111" y="1210" type="line"/>
-      <point x="-111" y="1386" type="line"/>
-      <point x="-65" y="1424" type="line"/>
     </contour>
   </outline>
 </glyph>

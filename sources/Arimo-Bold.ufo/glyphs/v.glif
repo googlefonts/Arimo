@@ -7,8 +7,6 @@ v
 </note>
   <outline>
     <contour>
-      <point x="731" y="0" type="line"/>
-      <point x="731" y="0" type="line"/>
       <point x="1130" y="1082" type="line"/>
       <point x="836" y="1082" type="line"/>
       <point x="635" y="459" type="line" smooth="yes"/>
@@ -21,6 +19,7 @@ v
       <point x="305" y="1082" type="line"/>
       <point x="8" y="1082" type="line"/>
       <point x="395" y="0" type="line"/>
+      <point x="731" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

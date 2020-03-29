@@ -35,11 +35,10 @@ uni037C
       <point x="250" y="-20"/>
     </contour>
     <contour>
-      <point x="483" y="543" type="line"/>
-      <point x="483" y="543" type="line"/>
-      <point x="663" y="543" type="line"/>
       <point x="663" y="715" type="line"/>
       <point x="483" y="715" type="line"/>
+      <point x="483" y="543" type="line"/>
+      <point x="663" y="543" type="line"/>
     </contour>
   </outline>
 </glyph>

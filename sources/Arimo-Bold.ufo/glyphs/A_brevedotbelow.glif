@@ -7,7 +7,7 @@ Abrevedotbelow
 </note>
   <outline>
     <component base="A"/>
-    <component base="dotbelow.alt1" xOffset="950"/>
     <component base="breve.uc" xOffset="390"/>
+    <component base="dotbelow.alt1" xOffset="950"/>
   </outline>
 </glyph>

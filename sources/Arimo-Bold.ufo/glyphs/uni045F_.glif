@@ -9,7 +9,6 @@ uni045F
     <contour>
       <point x="143" y="0" type="line"/>
       <point x="496" y="0" type="line"/>
-      <point x="496" y="0" type="line"/>
       <point x="496" y="-408" type="line"/>
       <point x="741" y="-408" type="line"/>
       <point x="741" y="0" type="line"/>

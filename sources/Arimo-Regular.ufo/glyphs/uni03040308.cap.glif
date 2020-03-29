@@ -7,13 +7,11 @@ uni03040308.cap
     <contour>
       <point x="299" y="1651" type="line"/>
       <point x="299" y="1835" type="line"/>
-      <point x="299" y="1835" type="line"/>
       <point x="136" y="1835" type="line"/>
       <point x="136" y="1651" type="line"/>
     </contour>
     <contour>
       <point x="-135" y="1651" type="line"/>
-      <point x="-135" y="1835" type="line"/>
       <point x="-135" y="1835" type="line"/>
       <point x="-298" y="1835" type="line"/>
       <point x="-298" y="1651" type="line"/>

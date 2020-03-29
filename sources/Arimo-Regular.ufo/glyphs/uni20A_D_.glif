@@ -7,12 +7,6 @@ uni20AD
 </note>
   <outline>
     <contour>
-      <point x="31" y="813" type="line"/>
-      <point x="31" y="813" type="line"/>
-      <point x="31" y="653" type="line"/>
-      <point x="168" y="653" type="line"/>
-      <point x="168" y="0" type="line"/>
-      <point x="359" y="0" type="line"/>
       <point x="359" y="540" type="line"/>
       <point x="507" y="653" type="line"/>
       <point x="542" y="653" type="line"/>
@@ -29,6 +23,11 @@ uni20AD
       <point x="359" y="1409" type="line"/>
       <point x="168" y="1409" type="line"/>
       <point x="168" y="813" type="line"/>
+      <point x="31" y="813" type="line"/>
+      <point x="31" y="653" type="line"/>
+      <point x="168" y="653" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="359" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

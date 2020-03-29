@@ -8,31 +8,29 @@ uni2E42
   <outline>
     <contour>
       <point x="262" y="-262" type="curve"/>
-      <point x="262" y="-262" type="line"/>
       <point x="385" y="-262" type="line"/>
-      <point x="322.333" y="-171.333"/>
+      <point x="322" y="-171"/>
       <point x="291" y="-84"/>
       <point x="291" y="0" type="curve"/>
       <point x="379" y="0" type="line"/>
       <point x="379" y="219" type="line"/>
       <point x="184" y="219" type="line"/>
       <point x="184" y="51" type="line" smooth="yes"/>
-      <point x="184" y="-87.667"/>
-      <point x="208.667" y="-176.667"/>
+      <point x="184" y="-88"/>
+      <point x="209" y="-177"/>
     </contour>
     <contour>
       <point x="562" y="-262" type="curve"/>
-      <point x="562" y="-262" type="line"/>
       <point x="685" y="-262" type="line"/>
-      <point x="622.333" y="-171.333"/>
+      <point x="622" y="-171"/>
       <point x="591" y="-84"/>
       <point x="591" y="0" type="curve"/>
       <point x="679" y="0" type="line"/>
       <point x="679" y="219" type="line"/>
       <point x="484" y="219" type="line"/>
       <point x="484" y="51" type="line" smooth="yes"/>
-      <point x="484" y="-87.667"/>
-      <point x="508.667" y="-176.667"/>
+      <point x="484" y="-88"/>
+      <point x="509" y="-177"/>
     </contour>
   </outline>
 </glyph>

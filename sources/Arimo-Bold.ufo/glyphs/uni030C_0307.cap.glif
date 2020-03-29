@@ -5,11 +5,10 @@ uni030C0307.cap
 </note>
   <outline>
     <contour>
-      <point x="81" y="1683" type="line"/>
-      <point x="81" y="1683" type="line"/>
       <point x="81" y="1835" type="line"/>
       <point x="-79" y="1835" type="line"/>
       <point x="-79" y="1683" type="line"/>
+      <point x="81" y="1683" type="line"/>
     </contour>
     <contour>
       <point x="98" y="1466" type="line"/>

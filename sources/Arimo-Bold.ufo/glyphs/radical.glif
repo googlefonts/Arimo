@@ -7,8 +7,6 @@ radical
 </note>
   <outline>
     <contour>
-      <point x="624" y="-25" type="line"/>
-      <point x="624" y="-25" type="line"/>
       <point x="1130" y="1620" type="line"/>
       <point x="944" y="1620" type="line"/>
       <point x="532" y="260" type="line"/>
@@ -17,6 +15,7 @@ radical
       <point x="2" y="729" type="line"/>
       <point x="186" y="729" type="line"/>
       <point x="456" y="-25" type="line"/>
+      <point x="624" y="-25" type="line"/>
     </contour>
   </outline>
 </glyph>

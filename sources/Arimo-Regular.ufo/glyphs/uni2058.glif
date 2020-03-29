@@ -8,13 +8,11 @@ uni2058
   <outline>
     <contour>
       <point x="843" y="1082" type="line"/>
-      <point x="843" y="1082" type="line"/>
       <point x="648" y="1082" type="line"/>
       <point x="648" y="875" type="line"/>
       <point x="843" y="875" type="line"/>
     </contour>
     <contour>
-      <point x="382" y="645" type="line"/>
       <point x="382" y="645" type="line"/>
       <point x="187" y="645" type="line"/>
       <point x="187" y="438" type="line"/>
@@ -22,13 +20,11 @@ uni2058
     </contour>
     <contour>
       <point x="1304" y="645" type="line"/>
-      <point x="1304" y="645" type="line"/>
       <point x="1109" y="645" type="line"/>
       <point x="1109" y="438" type="line"/>
       <point x="1304" y="438" type="line"/>
     </contour>
     <contour>
-      <point x="843" y="207" type="line"/>
       <point x="843" y="207" type="line"/>
       <point x="648" y="207" type="line"/>
       <point x="648" y="0" type="line"/>

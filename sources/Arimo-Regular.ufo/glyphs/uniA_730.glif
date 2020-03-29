@@ -7,17 +7,16 @@ uniA730
 </note>
   <outline>
     <contour>
-      <point x="306" y="1012" type="line"/>
+      <point x="306" y="461" type="line"/>
+      <point x="941" y="461" type="line"/>
+      <point x="941" y="605" type="line"/>
+      <point x="306" y="605" type="line"/>
       <point x="306" y="1012" type="line"/>
       <point x="961" y="1012" type="line"/>
       <point x="961" y="1154" type="line"/>
       <point x="128" y="1154" type="line"/>
       <point x="128" y="0" type="line"/>
       <point x="306" y="0" type="line"/>
-      <point x="306" y="461" type="line"/>
-      <point x="941" y="461" type="line"/>
-      <point x="941" y="605" type="line"/>
-      <point x="306" y="605" type="line"/>
     </contour>
   </outline>
 </glyph>

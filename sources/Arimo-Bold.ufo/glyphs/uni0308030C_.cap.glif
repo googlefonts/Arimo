@@ -5,21 +5,8 @@ uni0308030C.cap
 </note>
   <outline>
     <contour>
-      <point x="103" y="1466" type="line"/>
-      <point x="263" y="1466" type="line"/>
-      <point x="263" y="1466" type="line"/>
-      <point x="263" y="1618" type="line"/>
-      <point x="103" y="1618" type="line"/>
-    </contour>
-    <contour>
-      <point x="-263" y="1466" type="line"/>
-      <point x="-103" y="1466" type="line"/>
-      <point x="-103" y="1466" type="line"/>
-      <point x="-103" y="1618" type="line"/>
-      <point x="-263" y="1618" type="line"/>
-    </contour>
-    <contour>
-      <point x="151" y="1835" type="line"/>
+      <point x="306" y="1825" type="line"/>
+      <point x="306" y="1835" type="line"/>
       <point x="151" y="1835" type="line"/>
       <point x="0" y="1768" type="line"/>
       <point x="-151" y="1835" type="line"/>
@@ -27,8 +14,18 @@ uni0308030C.cap
       <point x="-306" y="1823" type="line"/>
       <point x="-97" y="1682" type="line"/>
       <point x="98" y="1682" type="line"/>
-      <point x="306" y="1825" type="line"/>
-      <point x="306" y="1835" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="1466" type="line"/>
+      <point x="263" y="1466" type="line"/>
+      <point x="263" y="1618" type="line"/>
+      <point x="103" y="1618" type="line"/>
+    </contour>
+    <contour>
+      <point x="-263" y="1466" type="line"/>
+      <point x="-103" y="1466" type="line"/>
+      <point x="-103" y="1618" type="line"/>
+      <point x="-263" y="1618" type="line"/>
     </contour>
   </outline>
 </glyph>

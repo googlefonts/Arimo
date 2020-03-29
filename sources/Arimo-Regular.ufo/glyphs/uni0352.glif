@@ -6,15 +6,7 @@ uni0352
 </note>
   <outline>
     <contour>
-      <point x="-89" y="1237" type="line"/>
-      <point x="-89" y="1237" type="line"/>
-      <point x="91" y="1237" type="line"/>
-      <point x="91" y="1409" type="line"/>
-      <point x="-89" y="1409" type="line"/>
-    </contour>
-    <contour>
       <point x="0" y="1670" type="curve"/>
-      <point x="0" y="1670" type="line"/>
       <point x="-159" y="1670"/>
       <point x="-272" y="1569"/>
       <point x="-292" y="1410" type="curve"/>
@@ -28,6 +20,12 @@ uni0352
       <point x="292" y="1410" type="line"/>
       <point x="268" y="1574"/>
       <point x="159" y="1670"/>
+    </contour>
+    <contour>
+      <point x="91" y="1409" type="line"/>
+      <point x="-89" y="1409" type="line"/>
+      <point x="-89" y="1237" type="line"/>
+      <point x="91" y="1237" type="line"/>
     </contour>
   </outline>
 </glyph>

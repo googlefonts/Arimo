@@ -6,25 +6,22 @@ uni1DFB
 </note>
   <outline>
     <contour>
-      <point x="85" y="890" type="line"/>
-      <point x="85" y="890" type="line"/>
-      <point x="187" y="890" type="line"/>
       <point x="345" y="1409" type="line"/>
       <point x="149" y="1409" type="line"/>
+      <point x="85" y="890" type="line"/>
+      <point x="187" y="890" type="line"/>
     </contour>
     <contour>
-      <point x="385" y="890" type="line"/>
-      <point x="385" y="890" type="line"/>
-      <point x="487" y="890" type="line"/>
       <point x="645" y="1409" type="line"/>
       <point x="449" y="1409" type="line"/>
+      <point x="385" y="890" type="line"/>
+      <point x="487" y="890" type="line"/>
     </contour>
     <contour>
-      <point x="685" y="890" type="line"/>
-      <point x="685" y="890" type="line"/>
-      <point x="787" y="890" type="line"/>
       <point x="945" y="1409" type="line"/>
       <point x="749" y="1409" type="line"/>
+      <point x="685" y="890" type="line"/>
+      <point x="787" y="890" type="line"/>
     </contour>
   </outline>
   <lib>

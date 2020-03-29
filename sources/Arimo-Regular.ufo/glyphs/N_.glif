@@ -7,23 +7,22 @@ N
 </note>
   <outline>
     <contour>
-      <point x="1082" y="0" type="line"/>
+      <point x="338" y="936" type="line" smooth="yes"/>
+      <point x="338" y="1024"/>
+      <point x="331" y="1112"/>
+      <point x="328" y="1200" type="curve"/>
       <point x="1082" y="0" type="line"/>
       <point x="1312" y="0" type="line"/>
       <point x="1312" y="1409" type="line"/>
       <point x="1140" y="1409" type="line"/>
       <point x="1140" y="485" type="line" smooth="yes"/>
-      <point x="1140" y="426.333"/>
-      <point x="1144" y="331.667"/>
+      <point x="1140" y="426"/>
+      <point x="1144" y="332"/>
       <point x="1152" y="201" type="curve"/>
       <point x="390" y="1409" type="line"/>
       <point x="168" y="1409" type="line"/>
       <point x="168" y="0" type="line"/>
       <point x="338" y="0" type="line"/>
-      <point x="338" y="936" type="line" smooth="yes"/>
-      <point x="338.0" y="1024"/>
-      <point x="331" y="1112"/>
-      <point x="328" y="1200" type="curve"/>
     </contour>
   </outline>
 </glyph>

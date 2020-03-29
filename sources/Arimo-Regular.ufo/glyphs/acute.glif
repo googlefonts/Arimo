@@ -7,13 +7,12 @@ acute
 </note>
   <outline>
     <contour>
-      <point x="72" y="1201" type="line"/>
-      <point x="72" y="1201" type="line"/>
-      <point x="166" y="1201" type="line"/>
       <point x="496" y="1479" type="line"/>
       <point x="496" y="1508" type="line"/>
       <point x="289" y="1508" type="line"/>
       <point x="72" y="1221" type="line"/>
+      <point x="72" y="1201" type="line"/>
+      <point x="166" y="1201" type="line"/>
     </contour>
   </outline>
 </glyph>

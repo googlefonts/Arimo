@@ -41,6 +41,11 @@ uni20A9
       <point x="1910" y="1010" type="line"/>
     </contour>
     <contour>
+      <point x="922" y="1010" type="line"/>
+      <point x="969" y="1205" type="line"/>
+      <point x="1015" y="1010" type="line"/>
+    </contour>
+    <contour>
       <point x="722" y="855" type="line"/>
       <point x="658" y="625" type="line"/>
       <point x="431" y="625" type="line"/>
@@ -67,11 +72,6 @@ uni20A9
       <point x="1393" y="168" type="line"/>
       <point x="1322" y="470" type="line"/>
       <point x="1466" y="470" type="line"/>
-    </contour>
-    <contour>
-      <point x="922" y="1010" type="line"/>
-      <point x="969" y="1205" type="line"/>
-      <point x="1015" y="1010" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -5,14 +5,13 @@ one.alt
 </note>
   <outline>
     <contour>
-      <point x="6" y="113" type="line"/>
-      <point x="6" y="113" type="line"/>
-      <point x="187" y="113" type="line"/>
       <point x="187" y="867" type="line"/>
       <point x="22" y="867" type="line"/>
       <point x="-187" y="744" type="line"/>
       <point x="-187" y="606" type="line"/>
       <point x="6" y="715" type="line"/>
+      <point x="6" y="113" type="line"/>
+      <point x="187" y="113" type="line"/>
     </contour>
   </outline>
 </glyph>

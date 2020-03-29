@@ -8,11 +8,10 @@ hyphen
 </note>
   <outline>
     <contour>
-      <point x="91" y="464" type="line"/>
-      <point x="91" y="464" type="line"/>
-      <point x="591" y="464" type="line"/>
       <point x="591" y="624" type="line"/>
       <point x="91" y="624" type="line"/>
+      <point x="91" y="464" type="line"/>
+      <point x="591" y="464" type="line"/>
     </contour>
   </outline>
 </glyph>

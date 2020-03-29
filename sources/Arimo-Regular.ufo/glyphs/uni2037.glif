@@ -7,25 +7,22 @@ uni2037
 </note>
   <outline>
     <contour>
-      <point x="197" y="890" type="line"/>
-      <point x="197" y="890" type="line"/>
-      <point x="299" y="890" type="line"/>
       <point x="235" y="1409" type="line"/>
       <point x="39" y="1409" type="line"/>
+      <point x="197" y="890" type="line"/>
+      <point x="299" y="890" type="line"/>
     </contour>
     <contour>
-      <point x="539" y="890" type="line"/>
-      <point x="539" y="890" type="line"/>
-      <point x="641" y="890" type="line"/>
       <point x="577" y="1409" type="line"/>
       <point x="381" y="1409" type="line"/>
+      <point x="539" y="890" type="line"/>
+      <point x="641" y="890" type="line"/>
     </contour>
     <contour>
-      <point x="881" y="890" type="line"/>
-      <point x="881" y="890" type="line"/>
-      <point x="983" y="890" type="line"/>
       <point x="919" y="1409" type="line"/>
       <point x="723" y="1409" type="line"/>
+      <point x="881" y="890" type="line"/>
+      <point x="983" y="890" type="line"/>
     </contour>
   </outline>
 </glyph>

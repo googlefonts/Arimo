@@ -6,10 +6,6 @@ uni2DE6
 </note>
   <outline>
     <contour>
-      <point x="-183" y="1706" type="line"/>
-      <point x="-183" y="1706" type="line"/>
-      <point x="-183" y="1210" type="line"/>
-      <point x="-83" y="1210" type="line"/>
       <point x="-83" y="1422" type="line"/>
       <point x="-50" y="1429" type="line"/>
       <point x="72" y="1210" type="line"/>
@@ -27,6 +23,9 @@ uni2DE6
       <point x="-68" y="1497"/>
       <point x="-83" y="1496" type="curve"/>
       <point x="-83" y="1706" type="line"/>
+      <point x="-183" y="1706" type="line"/>
+      <point x="-183" y="1210" type="line"/>
+      <point x="-83" y="1210" type="line"/>
     </contour>
   </outline>
 </glyph>

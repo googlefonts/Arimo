@@ -7,7 +7,7 @@ uni1E39
 </note>
   <outline>
     <component base="l"/>
-    <component base="macron" xOffset="-57" yOffset="395"/>
     <component base="dotbelow.alt1" xOffset="495"/>
+    <component base="macron" xOffset="-57" yOffset="395"/>
   </outline>
 </glyph>

@@ -7,6 +7,6 @@ uhornhookabove
 </note>
   <outline>
     <component base="uhorn"/>
-    <component base="hookabove.alt2" xOffset="911"/>
+    <component base="hookabovecomb" xOffset="922" yOffset="-299"/>
   </outline>
 </glyph>

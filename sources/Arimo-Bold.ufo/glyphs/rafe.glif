@@ -6,11 +6,10 @@ rafe
 </note>
   <outline>
     <contour>
-      <point x="-164" y="1579" type="line"/>
+      <point x="164" y="1579" type="line"/>
       <point x="-164" y="1579" type="line"/>
       <point x="-164" y="1473" type="line"/>
       <point x="164" y="1473" type="line"/>
-      <point x="164" y="1579" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -5,19 +5,16 @@ two.alt
 </note>
   <outline>
     <contour>
-      <point x="-292" y="114" type="line"/>
-      <point x="-292" y="114" type="line"/>
-      <point x="293" y="114" type="line"/>
       <point x="293" y="253" type="line"/>
       <point x="-77" y="253" type="line"/>
       <point x="-61" y="278"/>
       <point x="-35" y="303"/>
       <point x="-4" y="328" type="curve" smooth="yes"/>
-      <point x="43.2334874499917" y="366.6455806409023"/>
+      <point x="43" y="367"/>
       <point x="102" y="406"/>
       <point x="139" y="435" type="curve" smooth="yes"/>
       <point x="245" y="517"/>
-      <point x="280.0" y="577.1428571428571"/>
+      <point x="280" y="577"/>
       <point x="280" y="662" type="curve" smooth="yes"/>
       <point x="280" y="799"/>
       <point x="181" y="878"/>
@@ -41,6 +38,8 @@ two.alt
       <point x="-192" y="374"/>
       <point x="-253" y="306"/>
       <point x="-292" y="227" type="curve"/>
+      <point x="-292" y="114" type="line"/>
+      <point x="293" y="114" type="line"/>
     </contour>
   </outline>
 </glyph>

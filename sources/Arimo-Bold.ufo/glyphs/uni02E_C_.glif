@@ -6,6 +6,6 @@
 uni02EC
 </note>
   <outline>
-    <component base="caron.uc" yOffset="-1954"/>
+    <component base="caron" xOffset="-28" yOffset="-1648"/>
   </outline>
 </glyph>

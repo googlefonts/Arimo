@@ -7,6 +7,6 @@ uni1E27
 </note>
   <outline>
     <component base="h"/>
-    <component base="dieresis.uc" xOffset="292" yOffset="40"/>
+    <component base="dieresis" xOffset="290" yOffset="369"/>
   </outline>
 </glyph>

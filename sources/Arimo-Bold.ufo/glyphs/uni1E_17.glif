@@ -7,7 +7,7 @@ uni1E17
 </note>
   <outline>
     <component base="e"/>
-    <component base="acutecomb" xOffset="874" yOffset="-114"/>
+    <component base="acute" xOffset="341" yOffset="270"/>
     <component base="macron" xOffset="239" yOffset="-11"/>
   </outline>
 </glyph>

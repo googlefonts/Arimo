@@ -7,15 +7,14 @@ bracketright
 </note>
   <outline>
     <contour>
-      <point x="16" y="-425" type="line"/>
-      <point x="16" y="-425" type="line"/>
-      <point x="423" y="-425" type="line"/>
       <point x="423" y="1484" type="line"/>
       <point x="16" y="1484" type="line"/>
       <point x="16" y="1355" type="line"/>
       <point x="249" y="1355" type="line"/>
       <point x="249" y="-296" type="line"/>
       <point x="16" y="-296" type="line"/>
+      <point x="16" y="-425" type="line"/>
+      <point x="423" y="-425" type="line"/>
     </contour>
   </outline>
 </glyph>

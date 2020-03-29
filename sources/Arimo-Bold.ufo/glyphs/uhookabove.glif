@@ -7,6 +7,6 @@ uhookabove
 </note>
   <outline>
     <component base="u"/>
-    <component base="hookabove.alt2" xOffset="902"/>
+    <component base="hookabovecomb" xOffset="903" yOffset="-299"/>
   </outline>
 </glyph>

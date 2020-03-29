@@ -7,11 +7,10 @@ middot
 </note>
   <outline>
     <contour>
-      <point x="141" y="531" type="line"/>
-      <point x="141" y="531" type="line"/>
-      <point x="429" y="531" type="line"/>
       <point x="429" y="836" type="line"/>
       <point x="141" y="836" type="line"/>
+      <point x="141" y="531" type="line"/>
+      <point x="429" y="531" type="line"/>
     </contour>
   </outline>
 </glyph>

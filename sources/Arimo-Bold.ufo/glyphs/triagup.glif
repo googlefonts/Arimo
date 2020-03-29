@@ -7,10 +7,9 @@ triagup
 </note>
   <outline>
     <contour>
-      <point x="414" y="0" type="line"/>
+      <point x="1014" y="1198" type="line"/>
       <point x="414" y="0" type="line"/>
       <point x="1612" y="0" type="line"/>
-      <point x="1014" y="1198" type="line"/>
     </contour>
   </outline>
 </glyph>

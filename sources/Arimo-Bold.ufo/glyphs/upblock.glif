@@ -7,11 +7,10 @@ upblock
 </note>
   <outline>
     <contour>
-      <point x="1451" y="621" type="line"/>
-      <point x="1451" y="621" type="line"/>
       <point x="1451" y="1864" type="line"/>
       <point x="0" y="1864" type="line"/>
       <point x="0" y="621" type="line"/>
+      <point x="1451" y="621" type="line"/>
     </contour>
   </outline>
 </glyph>

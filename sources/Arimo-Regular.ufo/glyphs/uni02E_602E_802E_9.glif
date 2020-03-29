@@ -6,8 +6,6 @@ uni02E602E802E9
 </note>
   <outline>
     <contour>
-      <point x="951" y="0" type="line"/>
-      <point x="951" y="0" type="line"/>
       <point x="951" y="1409" type="line"/>
       <point x="815" y="1409" type="line"/>
       <point x="815" y="191" type="line"/>
@@ -16,6 +14,7 @@ uni02E602E802E9
       <point x="63" y="1135" type="line"/>
       <point x="483" y="309" type="line"/>
       <point x="815" y="0" type="line"/>
+      <point x="951" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

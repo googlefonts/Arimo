@@ -7,6 +7,6 @@ Etilde
 </note>
   <outline>
     <component base="E"/>
-    <component base="tilde" xOffset="340" yOffset="342"/>
+    <component base="tilde.uc" xOffset="374"/>
   </outline>
 </glyph>

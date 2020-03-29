@@ -10,28 +10,28 @@ uni032B
       <point x="38" y="-333"/>
       <point x="86" y="-353"/>
       <point x="146" y="-353" type="curve" smooth="yes"/>
-      <point x="263.333" y="-353"/>
+      <point x="263" y="-353"/>
       <point x="332" y="-269"/>
       <point x="335" y="-129" type="curve"/>
       <point x="232" y="-129" type="line"/>
-      <point x="232" y="-204.333"/>
+      <point x="232" y="-204"/>
       <point x="202" y="-242"/>
       <point x="142" y="-242" type="curve" smooth="yes"/>
-      <point x="80.667" y="-242"/>
-      <point x="50" y="-204.333"/>
+      <point x="81" y="-242"/>
+      <point x="50" y="-204"/>
       <point x="50" y="-129" type="curve"/>
       <point x="-49" y="-129" type="line"/>
-      <point x="-49" y="-204.333"/>
+      <point x="-49" y="-204"/>
       <point x="-79" y="-242"/>
       <point x="-139" y="-242" type="curve" smooth="yes"/>
-      <point x="-200.333" y="-242"/>
-      <point x="-231" y="-204.333"/>
+      <point x="-200" y="-242"/>
+      <point x="-231" y="-204"/>
       <point x="-231" y="-129" type="curve"/>
       <point x="-335" y="-129" type="line"/>
-      <point x="-335" y="-262.333"/>
+      <point x="-335" y="-262"/>
       <point x="-265" y="-353"/>
       <point x="-145" y="-353" type="curve" smooth="yes"/>
-      <point x="-84.333" y="-353"/>
+      <point x="-84" y="-353"/>
       <point x="-36" y="-333"/>
     </contour>
   </outline>

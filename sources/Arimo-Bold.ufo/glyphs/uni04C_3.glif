@@ -12,8 +12,8 @@ uni04C3
       <point x="431" y="0" type="line"/>
       <point x="431" y="622" type="line"/>
       <point x="639" y="622" type="line" smooth="yes"/>
-      <point x="877.7727122169216" y="622.0"/>
-      <point x="1024.0" y="473.43934708583646"/>
+      <point x="878" y="622"/>
+      <point x="1024" y="473"/>
       <point x="1024" y="228" type="curve" smooth="yes"/>
       <point x="1024" y="-57"/>
       <point x="927" y="-206"/>
@@ -38,7 +38,7 @@ uni04C3
       <point x="904" y="1409" type="line"/>
       <point x="690" y="1063" type="line" smooth="yes"/>
       <point x="623" y="955"/>
-      <point x="572.4327404271157" y="887.2760144698273"/>
+      <point x="572" y="887"/>
       <point x="544" y="856" type="curve" smooth="yes"/>
       <point x="503" y="814"/>
       <point x="472" y="800"/>

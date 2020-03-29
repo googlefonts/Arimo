@@ -7,13 +7,17 @@ uni041B
 </note>
   <outline>
     <contour>
-      <point x="1016" y="1165" type="line"/>
+      <point x="455" y="280" type="curve" smooth="yes"/>
+      <point x="489" y="388"/>
+      <point x="524" y="566"/>
+      <point x="560" y="817" type="curve" smooth="yes"/>
+      <point x="609" y="1165" type="line"/>
       <point x="1016" y="1165" type="line"/>
       <point x="1016" y="0" type="line"/>
       <point x="1300" y="0" type="line"/>
       <point x="1300" y="1409" type="line"/>
       <point x="348" y="1409" type="line"/>
-      <point x="255.92953030222304" y="759.0099676559923"/>
+      <point x="256" y="759"/>
       <point x="232" y="616"/>
       <point x="208" y="507" type="curve" smooth="yes"/>
       <point x="188" y="418"/>
@@ -31,11 +35,6 @@ uni041B
       <point x="107" y="-16" type="curve" smooth="yes"/>
       <point x="295" y="-16"/>
       <point x="387" y="66"/>
-      <point x="455" y="280" type="curve" smooth="yes"/>
-      <point x="489" y="388"/>
-      <point x="524" y="566"/>
-      <point x="560" y="817" type="curve" smooth="yes"/>
-      <point x="609" y="1165" type="line"/>
     </contour>
   </outline>
 </glyph>

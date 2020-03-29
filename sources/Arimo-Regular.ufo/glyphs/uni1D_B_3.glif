@@ -8,7 +8,6 @@ uni1DB3
   <outline>
     <contour>
       <point x="155" y="692" type="curve"/>
-      <point x="155" y="692" type="line"/>
       <point x="47" y="670" type="line"/>
       <point x="47" y="400" type="line" smooth="yes"/>
       <point x="47" y="261"/>
@@ -56,11 +55,11 @@ uni1DB3
       <point x="76" y="978"/>
       <point x="111" y="927"/>
       <point x="172" y="891" type="curve" smooth="yes"/>
-      <point x="221.3873566564262" y="862.3234703285267"/>
+      <point x="221" y="862"/>
       <point x="353" y="830"/>
       <point x="420" y="808" type="curve" smooth="yes"/>
       <point x="506" y="780"/>
-      <point x="535.0" y="752.5168686179891"/>
+      <point x="535" y="753"/>
       <point x="535" y="692" type="curve" smooth="yes"/>
       <point x="535" y="613"/>
       <point x="475" y="574"/>

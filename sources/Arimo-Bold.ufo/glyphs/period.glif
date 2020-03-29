@@ -7,11 +7,10 @@ period
 </note>
   <outline>
     <contour>
-      <point x="139" y="0" type="line"/>
-      <point x="139" y="0" type="line"/>
-      <point x="428" y="0" type="line"/>
       <point x="428" y="305" type="line"/>
       <point x="139" y="305" type="line"/>
+      <point x="139" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

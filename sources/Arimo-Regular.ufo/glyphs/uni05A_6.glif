@@ -7,24 +7,22 @@ uni05A6
   <outline>
     <contour>
       <point x="0" y="-82" type="curve"/>
-      <point x="0" y="-82" type="line"/>
       <point x="-111" y="-82" type="line"/>
       <point x="-111" y="-202"/>
-      <point x="-190.667" y="-279"/>
+      <point x="-191" y="-279"/>
       <point x="-328" y="-279" type="curve"/>
       <point x="-328" y="-385" type="line"/>
-      <point x="-118.667" y="-385"/>
-      <point x="0" y="-272.667"/>
+      <point x="-119" y="-385"/>
+      <point x="0" y="-273"/>
     </contour>
     <contour>
       <point x="328" y="-82" type="curve"/>
-      <point x="328" y="-82" type="line"/>
       <point x="217" y="-82" type="line"/>
       <point x="217" y="-202"/>
-      <point x="137.333" y="-279"/>
+      <point x="137" y="-279"/>
       <point x="0" y="-279" type="curve"/>
       <point x="0" y="-385" type="line"/>
-      <point x="210.667" y="-385"/>
+      <point x="211" y="-385"/>
       <point x="328" y="-270"/>
     </contour>
   </outline>

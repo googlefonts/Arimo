@@ -8,15 +8,15 @@ uni1D84
   <outline>
     <contour>
       <point x="730" y="-267" type="curve" smooth="yes"/>
-      <point x="684.0" y="-267.0"/>
-      <point x="644.333" y="-261"/>
+      <point x="684" y="-267"/>
+      <point x="644" y="-261"/>
       <point x="611" y="-249" type="curve"/>
       <point x="611" y="-409" type="line"/>
-      <point x="659.667" y="-419.667"/>
-      <point x="703.667" y="-425"/>
+      <point x="660" y="-420"/>
+      <point x="704" y="-425"/>
       <point x="743" y="-425" type="curve" smooth="yes"/>
-      <point x="930.333" y="-425"/>
-      <point x="1024" y="-326.333"/>
+      <point x="930" y="-425"/>
+      <point x="1024" y="-326"/>
       <point x="1024" y="-129" type="curve" smooth="yes"/>
       <point x="1024" y="155" type="line"/>
       <point x="911" y="155" type="line"/>
@@ -33,7 +33,7 @@ uni1D84
       <point x="816" y="0" type="line"/>
       <point x="855" y="0" type="line"/>
       <point x="855" y="-119" type="line" smooth="yes"/>
-      <point x="855" y="-217.667"/>
+      <point x="855" y="-218"/>
       <point x="813" y="-267"/>
     </contour>
   </outline>

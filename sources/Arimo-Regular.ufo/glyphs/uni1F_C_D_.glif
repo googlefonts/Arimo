@@ -19,11 +19,11 @@ uni1FCD
       <point x="46" y="1484" type="line"/>
       <point x="46" y="1319" type="line"/>
       <point x="133" y="1319" type="line"/>
-      <point x="133" y="1272.333"/>
+      <point x="133" y="1272"/>
       <point x="102" y="1225"/>
       <point x="42" y="1157" type="curve"/>
       <point x="169" y="1157" type="line"/>
-      <point x="229" y="1227.667"/>
+      <point x="229" y="1228"/>
       <point x="245" y="1291"/>
       <point x="245" y="1407" type="curve" smooth="yes"/>
     </contour>

@@ -8,7 +8,6 @@ hungarumlaut.uc
     <contour>
       <point x="-82" y="1530" type="line"/>
       <point x="50" y="1530" type="line"/>
-      <point x="50" y="1530" type="line"/>
       <point x="368" y="1773" type="line"/>
       <point x="368" y="1816" type="line"/>
       <point x="133" y="1816" type="line"/>
@@ -16,7 +15,6 @@ hungarumlaut.uc
     </contour>
     <contour>
       <point x="324" y="1530" type="line"/>
-      <point x="456" y="1530" type="line"/>
       <point x="456" y="1530" type="line"/>
       <point x="774" y="1773" type="line"/>
       <point x="774" y="1816" type="line"/>

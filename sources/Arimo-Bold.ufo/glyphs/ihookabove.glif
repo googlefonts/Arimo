@@ -6,7 +6,7 @@
 ihookabove
 </note>
   <outline>
-    <component base="dotlessi"/>
-    <component base="hookabove.alt2" xOffset="557"/>
+    <component base="dotlessi.alt1"/>
+    <component base="hookabovecomb" xOffset="570" yOffset="-300"/>
   </outline>
 </glyph>

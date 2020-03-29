@@ -7,18 +7,16 @@ dieresis
 </note>
   <outline>
     <contour>
-      <point x="450" y="1199" type="line"/>
-      <point x="450" y="1199" type="line"/>
-      <point x="667" y="1199" type="line"/>
       <point x="667" y="1418" type="line"/>
       <point x="450" y="1418" type="line"/>
+      <point x="450" y="1199" type="line"/>
+      <point x="667" y="1199" type="line"/>
     </contour>
     <contour>
-      <point x="16" y="1199" type="line"/>
-      <point x="16" y="1199" type="line"/>
-      <point x="230" y="1199" type="line"/>
       <point x="230" y="1418" type="line"/>
       <point x="16" y="1418" type="line"/>
+      <point x="16" y="1199" type="line"/>
+      <point x="230" y="1199" type="line"/>
     </contour>
   </outline>
 </glyph>

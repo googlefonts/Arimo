@@ -7,18 +7,16 @@ uniA71F
 </note>
   <outline>
     <contour>
-      <point x="396" y="421" type="line"/>
-      <point x="396" y="421" type="line"/>
-      <point x="339" y="1184" type="line"/>
-      <point x="234" y="1184" type="line"/>
-      <point x="178" y="421" type="line"/>
-    </contour>
-    <contour>
-      <point x="391" y="1484" type="line"/>
       <point x="391" y="1484" type="line"/>
       <point x="176" y="1484" type="line"/>
       <point x="176" y="1332" type="line"/>
       <point x="391" y="1332" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="1184" type="line"/>
+      <point x="234" y="1184" type="line"/>
+      <point x="178" y="421" type="line"/>
+      <point x="396" y="421" type="line"/>
     </contour>
   </outline>
 </glyph>

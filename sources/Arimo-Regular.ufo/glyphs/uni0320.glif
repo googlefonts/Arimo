@@ -8,7 +8,6 @@ uni0320
     <contour>
       <point x="-311" y="-298" type="line"/>
       <point x="313" y="-298" type="line"/>
-      <point x="313" y="-298" type="line"/>
       <point x="313" y="-157" type="line"/>
       <point x="-311" y="-157" type="line"/>
     </contour>

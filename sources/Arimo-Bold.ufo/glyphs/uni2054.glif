@@ -8,7 +8,6 @@ uni2054
   <outline>
     <contour>
       <point x="1424" y="-426" type="curve"/>
-      <point x="1424" y="-426" type="line"/>
       <point x="1607" y="-426" type="line"/>
       <point x="1476" y="-173"/>
       <point x="1203" y="-45"/>

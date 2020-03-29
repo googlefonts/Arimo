@@ -7,7 +7,8 @@ Hbar
 </note>
   <outline>
     <contour>
-      <point x="1126" y="0" type="line"/>
+      <point x="359" y="653" type="line"/>
+      <point x="1126" y="653" type="line"/>
       <point x="1126" y="0" type="line"/>
       <point x="1312" y="0" type="line"/>
       <point x="1312" y="1025" type="line"/>
@@ -26,15 +27,12 @@ Hbar
       <point x="168" y="1025" type="line"/>
       <point x="168" y="0" type="line"/>
       <point x="359" y="0" type="line"/>
-      <point x="359" y="653" type="line"/>
-      <point x="1126" y="653" type="line"/>
     </contour>
     <contour>
-      <point x="1126" y="813" type="line"/>
-      <point x="1126" y="813" type="line"/>
       <point x="359" y="813" type="line"/>
       <point x="359" y="1025" type="line"/>
       <point x="1126" y="1025" type="line"/>
+      <point x="1126" y="813" type="line"/>
     </contour>
   </outline>
 </glyph>

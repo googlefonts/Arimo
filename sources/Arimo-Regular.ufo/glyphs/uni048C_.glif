@@ -9,7 +9,7 @@ uni048C
     <contour>
       <point x="1263" y="413" type="curve" smooth="yes"/>
       <point x="1263" y="666"/>
-      <point x="1080.667" y="813"/>
+      <point x="1081" y="813"/>
       <point x="766" y="813" type="curve" smooth="yes"/>
       <point x="359" y="813" type="line"/>
       <point x="359" y="1047" type="line"/>
@@ -24,18 +24,18 @@ uni048C
       <point x="168" y="1047" type="line"/>
       <point x="168" y="0" type="line"/>
       <point x="778" y="0" type="line" smooth="yes"/>
-      <point x="1080.667" y="0"/>
+      <point x="1081" y="0"/>
       <point x="1263" y="164"/>
     </contour>
     <contour>
       <point x="1071" y="407" type="curve" smooth="yes"/>
-      <point x="1071.0" y="236.0"/>
-      <point x="964.333" y="151"/>
+      <point x="1071" y="236"/>
+      <point x="964" y="151"/>
       <point x="751" y="151" type="curve" smooth="yes"/>
       <point x="359" y="151" type="line"/>
       <point x="359" y="659" type="line"/>
       <point x="743" y="659" type="line" smooth="yes"/>
-      <point x="961.667" y="659"/>
+      <point x="962" y="659"/>
       <point x="1071" y="568"/>
     </contour>
   </outline>

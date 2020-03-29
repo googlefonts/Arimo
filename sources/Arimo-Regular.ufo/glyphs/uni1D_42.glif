@@ -12,7 +12,7 @@ uni1D42
       <point x="1125" y="1484" type="line"/>
       <point x="979" y="869" type="line" smooth="yes"/>
       <point x="961" y="795"/>
-      <point x="942.982" y="715.59"/>
+      <point x="943" y="716"/>
       <point x="925" y="639" type="curve"/>
       <point x="914" y="696"/>
       <point x="896" y="772"/>

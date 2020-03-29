@@ -7,15 +7,6 @@ daggerdbl
 </note>
   <outline>
     <contour>
-      <point x="497" y="1000" type="line"/>
-      <point x="497" y="1000" type="line"/>
-      <point x="523" y="670" type="line"/>
-      <point x="497" y="343" type="line"/>
-      <point x="136" y="370" type="line"/>
-      <point x="136" y="206" type="line"/>
-      <point x="497" y="235" type="line"/>
-      <point x="481" y="-141" type="line"/>
-      <point x="656" y="-141" type="line"/>
       <point x="640" y="235" type="line"/>
       <point x="1000" y="206" type="line"/>
       <point x="1000" y="370" type="line"/>
@@ -30,6 +21,14 @@ daggerdbl
       <point x="497" y="1108" type="line"/>
       <point x="137" y="1137" type="line"/>
       <point x="137" y="973" type="line"/>
+      <point x="497" y="1000" type="line"/>
+      <point x="523" y="670" type="line"/>
+      <point x="497" y="343" type="line"/>
+      <point x="136" y="370" type="line"/>
+      <point x="136" y="206" type="line"/>
+      <point x="497" y="235" type="line"/>
+      <point x="481" y="-141" type="line"/>
+      <point x="656" y="-141" type="line"/>
     </contour>
   </outline>
 </glyph>

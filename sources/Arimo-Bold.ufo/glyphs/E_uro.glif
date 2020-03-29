@@ -8,16 +8,16 @@ Euro
   <outline>
     <contour>
       <point x="658" y="199" type="curve" smooth="yes"/>
-      <point x="523.0" y="199"/>
+      <point x="523" y="199"/>
       <point x="447" y="303"/>
       <point x="428" y="510" type="curve"/>
       <point x="732" y="510" type="line"/>
       <point x="762" y="659" type="line"/>
       <point x="422" y="659" type="line"/>
       <point x="421" y="676"/>
-      <point x="420.0" y="693"/>
+      <point x="420" y="693"/>
       <point x="420" y="710" type="curve" smooth="yes"/>
-      <point x="420.0" y="729"/>
+      <point x="420" y="729"/>
       <point x="420" y="747"/>
       <point x="421" y="766" type="curve"/>
       <point x="724" y="766" type="line"/>
@@ -40,9 +40,9 @@ Euro
       <point x="10" y="766" type="line"/>
       <point x="127" y="766" type="line"/>
       <point x="126" y="748"/>
-      <point x="125.0" y="729"/>
+      <point x="125" y="729"/>
       <point x="125" y="710" type="curve" smooth="yes"/>
-      <point x="125.0" y="693"/>
+      <point x="125" y="693"/>
       <point x="126" y="676"/>
       <point x="127" y="659" type="curve"/>
       <point x="50" y="659" type="line"/>

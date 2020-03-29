@@ -7,7 +7,11 @@ uni210D
 </note>
   <outline>
     <contour>
-      <point x="1007" y="1409" type="line"/>
+      <point x="522" y="658" type="line"/>
+      <point x="1007" y="658" type="line"/>
+      <point x="1007" y="0" type="line"/>
+      <point x="1362" y="0" type="line"/>
+      <point x="1362" y="1409" type="line"/>
       <point x="1007" y="1409" type="line"/>
       <point x="1007" y="766" type="line"/>
       <point x="522" y="766" type="line"/>
@@ -15,25 +19,18 @@ uni210D
       <point x="168" y="1409" type="line"/>
       <point x="168" y="0" type="line"/>
       <point x="522" y="0" type="line"/>
-      <point x="522" y="658" type="line"/>
-      <point x="1007" y="658" type="line"/>
-      <point x="1007" y="0" type="line"/>
-      <point x="1362" y="0" type="line"/>
-      <point x="1362" y="1409" type="line"/>
     </contour>
     <contour>
-      <point x="276" y="1301" type="line"/>
+      <point x="276" y="109" type="line"/>
       <point x="276" y="1301" type="line"/>
       <point x="413" y="1301" type="line"/>
       <point x="413" y="109" type="line"/>
-      <point x="276" y="109" type="line"/>
     </contour>
     <contour>
-      <point x="1116" y="1301" type="line"/>
+      <point x="1116" y="109" type="line"/>
       <point x="1116" y="1301" type="line"/>
       <point x="1253" y="1301" type="line"/>
       <point x="1253" y="109" type="line"/>
-      <point x="1116" y="109" type="line"/>
     </contour>
   </outline>
 </glyph>

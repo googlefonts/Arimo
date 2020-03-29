@@ -18,8 +18,8 @@ uni1D2C
     </contour>
     <contour>
       <point x="465" y="1359" type="curve"/>
-      <point x="475.667" y="1315"/>
-      <point x="492" y="1265.667"/>
+      <point x="476" y="1315"/>
+      <point x="492" y="1266"/>
       <point x="514" y="1211" type="curve" smooth="yes"/>
       <point x="637" y="890" type="line"/>
       <point x="295" y="890" type="line"/>

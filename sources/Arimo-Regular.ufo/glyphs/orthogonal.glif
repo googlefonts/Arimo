@@ -7,13 +7,12 @@ orthogonal
 </note>
   <outline>
     <contour>
-      <point x="408" y="1223" type="line"/>
-      <point x="408" y="1223" type="line"/>
-      <point x="408" y="0" type="line"/>
-      <point x="1632" y="0" type="line"/>
       <point x="1632" y="94" type="line"/>
       <point x="502" y="94" type="line"/>
       <point x="502" y="1223" type="line"/>
+      <point x="408" y="1223" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="1632" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

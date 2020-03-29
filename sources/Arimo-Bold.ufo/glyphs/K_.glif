@@ -7,7 +7,8 @@ K
 </note>
   <outline>
     <contour>
-      <point x="1112" y="0" type="line"/>
+      <point x="432" y="514" type="line"/>
+      <point x="606" y="647" type="line"/>
       <point x="1112" y="0" type="line"/>
       <point x="1460" y="0" type="line"/>
       <point x="809" y="813" type="line"/>
@@ -18,8 +19,6 @@ K
       <point x="137" y="1409" type="line"/>
       <point x="137" y="0" type="line"/>
       <point x="432" y="0" type="line"/>
-      <point x="432" y="514" type="line"/>
-      <point x="606" y="647" type="line"/>
     </contour>
   </outline>
 </glyph>

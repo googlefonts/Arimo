@@ -8,7 +8,6 @@ plusminus
   <outline>
     <contour>
       <point x="636" y="680" type="line"/>
-      <point x="636" y="680" type="line"/>
       <point x="1060" y="680" type="line"/>
       <point x="1060" y="825" type="line"/>
       <point x="636" y="825" type="line"/>
@@ -22,11 +21,10 @@ plusminus
       <point x="636" y="285" type="line"/>
     </contour>
     <contour>
-      <point x="65" y="0" type="line"/>
-      <point x="65" y="0" type="line"/>
-      <point x="1060" y="0" type="line"/>
       <point x="1060" y="145" type="line"/>
       <point x="65" y="145" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="1060" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

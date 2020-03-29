@@ -10,20 +10,17 @@ uni205D
       <point x="485" y="1715" type="line"/>
       <point x="197" y="1715" type="line"/>
       <point x="197" y="1433" type="line"/>
-      <point x="197" y="1433" type="line"/>
       <point x="485" y="1433" type="line"/>
     </contour>
     <contour>
       <point x="485" y="998" type="line"/>
       <point x="197" y="998" type="line"/>
       <point x="197" y="716" type="line"/>
-      <point x="197" y="716" type="line"/>
       <point x="485" y="716" type="line"/>
     </contour>
     <contour>
       <point x="485" y="281" type="line"/>
       <point x="197" y="281" type="line"/>
-      <point x="197" y="0" type="line"/>
       <point x="197" y="0" type="line"/>
       <point x="485" y="0" type="line"/>
     </contour>

@@ -8,7 +8,6 @@ notequal
   <outline>
     <contour>
       <point x="461" y="291" type="line"/>
-      <point x="461" y="291" type="line"/>
       <point x="1096" y="291" type="line"/>
       <point x="1096" y="512" type="line"/>
       <point x="569" y="512" type="line"/>

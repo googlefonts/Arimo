@@ -6,7 +6,7 @@
 uni1FFB
 </note>
   <outline>
-    <component base="Omega" xOffset="66"/>
     <component base="tonos" xOffset="-201"/>
+    <component base="Omega" xOffset="66"/>
   </outline>
 </glyph>

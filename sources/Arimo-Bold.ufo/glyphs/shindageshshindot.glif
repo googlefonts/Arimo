@@ -7,7 +7,7 @@ shindageshshindot
 </note>
   <outline>
     <component base="shin"/>
-    <component base="dagesh" xOffset="1053" yOffset="-79"/>
     <component base="holam" xOffset="1452"/>
+    <component base="dagesh" xOffset="1053" yOffset="-79"/>
   </outline>
 </glyph>

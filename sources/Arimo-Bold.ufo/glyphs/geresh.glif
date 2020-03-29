@@ -7,11 +7,10 @@ geresh
 </note>
   <outline>
     <contour>
-      <point x="395" y="1030" type="line"/>
-      <point x="395" y="1030" type="line"/>
       <point x="627" y="1665" type="line"/>
       <point x="352" y="1665" type="line"/>
       <point x="215" y="1030" type="line"/>
+      <point x="395" y="1030" type="line"/>
     </contour>
   </outline>
 </glyph>

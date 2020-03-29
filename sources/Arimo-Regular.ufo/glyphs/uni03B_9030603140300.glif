@@ -7,6 +7,6 @@ uni03B9030603140300
   <outline>
     <component base="iota"/>
     <component base="uni1FDD" xOffset="-99" yOffset="350"/>
-    <component base="uni0306" xOffset="230" yOffset="-39"/>
+    <component base="breve" xOffset="-63" yOffset="-39"/>
   </outline>
 </glyph>

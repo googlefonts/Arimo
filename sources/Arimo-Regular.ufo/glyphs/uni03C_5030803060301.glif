@@ -7,7 +7,7 @@ uni03C5030803060301
   <outline>
     <component base="upsilon"/>
     <component base="dieresis" xOffset="198" yOffset="-69"/>
-    <component base="uni0306" xOffset="523" yOffset="166"/>
+    <component base="breve" xOffset="236" yOffset="159"/>
     <component base="tonos.short" xOffset="225"/>
   </outline>
 </glyph>

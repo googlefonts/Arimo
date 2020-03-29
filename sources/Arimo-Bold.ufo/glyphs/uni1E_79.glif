@@ -7,7 +7,7 @@ uni1E79
 </note>
   <outline>
     <component base="u"/>
-    <component base="acute.uc" xOffset="372" yOffset="-9"/>
     <component base="tildecomb" xOffset="1199" yOffset="-389"/>
+    <component base="acute.uc" xOffset="372" yOffset="-9"/>
   </outline>
 </glyph>

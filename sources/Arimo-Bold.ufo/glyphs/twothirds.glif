@@ -6,8 +6,8 @@
 twothirds
 </note>
   <outline>
+    <component base="twosuperior"/>
     <component base="fraction" xOffset="700"/>
     <component base="threesuperior" xOffset="992" yOffset="-695"/>
-    <component base="twosuperior"/>
   </outline>
 </glyph>

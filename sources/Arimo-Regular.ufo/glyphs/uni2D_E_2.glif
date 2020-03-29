@@ -6,13 +6,12 @@ uni2DE2
 </note>
   <outline>
     <contour>
-      <point x="141" y="1706" type="line"/>
+      <point x="-41" y="1632" type="line"/>
+      <point x="141" y="1632" type="line"/>
       <point x="141" y="1706" type="line"/>
       <point x="-140" y="1706" type="line"/>
       <point x="-140" y="1210" type="line"/>
       <point x="-41" y="1210" type="line"/>
-      <point x="-41" y="1632" type="line"/>
-      <point x="141" y="1632" type="line"/>
     </contour>
   </outline>
 </glyph>

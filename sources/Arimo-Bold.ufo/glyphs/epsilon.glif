@@ -8,21 +8,21 @@ epsilon
   <outline>
     <contour>
       <point x="526" y="168" type="curve" smooth="yes"/>
-      <point x="426.0" y="168.0"/>
+      <point x="426" y="168"/>
       <point x="366" y="218"/>
       <point x="366" y="314" type="curve" smooth="yes"/>
-      <point x="366" y="396.667"/>
-      <point x="411.167" y="440"/>
-      <point x="494.5" y="460" type="curve" smooth="yes"/>
-      <point x="536.167" y="470"/>
-      <point x="606.333" y="475"/>
+      <point x="366" y="397"/>
+      <point x="411" y="440"/>
+      <point x="495" y="460" type="curve" smooth="yes"/>
+      <point x="536" y="470"/>
+      <point x="606" y="475"/>
       <point x="705" y="475" type="curve"/>
       <point x="705" y="652" type="line"/>
-      <point x="580.333" y="652"/>
-      <point x="494.5" y="664.167"/>
-      <point x="447.5" y="688.5" type="curve" smooth="yes"/>
-      <point x="400.5" y="712.833"/>
-      <point x="377" y="750.333"/>
+      <point x="580" y="652"/>
+      <point x="495" y="664"/>
+      <point x="448" y="689" type="curve" smooth="yes"/>
+      <point x="401" y="713"/>
+      <point x="377" y="750"/>
       <point x="377" y="801" type="curve" smooth="yes"/>
       <point x="377" y="877"/>
       <point x="437" y="923"/>
@@ -31,27 +31,27 @@ epsilon
       <point x="705" y="886"/>
       <point x="761" y="810" type="curve"/>
       <point x="923" y="933" type="line"/>
-      <point x="828.333" y="1057"/>
-      <point x="715.667" y="1102"/>
+      <point x="828" y="1057"/>
+      <point x="716" y="1102"/>
       <point x="533" y="1102" type="curve" smooth="yes"/>
       <point x="277" y="1102"/>
-      <point x="110" y="989.333"/>
+      <point x="110" y="989"/>
       <point x="110" y="812" type="curve" smooth="yes"/>
-      <point x="110" y="670.667"/>
-      <point x="206.333" y="576"/>
+      <point x="110" y="671"/>
+      <point x="206" y="576"/>
       <point x="365" y="560" type="curve"/>
       <point x="365" y="558" type="line"/>
-      <point x="190.333" y="543.333"/>
-      <point x="77" y="447.667"/>
+      <point x="190" y="543"/>
+      <point x="77" y="448"/>
       <point x="77" y="297" type="curve" smooth="yes"/>
-      <point x="77" y="95.667"/>
+      <point x="77" y="96"/>
       <point x="232" y="-20"/>
       <point x="497" y="-20" type="curve" smooth="yes"/>
       <point x="683" y="-20"/>
       <point x="798" y="25"/>
       <point x="939" y="165" type="curve"/>
       <point x="796" y="305" type="line"/>
-      <point x="708" y="213.667"/>
+      <point x="708" y="214"/>
       <point x="618" y="168"/>
     </contour>
   </outline>

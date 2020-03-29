@@ -6,15 +6,14 @@ uni2DEB
 </note>
   <outline>
     <contour>
-      <point x="221" y="1706" type="line"/>
-      <point x="221" y="1706" type="line"/>
-      <point x="-221" y="1706" type="line"/>
-      <point x="-221" y="1210" type="line"/>
-      <point x="-76" y="1210" type="line"/>
       <point x="-76" y="1605" type="line"/>
       <point x="76" y="1605" type="line"/>
       <point x="76" y="1210" type="line"/>
       <point x="221" y="1210" type="line"/>
+      <point x="221" y="1706" type="line"/>
+      <point x="-221" y="1706" type="line"/>
+      <point x="-221" y="1210" type="line"/>
+      <point x="-76" y="1210" type="line"/>
     </contour>
   </outline>
 </glyph>

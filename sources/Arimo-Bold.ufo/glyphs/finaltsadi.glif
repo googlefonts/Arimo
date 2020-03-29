@@ -7,8 +7,6 @@ finaltsadi
 </note>
   <outline>
     <contour>
-      <point x="608" y="-385" type="line"/>
-      <point x="608" y="-385" type="line"/>
       <point x="606" y="446" type="line"/>
       <point x="746" y="474"/>
       <point x="846" y="519"/>
@@ -40,6 +38,7 @@ finaltsadi
       <point x="338" y="678"/>
       <point x="338" y="541" type="curve" smooth="yes"/>
       <point x="338" y="-385" type="line"/>
+      <point x="608" y="-385" type="line"/>
     </contour>
   </outline>
 </glyph>

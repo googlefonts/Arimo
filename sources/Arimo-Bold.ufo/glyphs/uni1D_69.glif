@@ -8,7 +8,6 @@ uni1D69
   <outline>
     <contour>
       <point x="938" y="263" type="curve"/>
-      <point x="938" y="263" type="line"/>
       <point x="938" y="498"/>
       <point x="824" y="643"/>
       <point x="653" y="643" type="curve" smooth="yes"/>
@@ -37,7 +36,6 @@ uni1D69
     </contour>
     <contour>
       <point x="751" y="264" type="curve"/>
-      <point x="751" y="264" type="line"/>
       <point x="751" y="82"/>
       <point x="691" y="-12"/>
       <point x="570" y="-19" type="curve"/>

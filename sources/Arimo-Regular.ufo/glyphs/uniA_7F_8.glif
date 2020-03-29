@@ -7,12 +7,6 @@ uniA7F8
 </note>
   <outline>
     <contour>
-      <point x="35" y="1635" type="line"/>
-      <point x="35" y="1635" type="line"/>
-      <point x="35" y="1574" type="line"/>
-      <point x="103" y="1574" type="line"/>
-      <point x="103" y="1210" type="line"/>
-      <point x="203" y="1210" type="line"/>
       <point x="203" y="1429" type="line"/>
       <point x="399" y="1429" type="line"/>
       <point x="399" y="1210" type="line"/>
@@ -28,13 +22,17 @@ uniA7F8
       <point x="203" y="1706" type="line"/>
       <point x="103" y="1706" type="line"/>
       <point x="103" y="1635" type="line"/>
+      <point x="35" y="1635" type="line"/>
+      <point x="35" y="1574" type="line"/>
+      <point x="103" y="1574" type="line"/>
+      <point x="103" y="1210" type="line"/>
+      <point x="203" y="1210" type="line"/>
     </contour>
     <contour>
-      <point x="399" y="1503" type="line"/>
-      <point x="399" y="1503" type="line"/>
       <point x="203" y="1503" type="line"/>
       <point x="203" y="1574" type="line"/>
       <point x="399" y="1574" type="line"/>
+      <point x="399" y="1503" type="line"/>
     </contour>
   </outline>
 </glyph>

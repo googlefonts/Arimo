@@ -26,19 +26,19 @@ uni04CD
       <point x="137" y="0" type="line"/>
       <point x="399" y="0" type="line"/>
       <point x="399" y="781" type="line" smooth="yes"/>
-      <point x="399.0" y="907"/>
+      <point x="399" y="907"/>
       <point x="391" y="1034"/>
       <point x="387" y="1160" type="curve"/>
       <point x="392" y="1135"/>
-      <point x="474" y="847.333"/>
+      <point x="474" y="847"/>
       <point x="494" y="786" type="curve" smooth="yes"/>
       <point x="748" y="0" type="line"/>
       <point x="958" y="0" type="line"/>
       <point x="1241" y="881" type="line" smooth="yes"/>
       <point x="1268" y="964"/>
-      <point x="1287.10756788203" y="1048.9709664189688"/>
+      <point x="1287" y="1049"/>
       <point x="1317" y="1160" type="curve"/>
-      <point x="1310.062255276222" y="1048.9960844195505"/>
+      <point x="1310" y="1049"/>
       <point x="1307" y="958"/>
       <point x="1307" y="854" type="curve" smooth="yes"/>
       <point x="1307" y="0" type="line"/>

@@ -26,7 +26,7 @@ uni04A1
       <point x="906" y="1082" type="line"/>
       <point x="725" y="792" type="line" smooth="yes"/>
       <point x="679" y="719"/>
-      <point x="642.0827625302982" y="671.7249529696925"/>
+      <point x="642" y="672"/>
       <point x="619" y="650" type="curve" smooth="yes"/>
       <point x="584" y="616"/>
       <point x="555" y="608"/>

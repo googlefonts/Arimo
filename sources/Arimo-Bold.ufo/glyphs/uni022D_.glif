@@ -7,7 +7,7 @@ uni022D
 </note>
   <outline>
     <component base="o"/>
-    <component base="tildecomb" xOffset="1197" yOffset="-394"/>
+    <component base="tilde" xOffset="243" yOffset="-18"/>
     <component base="macron" xOffset="283" yOffset="308"/>
   </outline>
 </glyph>

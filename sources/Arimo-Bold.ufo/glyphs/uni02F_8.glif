@@ -7,18 +7,16 @@ uni02F8
 </note>
   <outline>
     <contour>
-      <point x="197" y="1202" type="line"/>
-      <point x="197" y="1202" type="line"/>
-      <point x="485" y="1202" type="line"/>
       <point x="485" y="1484" type="line"/>
       <point x="197" y="1484" type="line"/>
+      <point x="197" y="1202" type="line"/>
+      <point x="485" y="1202" type="line"/>
     </contour>
     <contour>
-      <point x="197" y="450" type="line"/>
-      <point x="197" y="450" type="line"/>
-      <point x="485" y="450" type="line"/>
       <point x="485" y="731" type="line"/>
       <point x="197" y="731" type="line"/>
+      <point x="197" y="450" type="line"/>
+      <point x="485" y="450" type="line"/>
     </contour>
   </outline>
 </glyph>

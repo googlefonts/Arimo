@@ -6,6 +6,11 @@
 middot
 </note>
   <outline>
-    <component base="periodcentered" xOffset="56"/>
+    <contour>
+      <point x="438" y="666" type="line"/>
+      <point x="243" y="666" type="line"/>
+      <point x="243" y="446" type="line"/>
+      <point x="438" y="446" type="line"/>
+    </contour>
   </outline>
 </glyph>

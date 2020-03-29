@@ -6,13 +6,12 @@ gravecomb
 </note>
   <outline>
     <contour>
-      <point x="-273" y="1548" type="line"/>
-      <point x="-273" y="1548" type="line"/>
-      <point x="-179" y="1548" type="line"/>
       <point x="-179" y="1568" type="line"/>
       <point x="-309" y="1827" type="line"/>
       <point x="-516" y="1827" type="line"/>
       <point x="-516" y="1798" type="line"/>
+      <point x="-273" y="1548" type="line"/>
+      <point x="-179" y="1548" type="line"/>
     </contour>
   </outline>
 </glyph>

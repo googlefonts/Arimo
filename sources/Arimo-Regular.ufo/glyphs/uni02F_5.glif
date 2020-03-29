@@ -7,22 +7,20 @@ uni02F5
 </note>
   <outline>
     <contour>
-      <point x="264" y="271" type="line"/>
-      <point x="264" y="271" type="line"/>
-      <point x="358" y="271" type="line"/>
       <point x="358" y="291" type="line"/>
       <point x="181" y="578" type="line"/>
       <point x="-26" y="578" type="line"/>
       <point x="-26" y="549" type="line"/>
+      <point x="264" y="271" type="line"/>
+      <point x="358" y="271" type="line"/>
     </contour>
     <contour>
-      <point x="611" y="271" type="line"/>
-      <point x="611" y="271" type="line"/>
-      <point x="705" y="271" type="line"/>
       <point x="705" y="291" type="line"/>
       <point x="528" y="578" type="line"/>
       <point x="321" y="578" type="line"/>
       <point x="321" y="549" type="line"/>
+      <point x="611" y="271" type="line"/>
+      <point x="705" y="271" type="line"/>
     </contour>
   </outline>
 </glyph>

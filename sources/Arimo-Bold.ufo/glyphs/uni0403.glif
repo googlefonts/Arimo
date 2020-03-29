@@ -6,7 +6,7 @@
 uni0403
 </note>
   <outline>
+    <component base="Gamma"/>
     <component base="acute.uc" xOffset="369"/>
-    <component base="uni0413"/>
   </outline>
 </glyph>

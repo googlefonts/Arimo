@@ -18,7 +18,7 @@ uni1DB7
       <point x="702" y="1056"/>
       <point x="702" y="1076" type="curve" smooth="yes"/>
       <point x="702" y="1098"/>
-      <point x="717.0" y="1109.0"/>
+      <point x="717" y="1109"/>
       <point x="747" y="1109" type="curve" smooth="yes"/>
       <point x="812" y="1109" type="line"/>
       <point x="812" y="1252" type="line"/>
@@ -47,8 +47,8 @@ uni1DB7
       <point x="146" y="1109"/>
       <point x="161" y="1098"/>
       <point x="161" y="1076" type="curve" smooth="yes"/>
-      <point x="161.0" y="1050.177430968371"/>
-      <point x="128.81330878166523" y="1009.6266175633305"/>
+      <point x="161" y="1050"/>
+      <point x="129" y="1010"/>
       <point x="112" y="976" type="curve" smooth="yes"/>
       <point x="77" y="910"/>
       <point x="60" y="851"/>

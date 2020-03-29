@@ -11,12 +11,12 @@ uni0326
       <point x="-123" y="-78" type="line"/>
       <point x="-123" y="-285" type="line"/>
       <point x="-15" y="-285" type="line"/>
-      <point x="-15" y="-331.667"/>
-      <point x="-46.333" y="-388.333"/>
+      <point x="-15" y="-332"/>
+      <point x="-46" y="-388"/>
       <point x="-109" y="-455" type="curve"/>
       <point x="28" y="-455" type="line"/>
-      <point x="96" y="-373.667"/>
-      <point x="122.0" y="-301.0"/>
+      <point x="96" y="-374"/>
+      <point x="122" y="-301"/>
     </contour>
   </outline>
 </glyph>

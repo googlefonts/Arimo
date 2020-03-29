@@ -6,8 +6,8 @@
 onethird
 </note>
   <outline>
-    <component base="fraction" xOffset="700"/>
     <component base="onesuperior" xOffset="12"/>
+    <component base="fraction" xOffset="700"/>
     <component base="threesuperior" xOffset="992" yOffset="-695"/>
   </outline>
 </glyph>

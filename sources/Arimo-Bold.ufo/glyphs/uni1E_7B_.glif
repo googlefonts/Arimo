@@ -7,7 +7,7 @@ uni1E7B
 </note>
   <outline>
     <component base="u"/>
-    <component base="dieresis" xOffset="283" yOffset="300"/>
     <component base="macron" xOffset="283"/>
+    <component base="dieresis" xOffset="283" yOffset="300"/>
   </outline>
 </glyph>

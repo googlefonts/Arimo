@@ -6,11 +6,10 @@ dotlessi.alt1
 </note>
   <outline>
     <contour>
-      <point x="145" y="0" type="line"/>
-      <point x="145" y="0" type="line"/>
-      <point x="426" y="0" type="line"/>
       <point x="426" y="1082" type="line"/>
       <point x="145" y="1082" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="426" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

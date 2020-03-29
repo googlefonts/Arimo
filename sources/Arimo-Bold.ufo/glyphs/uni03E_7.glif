@@ -39,8 +39,8 @@ uni03E7
       <point x="230" y="63"/>
       <point x="257" y="94"/>
       <point x="311" y="94" type="curve" smooth="yes"/>
-      <point x="340.70719369532316" y="94.0"/>
-      <point x="368.22354691731374" y="83.45790822825089"/>
+      <point x="341" y="94"/>
+      <point x="368" y="83"/>
       <point x="447" y="37" type="curve" smooth="yes"/>
       <point x="513" y="-1"/>
       <point x="587" y="-20"/>
@@ -64,15 +64,14 @@ uni03E7
     <contour>
       <point x="544" y="910" type="curve" smooth="yes"/>
       <point x="636" y="910"/>
-      <point x="714.333" y="875"/>
+      <point x="714" y="875"/>
       <point x="757" y="815" type="curve"/>
-      <point x="685.667" y="733.667"/>
-      <point x="604.333" y="693"/>
+      <point x="686" y="734"/>
+      <point x="604" y="693"/>
       <point x="513" y="693" type="curve" smooth="yes"/>
       <point x="413" y="693"/>
-      <point x="364" y="734.667"/>
+      <point x="364" y="735"/>
       <point x="364" y="796" type="curve"/>
-      <point x="364" y="796" type="line"/>
       <point x="364" y="872"/>
       <point x="424" y="910"/>
     </contour>

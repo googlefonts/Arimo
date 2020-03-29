@@ -8,7 +8,6 @@ uni1EFC
   <outline>
     <contour>
       <point x="894" y="901" type="curve"/>
-      <point x="894" y="901" type="line"/>
       <point x="746" y="786" type="line"/>
       <point x="852" y="709"/>
       <point x="905" y="591"/>
@@ -29,14 +28,14 @@ uni1EFC
       <point x="494" y="1319"/>
       <point x="396" y="1210"/>
       <point x="316" y="1096" type="curve" smooth="yes"/>
-      <point x="170.50813677849902" y="892.3113914898986"/>
-      <point x="95.0" y="686.3799547152487"/>
+      <point x="171" y="892"/>
+      <point x="95" y="686"/>
       <point x="95" y="511" type="curve" smooth="yes"/>
       <point x="95" y="166"/>
       <point x="277" y="-17"/>
       <point x="612" y="-17" type="curve" smooth="yes"/>
-      <point x="900.3811051898972" y="-17.0"/>
-      <point x="1093.0" y="183.07615199581156"/>
+      <point x="900" y="-17"/>
+      <point x="1093" y="183"/>
       <point x="1093" y="431" type="curve" smooth="yes"/>
       <point x="1093" y="644"/>
       <point x="1027" y="800"/>
