@@ -32,7 +32,9 @@ uni0265
       <point x="667" y="46"/>
       <point x="767" y="185" type="curve"/>
       <point x="770" y="185" type="line"/>
-      <point x="731" y="3" type="line"/>
+      <point x="757" y="124"/>
+      <point x="744" y="64"/>
+      <point x="731" y="3" type="curve"/>
       <point x="647" y="-424" type="line"/>
       <point x="927" y="-424" type="line"/>
     </contour>

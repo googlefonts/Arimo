@@ -21,9 +21,7 @@ uni0183
       <point x="1075" y="1271" type="line"/>
       <point x="1111" y="1484" type="line"/>
       <point x="330" y="1484" type="line"/>
-      <point x="163" y="627"/>
-      <point x="73" y="169"/>
-      <point x="60" y="108" type="curve" smooth="yes"/>
+      <point x="60" y="108" type="line"/>
       <point x="47" y="47"/>
       <point x="39" y="11"/>
       <point x="35" y="0" type="curve"/>

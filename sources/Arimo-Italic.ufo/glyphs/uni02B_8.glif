@@ -27,7 +27,9 @@ uni02B8
       <point x="209" y="346"/>
       <point x="149" y="288"/>
       <point x="61" y="288" type="curve"/>
-      <point x="9" y="294" type="line"/>
+      <point x="43" y="289"/>
+      <point x="25" y="291"/>
+      <point x="9" y="294" type="curve"/>
       <point x="-12" y="199" type="line"/>
       <point x="15" y="192"/>
       <point x="45" y="189"/>

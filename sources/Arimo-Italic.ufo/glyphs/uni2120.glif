@@ -61,7 +61,9 @@ uni2120
     <contour>
       <point x="1091" y="1201" type="line"/>
       <point x="1086" y="1261" type="line"/>
-      <point x="1149" y="1100" type="line"/>
+      <point x="1106.979" y="1207.387"/>
+      <point x="1129" y="1150"/>
+      <point x="1149" y="1100" type="curve"/>
       <point x="1333" y="634" type="line"/>
       <point x="1441" y="634" type="line"/>
       <point x="1671" y="1199" type="line"/>

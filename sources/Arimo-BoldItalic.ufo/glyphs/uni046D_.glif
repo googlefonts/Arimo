@@ -34,7 +34,9 @@ uni046D
       <point x="633" y="366"/>
       <point x="602" y="309"/>
       <point x="589" y="242" type="curve" smooth="yes"/>
-      <point x="540" y="0" type="line"/>
+      <point x="573" y="160"/>
+      <point x="556" y="80"/>
+      <point x="540" y="0" type="curve"/>
       <point x="815" y="0" type="line"/>
       <point x="849" y="175" type="line" smooth="yes"/>
       <point x="879" y="330"/>

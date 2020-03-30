@@ -9,11 +9,12 @@ uni028D
     <contour>
       <point x="461" y="695" type="line"/>
       <point x="514" y="827" type="line"/>
-      <point x="519" y="636" type="line"/>
+      <point x="516" y="763"/>
+      <point x="517" y="700"/>
+      <point x="519" y="636" type="curve"/>
       <point x="561" y="0" type="line"/>
       <point x="862" y="0" type="line"/>
       <point x="1156" y="636" type="line"/>
-      <point x="1208" y="759" type="line"/>
       <point x="1235" y="827" type="line"/>
       <point x="1235" y="697" type="line"/>
       <point x="1249" y="0" type="line"/>

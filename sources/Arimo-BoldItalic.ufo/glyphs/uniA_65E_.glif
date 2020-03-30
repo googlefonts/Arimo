@@ -42,7 +42,9 @@ uniA65E
       <point x="844" y="704"/>
       <point x="885" y="803"/>
       <point x="932" y="932" type="curve"/>
-      <point x="875" y="647" type="line"/>
+      <point x="913.019" y="837.095"/>
+      <point x="892" y="731"/>
+      <point x="875" y="647" type="curve"/>
       <point x="663" y="-425" type="line"/>
       <point x="918" y="-425" type="line"/>
     </contour>

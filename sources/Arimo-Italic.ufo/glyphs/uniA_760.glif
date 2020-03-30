@@ -8,8 +8,11 @@ uniA760
   <outline>
     <contour>
       <point x="849" y="-443" type="curve"/>
-      <point x="1070" y="-443"/>
-      <point x="1266" y="-287"/>
+      <point x="965" y="-443"/>
+      <point x="1074" y="-400"/>
+      <point x="1171" y="-318" type="curve" smooth="yes"/>
+      <point x="1260" y="-244"/>
+      <point x="1339" y="-137"/>
       <point x="1406" y="0" type="curve" smooth="yes"/>
       <point x="2094" y="1409" type="line"/>
       <point x="1893" y="1409" type="line"/>
@@ -17,9 +20,8 @@ uniA760
       <point x="1432" y="433"/>
       <point x="1412" y="387" type="curve" smooth="yes"/>
       <point x="1392" y="341"/>
-      <point x="1366" y="280"/>
-      <point x="1334" y="203" type="curve" smooth="yes"/>
-      <point x="1318" y="168" type="line"/>
+      <point x="1369" y="279"/>
+      <point x="1318" y="168" type="curve"/>
       <point x="1313" y="335"/>
       <point x="1308" y="457"/>
       <point x="1301" y="532" type="curve" smooth="yes"/>
@@ -40,14 +42,16 @@ uniA760
       <point x="991" y="962" type="curve" smooth="yes"/>
       <point x="1004" y="993"/>
       <point x="1022" y="1036"/>
-      <point x="1044" y="1090" type="curve" smooth="yes"/>
-      <point x="1096" y="1218" type="line"/>
+      <point x="1096" y="1218" type="curve"/>
       <point x="1096" y="1170"/>
       <point x="1107" y="964"/>
       <point x="1112" y="895" type="curve" smooth="yes"/>
       <point x="1196" y="-21" type="line"/>
-      <point x="1112" y="-178"/>
-      <point x="984" y="-288"/>
+      <point x="1150" y="-108"/>
+      <point x="1090" y="-180"/>
+      <point x="1028" y="-228" type="curve" smooth="yes"/>
+      <point x="979" y="-266"/>
+      <point x="928" y="-288"/>
       <point x="883" y="-288" type="curve" smooth="yes"/>
       <point x="834" y="-288"/>
       <point x="782" y="-268"/>

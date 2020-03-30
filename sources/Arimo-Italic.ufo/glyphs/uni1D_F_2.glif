@@ -45,7 +45,9 @@ uni1DF2
       <point x="236" y="1638"/>
       <point x="262" y="1614"/>
       <point x="262" y="1567" type="curve"/>
-      <point x="255" y="1518" type="line"/>
+      <point x="260" y="1551"/>
+      <point x="257" y="1534"/>
+      <point x="255" y="1518" type="curve"/>
       <point x="165" y="1518" type="line" smooth="yes"/>
       <point x="-8" y="1518"/>
       <point x="-94" y="1459"/>

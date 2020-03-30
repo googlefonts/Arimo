@@ -17,7 +17,9 @@ uni2DFC
       <point x="439" y="1323" type="curve"/>
       <point x="444" y="1360" type="line"/>
       <point x="478" y="1534" type="line"/>
-      <point x="483" y="1580" type="line"/>
+      <point x="480" y="1549"/>
+      <point x="481" y="1565"/>
+      <point x="483" y="1580" type="curve"/>
       <point x="483" y="1668"/>
       <point x="423" y="1715"/>
       <point x="315" y="1715" type="curve" smooth="yes"/>

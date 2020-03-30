@@ -6,9 +6,9 @@
 threeeighths
 </note>
   <outline>
+    <component base="threesuperior" xOffset="54"/>
     <component base="fraction" xOffset="680"/>
     <component base="eightsuperior" xOffset="893" yOffset="-692"/>
-    <component base="threesuperior" xOffset="54"/>
   </outline>
   <lib>
     <dict>

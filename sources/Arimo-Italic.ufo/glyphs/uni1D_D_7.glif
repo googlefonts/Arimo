@@ -25,7 +25,9 @@ uni1DD7
       <point x="139" y="1083"/>
       <point x="119" y="1071"/>
       <point x="78" y="1071" type="curve"/>
-      <point x="29" y="1075" type="line"/>
+      <point x="62" y="1072"/>
+      <point x="45" y="1074"/>
+      <point x="29" y="1075" type="curve"/>
       <point x="18" y="1016" type="line"/>
       <point x="68" y="1013" type="line"/>
       <point x="168" y="1013"/>

@@ -65,7 +65,9 @@ uni1D75
       <point x="160" y="516"/>
       <point x="161" y="516"/>
       <point x="161" y="516" type="curve"/>
-      <point x="132" y="366" type="line" smooth="yes"/>
+      <point x="151" y="466"/>
+      <point x="142" y="416"/>
+      <point x="132" y="366" type="curve" smooth="yes"/>
       <point x="121" y="309"/>
       <point x="116" y="256"/>
       <point x="116" y="209" type="curve" smooth="yes"/>

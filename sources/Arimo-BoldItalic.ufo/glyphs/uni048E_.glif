@@ -38,7 +38,9 @@ uni048E
       <point x="932" y="982" type="line"/>
       <point x="748" y="831" type="line"/>
       <point x="832" y="726" type="line"/>
-      <point x="760" y="723" type="line"/>
+      <point x="808" y="725"/>
+      <point x="784" y="724"/>
+      <point x="760" y="723" type="curve"/>
     </contour>
   </outline>
   <lib>

@@ -20,7 +20,9 @@ uniA67D
       <point x="-111" y="1519" type="curve" smooth="yes"/>
       <point x="-55" y="1706" type="line"/>
       <point x="-155" y="1706" type="line"/>
-      <point x="-212" y="1515" type="line" smooth="yes"/>
+      <point x="-174" y="1642"/>
+      <point x="-193" y="1579"/>
+      <point x="-212" y="1515" type="curve" smooth="yes"/>
       <point x="-218" y="1495"/>
       <point x="-221" y="1477"/>
       <point x="-221" y="1461" type="curve" smooth="yes"/>

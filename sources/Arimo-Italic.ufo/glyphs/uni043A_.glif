@@ -19,10 +19,8 @@ uni043A
       <point x="763" y="757" type="curve" smooth="yes"/>
       <point x="1033" y="1082" type="line"/>
       <point x="841" y="1082" type="line"/>
-      <point x="674" y="877"/>
-      <point x="576" y="759"/>
-      <point x="547" y="728" type="curve" smooth="yes"/>
-      <point x="517" y="696"/>
+      <point x="547" y="728" type="line" smooth="yes"/>
+      <point x="519" y="694"/>
       <point x="490" y="671"/>
       <point x="467" y="654" type="curve" smooth="yes"/>
       <point x="419" y="619"/>

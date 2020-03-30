@@ -8,7 +8,9 @@ uni0269
   <outline>
     <contour>
       <point x="357" y="293" type="curve"/>
-      <point x="362" y="336" type="line"/>
+      <point x="358" y="305"/>
+      <point x="359.668" y="321.681"/>
+      <point x="361" y="336" type="curve"/>
       <point x="513" y="1082" type="line"/>
       <point x="232" y="1082" type="line"/>
       <point x="82" y="343" type="line" smooth="yes"/>

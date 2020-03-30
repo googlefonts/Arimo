@@ -7,7 +7,7 @@ aleflamed
 </note>
   <outline>
     <contour>
-      <point x="952" y="506" type="curve"/>
+      <point x="952" y="506" type="line"/>
       <point x="1088" y="607"/>
       <point x="1174" y="690"/>
       <point x="1234" y="777" type="curve" smooth="yes"/>
@@ -28,8 +28,6 @@ aleflamed
       <point x="352" y="1057" type="line"/>
       <point x="924" y="0" type="line"/>
       <point x="1229" y="0" type="line"/>
-      <point x="1150" y="141"/>
-      <point x="1058" y="310"/>
     </contour>
   </outline>
   <lib>

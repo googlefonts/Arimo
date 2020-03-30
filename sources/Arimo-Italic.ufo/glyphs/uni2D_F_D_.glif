@@ -22,7 +22,9 @@ uni2DFD
     <contour>
       <point x="123" y="1449" type="line"/>
       <point x="204" y="1594" type="line"/>
-      <point x="230" y="1449" type="line"/>
+      <point x="213" y="1546"/>
+      <point x="221" y="1497"/>
+      <point x="230" y="1449" type="curve"/>
     </contour>
   </outline>
   <lib>

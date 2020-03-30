@@ -15,7 +15,9 @@ uniA67D
       <point x="-88" y="1465"/>
       <point x="-103" y="1477"/>
       <point x="-103" y="1502" type="curve"/>
-      <point x="-99" y="1526" type="line"/>
+      <point x="-102" y="1510"/>
+      <point x="-100" y="1518"/>
+      <point x="-99" y="1526" type="curve"/>
       <point x="-44" y="1706" type="line"/>
       <point x="-188" y="1706" type="line"/>
       <point x="-233" y="1559"/>

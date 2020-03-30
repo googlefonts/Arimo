@@ -23,9 +23,7 @@ uni02A3
       <point x="1209" y="1082" type="line"/>
       <point x="1286" y="1484" type="line"/>
       <point x="1009" y="1484" type="line"/>
-      <point x="949" y="1187"/>
-      <point x="916" y="1022"/>
-      <point x="911" y="988" type="curve" smooth="yes"/>
+      <point x="911" y="988" type="line"/>
       <point x="905" y="953"/>
       <point x="901" y="925"/>
       <point x="899" y="904" type="curve"/>

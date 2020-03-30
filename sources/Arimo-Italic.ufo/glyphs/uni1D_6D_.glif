@@ -55,8 +55,12 @@ uni1D6D
       <point x="933" y="1251"/>
       <point x="948" y="1248"/>
       <point x="966" y="1242" type="curve"/>
-      <point x="931" y="1065" type="line"/>
-      <point x="903" y="903" type="line"/>
+      <point x="954" y="1183"/>
+      <point x="943" y="1124"/>
+      <point x="931" y="1065" type="curve"/>
+      <point x="922" y="1011"/>
+      <point x="912" y="957"/>
+      <point x="903" y="903" type="curve"/>
       <point x="898" y="903" type="line"/>
       <point x="855" y="1028"/>
       <point x="752" y="1101"/>

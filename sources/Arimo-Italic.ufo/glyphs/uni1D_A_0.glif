@@ -15,7 +15,9 @@ uni1DA0
       <point x="438" y="1396"/>
       <point x="460" y="1437"/>
       <point x="529" y="1437" type="curve"/>
-      <point x="591" y="1431" type="line"/>
+      <point x="550" y="1435"/>
+      <point x="570" y="1433"/>
+      <point x="591" y="1431" type="curve"/>
       <point x="609" y="1528" type="line"/>
       <point x="586" y="1533"/>
       <point x="558" y="1536"/>

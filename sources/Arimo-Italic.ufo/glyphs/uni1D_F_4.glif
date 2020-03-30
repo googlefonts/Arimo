@@ -21,7 +21,9 @@ uni1DF4
       <point x="244" y="1267" type="curve"/>
       <point x="239" y="1210" type="line"/>
       <point x="332" y="1210" type="line"/>
-      <point x="345" y="1288" type="line"/>
+      <point x="336" y="1236"/>
+      <point x="341" y="1262"/>
+      <point x="345" y="1288" type="curve"/>
       <point x="427" y="1707" type="line"/>
       <point x="328" y="1707" type="line"/>
       <point x="272" y="1420" type="line" smooth="yes"/>

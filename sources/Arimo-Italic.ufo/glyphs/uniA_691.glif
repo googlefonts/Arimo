@@ -29,7 +29,8 @@ uniA691
       <point x="113" y="951" type="line"/>
       <point x="457" y="951" type="line"/>
       <point x="269" y="0" type="line"/>
-      <point x="193" y="-39"/>
+      <point x="268" y="-1" type="line"/>
+      <point x="192" y="-40"/>
       <point x="128" y="-100"/>
       <point x="90" y="-172" type="curve" smooth="yes"/>
       <point x="71" y="-208"/>

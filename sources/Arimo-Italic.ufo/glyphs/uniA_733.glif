@@ -64,7 +64,9 @@ uniA733
       <point x="1349" y="39"/>
       <point x="1460" y="207" type="curve"/>
       <point x="1466" y="207" type="line"/>
-      <point x="1461" y="143" type="line"/>
+      <point x="1464" y="186"/>
+      <point x="1463" y="164"/>
+      <point x="1461" y="143" type="curve"/>
       <point x="1461" y="42"/>
       <point x="1515" y="-10"/>
     </contour>

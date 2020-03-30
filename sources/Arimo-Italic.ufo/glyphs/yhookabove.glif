@@ -7,7 +7,7 @@ yhookabove
 </note>
   <outline>
     <component base="y"/>
-    <component base="hookabovecomb" xOffset="1046"/>
+    <component base="hookabove.alt2" xOffset="1153" yOffset="-318"/>
   </outline>
   <lib>
     <dict>

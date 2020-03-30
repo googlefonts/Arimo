@@ -24,7 +24,9 @@ Eng.alt1
       <point x="691" y="1366"/>
       <point x="578" y="1249" type="curve"/>
       <point x="572" y="1243" type="line"/>
-      <point x="605" y="1409" type="line"/>
+      <point x="584" y="1298"/>
+      <point x="595" y="1354"/>
+      <point x="605" y="1409" type="curve"/>
       <point x="333" y="1409" type="line"/>
       <point x="276" y="1114" type="line"/>
       <point x="59" y="0" type="line"/>

@@ -6,8 +6,8 @@ Eng.alt3
 </note>
   <outline>
     <contour>
-      <point x="667" y="-13" type="curve"/>
-      <point x="758" y="-25"/>
+      <point x="667" y="-13" type="curve" smooth="yes"/>
+      <point x="759" y="-13.0"/>
       <point x="972" y="9"/>
       <point x="1097" y="102" type="curve" smooth="yes"/>
       <point x="1160" y="149"/>
@@ -26,7 +26,9 @@ Eng.alt3
       <point x="653" y="1373"/>
       <point x="533" y="1243" type="curve"/>
       <point x="532" y="1243" type="line"/>
-      <point x="565" y="1409" type="line"/>
+      <point x="543" y="1298"/>
+      <point x="554" y="1354"/>
+      <point x="565" y="1409" type="curve"/>
       <point x="293" y="1409" type="line"/>
       <point x="247" y="1173"/>
       <point x="201" y="936"/>

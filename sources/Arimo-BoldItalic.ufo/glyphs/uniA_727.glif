@@ -9,7 +9,9 @@ uniA727
     <contour>
       <point x="486" y="897" type="curve"/>
       <point x="483" y="897" type="line"/>
-      <point x="522" y="1079" type="line"/>
+      <point x="496" y="958"/>
+      <point x="509" y="1018"/>
+      <point x="522" y="1079" type="curve"/>
       <point x="601" y="1484" type="line"/>
       <point x="321" y="1484" type="line"/>
       <point x="35" y="0" type="line"/>
@@ -28,7 +30,9 @@ uniA727
       <point x="702" y="-184"/>
       <point x="667" y="-222"/>
       <point x="578" y="-222" type="curve"/>
-      <point x="520" y="-218" type="line"/>
+      <point x="558.686" y="-220.668"/>
+      <point x="536" y="-220"/>
+      <point x="520" y="-218" type="curve"/>
       <point x="484" y="-406" type="line"/>
       <point x="531" y="-419"/>
       <point x="587" y="-425"/>

@@ -11,7 +11,9 @@ uni0454
       <point x="420" y="173"/>
       <point x="358" y="241"/>
       <point x="358" y="401" type="curve"/>
-      <point x="361" y="453" type="line"/>
+      <point x="359" y="418"/>
+      <point x="360" y="436"/>
+      <point x="361" y="453" type="curve"/>
       <point x="670" y="453" type="line"/>
       <point x="707" y="643" type="line"/>
       <point x="397" y="643" type="line"/>

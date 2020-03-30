@@ -7,7 +7,7 @@ uni0461
 </note>
   <outline>
     <contour>
-      <point x="584" y="411" type="line"/>
+      <point x="584" y="411" type="curve"/>
       <point x="619" y="0" type="line"/>
       <point x="778" y="0" type="line"/>
       <point x="967" y="228"/>
@@ -29,11 +29,15 @@ uni0461
       <point x="696" y="1082" type="line"/>
       <point x="526" y="1082" type="line"/>
       <point x="565" y="630" type="line"/>
-      <point x="336" y="202" type="line"/>
+      <point x="489" y="487"/>
+      <point x="412" y="345"/>
+      <point x="336" y="202" type="curve"/>
       <point x="240" y="1082" type="line"/>
       <point x="66" y="1082" type="line"/>
       <point x="200" y="0" type="line"/>
       <point x="361" y="0" type="line"/>
+      <point x="435" y="137"/>
+      <point x="510" y="274"/>
     </contour>
   </outline>
   <lib>

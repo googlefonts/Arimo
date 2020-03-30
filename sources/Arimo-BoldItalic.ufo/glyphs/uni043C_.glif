@@ -21,9 +21,7 @@ uni043C
       <point x="1264" y="0" type="line"/>
       <point x="1475" y="1082" type="line"/>
       <point x="1101" y="1082" type="line"/>
-      <point x="902" y="672"/>
-      <point x="788" y="436"/>
-      <point x="759" y="373" type="curve" smooth="yes"/>
+      <point x="759" y="373" type="line"/>
       <point x="730" y="310"/>
       <point x="707" y="257"/>
       <point x="690" y="213" type="curve"/>

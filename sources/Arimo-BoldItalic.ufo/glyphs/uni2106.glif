@@ -49,7 +49,9 @@ uni2106
     <contour>
       <point x="1496" y="150" type="curve"/>
       <point x="1499" y="150" type="line"/>
-      <point x="1479" y="0" type="line"/>
+      <point x="1492" y="100"/>
+      <point x="1486" y="50"/>
+      <point x="1479" y="0" type="curve"/>
       <point x="1690" y="0" type="line"/>
       <point x="1690" y="8"/>
       <point x="1712" y="142"/>

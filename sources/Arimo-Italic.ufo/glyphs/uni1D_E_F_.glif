@@ -11,7 +11,9 @@ uni1DEF
       <point x="268" y="1732"/>
       <point x="282" y="1754"/>
       <point x="322" y="1754" type="curve"/>
-      <point x="366" y="1749" type="line"/>
+      <point x="337" y="1752"/>
+      <point x="351" y="1751"/>
+      <point x="366" y="1749" type="curve"/>
       <point x="381" y="1825" type="line"/>
       <point x="362" y="1830"/>
       <point x="341" y="1833"/>
@@ -23,7 +25,9 @@ uni1DEF
       <point x="57" y="1164"/>
       <point x="44" y="1142"/>
       <point x="4" y="1142" type="curve"/>
-      <point x="-40" y="1147" type="line"/>
+      <point x="-11" y="1144"/>
+      <point x="-25" y="1145"/>
+      <point x="-40" y="1147" type="curve"/>
       <point x="-55" y="1071" type="line"/>
       <point x="-35" y="1066"/>
       <point x="-14" y="1063"/>

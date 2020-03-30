@@ -15,7 +15,9 @@ uniA68D
       <point x="542" y="-209"/>
       <point x="512" y="-180"/>
       <point x="512" y="-123" type="curve"/>
-      <point x="516" y="-84" type="line"/>
+      <point x="513" y="-110"/>
+      <point x="515" y="-97"/>
+      <point x="516" y="-84" type="curve"/>
       <point x="709" y="892" type="line"/>
       <point x="1012" y="892" type="line"/>
       <point x="1050" y="1082" type="line"/>

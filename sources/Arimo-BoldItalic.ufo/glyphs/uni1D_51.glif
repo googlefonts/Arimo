@@ -42,7 +42,9 @@ uni1D51
       <point x="515" y="363"/>
       <point x="493" y="333"/>
       <point x="430" y="333" type="curve"/>
-      <point x="391" y="336" type="line"/>
+      <point x="417" y="334"/>
+      <point x="404" y="335"/>
+      <point x="391" y="336" type="curve"/>
       <point x="366" y="203" type="line"/>
       <point x="403" y="194"/>
       <point x="440" y="190"/>

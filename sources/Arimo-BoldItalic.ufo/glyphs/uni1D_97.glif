@@ -41,7 +41,9 @@ uni1D97
       <point x="211" y="-209"/>
       <point x="182" y="-182"/>
       <point x="182" y="-122" type="curve"/>
-      <point x="186" y="-84" type="line"/>
+      <point x="183" y="-109"/>
+      <point x="185" y="-97"/>
+      <point x="186" y="-84" type="curve"/>
       <point x="210" y="47" type="line"/>
       <point x="285" y="2"/>
       <point x="370" y="-20"/>

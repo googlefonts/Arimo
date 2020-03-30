@@ -29,7 +29,9 @@ uni1DD6
       <point x="156" y="1638"/>
       <point x="182" y="1614"/>
       <point x="182" y="1567" type="curve"/>
-      <point x="175" y="1518" type="line"/>
+      <point x="180" y="1551"/>
+      <point x="177" y="1534"/>
+      <point x="175" y="1518" type="curve"/>
       <point x="85" y="1518" type="line" smooth="yes"/>
       <point x="-88" y="1518"/>
       <point x="-174" y="1459"/>

@@ -5,6 +5,16 @@ tilde.alt11
 </note>
   <outline>
     <contour>
+      <point x="-307" y="1183" type="curve"/>
+      <point x="-171" y="1183" type="line"/>
+      <point x="-138" y="1279"/>
+      <point x="-105" y="1306"/>
+      <point x="-49" y="1306" type="curve" smooth="yes"/>
+      <point x="-8" y="1306"/>
+      <point x="37" y="1278"/>
+      <point x="85" y="1248" type="curve" smooth="yes"/>
+      <point x="137" y="1216"/>
+      <point x="192" y="1183"/>
       <point x="249" y="1183" type="curve" smooth="yes"/>
       <point x="334" y="1183"/>
       <point x="402" y="1215"/>
@@ -27,16 +37,6 @@ tilde.alt11
       <point x="-26" y="1476" type="curve" smooth="yes"/>
       <point x="-163" y="1476"/>
       <point x="-255" y="1394"/>
-      <point x="-307" y="1183" type="curve"/>
-      <point x="-171" y="1183" type="line"/>
-      <point x="-138" y="1279"/>
-      <point x="-105" y="1306"/>
-      <point x="-49" y="1306" type="curve" smooth="yes"/>
-      <point x="-8" y="1306"/>
-      <point x="37" y="1278"/>
-      <point x="85" y="1248" type="curve" smooth="yes"/>
-      <point x="137" y="1216"/>
-      <point x="192" y="1183"/>
     </contour>
   </outline>
   <lib>

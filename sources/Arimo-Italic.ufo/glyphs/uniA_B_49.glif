@@ -16,7 +16,9 @@ uniAB49
       <point x="685" y="1038"/>
       <point x="597" y="861" type="curve"/>
       <point x="593" y="861" type="line"/>
-      <point x="628" y="1082" type="line"/>
+      <point x="605" y="935"/>
+      <point x="616" y="1008"/>
+      <point x="628" y="1082" type="curve"/>
       <point x="458" y="1082" type="line"/>
       <point x="455" y="1057"/>
       <point x="443" y="986"/>

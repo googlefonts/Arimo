@@ -26,7 +26,9 @@ dong
       <point x="729" y="1381" type="line"/>
       <point x="711" y="1289" type="line"/>
       <point x="831" y="1289" type="line"/>
-      <point x="788" y="1062" type="line"/>
+      <point x="817" y="1213"/>
+      <point x="802" y="1138"/>
+      <point x="788" y="1062" type="curve"/>
       <point x="787" y="1062" type="line"/>
       <point x="748" y="1150"/>
       <point x="691" y="1197"/>

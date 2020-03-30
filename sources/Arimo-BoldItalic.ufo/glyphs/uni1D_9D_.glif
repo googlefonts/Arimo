@@ -46,7 +46,9 @@ uni1D9D
       <point x="64" y="589"/>
       <point x="35" y="552" type="curve"/>
       <point x="128" y="446" type="line"/>
-      <point x="224" y="551" type="line"/>
+      <point x="160" y="481"/>
+      <point x="192" y="516"/>
+      <point x="224" y="551" type="curve"/>
       <point x="279" y="500"/>
       <point x="352" y="475"/>
     </contour>

@@ -41,7 +41,9 @@ uni1D90
       <point x="1071" y="854" type="line"/>
       <point x="1115" y="1082" type="line"/>
       <point x="936" y="1082" type="line"/>
-      <point x="903" y="903" type="line"/>
+      <point x="925" y="1022"/>
+      <point x="914" y="963"/>
+      <point x="903" y="903" type="curve"/>
       <point x="898" y="903" type="line"/>
       <point x="855" y="1028"/>
       <point x="752" y="1101"/>

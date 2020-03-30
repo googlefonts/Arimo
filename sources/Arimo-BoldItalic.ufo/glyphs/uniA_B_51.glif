@@ -7,7 +7,7 @@ uniAB51
 </note>
   <outline>
     <contour>
-      <point x="824" y="402" type="line"/>
+      <point x="824" y="402" type="curve"/>
       <point x="1104" y="402" type="line"/>
       <point x="1139" y="580" type="line" smooth="yes"/>
       <point x="1178" y="769"/>
@@ -57,6 +57,8 @@ uniAB51
       <point x="877" y="697"/>
       <point x="873" y="653"/>
       <point x="864" y="607" type="curve" smooth="yes"/>
+      <point x="851" y="539"/>
+      <point x="837" y="470"/>
     </contour>
     <contour>
       <point x="1065" y="207" type="line"/>

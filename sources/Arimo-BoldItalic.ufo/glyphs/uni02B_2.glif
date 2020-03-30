@@ -23,7 +23,9 @@ uni02B2
       <point x="85" y="367"/>
       <point x="63" y="334"/>
       <point x="0" y="334" type="curve"/>
-      <point x="-40" y="337" type="line"/>
+      <point x="-13" y="335"/>
+      <point x="-27" y="336"/>
+      <point x="-40" y="337" type="curve"/>
       <point x="-64" y="204" type="line"/>
       <point x="-35" y="195"/>
       <point x="2" y="191"/>

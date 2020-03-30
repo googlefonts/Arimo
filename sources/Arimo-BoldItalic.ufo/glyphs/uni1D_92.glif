@@ -27,7 +27,9 @@ uni1D92
       <point x="584" y="-20"/>
       <point x="647" y="-11"/>
       <point x="706" y="8" type="curve"/>
-      <point x="691" y="-60" type="line" smooth="yes"/>
+      <point x="699" y="-15"/>
+      <point x="694" y="-37"/>
+      <point x="691" y="-60" type="curve"/>
       <point x="682" y="-103"/>
       <point x="678" y="-142"/>
       <point x="678" y="-178" type="curve" smooth="yes"/>
@@ -44,7 +46,9 @@ uni1D92
       <point x="951" y="-209"/>
       <point x="922" y="-182"/>
       <point x="922" y="-122" type="curve"/>
-      <point x="926" y="-84" type="line"/>
+      <point x="923" y="-109"/>
+      <point x="925" y="-97"/>
+      <point x="926" y="-84" type="curve"/>
       <point x="993" y="263" type="line"/>
       <point x="748" y="337" type="line"/>
       <point x="704" y="224"/>

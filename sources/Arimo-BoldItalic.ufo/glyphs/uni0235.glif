@@ -9,7 +9,9 @@ uni0235
     <contour>
       <point x="543" y="-268" type="curve"/>
       <point x="682" y="-419" type="line"/>
-      <point x="820" y="-285" type="line"/>
+      <point x="728" y="-374"/>
+      <point x="774" y="-330"/>
+      <point x="820" y="-285" type="curve"/>
       <point x="921" y="-378"/>
       <point x="1053" y="-425"/>
       <point x="1196" y="-425" type="curve" smooth="yes"/>

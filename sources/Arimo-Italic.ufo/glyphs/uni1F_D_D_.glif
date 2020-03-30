@@ -16,7 +16,9 @@ uni1FDD
     </contour>
     <contour>
       <point x="280" y="1258" type="curve"/>
-      <point x="283" y="1289" type="line"/>
+      <point x="281" y="1268"/>
+      <point x="282" y="1279"/>
+      <point x="283" y="1289" type="curve"/>
       <point x="370" y="1289" type="line"/>
       <point x="408" y="1484" type="line"/>
       <point x="209" y="1484" type="line"/>

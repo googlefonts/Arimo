@@ -7,7 +7,7 @@ w
 </note>
   <outline>
     <contour>
-      <point x="767" y="658" type="curve" smooth="yes"/>
+      <point x="767" y="658" type="line"/>
       <point x="795" y="718"/>
       <point x="827" y="795"/>
       <point x="862" y="890" type="curve"/>
@@ -36,8 +36,6 @@ w
       <point x="99" y="1082" type="line"/>
       <point x="168" y="0" type="line"/>
       <point x="465" y="0" type="line"/>
-      <point x="566" y="219"/>
-      <point x="671" y="438"/>
     </contour>
   </outline>
   <lib>

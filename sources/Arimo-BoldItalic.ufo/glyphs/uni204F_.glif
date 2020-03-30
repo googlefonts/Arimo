@@ -20,7 +20,9 @@ uni204F
       <point x="373" y="0" type="line"/>
       <point x="428" y="281" type="line"/>
       <point x="140" y="281" type="line"/>
-      <point x="98" y="66" type="line" smooth="yes"/>
+      <point x="126" y="209"/>
+      <point x="112" y="138"/>
+      <point x="98" y="66" type="curve" smooth="yes"/>
       <point x="85" y="3"/>
       <point x="79" y="-52"/>
       <point x="79" y="-101" type="curve" smooth="yes"/>

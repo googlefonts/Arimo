@@ -29,7 +29,9 @@ uni1D72
       <point x="189" y="794"/>
       <point x="172" y="702"/>
       <point x="149" y="586" type="curve"/>
-      <point x="127" y="589" type="line"/>
+      <point x="142" y="587"/>
+      <point x="134" y="588"/>
+      <point x="127" y="589" type="curve"/>
       <point x="36" y="589"/>
       <point x="-20" y="549"/>
       <point x="-59" y="487" type="curve" smooth="yes"/>
@@ -40,11 +42,15 @@ uni1D72
       <point x="36" y="414"/>
       <point x="65" y="436"/>
       <point x="113" y="436" type="curve"/>
-      <point x="119" y="435" type="line"/>
+      <point x="115" y="436"/>
+      <point x="117" y="435"/>
+      <point x="119" y="435" type="curve"/>
       <point x="35" y="0" type="line"/>
       <point x="316" y="0" type="line"/>
       <point x="380" y="328" type="line"/>
-      <point x="415" y="325" type="line"/>
+      <point x="392" y="327"/>
+      <point x="403" y="326"/>
+      <point x="415" y="325" type="curve"/>
       <point x="508" y="325"/>
       <point x="570" y="368"/>
       <point x="612" y="437" type="curve" smooth="yes"/>
@@ -55,7 +61,9 @@ uni1D72
       <point x="521" y="520"/>
       <point x="495" y="479"/>
       <point x="436" y="479" type="curve"/>
-      <point x="410" y="482" type="line"/>
+      <point x="427" y="480"/>
+      <point x="419" y="481"/>
+      <point x="410" y="482" type="curve"/>
       <point x="417" y="514" type="line" smooth="yes"/>
       <point x="449" y="661"/>
       <point x="498" y="761"/>

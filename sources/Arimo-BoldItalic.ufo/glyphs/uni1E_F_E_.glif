@@ -18,7 +18,9 @@ uni1EFE
       <point x="225" y="1409" type="line"/>
       <point x="579" y="529" type="line"/>
       <point x="576" y="529" type="line"/>
-      <point x="339" y="540" type="line"/>
+      <point x="497" y="533"/>
+      <point x="418" y="536"/>
+      <point x="339" y="540" type="curve"/>
       <point x="222" y="540"/>
       <point x="111" y="484"/>
       <point x="52" y="389" type="curve" smooth="yes"/>

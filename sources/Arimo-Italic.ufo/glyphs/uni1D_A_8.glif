@@ -14,8 +14,11 @@ uni1DA8
     </contour>
     <contour>
       <point x="192" y="190" type="curve"/>
-      <point x="309" y="190"/>
-      <point x="383" y="271"/>
+      <point x="273" y="190"/>
+      <point x="333" y="229"/>
+      <point x="372" y="306" type="curve" smooth="yes"/>
+      <point x="390" y="341"/>
+      <point x="403" y="384"/>
       <point x="412" y="434" type="curve" smooth="yes"/>
       <point x="416" y="457" type="line"/>
       <point x="509" y="457" type="line"/>
@@ -40,8 +43,9 @@ uni1DA8
       <point x="180" y="457"/>
       <point x="265" y="457" type="curve" smooth="yes"/>
       <point x="294" y="457" type="line"/>
-      <point x="282" y="391"/>
-      <point x="268" y="347"/>
+      <point x="289" y="433" type="line"/>
+      <point x="278" y="380"/>
+      <point x="266" y="344"/>
       <point x="253" y="324" type="curve" smooth="yes"/>
       <point x="238" y="301"/>
       <point x="217" y="290"/>

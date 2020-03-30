@@ -7,8 +7,8 @@ uni1E5D
 </note>
   <outline>
     <component base="r"/>
-    <component base="dotbelow.alt1" xOffset="229"/>
     <component base="macron" xOffset="79"/>
+    <component base="dotbelowcomb" xOffset="979"/>
   </outline>
   <lib>
     <dict>

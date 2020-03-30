@@ -31,7 +31,9 @@ uniA774
       <point x="1067" y="243"/>
       <point x="1008" y="142" type="curve"/>
       <point x="925" y="142" type="line"/>
-      <point x="1025" y="653" type="line" smooth="yes"/>
+      <point x="958" y="312"/>
+      <point x="992" y="483"/>
+      <point x="1025" y="653" type="curve" smooth="yes"/>
       <point x="1039" y="720"/>
       <point x="1046" y="774"/>
       <point x="1046" y="817" type="curve" smooth="yes"/>

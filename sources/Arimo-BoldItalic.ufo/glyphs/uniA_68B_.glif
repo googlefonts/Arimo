@@ -40,7 +40,9 @@ uniA68B
       <point x="893" y="-188"/>
       <point x="857" y="-222"/>
       <point x="760" y="-222" type="curve"/>
-      <point x="709" y="-218" type="line"/>
+      <point x="743" y="-221"/>
+      <point x="726" y="-219"/>
+      <point x="709" y="-218" type="curve"/>
       <point x="670" y="-416" type="line"/>
       <point x="715" y="-422"/>
       <point x="771" y="-425"/>

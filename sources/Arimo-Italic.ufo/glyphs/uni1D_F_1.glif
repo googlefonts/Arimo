@@ -8,10 +8,8 @@ uni1DF1
     <contour>
       <point x="177" y="1523" type="line"/>
       <point x="203" y="1585" type="line"/>
-      <point x="203" y="1563" type="line" smooth="yes"/>
-      <point x="203" y="1544"/>
-      <point x="208" y="1427"/>
-      <point x="219" y="1210" type="curve"/>
+      <point x="203" y="1563" type="line"/>
+      <point x="219" y="1210" type="line"/>
       <point x="329" y="1210" type="line"/>
       <point x="570" y="1707" type="line"/>
       <point x="471" y="1707" type="line"/>
@@ -20,10 +18,12 @@ uni1DF1
       <point x="298" y="1370" type="line"/>
       <point x="278" y="1707" type="line"/>
       <point x="176" y="1707" type="line"/>
+      <point x="26" y="1378" type="line"/>
       <point x="13" y="1348" type="line"/>
       <point x="3" y="1325" type="line"/>
-      <point x="2" y="1348" type="line"/>
-      <point x="2" y="1374" type="line"/>
+      <point x="3" y="1341"/>
+      <point x="2" y="1358"/>
+      <point x="2" y="1374" type="curve"/>
       <point x="-15" y="1707" type="line"/>
       <point x="-114" y="1707" type="line"/>
       <point x="-74" y="1210" type="line"/>

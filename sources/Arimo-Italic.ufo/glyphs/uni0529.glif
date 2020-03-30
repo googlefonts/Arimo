@@ -22,7 +22,9 @@ uni0529
       <point x="-10" y="-238"/>
       <point x="-54" y="-283"/>
       <point x="-149" y="-283" type="curve"/>
-      <point x="-207" y="-278" type="line"/>
+      <point x="-168" y="-281"/>
+      <point x="-188" y="-280"/>
+      <point x="-207" y="-278" type="curve"/>
       <point x="-228" y="-415" type="line"/>
       <point x="-192" y="-422"/>
       <point x="-149" y="-425"/>

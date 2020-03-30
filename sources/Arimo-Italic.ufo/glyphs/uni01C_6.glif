@@ -7,8 +7,8 @@ uni01C6
 </note>
   <outline>
     <component base="d"/>
-    <component base="caron" xOffset="1351"/>
     <component base="z" xOffset="1139"/>
+    <component base="caron" xOffset="1351"/>
   </outline>
   <lib>
     <dict>

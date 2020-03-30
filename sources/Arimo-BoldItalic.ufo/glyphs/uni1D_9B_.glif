@@ -25,8 +25,9 @@ uni1D9B
       <point x="397" y="1216"/>
       <point x="397" y="1253" type="curve"/>
       <point x="206" y="1253" type="line"/>
-      <point x="201" y="1189"/>
-      <point x="194" y="1135"/>
+      <point x="204" y="1233" type="line"/>
+      <point x="200" y="1178"/>
+      <point x="193" y="1130"/>
       <point x="186" y="1090" type="curve" smooth="yes"/>
       <point x="107" y="661" type="line"/>
       <point x="73" y="490" type="line"/>

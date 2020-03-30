@@ -25,7 +25,9 @@ hookabove.alt2
       <point x="-646" y="1863"/>
       <point x="-676" y="1857" type="curve"/>
       <point x="-686" y="1755" type="line"/>
-      <point x="-591" y="1761" type="line"/>
+      <point x="-654" y="1757"/>
+      <point x="-623" y="1759"/>
+      <point x="-591" y="1761" type="curve"/>
       <point x="-493" y="1761"/>
       <point x="-444" y="1742"/>
     </contour>

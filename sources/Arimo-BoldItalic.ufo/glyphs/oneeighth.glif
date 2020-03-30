@@ -6,9 +6,9 @@
 oneeighth
 </note>
   <outline>
+    <component base="onesuperior" xOffset="32"/>
     <component base="fraction" xOffset="700"/>
     <component base="eightsuperior" xOffset="893" yOffset="-692"/>
-    <component base="onesuperior" xOffset="32"/>
   </outline>
   <lib>
     <dict>

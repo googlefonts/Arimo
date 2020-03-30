@@ -18,12 +18,12 @@ A
     </contour>
     <contour>
       <point x="830" y="1265" type="curve"/>
-      <point x="856" y="1114" type="line"/>
+      <point x="839" y="1215"/>
+      <point x="847" y="1164"/>
+      <point x="856" y="1114" type="curve"/>
       <point x="958" y="561" type="line"/>
       <point x="431" y="561" type="line"/>
-      <point x="656" y="956"/>
-      <point x="777" y="1167"/>
-      <point x="793" y="1196" type="curve" smooth="yes"/>
+      <point x="793" y="1196" type="line"/>
       <point x="809" y="1225"/>
       <point x="821" y="1248"/>
     </contour>

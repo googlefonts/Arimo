@@ -37,7 +37,9 @@ uni1DEC
       <point x="85" y="1612"/>
       <point x="100" y="1622"/>
       <point x="125" y="1622" type="curve"/>
-      <point x="146" y="1619" type="line"/>
+      <point x="132" y="1621"/>
+      <point x="139" y="1620"/>
+      <point x="146" y="1619" type="curve"/>
       <point x="131" y="1541" type="line"/>
       <point x="107" y="1544" type="line"/>
       <point x="46" y="1544"/>
@@ -47,7 +49,9 @@ uni1DEC
       <point x="55" y="1462"/>
       <point x="70" y="1472"/>
       <point x="95" y="1472" type="curve"/>
-      <point x="116" y="1469" type="line"/>
+      <point x="102" y="1471"/>
+      <point x="109" y="1470"/>
+      <point x="116" y="1469" type="curve"/>
       <point x="65" y="1210" type="line"/>
       <point x="210" y="1210" type="line"/>
     </contour>

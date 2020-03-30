@@ -27,7 +27,9 @@ uni0234
       <point x="-128" y="-230"/>
       <point x="-161" y="-268" type="curve"/>
       <point x="-22" y="-419" type="line"/>
-      <point x="116" y="-285" type="line"/>
+      <point x="24" y="-374"/>
+      <point x="70" y="-330"/>
+      <point x="116" y="-285" type="curve"/>
       <point x="217" y="-378"/>
       <point x="349" y="-425"/>
       <point x="492" y="-425" type="curve" smooth="yes"/>

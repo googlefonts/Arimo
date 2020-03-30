@@ -36,7 +36,9 @@ uni0267
       <point x="587" y="1040"/>
       <point x="486" y="897" type="curve"/>
       <point x="483" y="897" type="line"/>
-      <point x="534" y="1137" type="line" smooth="yes"/>
+      <point x="500" y="977"/>
+      <point x="517" y="1057"/>
+      <point x="534" y="1137" type="curve" smooth="yes"/>
       <point x="555" y="1233"/>
       <point x="608" y="1278"/>
       <point x="704" y="1278" type="curve" smooth="yes"/>

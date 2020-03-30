@@ -18,8 +18,12 @@ uni1D9A
       <point x="145" y="-251"/>
       <point x="102" y="-216"/>
       <point x="102" y="-156" type="curve"/>
-      <point x="105" y="-126" type="line"/>
-      <point x="123" y="-47" type="line"/>
+      <point x="103" y="-146"/>
+      <point x="104" y="-136"/>
+      <point x="105" y="-126" type="curve"/>
+      <point x="111" y="-100"/>
+      <point x="117" y="-73"/>
+      <point x="123" y="-47" type="curve"/>
       <point x="219" y="-128"/>
       <point x="328" y="-161"/>
       <point x="475" y="-161" type="curve" smooth="yes"/>

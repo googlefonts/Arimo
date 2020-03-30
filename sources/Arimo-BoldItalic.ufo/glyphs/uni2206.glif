@@ -17,11 +17,9 @@ uni2206
     <contour>
       <point x="336" y="231" type="line"/>
       <point x="543" y="920" type="line"/>
-      <point x="615" y="1174" type="line"/>
       <point x="624" y="1208" type="line"/>
-      <point x="626" y="1198"/>
-      <point x="723" y="872"/>
-      <point x="916" y="231" type="curve"/>
+      <point x="709" y="921" type="line"/>
+      <point x="916" y="231" type="line"/>
     </contour>
   </outline>
   <lib>

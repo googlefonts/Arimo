@@ -53,7 +53,9 @@ uniA759
       <point x="670" y="107"/>
       <point x="767" y="234" type="curve"/>
       <point x="771" y="234" type="line"/>
-      <point x="765" y="211" type="line"/>
+      <point x="769" y="226"/>
+      <point x="767" y="219"/>
+      <point x="765" y="211" type="curve"/>
       <point x="229" y="-425" type="line"/>
       <point x="407" y="-425" type="line"/>
     </contour>

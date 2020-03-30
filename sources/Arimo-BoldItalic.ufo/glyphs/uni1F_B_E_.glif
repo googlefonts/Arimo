@@ -12,7 +12,9 @@ uni1FBE
       <point x="306" y="-127" type="line"/>
       <point x="144" y="-127" type="line"/>
       <point x="116" y="-273" type="line"/>
-      <point x="112" y="-311" type="line"/>
+      <point x="115" y="-286"/>
+      <point x="113" y="-298"/>
+      <point x="112" y="-311" type="curve"/>
       <point x="112" y="-388"/>
       <point x="165" y="-425"/>
       <point x="244" y="-425" type="curve" smooth="yes"/>

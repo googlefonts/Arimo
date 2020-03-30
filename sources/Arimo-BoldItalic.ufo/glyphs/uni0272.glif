@@ -20,9 +20,7 @@ uni0272
       <point x="856" y="595" type="curve" smooth="yes"/>
       <point x="738" y="0" type="line"/>
       <point x="1017" y="0" type="line"/>
-      <point x="1106" y="454"/>
-      <point x="1151" y="690"/>
-      <point x="1154" y="708" type="curve" smooth="yes"/>
+      <point x="1154" y="708" type="line"/>
       <point x="1159" y="744"/>
       <point x="1165" y="792"/>
       <point x="1165" y="817" type="curve" smooth="yes"/>

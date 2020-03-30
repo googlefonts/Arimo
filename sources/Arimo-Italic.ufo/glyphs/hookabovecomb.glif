@@ -26,7 +26,9 @@ hookabovecomb
       <point x="-539" y="1545"/>
       <point x="-569" y="1539" type="curve"/>
       <point x="-579" y="1437" type="line"/>
-      <point x="-484" y="1443" type="line"/>
+      <point x="-547" y="1439"/>
+      <point x="-516" y="1441"/>
+      <point x="-484" y="1443" type="curve"/>
       <point x="-435" y="1443"/>
       <point x="-398" y="1438"/>
       <point x="-374" y="1429" type="curve" smooth="yes"/>

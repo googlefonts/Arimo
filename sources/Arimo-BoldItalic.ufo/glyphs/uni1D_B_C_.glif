@@ -8,7 +8,9 @@ uni1DBC
   <outline>
     <contour>
       <point x="586" y="400" type="curve"/>
-      <point x="589" y="426" type="line"/>
+      <point x="587" y="409"/>
+      <point x="588" y="417"/>
+      <point x="589" y="426" type="curve"/>
       <point x="628" y="634" type="line"/>
       <point x="242" y="634" type="line"/>
       <point x="684" y="1111" type="line"/>

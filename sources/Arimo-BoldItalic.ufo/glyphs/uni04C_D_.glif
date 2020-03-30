@@ -33,9 +33,7 @@ uni04CD
       <point x="553" y="819" type="line"/>
       <point x="647" y="0" type="line"/>
       <point x="857" y="0" type="line"/>
-      <point x="1154" y="587"/>
-      <point x="1313" y="905"/>
-      <point x="1336" y="953" type="curve" smooth="yes"/>
+      <point x="1336" y="953" type="line"/>
       <point x="1381" y="1048"/>
       <point x="1442" y="1181"/>
       <point x="1451" y="1204" type="curve"/>

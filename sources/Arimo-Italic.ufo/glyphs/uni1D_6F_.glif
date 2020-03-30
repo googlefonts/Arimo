@@ -30,7 +30,9 @@ uni1D6F
       <point x="1605" y="496"/>
       <point x="1560" y="473" type="curve"/>
       <point x="1555" y="472" type="line"/>
-      <point x="1590" y="653" type="line" smooth="yes"/>
+      <point x="1567" y="532"/>
+      <point x="1578" y="593"/>
+      <point x="1590" y="653" type="curve" smooth="yes"/>
       <point x="1604" y="720"/>
       <point x="1611" y="774"/>
       <point x="1611" y="817" type="curve" smooth="yes"/>
@@ -54,7 +56,9 @@ uni1D6F
       <point x="226" y="991"/>
       <point x="213" y="914"/>
       <point x="200" y="851" type="curve" smooth="yes"/>
-      <point x="157" y="630" type="line"/>
+      <point x="186" y="777"/>
+      <point x="171" y="704"/>
+      <point x="157" y="630" type="curve"/>
       <point x="32" y="603"/>
       <point x="-60" y="525"/>
       <point x="-83" y="390" type="curve"/>

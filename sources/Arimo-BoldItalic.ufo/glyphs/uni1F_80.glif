@@ -7,8 +7,8 @@ uni1F80
 </note>
   <outline>
     <component base="alpha"/>
-    <component base="uni1FBE" xOffset="240"/>
     <component base="uni1FBD" xOffset="280" yOffset="100"/>
+    <component base="uni1FBE" xOffset="240"/>
   </outline>
   <lib>
     <dict>

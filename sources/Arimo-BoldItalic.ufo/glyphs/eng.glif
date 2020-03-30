@@ -45,7 +45,9 @@ eng
       <point x="701" y="-181"/>
       <point x="666" y="-222"/>
       <point x="577" y="-222" type="curve"/>
-      <point x="519" y="-218" type="line"/>
+      <point x="558" y="-221"/>
+      <point x="538" y="-219"/>
+      <point x="519" y="-218" type="curve"/>
       <point x="483" y="-406" type="line"/>
       <point x="530" y="-419"/>
       <point x="586" y="-425"/>

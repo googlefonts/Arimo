@@ -95,11 +95,9 @@ peseta
       <point x="2120" y="365"/>
       <point x="2047" y="439"/>
       <point x="1882" y="479" type="curve" smooth="yes"/>
-      <point x="1805" y="497"/>
-      <point x="1754" y="514"/>
-      <point x="1727" y="531" type="curve" smooth="yes"/>
-      <point x="1700" y="548"/>
-      <point x="1687" y="571"/>
+      <point x="1843" y="489" type="line"/>
+      <point x="1718.4815610905484" y="520.1296097273629"/>
+      <point x="1687.0" y="547.2983508403315"/>
       <point x="1687" y="600" type="curve" smooth="yes"/>
       <point x="1687" y="629"/>
       <point x="1700" y="650"/>
