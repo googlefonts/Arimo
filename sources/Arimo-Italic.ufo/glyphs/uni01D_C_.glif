@@ -8,12 +8,6 @@ uni01DC
   <outline>
     <component base="u"/>
     <component base="dieresis" xOffset="261"/>
-    <component base="grave.uc" xOffset="97" yOffset="-49"/>
+    <component base="grave" xOffset="304" yOffset="280"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.8806,0.1818,1</string>
-    </dict>
-  </lib>
 </glyph>

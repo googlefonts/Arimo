@@ -8,12 +8,6 @@ uni1E1C
   <outline>
     <component base="E"/>
     <component base="breve.uc" xOffset="446"/>
-    <component base="undercommaaccent" xOffset="308" yOffset="20"/>
+    <component base="cedilla" xOffset="320"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.8806,0.1818,1</string>
-    </dict>
-  </lib>
 </glyph>

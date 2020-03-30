@@ -7,12 +7,6 @@ uni1E49
 </note>
   <outline>
     <component base="n"/>
-    <component base="uni0331" xOffset="443" yOffset="33"/>
+    <component base="uni0320" xOffset="443"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.8806,0.1818,1</string>
-    </dict>
-  </lib>
 </glyph>

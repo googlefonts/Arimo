@@ -7,13 +7,7 @@ uni1E1D
 </note>
   <outline>
     <component base="e"/>
+    <component base="undercommaaccent" xOffset="150"/>
     <component base="breve" xOffset="193"/>
-    <component base="cedilla" xOffset="151"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.8806,0.1818,1</string>
-    </dict>
-  </lib>
 </glyph>

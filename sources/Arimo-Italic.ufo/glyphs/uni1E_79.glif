@@ -8,12 +8,6 @@ uni1E79
   <outline>
     <component base="u"/>
     <component base="tilde" xOffset="269"/>
-    <component base="acute.uc" xOffset="402"/>
+    <component base="acute" xOffset="487" yOffset="275"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.8806,0.1818,1</string>
-    </dict>
-  </lib>
 </glyph>

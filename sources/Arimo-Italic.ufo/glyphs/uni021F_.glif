@@ -7,12 +7,6 @@ uni021F
 </note>
   <outline>
     <component base="h"/>
-    <component base="caron.uc" xOffset="188" yOffset="33"/>
+    <component base="caron" xOffset="300" yOffset="362"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.8806,0.1818,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -8,12 +8,6 @@ uni01DA
   <outline>
     <component base="u"/>
     <component base="dieresis" xOffset="280"/>
-    <component base="caron.uc" xOffset="218" yOffset="-29"/>
+    <component base="caron" xOffset="322" yOffset="280"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.8806,0.1818,1</string>
-    </dict>
-  </lib>
 </glyph>
