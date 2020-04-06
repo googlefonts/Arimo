@@ -7,8 +7,8 @@ uni03C5030803060300
   <outline>
     <component base="upsilon"/>
     <component base="dieresis" xOffset="215" yOffset="-69"/>
-    <component base="uni0306" xOffset="420" yOffset="196"/>
-    <component base="uni1FEF.short" xOffset="307"/>
+    <component base="breve.alt1" xOffset="468" yOffset="-79"/>
+    <component base="grave.uc" xOffset="66" yOffset="60"/>
   </outline>
   <lib>
     <dict>

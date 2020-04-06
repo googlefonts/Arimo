@@ -5,9 +5,9 @@
 uni03B9030403140300
 </note>
   <outline>
-    <component base="dotlessi"/>
-    <component base="uni1FDD" xOffset="35" yOffset="350"/>
+    <component base="iota"/>
     <component base="macron" xOffset="-66" yOffset="-19"/>
+    <component base="uni1FDD" xOffset="35" yOffset="350"/>
   </outline>
   <lib>
     <dict>

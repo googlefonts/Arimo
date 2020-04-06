@@ -5,7 +5,7 @@
 uni03B9030803040300
 </note>
   <outline>
-    <component base="dotlessi"/>
+    <component base="iota"/>
     <component base="dieresis" xOffset="-62" yOffset="-39"/>
     <component base="macron" xOffset="-25" yOffset="240"/>
     <component base="grave.uc" xOffset="-147" yOffset="160"/>

@@ -7,8 +7,8 @@ uni03C5030803060301
   <outline>
     <component base="upsilon"/>
     <component base="dieresis" xOffset="215" yOffset="-69"/>
-    <component base="uni0306" xOffset="420" yOffset="196"/>
-    <component base="tonos.short" xOffset="440"/>
+    <component base="breve.alt1" xOffset="468" yOffset="-79"/>
+    <component base="acute.uc" xOffset="313" yOffset="60"/>
   </outline>
   <lib>
     <dict>

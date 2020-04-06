@@ -6,8 +6,8 @@ uni03B1030603130300
 </note>
   <outline>
     <component base="alpha"/>
-    <component base="uni0306" xOffset="378" yOffset="-39"/>
-    <component base="uni1FCD" xOffset="220" yOffset="350"/>
+    <component base="breve" xOffset="215" yOffset="-9"/>
+    <component base="uni1FCD" xOffset="269" yOffset="470"/>
   </outline>
   <lib>
     <dict>

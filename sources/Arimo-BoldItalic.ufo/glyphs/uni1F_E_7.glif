@@ -7,8 +7,7 @@ uni1FE7
 </note>
   <outline>
     <component base="upsilon"/>
-    <component base="dieresis" xOffset="215"/>
-    <component base="uni1FC0" xOffset="270" yOffset="300"/>
+    <component base="uni1FC1" xOffset="205" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

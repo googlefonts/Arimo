@@ -5,7 +5,7 @@
 uni03B9030803060301
 </note>
   <outline>
-    <component base="dotlessi"/>
+    <component base="iota"/>
     <component base="dieresis" xOffset="-62" yOffset="-39"/>
     <component base="breve.alt1" xOffset="-17" yOffset="210"/>
     <component base="acute.uc" xOffset="82" yOffset="160"/>

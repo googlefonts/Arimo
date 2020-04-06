@@ -8,7 +8,7 @@ uni03B9030803040301
     <component base="iota"/>
     <component base="dieresis" xOffset="-70" yOffset="-69"/>
     <component base="macron" xOffset="-21" yOffset="180"/>
-    <component base="tonos.short" xOffset="154"/>
+    <component base="acute.uc" xOffset="42" yOffset="60"/>
   </outline>
   <lib>
     <dict>

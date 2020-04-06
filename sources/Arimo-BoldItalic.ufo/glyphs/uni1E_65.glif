@@ -7,8 +7,7 @@ uni1E65
 </note>
   <outline>
     <component base="s"/>
-    <component base="acute" xOffset="370"/>
-    <component base="dotaccent" xOffset="-19"/>
+    <component base="uni03010307.cap" xOffset="471" yOffset="-302"/>
   </outline>
   <lib>
     <dict>

@@ -7,6 +7,6 @@ uni04F2
 </note>
   <outline>
     <component base="uni0423"/>
-    <component base="hungarumlaut" xOffset="490" yOffset="332"/>
+    <component base="hungarumlaut.uc" xOffset="487"/>
   </outline>
 </glyph>

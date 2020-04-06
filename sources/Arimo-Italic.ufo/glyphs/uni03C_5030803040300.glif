@@ -6,9 +6,9 @@ uni03C5030803040300
 </note>
   <outline>
     <component base="upsilon"/>
-    <component base="dieresis" xOffset="215" yOffset="-69"/>
     <component base="macron" xOffset="263" yOffset="180"/>
-    <component base="uni1FEF.short" xOffset="311"/>
+    <component base="grave.uc" xOffset="128" yOffset="60"/>
+    <component base="dieresis" xOffset="215" yOffset="-69"/>
   </outline>
   <lib>
     <dict>

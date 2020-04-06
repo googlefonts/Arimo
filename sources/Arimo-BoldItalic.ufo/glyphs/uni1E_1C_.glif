@@ -7,8 +7,8 @@ uni1E1C
 </note>
   <outline>
     <component base="E"/>
-    <component base="undercommaaccent" xOffset="280"/>
     <component base="breve.uc" xOffset="396"/>
+    <component base="cedilla" xOffset="284"/>
   </outline>
   <lib>
     <dict>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni2136" format="2">
-  <advance width="776"/>
+  <advance width="1225"/>
   <unicode hex="2136"/>
   <note>
 uni2136
 </note>
   <outline>
-    <component base="uni05C6"/>
+    <component base="bet"/>
   </outline>
   <lib>
     <dict>

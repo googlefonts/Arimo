@@ -15,7 +15,9 @@ uni1D46
       <point x="777" y="572"/>
       <point x="720" y="637"/>
       <point x="720" y="766" type="curve"/>
-      <point x="726" y="846" type="line"/>
+      <point x="722" y="793"/>
+      <point x="724" y="819"/>
+      <point x="726" y="846" type="curve"/>
       <point x="1239" y="846" type="line"/>
       <point x="1248" y="884"/>
       <point x="1253" y="932"/>

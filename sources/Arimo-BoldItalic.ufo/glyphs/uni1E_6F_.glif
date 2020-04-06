@@ -7,7 +7,7 @@ uni1E6F
 </note>
   <outline>
     <component base="t"/>
-    <component base="uni0331" xOffset="377"/>
+    <component base="uni0331" xOffset="377" yOffset="1"/>
   </outline>
   <lib>
     <dict>

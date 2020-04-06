@@ -8,6 +8,6 @@ uni1E51
   <outline>
     <component base="o"/>
     <component base="macron" xOffset="259"/>
-    <component base="grave" xOffset="321" yOffset="275"/>
+    <component base="grave.uc" xOffset="134" yOffset="-49"/>
   </outline>
 </glyph>
