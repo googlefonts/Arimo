@@ -11494,12 +11494,10 @@ feature ccmp {
 		language dflt ;
 			lookup gsub_3_ligature;
 			lookup gsub_4_chained;
-			lookup gsub_5_ligature;
 	script latn ;
 		language dflt ;
 			lookup gsub_3_ligature;
 			lookup gsub_4_chained;
-			lookup gsub_5_ligature;
 	script latn ;
 		language MAH  ;
 			lookup gsub_3_ligature;
