@@ -2792,7 +2792,7 @@ lookup gpos_5_mark_to_base {
     position base finalkafsheva <anchor 460 1700> mark @_MARKCLASS_1_lookup_5;
     } gpos_5_mark_to_base ;
 
-lookup gpos_7_mark_to_base {
+lookup gpos_6_mark_to_base {
     lookupflag RightToLeft  ;
     markClass uni0591 <anchor 0 20> @_MARKCLASS_0_lookup_7;
     markClass uni0596 <anchor 45 0> @_MARKCLASS_0_lookup_7;
@@ -2972,7 +2972,7 @@ lookup gpos_7_mark_to_base {
     position base finalkafqamats <anchor 380 0> mark @_MARKCLASS_1_lookup_7;
     position base finalkafsheva <anchor 380 0> mark @_MARKCLASS_0_lookup_7;
     position base finalkafsheva <anchor 380 0> mark @_MARKCLASS_1_lookup_7;
-    } gpos_7_mark_to_base ;
+    } gpos_6_mark_to_base ;
 
 lookup gpos_11_mark_to_base {
     lookupflag RightToLeft  ;
@@ -11422,13 +11422,13 @@ lookup gpos_2_chained {
     pos [ alef bet gimel dalet he zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide ] [ holam ]' lookup gpos_27_single ;
     } gpos_2_chained ;
 
-lookup gpos_6_chained {
+lookup gpos_7_chained {
     lookupflag RightToLeft  ;
     pos [ uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide ] [ rafe uniFB1E ]' lookup gpos_28_mark_to_base [ uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF ] ;
 	subtable;
     pos [ uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF  ] [ rafe uniFB1E  ]' lookup gpos_28_mark_to_base [ uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF  ] ;
 
-    } gpos_6_chained ;
+    } gpos_7_chained ;
 
 lookup gpos_8_chained {
     lookupflag RightToLeft  ;
@@ -11563,8 +11563,8 @@ feature mark {
 			lookup gpos_3_mark_to_base;
 			lookup gpos_4_mark_to_base;
 			lookup gpos_5_mark_to_base;
-			lookup gpos_6_chained;
-			lookup gpos_7_mark_to_base;
+			lookup gpos_6_mark_to_base;
+			lookup gpos_7_chained;
 			lookup gpos_8_chained;
 			lookup gpos_9_chained;
 			lookup gpos_10_chained;
