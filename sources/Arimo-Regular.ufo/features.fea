@@ -11005,8 +11005,7 @@ lookup gpos_26_mark_to_mark {
 
 lookup gpos_27_single {
     lookupflag RightToLeft  ;
-	position holam < 25 0 0 0 >;
-	position holam < 0 0 10 0 >;
+	position holam < 25 0 10 0 >;
     } gpos_27_single ;
 
 lookup gpos_28_mark_to_base {
