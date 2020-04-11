@@ -11424,33 +11424,33 @@ lookup gpos_2_chained {
 
 lookup gpos_6_chained {
     lookupflag RightToLeft  ;
-    pos [ uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide ] [ rafe uniFB1E ]' lookup gpos_28_mark to base [ uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF ] ;
+    pos [ uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide ] [ rafe uniFB1E ]' lookup gpos_28_mark_to_base [ uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF ] ;
 	subtable;
-    pos [ uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF  ] [ rafe uniFB1E  ]' lookup gpos_28_mark to base [ uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF  ] ;
+    pos [ uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF  ] [ rafe uniFB1E  ]' lookup gpos_28_mark_to_base [ uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF  ] ;
 
     } gpos_6_chained ;
 
 lookup gpos_8_chained {
     lookupflag RightToLeft  ;
-    pos [ uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide ] [ uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD ]' lookup gpos_29_mark to base [ uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA ] ;
+    pos [ uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide ] [ uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD ]' lookup gpos_29_mark_to_base [ uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA ] ;
 	subtable;
-    pos [ uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide  ] [ uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD  ]' lookup gpos_29_mark to base [ sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD  ] ;
+    pos [ uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide  ] [ uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD  ]' lookup gpos_29_mark_to_base [ sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD  ] ;
 
     } gpos_8_chained ;
 
 lookup gpos_9_chained {
     lookupflag RightToLeft  ;
-    pos [ rafe uniFB1E ] [ uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF ]' lookup gpos_30_mark to base [ rafe uniFB1E ] ;
+    pos [ rafe uniFB1E ] [ uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF ]' lookup gpos_30_mark_to_base [ rafe uniFB1E ] ;
 	subtable;
-    pos [ uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide  ] [ uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF  ]' lookup gpos_30_mark to base [ rafe uniFB1E  ] ;
+    pos [ uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide  ] [ uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF  ]' lookup gpos_30_mark_to_base [ rafe uniFB1E  ] ;
 
     } gpos_9_chained ;
 
 lookup gpos_10_chained {
     lookupflag RightToLeft  ;
-    pos [ sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD ] [ uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD ]' lookup gpos_31_mark to base ;
+    pos [ sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD ] [ uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD ]' lookup gpos_31_mark_to_base ;
 	subtable;
-    pos [ uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA  ] [ uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD  ]' lookup gpos_31_mark to base ;
+    pos [ uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA  ] [ uni0591 uni0596 uni059B uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats qubuts meteg qamatsqatan uni05B105BD uni05B205BD uni05B305BD  ]' lookup gpos_31_mark_to_base ;
 
     } gpos_10_chained ;
 
