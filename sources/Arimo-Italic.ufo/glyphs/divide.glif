@@ -7,25 +7,28 @@ divide
 </note>
   <outline>
     <contour>
-      <point x="495" y="958" type="line"/>
-      <point x="495" y="958" type="line"/>
-      <point x="663" y="958" type="line"/>
       <point x="663" y="1141" type="line"/>
       <point x="495" y="1141" type="line"/>
+      <point x="495" y="958" type="line"/>
+      <point x="663" y="958" type="line"/>
     </contour>
     <contour>
-      <point x="82" y="608" type="line"/>
-      <point x="82" y="608" type="line"/>
-      <point x="1077" y="608" type="line"/>
       <point x="1077" y="754" type="line"/>
       <point x="82" y="754" type="line"/>
+      <point x="82" y="608" type="line"/>
+      <point x="1077" y="608" type="line"/>
     </contour>
     <contour>
-      <point x="495" y="223" type="line"/>
-      <point x="495" y="223" type="line"/>
-      <point x="663" y="223" type="line"/>
       <point x="663" y="406" type="line"/>
       <point x="495" y="406" type="line"/>
+      <point x="495" y="223" type="line"/>
+      <point x="663" y="223" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

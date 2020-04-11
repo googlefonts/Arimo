@@ -6,11 +6,16 @@ glyph3279
 </note>
   <outline>
     <contour>
-      <point x="141" y="490" type="line"/>
-      <point x="141" y="490" type="line"/>
       <point x="347" y="1528" type="line"/>
       <point x="221" y="1528" type="line"/>
       <point x="15" y="490" type="line"/>
+      <point x="141" y="490" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

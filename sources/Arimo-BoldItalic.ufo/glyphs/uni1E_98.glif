@@ -9,4 +9,10 @@ uni1E98
     <component base="w"/>
     <component base="ring" xOffset="420" yOffset="20"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

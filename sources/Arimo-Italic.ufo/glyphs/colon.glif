@@ -7,18 +7,22 @@ colon
 </note>
   <outline>
     <contour>
-      <point x="251" y="875" type="line"/>
-      <point x="251" y="875" type="line"/>
-      <point x="446" y="875" type="line"/>
       <point x="487" y="1082" type="line"/>
       <point x="292" y="1082" type="line"/>
+      <point x="251" y="875" type="line"/>
+      <point x="446" y="875" type="line"/>
     </contour>
     <contour>
-      <point x="81" y="0" type="line"/>
-      <point x="81" y="0" type="line"/>
-      <point x="276" y="0" type="line"/>
       <point x="317" y="207" type="line"/>
       <point x="122" y="207" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="276" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

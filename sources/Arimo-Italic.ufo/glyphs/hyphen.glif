@@ -8,11 +8,16 @@ hyphen
 </note>
   <outline>
     <contour>
-      <point x="105" y="464" type="line"/>
-      <point x="105" y="464" type="line"/>
-      <point x="605" y="464" type="line"/>
       <point x="636" y="624" type="line"/>
       <point x="136" y="624" type="line"/>
+      <point x="105" y="464" type="line"/>
+      <point x="605" y="464" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

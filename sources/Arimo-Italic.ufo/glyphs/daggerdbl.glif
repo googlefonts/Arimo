@@ -7,15 +7,6 @@ daggerdbl
 </note>
   <outline>
     <contour>
-      <point x="583" y="1000" type="line"/>
-      <point x="583" y="1000" type="line"/>
-      <point x="545" y="670" type="line"/>
-      <point x="456" y="343" type="line"/>
-      <point x="100" y="370" type="line"/>
-      <point x="68" y="206" type="line"/>
-      <point x="435" y="235" type="line"/>
-      <point x="345" y="-141" type="line"/>
-      <point x="520" y="-141" type="line"/>
       <point x="578" y="235" type="line"/>
       <point x="932" y="206" type="line"/>
       <point x="964" y="370" type="line"/>
@@ -30,6 +21,20 @@ daggerdbl
       <point x="604" y="1108" type="line"/>
       <point x="250" y="1137" type="line"/>
       <point x="218" y="973" type="line"/>
+      <point x="583" y="1000" type="line"/>
+      <point x="545" y="670" type="line"/>
+      <point x="456" y="343" type="line"/>
+      <point x="100" y="370" type="line"/>
+      <point x="68" y="206" type="line"/>
+      <point x="435" y="235" type="line"/>
+      <point x="345" y="-141" type="line"/>
+      <point x="520" y="-141" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

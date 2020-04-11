@@ -6,6 +6,12 @@
 uni1D0B
 </note>
   <outline>
-    <component base="kgreenlandic"/>
+    <component base="kappa"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

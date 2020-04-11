@@ -10,4 +10,10 @@ uni1FD2
     <component base="dieresis" xOffset="-58"/>
     <component base="uni1FEF" xOffset="-136" yOffset="262"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

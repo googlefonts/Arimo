@@ -7,6 +7,12 @@ Scircumflex
 </note>
   <outline>
     <component base="S"/>
-    <component base="circumflex" xOffset="437" yOffset="327"/>
+    <component base="circumflex.uc" xOffset="319"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

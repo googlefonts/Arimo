@@ -9,4 +9,10 @@ uni03FE
     <component base="C"/>
     <component base="period" xOffset="622" yOffset="605"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

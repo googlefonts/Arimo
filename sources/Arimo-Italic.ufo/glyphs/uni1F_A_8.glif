@@ -7,7 +7,13 @@ uni1FA8
 </note>
   <outline>
     <component base="Omega" xOffset="182"/>
-    <component base="uni1FBE" xOffset="519"/>
     <component base="uni1FBD" xOffset="-228"/>
+    <component base="uni1FBE" xOffset="519"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -9,4 +9,10 @@ uni2047
     <component base="question"/>
     <component base="question" xOffset="1130"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -7,6 +7,6 @@ uni0229
 </note>
   <outline>
     <component base="e"/>
-    <component base="undercommaaccent" xOffset="170"/>
+    <component base="cedilla" xOffset="174"/>
   </outline>
 </glyph>

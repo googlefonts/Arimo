@@ -8,4 +8,10 @@ finalkafsheva
     <component base="finalkaf"/>
     <component base="sheva" xOffset="551" yOffset="811"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

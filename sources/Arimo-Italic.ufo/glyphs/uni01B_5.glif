@@ -7,16 +7,6 @@ uni01B5
 </note>
   <outline>
     <contour>
-      <point x="114" y="814" type="line"/>
-      <point x="114" y="814" type="line"/>
-      <point x="88" y="681" type="line"/>
-      <point x="498" y="681" type="line"/>
-      <point x="-13" y="143" type="line"/>
-      <point x="-40" y="0" type="line"/>
-      <point x="1082" y="0" type="line"/>
-      <point x="1112" y="156" type="line"/>
-      <point x="227" y="156" type="line"/>
-      <point x="723" y="681" type="line"/>
       <point x="1214" y="681" type="line"/>
       <point x="1240" y="814" type="line"/>
       <point x="849" y="814" type="line"/>
@@ -26,6 +16,21 @@ uni01B5
       <point x="276" y="1253" type="line"/>
       <point x="1041" y="1253" type="line"/>
       <point x="624" y="814" type="line"/>
+      <point x="114" y="814" type="line"/>
+      <point x="88" y="681" type="line"/>
+      <point x="498" y="681" type="line"/>
+      <point x="-13" y="143" type="line"/>
+      <point x="-40" y="0" type="line"/>
+      <point x="1082" y="0" type="line"/>
+      <point x="1112" y="156" type="line"/>
+      <point x="227" y="156" type="line"/>
+      <point x="723" y="681" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

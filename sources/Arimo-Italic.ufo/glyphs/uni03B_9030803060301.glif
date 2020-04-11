@@ -7,7 +7,13 @@ uni03B9030803060301
   <outline>
     <component base="iota"/>
     <component base="dieresis" xOffset="-70" yOffset="-69"/>
-    <component base="uni0306" xOffset="136" yOffset="196"/>
-    <component base="tonos.short" xOffset="154"/>
+    <component base="breve.alt1" xOffset="174" yOffset="-72"/>
+    <component base="acute.uc" xOffset="5" yOffset="60"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

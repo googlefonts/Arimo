@@ -9,4 +9,10 @@ uni1E3C
     <component base="L"/>
     <component base="uni032D" xOffset="670"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

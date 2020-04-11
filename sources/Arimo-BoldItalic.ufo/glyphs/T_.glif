@@ -8,7 +8,6 @@ T
   <outline>
     <contour>
       <point x="895" y="1181" type="line"/>
-      <point x="895" y="1181" type="line"/>
       <point x="1351" y="1181" type="line"/>
       <point x="1395" y="1409" type="line"/>
       <point x="189" y="1409" type="line"/>
@@ -18,4 +17,10 @@ T
       <point x="665" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

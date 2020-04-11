@@ -7,8 +7,6 @@ uni03DF
 </note>
   <outline>
     <contour>
-      <point x="640" y="0" type="line"/>
-      <point x="640" y="0" type="line"/>
       <point x="1089" y="799" type="line"/>
       <point x="1099" y="848" type="line"/>
       <point x="393" y="848" type="line"/>
@@ -18,6 +16,13 @@ uni03DF
       <point x="31" y="604" type="line"/>
       <point x="724" y="604" type="line"/>
       <point x="396" y="0" type="line"/>
+      <point x="640" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

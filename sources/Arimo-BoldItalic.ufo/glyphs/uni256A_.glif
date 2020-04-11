@@ -7,11 +7,6 @@ uni256A
 </note>
   <outline>
     <contour>
-      <point x="-10" y="369" type="line"/>
-      <point x="-10" y="369" type="line"/>
-      <point x="653" y="369" type="line"/>
-      <point x="653" y="-621" type="line"/>
-      <point x="798" y="-621" type="line"/>
       <point x="798" y="369" type="line"/>
       <point x="1461" y="369" type="line"/>
       <point x="1461" y="514" type="line"/>
@@ -28,6 +23,16 @@ uni256A
       <point x="653" y="729" type="line"/>
       <point x="653" y="514" type="line"/>
       <point x="-10" y="514" type="line"/>
+      <point x="-10" y="369" type="line"/>
+      <point x="653" y="369" type="line"/>
+      <point x="653" y="-621" type="line"/>
+      <point x="798" y="-621" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

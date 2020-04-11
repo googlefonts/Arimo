@@ -7,11 +7,16 @@ radicalex
 </note>
   <outline>
     <contour>
-      <point x="699" y="1454" type="line"/>
-      <point x="699" y="1454" type="line"/>
       <point x="699" y="1620" type="line"/>
       <point x="-17" y="1620" type="line"/>
       <point x="-17" y="1454" type="line"/>
+      <point x="699" y="1454" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

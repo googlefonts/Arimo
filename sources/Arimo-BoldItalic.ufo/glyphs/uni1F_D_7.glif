@@ -7,7 +7,12 @@ uni1FD7
 </note>
   <outline>
     <component base="iota"/>
-    <component base="tilde" xOffset="10" yOffset="310"/>
-    <component base="dieresis" xOffset="-46"/>
+    <component base="uni1FC1" xOffset="-54" yOffset="-1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

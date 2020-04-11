@@ -6,7 +6,13 @@ uni03B1030603130301
 </note>
   <outline>
     <component base="alpha"/>
-    <component base="uni1FCE" xOffset="275" yOffset="440"/>
-    <component base="breve.alt1" xOffset="210" yOffset="-29"/>
+    <component base="breve" xOffset="218" yOffset="-9"/>
+    <component base="uni1FCE" xOffset="238" yOffset="470"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

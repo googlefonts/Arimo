@@ -9,4 +9,10 @@ uni04D7
     <component base="e"/>
     <component base="breve" xOffset="202"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

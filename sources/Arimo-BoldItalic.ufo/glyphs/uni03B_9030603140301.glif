@@ -5,8 +5,14 @@
 uni03B9030603140301
 </note>
   <outline>
-    <component base="dotlessi"/>
-    <component base="uni1FDE" xOffset="80" yOffset="440"/>
-    <component base="breve.alt1" xOffset="-44" yOffset="-29"/>
+    <component base="iota"/>
+    <component base="uni1FDE" xOffset="74" yOffset="470"/>
+    <component base="breve" xOffset="-61" yOffset="-9"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -6,7 +6,13 @@ uni03B9030603130301
 </note>
   <outline>
     <component base="iota"/>
-    <component base="uni0306" xOffset="99" yOffset="-39"/>
-    <component base="uni1FCE" xOffset="-22" yOffset="350"/>
+    <component base="uni1FCE" xOffset="2" yOffset="472"/>
+    <component base="breve" xOffset="-74" yOffset="-7"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

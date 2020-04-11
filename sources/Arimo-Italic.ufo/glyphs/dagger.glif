@@ -8,7 +8,6 @@ dagger
   <outline>
     <contour>
       <point x="732" y="1000" type="line"/>
-      <point x="732" y="1000" type="line"/>
       <point x="1080" y="973" type="line"/>
       <point x="1112" y="1137" type="line"/>
       <point x="753" y="1108" type="line"/>
@@ -22,4 +21,10 @@ dagger
       <point x="489" y="-138" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

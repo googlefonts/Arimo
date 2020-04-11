@@ -10,4 +10,10 @@ uni01E1
     <component base="dotaccent" xOffset="222" yOffset="-39"/>
     <component base="macron" xOffset="277" yOffset="330"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

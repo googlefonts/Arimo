@@ -10,4 +10,10 @@ uni01C4
     <component base="Z" xOffset="1465"/>
     <component base="caron.uc" xOffset="1831"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -5,11 +5,18 @@ acute.alt5
 </note>
   <outline>
     <contour>
+      <point x="-168" y="1466" type="line"/>
+      <point x="-168" y="1466" type="line"/>
+      <point x="-396" y="1466" type="line"/>
       <point x="-584" y="1191" type="line"/>
       <point x="-584" y="1191" type="line"/>
       <point x="-434" y="1191" type="line"/>
-      <point x="-168" y="1466" type="line"/>
-      <point x="-396" y="1466" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

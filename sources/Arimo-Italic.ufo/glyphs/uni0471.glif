@@ -8,36 +8,44 @@ uni0471
   <outline>
     <contour>
       <point x="744" y="119" type="curve"/>
-      <point x="744" y="119" type="line"/>
       <point x="930" y="1082" type="line"/>
       <point x="760" y="1082" type="line"/>
       <point x="574" y="119" type="line"/>
-      <point x="452.667" y="127"/>
-      <point x="399.333" y="208.667"/>
+      <point x="453" y="127"/>
+      <point x="399" y="209"/>
       <point x="386" y="454" type="curve" smooth="yes"/>
       <point x="346" y="1082" type="line"/>
       <point x="166" y="1082" type="line"/>
       <point x="206" y="470" type="line" smooth="yes"/>
-      <point x="223.333" y="203.333"/>
-      <point x="268.167" y="94.5"/>
-      <point x="363.5" y="32.5" type="curve" smooth="yes"/>
-      <point x="411.167" y="1.5"/>
-      <point x="472.333" y="-16"/>
+      <point x="215" y="334"/>
+      <point x="231" y="239"/>
+      <point x="257" y="170" type="curve" smooth="yes"/>
+      <point x="282" y="105"/>
+      <point x="317" y="63"/>
+      <point x="364" y="33" type="curve" smooth="yes"/>
+      <point x="411" y="2"/>
+      <point x="472" y="-16"/>
       <point x="547" y="-20" type="curve"/>
       <point x="468" y="-425" type="line"/>
       <point x="638" y="-425" type="line"/>
       <point x="717" y="-20" type="line"/>
-      <point x="962.333" y="-18.667"/>
-      <point x="1118.667" y="39.667"/>
+      <point x="962" y="-19"/>
+      <point x="1119" y="40"/>
       <point x="1212" y="169" type="curve" smooth="yes"/>
-      <point x="1258.667" y="233.667"/>
-      <point x="1293.333" y="323.333"/>
+      <point x="1259" y="234"/>
+      <point x="1293" y="323"/>
       <point x="1316" y="438" type="curve" smooth="yes"/>
       <point x="1441" y="1082" type="line"/>
       <point x="1259" y="1082" type="line"/>
       <point x="1133" y="436" type="line" smooth="yes"/>
-      <point x="1086.333" y="198.667"/>
-      <point x="994.667" y="121.667"/>
+      <point x="1086" y="199"/>
+      <point x="995" y="122"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

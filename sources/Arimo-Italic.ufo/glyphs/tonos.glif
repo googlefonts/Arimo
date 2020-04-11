@@ -7,13 +7,18 @@ tonos
 </note>
   <outline>
     <contour>
-      <point x="233" y="1218" type="line"/>
-      <point x="233" y="1218" type="line"/>
-      <point x="308" y="1218" type="line"/>
       <point x="565" y="1506" type="line"/>
       <point x="572" y="1543" type="line"/>
       <point x="365" y="1543" type="line"/>
       <point x="239" y="1251" type="line"/>
+      <point x="233" y="1218" type="line"/>
+      <point x="308" y="1218" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

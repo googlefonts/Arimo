@@ -6,13 +6,18 @@ uni0317
 </note>
   <outline>
     <contour>
-      <point x="-352" y="-404" type="line"/>
-      <point x="-352" y="-404" type="line"/>
-      <point x="-203" y="-404" type="line"/>
       <point x="125" y="-160" type="line"/>
       <point x="132" y="-122" type="line"/>
       <point x="-125" y="-122" type="line"/>
       <point x="-347" y="-377" type="line"/>
+      <point x="-352" y="-404" type="line"/>
+      <point x="-203" y="-404" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

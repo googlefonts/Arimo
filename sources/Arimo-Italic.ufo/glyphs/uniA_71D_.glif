@@ -7,18 +7,22 @@ uniA71D
 </note>
   <outline>
     <contour>
-      <point x="436" y="1234" type="line"/>
-      <point x="436" y="1234" type="line"/>
       <point x="641" y="1997" type="line"/>
       <point x="423" y="1997" type="line"/>
       <point x="331" y="1234" type="line"/>
+      <point x="436" y="1234" type="line"/>
     </contour>
     <contour>
-      <point x="215" y="934" type="line"/>
-      <point x="215" y="934" type="line"/>
-      <point x="430" y="934" type="line"/>
       <point x="459" y="1086" type="line"/>
       <point x="244" y="1086" type="line"/>
+      <point x="215" y="934" type="line"/>
+      <point x="430" y="934" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -6,6 +6,19 @@
 uni02F4
 </note>
   <outline>
-    <component base="grave" yOffset="-929"/>
+    <contour>
+      <point x="503" y="292" type="line"/>
+      <point x="342" y="579" type="line"/>
+      <point x="135" y="579" type="line"/>
+      <point x="130" y="550" type="line"/>
+      <point x="412" y="272" type="line"/>
+      <point x="500" y="272" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

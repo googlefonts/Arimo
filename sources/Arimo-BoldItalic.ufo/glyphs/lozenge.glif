@@ -7,20 +7,24 @@ lozenge
 </note>
   <outline>
     <contour>
-      <point x="598" y="0" type="line"/>
-      <point x="598" y="0" type="line"/>
       <point x="1052" y="723" type="line"/>
       <point x="598" y="1446" type="line"/>
       <point x="494" y="1446" type="line"/>
       <point x="43" y="721" type="line"/>
       <point x="494" y="0" type="line"/>
+      <point x="598" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="547" y="1204" type="line"/>
+      <point x="258" y="723" type="line"/>
       <point x="547" y="1204" type="line"/>
       <point x="836" y="723" type="line"/>
       <point x="547" y="229" type="line"/>
-      <point x="258" y="723" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

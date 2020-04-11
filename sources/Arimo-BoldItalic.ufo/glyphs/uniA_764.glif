@@ -7,7 +7,7 @@ uniA764
 </note>
   <outline>
     <contour>
-      <point x="160" y="1316" type="line"/>
+      <point x="292" y="1316" type="line"/>
       <point x="160" y="1316" type="line"/>
       <point x="125" y="1140" type="line"/>
       <point x="257" y="1140" type="line"/>
@@ -15,7 +15,7 @@ uniA764
       <point x="331" y="0" type="line"/>
       <point x="364" y="169" type="line"/>
       <point x="742" y="169" type="line" smooth="yes"/>
-      <point x="1084.667" y="169"/>
+      <point x="1085" y="169"/>
       <point x="1306" y="360"/>
       <point x="1306" y="660" type="curve" smooth="yes"/>
       <point x="1306" y="924"/>
@@ -28,10 +28,8 @@ uniA764
       <point x="587" y="1316" type="line"/>
       <point x="605" y="1409" type="line"/>
       <point x="310" y="1409" type="line"/>
-      <point x="292" y="1316" type="line"/>
     </contour>
     <contour>
-      <point x="408" y="396" type="line"/>
       <point x="408" y="396" type="line"/>
       <point x="497" y="853" type="line"/>
       <point x="759" y="853" type="line" smooth="yes"/>
@@ -39,8 +37,14 @@ uniA764
       <point x="1007" y="780"/>
       <point x="1007" y="644" type="curve" smooth="yes"/>
       <point x="1007" y="468"/>
-      <point x="902.333" y="396"/>
+      <point x="902" y="396"/>
       <point x="697" y="396" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

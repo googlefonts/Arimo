@@ -6,8 +6,14 @@
 fiveeighths
 </note>
   <outline>
+    <component base="fivesuperior" xOffset="62"/>
     <component base="fraction" xOffset="680"/>
     <component base="eightsuperior" xOffset="893" yOffset="-692"/>
-    <component base="fivesuperior" xOffset="62"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

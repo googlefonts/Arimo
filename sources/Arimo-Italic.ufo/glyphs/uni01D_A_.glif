@@ -8,6 +8,6 @@ uni01DA
   <outline>
     <component base="u"/>
     <component base="dieresis" xOffset="280"/>
-    <component base="caron" xOffset="322" yOffset="280"/>
+    <component base="caron.uc" xOffset="213" yOffset="-29"/>
   </outline>
 </glyph>

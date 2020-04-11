@@ -7,13 +7,18 @@ uni029F
 </note>
   <outline>
     <contour>
-      <point x="768" y="0" type="line"/>
-      <point x="768" y="0" type="line"/>
       <point x="808" y="205" type="line"/>
       <point x="362" y="205" type="line"/>
       <point x="533" y="1082" type="line"/>
       <point x="252" y="1082" type="line"/>
       <point x="41" y="0" type="line"/>
+      <point x="768" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

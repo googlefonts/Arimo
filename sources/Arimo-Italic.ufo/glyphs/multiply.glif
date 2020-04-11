@@ -7,9 +7,6 @@ multiply
 </note>
   <outline>
     <contour>
-      <point x="172" y="330" type="line"/>
-      <point x="172" y="330" type="line"/>
-      <point x="274" y="225" type="line"/>
       <point x="630" y="580" type="line"/>
       <point x="983" y="227" type="line"/>
       <point x="1085" y="332" type="line"/>
@@ -20,6 +17,14 @@ multiply
       <point x="278" y="1139" type="line"/>
       <point x="174" y="1036" type="line"/>
       <point x="526" y="684" type="line"/>
+      <point x="172" y="330" type="line"/>
+      <point x="274" y="225" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

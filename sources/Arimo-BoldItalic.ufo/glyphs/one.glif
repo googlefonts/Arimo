@@ -7,9 +7,6 @@ one
 </note>
   <outline>
     <contour>
-      <point x="33" y="0" type="line"/>
-      <point x="33" y="0" type="line"/>
-      <point x="985" y="0" type="line"/>
       <point x="1029" y="231" type="line"/>
       <point x="706" y="231" type="line"/>
       <point x="936" y="1409" type="line"/>
@@ -19,6 +16,14 @@ one
       <point x="604" y="1152" type="line"/>
       <point x="425" y="231" type="line"/>
       <point x="76" y="231" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="985" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

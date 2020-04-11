@@ -7,7 +7,7 @@ uni1E1D
 </note>
   <outline>
     <component base="e"/>
-    <component base="undercommaaccent" xOffset="150"/>
     <component base="breve" xOffset="193"/>
+    <component base="cedilla" xOffset="156"/>
   </outline>
 </glyph>

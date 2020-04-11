@@ -7,6 +7,12 @@ uni1E47
 </note>
   <outline>
     <component base="n"/>
-    <component base="dotbelow.alt1" xOffset="574" yOffset="3"/>
+    <component base="dotbelowcomb" xOffset="1325" yOffset="3"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

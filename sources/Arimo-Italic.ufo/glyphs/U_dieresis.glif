@@ -9,4 +9,10 @@ Udieresis
     <component base="U"/>
     <component base="dieresis.uc" xOffset="387"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

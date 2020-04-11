@@ -8,6 +8,6 @@ uni1E79
   <outline>
     <component base="u"/>
     <component base="tilde" xOffset="269"/>
-    <component base="acute" xOffset="487" yOffset="275"/>
+    <component base="acute.uc" xOffset="362"/>
   </outline>
 </glyph>

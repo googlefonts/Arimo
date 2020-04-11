@@ -10,4 +10,10 @@ uni1E4F
     <component base="tilde" xOffset="243"/>
     <component base="dieresis" xOffset="289" yOffset="321"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -9,4 +9,10 @@ uni0403
     <component base="Gamma"/>
     <component base="acute.uc" xOffset="374"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

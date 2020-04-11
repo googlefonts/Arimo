@@ -7,11 +7,16 @@ dotaccent
 </note>
   <outline>
     <contour>
-      <point x="330" y="1277" type="line"/>
-      <point x="330" y="1277" type="line"/>
-      <point x="611" y="1277" type="line"/>
       <point x="652" y="1484" type="line"/>
       <point x="371" y="1484" type="line"/>
+      <point x="330" y="1277" type="line"/>
+      <point x="611" y="1277" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

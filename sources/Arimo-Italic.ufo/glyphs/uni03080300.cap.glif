@@ -6,7 +6,6 @@ uni03080300.cap
   <outline>
     <contour>
       <point x="311" y="1662" type="line"/>
-      <point x="311" y="1662" type="line"/>
       <point x="181" y="1835" type="line"/>
       <point x="-45" y="1835" type="line"/>
       <point x="-47" y="1823" type="line"/>
@@ -14,18 +13,22 @@ uni03080300.cap
       <point x="310" y="1652" type="line"/>
     </contour>
     <contour>
-      <point x="-131" y="1448" type="line"/>
-      <point x="-131" y="1448" type="line"/>
-      <point x="32" y="1448" type="line"/>
       <point x="68" y="1632" type="line"/>
       <point x="-95" y="1632" type="line"/>
+      <point x="-131" y="1448" type="line"/>
+      <point x="32" y="1448" type="line"/>
     </contour>
     <contour>
-      <point x="302" y="1448" type="line"/>
-      <point x="302" y="1448" type="line"/>
-      <point x="465" y="1448" type="line"/>
       <point x="501" y="1632" type="line"/>
       <point x="338" y="1632" type="line"/>
+      <point x="302" y="1448" type="line"/>
+      <point x="465" y="1448" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

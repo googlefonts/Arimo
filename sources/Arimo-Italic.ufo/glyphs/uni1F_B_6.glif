@@ -7,6 +7,12 @@ uni1FB6
 </note>
   <outline>
     <component base="alpha"/>
-    <component base="tilde" xOffset="247"/>
+    <component base="uni1FC0" xOffset="217"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

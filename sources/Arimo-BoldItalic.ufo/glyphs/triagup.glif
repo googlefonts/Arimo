@@ -7,10 +7,15 @@ triagup
 </note>
   <outline>
     <contour>
-      <point x="414" y="0" type="line"/>
+      <point x="1014" y="1198" type="line"/>
       <point x="414" y="0" type="line"/>
       <point x="1612" y="0" type="line"/>
-      <point x="1014" y="1198" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

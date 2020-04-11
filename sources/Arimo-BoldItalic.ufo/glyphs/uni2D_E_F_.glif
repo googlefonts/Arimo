@@ -6,7 +6,7 @@ uni2DEF
 </note>
   <outline>
     <contour>
-      <point x="236" y="1210" type="line"/>
+      <point x="161" y="1376" type="line"/>
       <point x="236" y="1210" type="line"/>
       <point x="392" y="1210" type="line"/>
       <point x="261" y="1468" type="line"/>
@@ -18,7 +18,12 @@ uni2DEF
       <point x="98" y="1466" type="line"/>
       <point x="-133" y="1210" type="line"/>
       <point x="21" y="1210" type="line"/>
-      <point x="161" y="1376" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

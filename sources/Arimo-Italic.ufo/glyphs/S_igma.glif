@@ -7,9 +7,6 @@ Sigma
 </note>
   <outline>
     <contour>
-      <point x="-6" y="0" type="line"/>
-      <point x="-6" y="0" type="line"/>
-      <point x="1070" y="0" type="line"/>
       <point x="1101" y="156" type="line"/>
       <point x="234" y="156" type="line"/>
       <point x="823" y="681" type="line"/>
@@ -21,6 +18,14 @@ Sigma
       <point x="255" y="1257" type="line"/>
       <point x="678" y="752" type="line"/>
       <point x="27" y="171" type="line"/>
+      <point x="-6" y="0" type="line"/>
+      <point x="1070" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

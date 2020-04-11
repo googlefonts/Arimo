@@ -10,4 +10,10 @@ uni01D6
     <component base="dieresis" xOffset="275"/>
     <component base="macron" xOffset="332" yOffset="280"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

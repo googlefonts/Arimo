@@ -8,6 +8,12 @@ uni1E15
   <outline>
     <component base="e"/>
     <component base="macron" xOffset="177"/>
-    <component base="grave.uc" xOffset="99" yOffset="-49"/>
+    <component base="grave" xOffset="124" yOffset="275"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

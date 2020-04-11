@@ -8,6 +8,12 @@ Abrevedotbelow
   <outline>
     <component base="A"/>
     <component base="breve.uc" xOffset="445"/>
-    <component base="dotbelow.alt1" xOffset="695"/>
+    <component base="dotbelowcomb" xOffset="1446"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

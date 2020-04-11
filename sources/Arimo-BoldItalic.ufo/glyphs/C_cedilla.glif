@@ -9,4 +9,10 @@ Ccedilla
     <component base="C" xOffset="-19"/>
     <component base="cedilla" xOffset="349"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

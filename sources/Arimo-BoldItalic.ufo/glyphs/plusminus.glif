@@ -8,7 +8,6 @@ plusminus
   <outline>
     <contour>
       <point x="712" y="707" type="line"/>
-      <point x="712" y="707" type="line"/>
       <point x="1114" y="707" type="line"/>
       <point x="1114" y="930" type="line"/>
       <point x="712" y="930" type="line"/>
@@ -22,11 +21,16 @@ plusminus
       <point x="712" y="366" type="line"/>
     </contour>
     <contour>
-      <point x="87" y="0" type="line"/>
-      <point x="87" y="0" type="line"/>
-      <point x="1114" y="0" type="line"/>
       <point x="1114" y="223" type="line"/>
       <point x="87" y="223" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="1114" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

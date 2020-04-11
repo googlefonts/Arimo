@@ -9,4 +9,10 @@ uni01F0
     <component base="j.dotless"/>
     <component base="caron" xOffset="-71"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

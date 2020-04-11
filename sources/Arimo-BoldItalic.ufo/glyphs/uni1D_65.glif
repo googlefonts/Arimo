@@ -8,4 +8,10 @@ uni1D65
   <outline>
     <component base="uni1D5B" xOffset="-118" yOffset="-627"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -6,11 +6,6 @@ uni2DF3
 </note>
   <outline>
     <contour>
-      <point x="-227" y="1210" type="line"/>
-      <point x="-227" y="1210" type="line"/>
-      <point x="358" y="1210" type="line"/>
-      <point x="330" y="1069" type="line"/>
-      <point x="459" y="1069" type="line"/>
       <point x="507" y="1310" type="line"/>
       <point x="442" y="1310" type="line"/>
       <point x="520" y="1706" type="line"/>
@@ -23,6 +18,16 @@ uni2DF3
       <point x="-72" y="1310" type="line"/>
       <point x="6" y="1706" type="line"/>
       <point x="-129" y="1706" type="line"/>
+      <point x="-227" y="1210" type="line"/>
+      <point x="358" y="1210" type="line"/>
+      <point x="330" y="1069" type="line"/>
+      <point x="459" y="1069" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

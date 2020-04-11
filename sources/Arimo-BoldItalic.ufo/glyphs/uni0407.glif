@@ -7,6 +7,12 @@ uni0407
 </note>
   <outline>
     <component base="I"/>
-    <component base="dieresis" xOffset="16" yOffset="331"/>
+    <component base="dieresis.uc" xOffset="-31"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

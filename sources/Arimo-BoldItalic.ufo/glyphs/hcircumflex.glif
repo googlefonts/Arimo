@@ -9,4 +9,10 @@ hcircumflex
     <component base="h"/>
     <component base="circumflex.uc" xOffset="291" yOffset="79"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

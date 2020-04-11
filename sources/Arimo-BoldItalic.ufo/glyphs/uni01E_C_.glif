@@ -10,4 +10,10 @@ uni01EC
     <component base="ogonek" xOffset="510"/>
     <component base="macron" xOffset="480" yOffset="351"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -9,4 +9,10 @@ ocircumflexacute
     <component base="o"/>
     <component base="circumflexacute.lc" xOffset="741"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

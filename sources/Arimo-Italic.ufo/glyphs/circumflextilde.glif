@@ -5,39 +5,37 @@ circumflextilde
 </note>
   <outline>
     <contour>
-      <point x="125" y="1641" type="curve"/>
-      <point x="125" y="1641" type="line"/>
+      <point x="125" y="1641" type="curve" smooth="yes"/>
       <point x="209" y="1641"/>
-      <point x="260.667" y="1668.167"/>
-      <point x="298" y="1715.5" type="curve" smooth="yes"/>
-      <point x="316.667" y="1739.167"/>
-      <point x="335.667" y="1779"/>
+      <point x="261" y="1668"/>
+      <point x="298" y="1716" type="curve" smooth="yes"/>
+      <point x="317" y="1739"/>
+      <point x="336" y="1779"/>
       <point x="355" y="1835" type="curve"/>
       <point x="263" y="1835" type="line"/>
-      <point x="244.333" y="1785.667"/>
+      <point x="244" y="1786"/>
       <point x="215" y="1760"/>
       <point x="151" y="1760" type="curve" smooth="yes"/>
-      <point x="78.407" y="1760"/>
-      <point x="3.167" y="1835"/>
+      <point x="78" y="1760"/>
+      <point x="3" y="1835"/>
       <point x="-88" y="1835" type="curve" smooth="yes"/>
       <point x="-172" y="1835"/>
-      <point x="-226.667" y="1806.167"/>
-      <point x="-264" y="1757.5" type="curve" smooth="yes"/>
-      <point x="-282.667" y="1733.167"/>
-      <point x="-301" y="1694.333"/>
+      <point x="-227" y="1806"/>
+      <point x="-264" y="1758" type="curve" smooth="yes"/>
+      <point x="-283" y="1733"/>
+      <point x="-301" y="1694"/>
       <point x="-319" y="1641" type="curve"/>
       <point x="-228" y="1641" type="line"/>
-      <point x="-206.667" y="1694.333"/>
+      <point x="-207" y="1694"/>
       <point x="-175" y="1716"/>
       <point x="-115" y="1716" type="curve" smooth="yes"/>
       <point x="-91" y="1716"/>
-      <point x="-53.333" y="1703.667"/>
+      <point x="-53" y="1704"/>
       <point x="-2" y="1679" type="curve" smooth="yes"/>
-      <point x="48.667" y="1653.667"/>
+      <point x="49" y="1654"/>
       <point x="91" y="1641"/>
     </contour>
     <contour>
-      <point x="-17" y="1529" type="line"/>
       <point x="-17" y="1529" type="line"/>
       <point x="120" y="1462" type="line"/>
       <point x="270" y="1462" type="line"/>
@@ -49,4 +47,10 @@ circumflextilde
       <point x="-181" y="1462" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

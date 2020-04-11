@@ -9,4 +9,10 @@ uni022E
     <component base="O"/>
     <component base="dotaccent" xOffset="521" yOffset="280"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

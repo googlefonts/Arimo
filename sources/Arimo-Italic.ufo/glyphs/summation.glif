@@ -7,9 +7,6 @@ summation
 </note>
   <outline>
     <contour>
-      <point x="202" y="-455" type="line"/>
-      <point x="202" y="-455" type="line"/>
-      <point x="1376" y="-455" type="line"/>
       <point x="1376" y="-303" type="line"/>
       <point x="446" y="-303" type="line"/>
       <point x="1046" y="483" type="line"/>
@@ -20,6 +17,14 @@ summation
       <point x="218" y="1303" type="line"/>
       <point x="837" y="481" type="line"/>
       <point x="202" y="-346" type="line"/>
+      <point x="202" y="-455" type="line"/>
+      <point x="1376" y="-455" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

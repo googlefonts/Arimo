@@ -10,4 +10,10 @@ uni1E5C
     <component base="macron" xOffset="393" yOffset="324"/>
     <component base="dotbelowcomb" xOffset="646"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>

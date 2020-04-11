@@ -7,7 +7,10 @@ Tbar
 </note>
   <outline>
     <contour>
-      <point x="858" y="1253" type="line"/>
+      <point x="740" y="647" type="line"/>
+      <point x="1021" y="647" type="line"/>
+      <point x="1051" y="801" type="line"/>
+      <point x="770" y="801" type="line"/>
       <point x="858" y="1253" type="line"/>
       <point x="1342" y="1253" type="line"/>
       <point x="1372" y="1409" type="line"/>
@@ -20,10 +23,12 @@ Tbar
       <point x="550" y="647" type="line"/>
       <point x="425" y="0" type="line"/>
       <point x="615" y="0" type="line"/>
-      <point x="740" y="647" type="line"/>
-      <point x="1021" y="647" type="line"/>
-      <point x="1051" y="801" type="line"/>
-      <point x="770" y="801" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
 </glyph>
