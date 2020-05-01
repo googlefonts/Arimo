@@ -24,7 +24,7 @@
   <instances>
     <instance name="Arimo Regular" familyname="Arimo" stylename="Regular" filename="../instance_ufo/Arimo-Regular.ufo" postscriptfontname="Arimo" stylemapfamilyname="Arimo" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Weight" xvalue="400"/>
       </location>
       <kerning/>
       <info/>
@@ -77,7 +77,7 @@
     
     <instance name="Arimo Bold" familyname="Arimo" stylename="Bold" filename="../instance_ufo/Arimo-Bold.ufo" postscriptfontname="Arimo-Bold" stylemapfamilyname="Arimo" stylemapstylename="bold">
       <location>
-        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Weight" xvalue="700"/>
       </location>
       <kerning/>
       <info/>
