@@ -11315,13 +11315,7 @@ lookup gpos_32_single {
 	position uni05AD < 320 0 0 0 >;
     } gpos_32_single ;
 
-lookup gpos_33_pair {
-    lookupflag RightToLeft  ;
-	position uni05A4 uni05A5 < 220 0 0 0 >;
-	position uni05A4 uni05A5 < -220 0 -220 0 >;
-    } gpos_33_pair ;
-
-lookup gpos_34_single {
+lookup gpos_33_single {
     lookupflag RightToLeft  ;
 	position uni0591 < -540 0 0 0 >;
 	position uni0596 < -540 0 0 0 >;
@@ -11329,7 +11323,13 @@ lookup gpos_34_single {
 	position uni05A4 < -540 0 0 0 >;
 	position uni05A5 < -540 0 0 0 >;
 	position meteg < -400 0 0 0 >;
-    } gpos_34_single ;
+    } gpos_33_single ;
+
+lookup gpos_34_pair {
+    lookupflag RightToLeft  ;
+	position uni05A4 uni05A5 < 220 0 0 0 >;
+	position uni05A4 uni05A5 < -220 0 -220 0 >;
+    } gpos_34_pair ;
 
 lookup gpos_2_chained {
     lookupflag RightToLeft  ;
@@ -11378,17 +11378,17 @@ lookup gpos_14_chained {
 
 lookup gpos_15_chained {
     lookupflag RightToLeft  ;
-    pos [ holam ] [ uni05A4 ]' lookup gpos_33_pair ;
+    pos [ meteg ] [ uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg ]' lookup gpos_33_single ;
 	subtable;
-    pos [ dagesh  ] [ uni05A4  ]' lookup gpos_33_pair ;
+    pos [ uni05A3  ] [ uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg  ]' lookup gpos_33_single ;
 
     } gpos_15_chained ;
 
 lookup gpos_16_chained {
     lookupflag RightToLeft  ;
-    pos [ meteg ] [ uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg ]' lookup gpos_34_single ;
+    pos [ holam ] [ uni05A4 ]' lookup gpos_34_pair ;
 	subtable;
-    pos [ uni05A3  ] [ uni0591 uni0596 uni05A3 uni05A4 uni05A5 meteg  ]' lookup gpos_34_single ;
+    pos [ dagesh  ] [ uni05A4  ]' lookup gpos_34_pair ;
 
     } gpos_16_chained ;
 
