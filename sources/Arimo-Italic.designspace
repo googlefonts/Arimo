@@ -24,7 +24,7 @@
   <instances>
     <instance name="Arimo Italic" familyname="Arimo" stylename="Italic" filename="../instance_ufo/Arimo-Italic.ufo" postscriptfontname="Arimo-Italic" stylemapfamilyname="Arimo" stylemapstylename="italic">
       <location>
-        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Weight" xvalue="400"/>
       </location>
       <kerning/>
       <info/>
