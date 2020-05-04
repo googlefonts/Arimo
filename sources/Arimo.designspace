@@ -14,7 +14,6 @@
         <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
-    
     <source filename="Arimo-Bold.ufo" name="Arimo Bold" familyname="Arimo" stylename="Bold">
       <location>
         <dimension name="Weight" xvalue="700"/>
@@ -70,11 +69,6 @@
         </dict>
       </lib>
     </instance>
-    
-    
-    
-    
-    
     <instance name="Arimo Bold" familyname="Arimo" stylename="Bold" filename="../instance_ufo/Arimo-Bold.ufo" postscriptfontname="Arimo-Bold" stylemapfamilyname="Arimo" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="700"/>
@@ -123,7 +117,5 @@
         </dict>
       </lib>
     </instance>
-    
-    
   </instances>
 </designspace>
