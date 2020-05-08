@@ -36,6 +36,8 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>5</integer>
+    <key>com.typemytype.robofont.fontIdentifier</key>
+    <string>zVgEBPm2g4m8GOeALqCJYSnZ1CS029rXFSMjSWC-zkA</string>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
     <key>public.glyphOrder</key>
