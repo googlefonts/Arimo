@@ -2,9 +2,6 @@
 <glyph name="uniA72F" format="2">
   <advance width="1238"/>
   <unicode hex="A72F"/>
-  <note>
-uniA72F
-</note>
   <outline>
     <contour>
       <point x="435" y="-375" type="curve"/>
@@ -47,19 +44,7 @@ uniA72F
       <point x="737" y="728" type="curve"/>
       <point x="622" y="149" type="line"/>
     </contour>
-    <contour>
-      <point x="981" y="-268" type="curve" smooth="yes"/>
-      <point x="1015" y="-100" type="line"/>
-      <point x="820" y="-100" type="line"/>
-      <point x="776" y="-319" type="line"/>
-      <point x="864" y="-319" type="line"/>
-      <point x="847" y="-402"/>
-      <point x="799" y="-489"/>
-      <point x="718" y="-581" type="curve"/>
-      <point x="841" y="-581" type="line"/>
-      <point x="910" y="-500"/>
-      <point x="950" y="-415"/>
-    </contour>
+    <component base="commaaccent" xOffset="657"/>
   </outline>
   <lib>
     <dict>
