@@ -7,12 +7,12 @@ Aringacute
 </note>
   <outline>
     <contour>
+      <point x="685" y="1657" type="line"/>
       <point x="995" y="1831" type="line"/>
       <point x="995" y="1854" type="line"/>
       <point x="788" y="1854" type="line"/>
       <point x="571" y="1673" type="line"/>
       <point x="571" y="1657" type="line"/>
-      <point x="685" y="1657" type="line"/>
     </contour>
     <contour>
       <point x="926" y="1392" type="curve"/>

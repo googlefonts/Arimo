@@ -7,6 +7,8 @@ Lslash
 </note>
   <outline>
     <contour>
+      <point x="136" y="0" type="line"/>
+      <point x="1188" y="0" type="line"/>
       <point x="1188" y="231" type="line"/>
       <point x="432" y="231" type="line"/>
       <point x="432" y="627" type="line"/>
@@ -19,8 +21,6 @@ Lslash
       <point x="0" y="643" type="line"/>
       <point x="0" y="418" type="line"/>
       <point x="137" y="483" type="line"/>
-      <point x="137" y="0" type="line"/>
-      <point x="1188" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

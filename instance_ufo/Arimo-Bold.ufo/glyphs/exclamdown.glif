@@ -13,10 +13,10 @@ exclamdown
       <point x="488" y="812" type="line"/>
     </contour>
     <contour>
-      <point x="226" y="654" type="line"/>
       <point x="194" y="-327" type="line"/>
       <point x="488" y="-327" type="line"/>
       <point x="456" y="654" type="line"/>
+      <point x="226" y="654" type="line"/>
     </contour>
   </outline>
 </glyph>

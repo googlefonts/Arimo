@@ -7,10 +7,10 @@ uni02CD
 </note>
   <outline>
     <contour>
+      <point x="34" y="-327" type="line"/>
       <point x="646" y="-327" type="line"/>
       <point x="646" y="-159" type="line"/>
       <point x="34" y="-159" type="line"/>
-      <point x="34" y="-327" type="line"/>
     </contour>
   </outline>
 </glyph>

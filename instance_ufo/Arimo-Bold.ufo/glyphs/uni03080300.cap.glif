@@ -5,12 +5,12 @@ uni03080300.cap
 </note>
   <outline>
     <contour>
+      <point x="-44" y="1666" type="line"/>
+      <point x="106" y="1666" type="line"/>
       <point x="106" y="1680" type="line"/>
       <point x="-29" y="1835" type="line"/>
       <point x="-275" y="1835" type="line"/>
       <point x="-275" y="1819" type="line"/>
-      <point x="-44" y="1666" type="line"/>
-      <point x="106" y="1666" type="line"/>
     </contour>
     <contour>
       <point x="-265" y="1466" type="line"/>

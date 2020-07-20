@@ -7,6 +7,7 @@ guillemotright
 </note>
   <outline>
     <contour>
+      <point x="718" y="141" type="line"/>
       <point x="1056" y="506" type="line"/>
       <point x="1056" y="569" type="line"/>
       <point x="718" y="940" type="line"/>
@@ -15,9 +16,9 @@ guillemotright
       <point x="888" y="537" type="line"/>
       <point x="550" y="170" type="line"/>
       <point x="550" y="141" type="line"/>
-      <point x="718" y="141" type="line"/>
     </contour>
     <contour>
+      <point x="253" y="141" type="line"/>
       <point x="588" y="506" type="line"/>
       <point x="588" y="569" type="line"/>
       <point x="253" y="940" type="line"/>
@@ -26,7 +27,6 @@ guillemotright
       <point x="421" y="537" type="line"/>
       <point x="83" y="170" type="line"/>
       <point x="83" y="141" type="line"/>
-      <point x="253" y="141" type="line"/>
     </contour>
   </outline>
 </glyph>
