@@ -51,6 +51,8 @@
     <string>zqFJptB3xVIaxjOHN2FylUB8KRv7zyS9t046NFdYkbA</string>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>6025356304</string>
     <key>public.glyphOrder</key>
     <array>
       <string>space</string>

@@ -50,9 +50,9 @@ uni02A3
       <point x="275" y="239"/>
     </contour>
     <contour>
+      <point x="1001" y="139" type="line"/>
       <point x="1001" y="943" type="line"/>
       <point x="1680" y="943" type="line"/>
-      <point x="1001" y="139" type="line"/>
     </contour>
   </outline>
 </glyph>

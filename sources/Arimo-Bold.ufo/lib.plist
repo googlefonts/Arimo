@@ -40,6 +40,8 @@
     <string>zVgEBPm2g4m8GOeALqCJYSnZ1CS029rXFSMjSWC-zkA</string>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>5077011152</string>
     <key>public.glyphOrder</key>
     <array>
       <string>.notdef</string>
