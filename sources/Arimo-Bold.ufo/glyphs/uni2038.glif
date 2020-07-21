@@ -7,13 +7,13 @@ uni2038
 </note>
   <outline>
     <contour>
-      <point x="0" y="-416" type="line"/>
-      <point x="160" y="-416" type="line"/>
       <point x="375" y="-224" type="line"/>
       <point x="578" y="-416" type="line"/>
       <point x="737" y="-416" type="line"/>
       <point x="487" y="-70" type="line"/>
       <point x="258" y="-70" type="line"/>
+      <point x="0" y="-416" type="line"/>
+      <point x="160" y="-416" type="line"/>
     </contour>
   </outline>
 </glyph>

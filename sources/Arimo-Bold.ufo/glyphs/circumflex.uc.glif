@@ -6,6 +6,8 @@ circumflex.uc
 </note>
   <outline>
     <contour>
+      <point x="-27" y="1530" type="line"/>
+      <point x="133" y="1530" type="line"/>
       <point x="344" y="1681" type="line"/>
       <point x="348" y="1681" type="line"/>
       <point x="551" y="1530" type="line"/>
@@ -14,8 +16,6 @@ circumflex.uc
       <point x="460" y="1835" type="line"/>
       <point x="231" y="1835" type="line"/>
       <point x="-27" y="1559" type="line"/>
-      <point x="-27" y="1530" type="line"/>
-      <point x="133" y="1530" type="line"/>
     </contour>
   </outline>
 </glyph>

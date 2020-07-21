@@ -7,10 +7,10 @@ uni20B8
 </note>
   <outline>
     <contour>
-      <point x="1164" y="1409" type="line"/>
-      <point x="86" y="1409" type="line"/>
       <point x="86" y="1263" type="line"/>
       <point x="1164" y="1263" type="line"/>
+      <point x="1164" y="1409" type="line"/>
+      <point x="86" y="1409" type="line"/>
     </contour>
     <contour>
       <point x="716" y="983" type="line"/>

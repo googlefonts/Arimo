@@ -6,6 +6,8 @@ uni2DF2
 </note>
   <outline>
     <contour>
+      <point x="-311" y="1210" type="line"/>
+      <point x="311" y="1210" type="line"/>
       <point x="311" y="1706" type="line"/>
       <point x="211" y="1706" type="line"/>
       <point x="211" y="1284" type="line"/>
@@ -16,8 +18,6 @@ uni2DF2
       <point x="-212" y="1284" type="line"/>
       <point x="-212" y="1706" type="line"/>
       <point x="-311" y="1706" type="line"/>
-      <point x="-311" y="1210" type="line"/>
-      <point x="311" y="1210" type="line"/>
     </contour>
   </outline>
 </glyph>
