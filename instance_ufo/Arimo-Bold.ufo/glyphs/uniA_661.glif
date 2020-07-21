@@ -7,6 +7,10 @@ uniA661
 </note>
   <outline>
     <contour>
+      <point x="19" y="-408" type="line"/>
+      <point x="264" y="-408" type="line"/>
+      <point x="264" y="0" type="line"/>
+      <point x="1116" y="0" type="line"/>
       <point x="1116" y="1082" type="line"/>
       <point x="834" y="1082" type="line"/>
       <point x="834" y="190" type="line"/>
@@ -15,10 +19,6 @@ uniA661
       <point x="165" y="1082" type="line"/>
       <point x="165" y="190" type="line"/>
       <point x="19" y="190" type="line"/>
-      <point x="19" y="-408" type="line"/>
-      <point x="264" y="-408" type="line"/>
-      <point x="264" y="0" type="line"/>
-      <point x="1116" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

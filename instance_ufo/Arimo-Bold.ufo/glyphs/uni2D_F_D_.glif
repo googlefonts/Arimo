@@ -6,9 +6,6 @@ uni2DFD
 </note>
   <outline>
     <contour>
-      <point x="261" y="1210" type="line"/>
-      <point x="84" y="1706" type="line"/>
-      <point x="-79" y="1706" type="line"/>
       <point x="-261" y="1210" type="line"/>
       <point x="-127" y="1210" type="line"/>
       <point x="-79" y="1364" type="line"/>
@@ -18,11 +15,14 @@ uni2DFD
       <point x="55" y="1364" type="line"/>
       <point x="79" y="1364" type="line"/>
       <point x="127" y="1210" type="line"/>
+      <point x="261" y="1210" type="line"/>
+      <point x="84" y="1706" type="line"/>
+      <point x="-79" y="1706" type="line"/>
     </contour>
     <contour>
-      <point x="37" y="1462" type="line"/>
       <point x="-35" y="1462" type="line"/>
       <point x="1" y="1590" type="line"/>
+      <point x="37" y="1462" type="line"/>
     </contour>
   </outline>
 </glyph>

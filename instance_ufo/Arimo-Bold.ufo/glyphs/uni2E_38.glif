@@ -7,18 +7,18 @@ uni2E38
 </note>
   <outline>
     <contour>
+      <point x="441" y="-138" type="line"/>
+      <point x="697" y="-138" type="line"/>
+      <point x="669" y="238" type="line"/>
+      <point x="1002" y="209" type="line"/>
+      <point x="1002" y="413" type="line"/>
+      <point x="669" y="386" type="line"/>
       <point x="647" y="1484" type="line"/>
       <point x="492" y="1484" type="line"/>
       <point x="470" y="386" type="line"/>
       <point x="138" y="413" type="line"/>
       <point x="138" y="209" type="line"/>
       <point x="470" y="238" type="line"/>
-      <point x="442" y="-138" type="line"/>
-      <point x="697" y="-138" type="line"/>
-      <point x="669" y="238" type="line"/>
-      <point x="1002" y="209" type="line"/>
-      <point x="1002" y="413" type="line"/>
-      <point x="669" y="386" type="line"/>
     </contour>
   </outline>
 </glyph>

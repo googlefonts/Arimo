@@ -7,14 +7,14 @@ uni2E20
 </note>
   <outline>
     <contour>
+      <point x="340" y="-497" type="line"/>
+      <point x="489" y="-497" type="line"/>
       <point x="489" y="464" type="line"/>
       <point x="764" y="464" type="line"/>
       <point x="764" y="593" type="line"/>
       <point x="489" y="593" type="line"/>
       <point x="489" y="1553" type="line"/>
       <point x="340" y="1553" type="line"/>
-      <point x="340" y="-497" type="line"/>
-      <point x="489" y="-497" type="line"/>
     </contour>
   </outline>
 </glyph>

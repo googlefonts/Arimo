@@ -32,9 +32,9 @@ uni2DFE
       <point x="-172" y="1210" type="line"/>
     </contour>
     <contour>
-      <point x="-78" y="1628" type="line"/>
       <point x="82" y="1628" type="line"/>
       <point x="1" y="1485" type="line"/>
+      <point x="-78" y="1628" type="line"/>
     </contour>
   </outline>
 </glyph>

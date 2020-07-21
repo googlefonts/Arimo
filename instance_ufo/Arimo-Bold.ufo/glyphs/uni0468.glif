@@ -29,9 +29,9 @@ uni0468
       <point x="137" y="1409" type="line"/>
     </contour>
     <contour>
+      <point x="1057" y="733" type="line"/>
       <point x="1216" y="1192" type="line"/>
       <point x="1381" y="733" type="line"/>
-      <point x="1057" y="733" type="line"/>
     </contour>
   </outline>
 </glyph>

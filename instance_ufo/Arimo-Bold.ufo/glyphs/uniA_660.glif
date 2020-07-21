@@ -7,8 +7,6 @@ uniA660
 </note>
   <outline>
     <contour>
-      <point x="210" y="244" type="line"/>
-      <point x="15" y="244" type="line"/>
       <point x="15" y="-408" type="line"/>
       <point x="265" y="-408" type="line"/>
       <point x="265" y="0" type="line"/>
@@ -19,6 +17,8 @@ uniA660
       <point x="495" y="244" type="line"/>
       <point x="495" y="1409" type="line"/>
       <point x="210" y="1409" type="line"/>
+      <point x="210" y="244" type="line"/>
+      <point x="15" y="244" type="line"/>
     </contour>
   </outline>
 </glyph>

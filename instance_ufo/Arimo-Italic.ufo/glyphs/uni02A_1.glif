@@ -31,11 +31,11 @@ uni02A1
       <point x="758" y="1343"/>
       <point x="837" y="1246"/>
       <point x="837" y="1066" type="curve" smooth="yes"/>
-      <point x="837" y="1027"/>
-      <point x="833" y="984"/>
-      <point x="825" y="938" type="curve" smooth="yes"/>
-      <point x="778" y="662"/>
-      <point x="656" y="524"/>
+      <point x="837.0" y="865"/>
+      <point x="753" y="628"/>
+      <point x="612" y="559" type="curve" smooth="yes"/>
+      <point x="568" y="537"/>
+      <point x="516" y="524"/>
       <point x="459" y="524" type="curve" smooth="yes"/>
       <point x="418" y="524"/>
       <point x="384" y="530"/>
