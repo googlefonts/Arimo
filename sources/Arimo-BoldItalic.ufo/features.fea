@@ -24,6 +24,8 @@ languagesystem latn MAH ;
 	uni033C uni0345 uni0347 uni0348 uni0349 uni034D uni034E
 	uni0353 uni0354 uni0355 uni0356 uni0359 uni035A uni1DC2
 	uni1DCA uni1DFF ];
+@OTHER_MARKS = [dagesh hatafpatah hatafqamats hatafsegol hiriq holam lowerdot meteg patah qamats qamatsqatan qubuts rafe segol sheva shindot sindot tsere uni0315 uni031B uni0321 uni0322 uni0328 uni0334 uni0335 uni0336 uni0337 uni0338 uni0340 uni0341 uni034F uni0358 uni035C uni035D uni035E uni035F uni0360 uni0361 uni0362 uni0487 uni0488 uni0489 uni0591 uni0592 uni0593 uni0594 uni0595 uni0596 uni0597 uni0598 uni0599 uni059A uni059B uni059C uni059D uni059E uni059F uni05A0 uni05A1 uni05A2 uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05A8 uni05A9 uni05AA uni05AB uni05AC uni05AD uni05AE uni05AF uni05BA uni1AB0 uni1AB1 uni1AB2 uni1AB3 uni1AB4 uni1AB5 uni1AB6 uni1AB7 uni1AB8 uni1AB9 uni1ABA uni1ABB uni1ABC uni1ABD uni1ABE uni1DCB uni1DCC uni1DCD uni1DCE uni1DCF uni1DD0 uni1DD1 uni1DD2 uni1DD3 uni1DD4 uni1DD5 uni1DD6 uni1DD7 uni1DD8 uni1DD9 uni1DDA uni1DDB uni1DDC uni1DDD uni1DDE uni1DDF uni1DE0 uni1DE1 uni1DE2 uni1DE3 uni1DE4 uni1DE5 uni1DE6 uni1DE7 uni1DE8 uni1DE9 uni1DEA uni1DEB uni1DEC uni1DED uni1DEE uni1DEF uni1DF0 uni1DF1 uni1DF2 uni1DF3 uni1DF4 uni1DF5 uni1DFB uni1DFC uni1DFD uni20F0 uni2DE0 uni2DE1 uni2DE2 uni2DE3 uni2DE4 uni2DE5 uni2DE6 uni2DE7 uni2DE8 uni2DE9 uni2DEA uni2DEB uni2DEC uni2DED uni2DEE uni2DEF uni2DF0 uni2DF1 uni2DF2 uni2DF3 uni2DF4 uni2DF5 uni2DF6 uni2DF7 uni2DF8 uni2DF9 uni2DFA uni2DFB uni2DFC uni2DFD uni2DFE uni2DFF uniA66F uniA670 uniA671 uniA672 uniA674 uniA675 uniA676 uniA677 uniA678 uniA679 uniA67A uniA67B uniA67C uniA67D uniA69E uniA69F uniFB1E uniFE24 uniFE25 uniFE26 uniFE27 uniFE28 uniFE29 uniFE2A uniFE2B uniFE2C uniFE2D uniFE2E uniFE2F upper_dot];
+@GDEF_mark = [@_MarkAttachmentType_1 @_MarkAttachmentType_2 @_MarkAttachmentType_3 @OTHER_MARKS];
 
 
 #GSUB
@@ -11534,9 +11536,9 @@ feature mkmk {
 
 table GDEF {
   GlyphClassDef
-		@GDEF_base,
-		,
-		,
+		@GDEF_base, # Base
+		, # Ligature
+		@GDEF_mark,
 		;
 
 } GDEF;
