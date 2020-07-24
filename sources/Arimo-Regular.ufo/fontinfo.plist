@@ -40,6 +40,10 @@
     <string>http://www.google.com/get/noto/</string>
     <key>openTypeNameVersion</key>
     <string>Version 1.33</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
     <key>openTypeOS2StrikeoutPosition</key>
     <integer>530</integer>
     <key>openTypeOS2StrikeoutSize</key>
