@@ -51,11 +51,11 @@
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>1491</integer>
+    <integer>1854</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-431</integer>
+    <integer>-434</integer>
     <key>openTypeOS2TypoLineGap</key>
-    <integer>307</integer>
+    <integer>67</integer>
     <key>openTypeOS2UnicodeRanges</key>
     <array>
       <integer>0</integer>
