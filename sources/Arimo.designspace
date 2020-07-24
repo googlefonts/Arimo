@@ -27,24 +27,6 @@
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>GASP Table</string>
-              <dict>
-                <key>14</key>
-                <integer>7</integer>
-                <key>65535</key>
-                <integer>15</integer>
-                <key>8</key>
-                <integer>10</integer>
-              </dict>
-            </array>
-          </array>
-        </dict>
-      </lib>
     </instance>
     <instance name="Arimo Bold" familyname="Arimo" stylename="Bold" filename="../instance_ufo/Arimo-Bold.ufo" postscriptfontname="Arimo-Bold" stylemapfamilyname="Arimo" stylemapstylename="bold">
       <location>
@@ -52,24 +34,6 @@
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>GASP Table</string>
-              <dict>
-                <key>14</key>
-                <integer>7</integer>
-                <key>65535</key>
-                <integer>15</integer>
-                <key>8</key>
-                <integer>10</integer>
-              </dict>
-            </array>
-          </array>
-        </dict>
-      </lib>
     </instance>
   </instances>
 </designspace>
