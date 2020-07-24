@@ -14,7 +14,6 @@
         <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
-  
     <source filename="Arimo-BoldItalic.ufo" name="Arimo Bold Italic" familyname="Arimo" stylename="Bold Italic">
       <location>
         <dimension name="Weight" xvalue="700"/>
@@ -48,12 +47,44 @@
               </array>
             </array>
             <array>
-              <string>uniqueID</string>
-              <string>Monotype Imaging - Arimo Italic</string>
+              <string>GASP Table</string>
+              <dict>
+                <key>14</key>
+                <string>7</string>
+                <key>65535</key>
+                <string>15</string>
+                <key>8</key>
+                <string>10</string>
+              </dict>
             </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Arimo Bold Italic" familyname="Arimo" stylename="Bold Italic" filename="../instance_ufo/Arimo-BoldItalic.ufo" postscriptfontname="Arimo-BoldItalic" stylemapfamilyname="Arimo" stylemapstylename="bold italic">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
             <array>
-              <string>postscriptFullName</string>
-              <string>Arimo Italic</string>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>11</integer>
+                <integer>6</integer>
+                <integer>4</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>9</integer>
+                <integer>2</integer>
+                <integer>4</integer>
+              </array>
             </array>
             <array>
               <string>GASP Table</string>
@@ -70,19 +101,5 @@
         </dict>
       </lib>
     </instance>
-    
-    
-    
-    
-    <instance name="Arimo Bold Italic" familyname="Arimo" stylename="Bold Italic" filename="../instance_ufo/Arimo-BoldItalic.ufo" postscriptfontname="Arimo-BoldItalic" stylemapfamilyname="Arimo" stylemapstylename="bold italic">
-      <location>
-        <dimension name="Weight" xvalue="700"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    
-    
-    
   </instances>
 </designspace>

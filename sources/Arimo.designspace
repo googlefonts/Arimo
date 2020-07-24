@@ -47,14 +47,6 @@
               </array>
             </array>
             <array>
-              <string>uniqueID</string>
-              <string>Monotype Imaging - Arimo</string>
-            </array>
-            <array>
-              <string>postscriptFullName</string>
-              <string>Arimo</string>
-            </array>
-            <array>
               <string>GASP Table</string>
               <dict>
                 <key>14</key>
@@ -93,14 +85,6 @@
                 <integer>2</integer>
                 <integer>4</integer>
               </array>
-            </array>
-            <array>
-              <string>uniqueID</string>
-              <string>Monotype Imaging - Arimo</string>
-            </array>
-            <array>
-              <string>postscriptFullName</string>
-              <string>Arimo</string>
             </array>
             <array>
               <string>GASP Table</string>
