@@ -524,6 +524,8 @@
     <string>ampersand.glif</string>
     <key>anoteleia</key>
     <string>anoteleia.glif</string>
+    <key>anoteleia.case</key>
+    <string>anoteleia.case.glif</string>
     <key>aogonek</key>
     <string>aogonek.glif</string>
     <key>approxequal</key>
