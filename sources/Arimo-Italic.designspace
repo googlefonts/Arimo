@@ -32,21 +32,6 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>panose</string>
-              <array>
-                <integer>2</integer>
-                <integer>11</integer>
-                <integer>6</integer>
-                <integer>4</integer>
-                <integer>2</integer>
-                <integer>2</integer>
-                <integer>2</integer>
-                <integer>9</integer>
-                <integer>2</integer>
-                <integer>4</integer>
-              </array>
-            </array>
-            <array>
               <string>GASP Table</string>
               <dict>
                 <key>14</key>
@@ -71,21 +56,6 @@
         <dict>
           <key>com.schriftgestaltung.customParameters</key>
           <array>
-            <array>
-              <string>panose</string>
-              <array>
-                <integer>2</integer>
-                <integer>11</integer>
-                <integer>6</integer>
-                <integer>4</integer>
-                <integer>2</integer>
-                <integer>2</integer>
-                <integer>2</integer>
-                <integer>9</integer>
-                <integer>2</integer>
-                <integer>4</integer>
-              </array>
-            </array>
             <array>
               <string>GASP Table</string>
               <dict>
