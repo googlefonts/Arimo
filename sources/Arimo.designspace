@@ -21,53 +21,12 @@
     </source>
   </sources>
   <instances>
-    <instance name="Arimo Regular" familyname="Arimo" stylename="Regular" filename="../instance_ufo/Arimo-Regular.ufo" postscriptfontname="Arimo" stylemapfamilyname="Arimo" stylemapstylename="regular">
+    <instance name="Arimo Regular" familyname="Arimo" stylename="Regular" filename="../instance_ufo/Arimo-Regular.ufo" postscriptfontname="Arimo-Regular" stylemapfamilyname="Arimo" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="400"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>panose</string>
-              <array>
-                <integer>2</integer>
-                <integer>11</integer>
-                <integer>6</integer>
-                <integer>4</integer>
-                <integer>2</integer>
-                <integer>2</integer>
-                <integer>2</integer>
-                <integer>2</integer>
-                <integer>2</integer>
-                <integer>4</integer>
-              </array>
-            </array>
-            <array>
-              <string>uniqueID</string>
-              <string>Monotype Imaging - Arimo</string>
-            </array>
-            <array>
-              <string>postscriptFullName</string>
-              <string>Arimo</string>
-            </array>
-            <array>
-              <string>GASP Table</string>
-              <dict>
-                <key>14</key>
-                <integer>7</integer>
-                <key>65535</key>
-                <integer>15</integer>
-                <key>8</key>
-                <integer>10</integer>
-              </dict>
-            </array>
-          </array>
-        </dict>
-      </lib>
     </instance>
     <instance name="Arimo Bold" familyname="Arimo" stylename="Bold" filename="../instance_ufo/Arimo-Bold.ufo" postscriptfontname="Arimo-Bold" stylemapfamilyname="Arimo" stylemapstylename="bold">
       <location>
@@ -75,47 +34,6 @@
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>panose</string>
-              <array>
-                <integer>2</integer>
-                <integer>11</integer>
-                <integer>6</integer>
-                <integer>4</integer>
-                <integer>2</integer>
-                <integer>2</integer>
-                <integer>2</integer>
-                <integer>2</integer>
-                <integer>2</integer>
-                <integer>4</integer>
-              </array>
-            </array>
-            <array>
-              <string>uniqueID</string>
-              <string>Monotype Imaging - Arimo</string>
-            </array>
-            <array>
-              <string>postscriptFullName</string>
-              <string>Arimo</string>
-            </array>
-            <array>
-              <string>GASP Table</string>
-              <dict>
-                <key>14</key>
-                <integer>7</integer>
-                <key>65535</key>
-                <integer>15</integer>
-                <key>8</key>
-                <integer>10</integer>
-              </dict>
-            </array>
-          </array>
-        </dict>
-      </lib>
     </instance>
   </instances>
 </designspace>
