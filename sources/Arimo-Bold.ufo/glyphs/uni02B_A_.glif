@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni02BA" format="2">
-  <advance width="971"/>
+  <advance width="981"/>
   <unicode hex="02BA"/>
   <note>
 uni02BA
 </note>
   <outline>
-    <component base="quotedbl"/>
+    <component base="minute"/>
+    <component base="minute" xOffset="489"/>
   </outline>
 </glyph>
