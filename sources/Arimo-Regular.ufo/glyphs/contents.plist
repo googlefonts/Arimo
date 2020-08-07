@@ -872,6 +872,8 @@
     <string>fl.glif</string>
     <key>florin</key>
     <string>florin.glif</string>
+    <key>florin.alt1</key>
+    <string>florin.alt1.glif</string>
     <key>four</key>
     <string>four.glif</string>
     <key>four.alt</key>

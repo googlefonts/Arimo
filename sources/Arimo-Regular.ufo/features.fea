@@ -7,7 +7,7 @@ languagesystem hebr dflt;
 languagesystem latn dflt;
 languagesystem latn MAH ;
 
-@GDEF_base = [.notdef .null nonmarkingreturn space exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen period slash zero one two three four five six seven eight nine colon semicolon less equal greater question at A B C D E F G H I J K L M N O P Q R S T U V W X Y Z bracketleft backslash bracketright asciicircum underscore grave a b c d e f g h i j k l m n o p q r s t u v w x y z braceleft bar braceright asciitilde Adieresis Aring Ccedilla Eacute Ntilde Odieresis Udieresis aacute agrave acircumflex adieresis atilde aring ccedilla eacute egrave ecircumflex edieresis iacute igrave icircumflex idieresis ntilde oacute ograve ocircumflex odieresis otilde uacute ugrave ucircumflex udieresis dagger degree cent sterling section bullet paragraph germandbls registered copyright trademark acute dieresis notequal AE Oslash infinity plusminus lessequal greaterequal yen mu1 partialdiff summation product integral ordfeminine ordmasculine Ohm ae oslash questiondown exclamdown logicalnot radical florin approxequal uni2206 guillemotleft guillemotright ellipsis Agrave Atilde Otilde OE oe ];
+@GDEF_base = [.notdef .null nonmarkingreturn space exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen period slash zero one two three four five six seven eight nine colon semicolon less equal greater question at A B C D E F G H I J K L M N O P Q R S T U V W X Y Z bracketleft backslash bracketright asciicircum underscore grave a b c d e f g h i j k l m n o p q r s t u v w x y z braceleft bar braceright asciitilde Adieresis Aring Ccedilla Eacute Ntilde Odieresis Udieresis aacute agrave acircumflex adieresis atilde aring ccedilla eacute egrave ecircumflex edieresis iacute igrave icircumflex idieresis ntilde oacute ograve ocircumflex odieresis otilde uacute ugrave ucircumflex udieresis dagger degree cent sterling section bullet paragraph germandbls registered copyright trademark acute dieresis notequal AE Oslash infinity plusminus lessequal greaterequal yen mu1 partialdiff summation product integral ordfeminine ordmasculine Ohm ae oslash questiondown exclamdown logicalnot radical florin florin.alt1 approxequal uni2206 guillemotleft guillemotright ellipsis Agrave Atilde Otilde OE oe ];
 	@_MarkAttachmentType_1 = [ uniFE20 uniFE21 uniFE22 uniFE23 ];
 	@_MarkAttachmentType_2 = [ hookabovecomb tildecomb gravecomb acutecomb uni0302 uni0304 uni0305
 	uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030D
@@ -4341,6 +4341,9 @@ lookup gpos_18_mark_to_base {
     position base f <anchor 340 1580> mark @_MARKCLASS_0_lookup_18;
     position base f <anchor 560 1540> mark @_MARKCLASS_1_lookup_18;
     position base f <anchor 280 -130> mark @_MARKCLASS_2_lookup_18;
+    position base florin <anchor 340 1580> mark @_MARKCLASS_0_lookup_18;
+    position base florin <anchor 560 1540> mark @_MARKCLASS_1_lookup_18;
+    position base florin <anchor 280 -130> mark @_MARKCLASS_2_lookup_18;
     position base g <anchor 500 1200> mark @_MARKCLASS_0_lookup_18;
     position base g <anchor 980 1200> mark @_MARKCLASS_1_lookup_18;
     position base g <anchor 540 -540> mark @_MARKCLASS_2_lookup_18;
@@ -4512,9 +4515,9 @@ lookup gpos_18_mark_to_base {
     position base oslash <anchor 620 1200> mark @_MARKCLASS_0_lookup_18;
     position base oslash <anchor 1020 1200> mark @_MARKCLASS_1_lookup_18;
     position base oslash <anchor 620 -130> mark @_MARKCLASS_2_lookup_18;
-    position base florin <anchor 800 1540> mark @_MARKCLASS_0_lookup_18;
-    position base florin <anchor 920 1540> mark @_MARKCLASS_1_lookup_18;
-    position base florin <anchor 260 -540> mark @_MARKCLASS_2_lookup_18;
+    position base florin.alt1 <anchor 800 1540> mark @_MARKCLASS_0_lookup_18;
+    position base florin.alt1 <anchor 920 1540> mark @_MARKCLASS_1_lookup_18;
+    position base florin.alt1 <anchor 260 -540> mark @_MARKCLASS_2_lookup_18;
     position base Agrave <anchor 600 1840> mark @_MARKCLASS_0_lookup_18;
     position base Agrave <anchor 1100 1540> mark @_MARKCLASS_1_lookup_18;
     position base Agrave <anchor 680 -130> mark @_MARKCLASS_2_lookup_18;
@@ -6525,6 +6528,7 @@ lookup gpos_20_mark_to_base {
     position base d <anchor 981 1500> mark @_MARKCLASS_0_lookup_20;
     position base e <anchor 990 900> mark @_MARKCLASS_0_lookup_20;
     position base f <anchor 560 1500> mark @_MARKCLASS_0_lookup_20;
+    position base florin <anchor 560 1500> mark @_MARKCLASS_0_lookup_20;
     position base g <anchor 1000 1100> mark @_MARKCLASS_0_lookup_20;
     position base h <anchor 990 900> mark @_MARKCLASS_0_lookup_20;
     position base i <anchor 320 1100> mark @_MARKCLASS_0_lookup_20;
@@ -6627,6 +6631,7 @@ lookup gpos_21_mark_to_base {
     position base d <anchor 904 1400> mark @_MARKCLASS_0_lookup_21;
     position base e <anchor 930 800> mark @_MARKCLASS_0_lookup_21;
     position base f <anchor 450 1400> mark @_MARKCLASS_0_lookup_21;
+    position base florin <anchor 450 1400> mark @_MARKCLASS_0_lookup_21;
     position base g <anchor 910 1000> mark @_MARKCLASS_0_lookup_21;
     position base h <anchor 915 800> mark @_MARKCLASS_0_lookup_21;
     position base i <anchor 310 1000> mark @_MARKCLASS_0_lookup_21;
@@ -6741,6 +6746,8 @@ lookup gpos_22_mark_to_base {
     position base e <anchor 1139 -380> mark @_MARKCLASS_1_lookup_22;
     position base f <anchor 569 1540> mark @_MARKCLASS_0_lookup_22;
     position base f <anchor 569 -380> mark @_MARKCLASS_1_lookup_22;
+    position base florin <anchor 569 1540> mark @_MARKCLASS_0_lookup_22;
+    position base florin <anchor 569 -380> mark @_MARKCLASS_1_lookup_22;
     position base g <anchor 1139 1540> mark @_MARKCLASS_0_lookup_22;
     position base g <anchor 1139 -380> mark @_MARKCLASS_1_lookup_22;
     position base h <anchor 1139 1540> mark @_MARKCLASS_0_lookup_22;
@@ -6855,8 +6862,8 @@ lookup gpos_22_mark_to_base {
     position base ae <anchor 1821 -380> mark @_MARKCLASS_1_lookup_22;
     position base oslash <anchor 1139 1540> mark @_MARKCLASS_0_lookup_22;
     position base oslash <anchor 1139 -380> mark @_MARKCLASS_1_lookup_22;
-    position base florin <anchor 1139 1540> mark @_MARKCLASS_0_lookup_22;
-    position base florin <anchor 1139 -380> mark @_MARKCLASS_1_lookup_22;
+    position base florin.alt1 <anchor 1139 1540> mark @_MARKCLASS_0_lookup_22;
+    position base florin.alt1 <anchor 1139 -380> mark @_MARKCLASS_1_lookup_22;
     position base Agrave <anchor 1366 1840> mark @_MARKCLASS_0_lookup_22;
     position base Agrave <anchor 1366 -380> mark @_MARKCLASS_1_lookup_22;
     position base Atilde <anchor 1366 1840> mark @_MARKCLASS_0_lookup_22;
@@ -8385,6 +8392,8 @@ lookup gpos_23_mark_to_base {
     position base e <anchor 0 1840> mark @_MARKCLASS_1_lookup_23;
     position base f <anchor 569 1840> mark @_MARKCLASS_0_lookup_23;
     position base f <anchor 0 1840> mark @_MARKCLASS_1_lookup_23;
+    position base florin <anchor 569 1840> mark @_MARKCLASS_0_lookup_23;
+    position base florin <anchor 0 1840> mark @_MARKCLASS_1_lookup_23;
     position base g <anchor 1139 1840> mark @_MARKCLASS_0_lookup_23;
     position base g <anchor 0 1840> mark @_MARKCLASS_1_lookup_23;
     position base h <anchor 1139 1840> mark @_MARKCLASS_0_lookup_23;
@@ -8499,8 +8508,8 @@ lookup gpos_23_mark_to_base {
     position base ae <anchor 0 1840> mark @_MARKCLASS_1_lookup_23;
     position base oslash <anchor 1251 1840> mark @_MARKCLASS_0_lookup_23;
     position base oslash <anchor 0 1840> mark @_MARKCLASS_1_lookup_23;
-    position base florin <anchor 1139 1840> mark @_MARKCLASS_0_lookup_23;
-    position base florin <anchor 0 1840> mark @_MARKCLASS_1_lookup_23;
+    position base florin.alt1 <anchor 1139 1840> mark @_MARKCLASS_0_lookup_23;
+    position base florin.alt1 <anchor 0 1840> mark @_MARKCLASS_1_lookup_23;
     position base Agrave <anchor 1366 1840> mark @_MARKCLASS_0_lookup_23;
     position base Agrave <anchor 0 1840> mark @_MARKCLASS_1_lookup_23;
     position base Atilde <anchor 1366 1840> mark @_MARKCLASS_0_lookup_23;
@@ -9993,6 +10002,7 @@ lookup gpos_24_mark_to_base {
     position base d <anchor 850 0> mark @_MARKCLASS_0_lookup_24;
     position base e <anchor 680 0> mark @_MARKCLASS_0_lookup_24;
     position base f <anchor 200 0> mark @_MARKCLASS_0_lookup_24;
+    position base florin <anchor 200 0> mark @_MARKCLASS_0_lookup_24;
     position base g <anchor 660 -400> mark @_MARKCLASS_0_lookup_24;
     position base h <anchor 850 0> mark @_MARKCLASS_0_lookup_24;
     position base i <anchor 160 0> mark @_MARKCLASS_0_lookup_24;
@@ -10050,7 +10060,7 @@ lookup gpos_24_mark_to_base {
     position base Oslash <anchor 920 0> mark @_MARKCLASS_0_lookup_24;
     position base ae <anchor 1360 0> mark @_MARKCLASS_0_lookup_24;
     position base oslash <anchor 680 0> mark @_MARKCLASS_0_lookup_24;
-    position base florin <anchor 260 -400> mark @_MARKCLASS_0_lookup_24;
+    position base florin.alt1 <anchor 260 -400> mark @_MARKCLASS_0_lookup_24;
     position base Agrave <anchor 1200 0> mark @_MARKCLASS_0_lookup_24;
     position base Atilde <anchor 1200 0> mark @_MARKCLASS_0_lookup_24;
     position base Otilde <anchor 920 0> mark @_MARKCLASS_0_lookup_24;
