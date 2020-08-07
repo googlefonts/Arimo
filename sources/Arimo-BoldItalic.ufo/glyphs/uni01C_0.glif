@@ -6,7 +6,12 @@
 uni01C0
 </note>
   <outline>
-    <component base="l" xOffset="2"/>
+    <contour>
+      <point x="556" y="1484" type="line"/>
+      <point x="375" y="1484" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
