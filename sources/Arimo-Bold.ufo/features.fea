@@ -11626,6 +11626,11 @@ feature mkmk {
 			lookup gpos_26_mark_to_mark;
 		} mkmk;
 
+feature aalt {
+	sub Eng by [Eng.alt1 Eng.alt2 Eng.alt3];
+	sub florin by florin.alt1;
+} aalt;
+
 
 #GDEF
 
