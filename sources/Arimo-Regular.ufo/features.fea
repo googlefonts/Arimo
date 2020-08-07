@@ -11627,7 +11627,7 @@ feature mkmk {
 		} mkmk;
 
 feature aalt {
-	sub Eng by [Eng.alt1 Eng.alt2 Eng.alt3];
+	sub Eng from [Eng.alt1 Eng.alt2 Eng.alt3];
 	sub florin by florin.alt1;
 } aalt;
 
