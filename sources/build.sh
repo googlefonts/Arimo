@@ -12,13 +12,10 @@ rm -rf ../fonts
 
 echo "Generating Static fonts"
 mkdir -p ../fonts
-mkdir -p ../fonts/otf
 mkdir -p ../fonts/ttf
 mkdir -p ../fonts/vf
 fontmake -m Arimo.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m Arimo.designspace -i -o otf --output-dir ../fonts/otf/
 fontmake -m Arimo-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m Arimo-Italic.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
 fontmake -m Arimo.designspace -o variable --output-path ../fonts/vf/Arimo[wght].ttf
