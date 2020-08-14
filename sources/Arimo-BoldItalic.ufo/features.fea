@@ -279,19 +279,15 @@ lookup gsub_8_ligature {
     sub yodyod patah by yodyod_patah ;
     } gsub_8_ligature ;
 
-lookup gsub_9_single {
-	sub i by dotlessi ;
-	sub j by j.dotless ;
-	sub uni0268 by bari.dotless ;
-    } gsub_9_single ;
-
 lookup gsub_2_chained {
     lookupflag RightToLeft  ;
     sub [ alef bet kaf pe yodyod ]' lookup gsub_8_ligature [ uni25CC alef bet gimel dalet he vav zayin het tet yod finalkaf kaf lamed finalmem mem finalnun nun samekh ayin finalpe pe finaltsadi tsadi qof resh shin tav vavvav vavyod yodyod alefwide daletwide hewide kafwide lamedwide finalmemwide reshwide tavwide ] ;
     } gsub_2_chained ;
 
 lookup gsub_4_chained {
-    sub [ i j uni0268 ]' lookup gsub_9_single [ hookabovecomb tildecomb gravecomb acutecomb uni0302 uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni031A uni033D uni033E uni033F uni0342 uni0343 uni0344 uni0346 uni034A uni034B uni034C uni0363 uni0364 uni0365 uni0366 uni0367 uni0368 uni0369 uni036A uni036B uni036C uni036D uni036E uni036F uni0483 uni0484 uni0485 uni0486 uni0350 uni0351 uni0352 uni0357 uni035B uni1DC0 uni1DC1 uni1DC3 uni1DC4 uni1DC5 uni1DC6 uni1DC7 uni1DC8 uni1DC9 uni1DFE ] ;
+    sub i' @_MarkAttachmentType_2 by dotlessi ;
+    sub j' @_MarkAttachmentType_2 by j.dotless ;
+    sub uni0268' @_MarkAttachmentType_2 by bari.dotless ;
     } gsub_4_chained ;
 
 
