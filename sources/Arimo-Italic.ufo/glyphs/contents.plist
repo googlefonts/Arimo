@@ -1130,6 +1130,8 @@
     <string>nacute.glif</string>
     <key>napostrophe</key>
     <string>napostrophe.glif</string>
+    <key>nbspace</key>
+    <string>nbspace.glif</string>
     <key>ncaron</key>
     <string>ncaron.glif</string>
     <key>ncommaaccent</key>

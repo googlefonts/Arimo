@@ -3358,6 +3358,7 @@
       <string>circumflexgrave.lc</string>
       <string>circumflexhook.lc</string>
       <string>circumflextilde.lc</string>
+      <string>nbspace</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

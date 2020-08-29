@@ -3342,6 +3342,7 @@
       <string>ncommaaccent.loclMAH</string>
       <string>uni0431.loclSRB</string>
       <string>uni2016</string>
+      <string>nbspace</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
