@@ -4,9 +4,9 @@
   <note>
 uni033E
 </note>
-  <anchor x="110" y="1140" name="_gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
-  <anchor x="110" y="1140" name="_gpos_25_mark_to_mark__MARKCLASS_0_lookup_25"/>
-  <anchor x="143" y="1760" name="gpos_25_mark_to_mark__MARKCLASS_0_lookup_25"/>
+  <anchor x="110" y="1140" name="_top"/>
+  <anchor x="110" y="1140" name="_topmkmk"/>
+  <anchor x="143" y="1760" name="topmkmk"/>
   <outline>
     <contour>
       <point x="250" y="1282" type="curve" smooth="yes"/>

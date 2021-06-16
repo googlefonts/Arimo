@@ -4,10 +4,10 @@
   <note>
 gravecomb
 </note>
-  <anchor x="-260" y="1560" name="_gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
-  <anchor x="-260" y="1540" name="_gpos_19_mark_to_base__MARKCLASS_0_lookup_19"/>
-  <anchor x="-260" y="1560" name="_gpos_25_mark_to_mark__MARKCLASS_0_lookup_25"/>
-  <anchor x="-310" y="1940" name="gpos_25_mark_to_mark__MARKCLASS_0_lookup_25"/>
+  <anchor x="-260" y="1560" name="_top"/>
+  <anchor x="-260" y="1540" name="_cytop"/>
+  <anchor x="-260" y="1560" name="_topmkmk"/>
+  <anchor x="-310" y="1940" name="topmkmk"/>
   <outline>
     <contour>
       <point x="-125" y="1599" type="line"/>

@@ -4,9 +4,9 @@
   <note>
 uni05A7
 </note>
-  <anchor x="0" y="20" name="_gpos_6_mark_to_base__MARKCLASS_0_lookup_6"/>
-  <anchor x="-200" y="20" name="_gpos_29_mark_to_base__MARKCLASS_0_lookup_29"/>
-  <anchor x="180" y="20" name="_gpos_31_mark_to_base__MARKCLASS_0_lookup_31"/>
+  <anchor x="0" y="20" name="_hebrewbottom1"/>
+  <anchor x="-200" y="20" name="_hebrewbottom2"/>
+  <anchor x="180" y="20" name="_hebrewbottom3"/>
   <outline>
     <contour>
       <point x="156" y="-334" type="line"/>

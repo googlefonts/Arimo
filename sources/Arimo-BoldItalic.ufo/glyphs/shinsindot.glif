@@ -5,19 +5,19 @@
   <note>
 shinsindot
 </note>
-  <anchor x="-80" y="1430" name="gpos_1_mark_to_base__MARKCLASS_0_lookup_1"/>
-  <anchor x="1050" y="600" name="gpos_4_mark_to_base__MARKCLASS_0_lookup_4"/>
-  <anchor x="960" y="1350" name="gpos_5_mark_to_base__MARKCLASS_0_lookup_5"/>
-  <anchor x="960" y="1700" name="gpos_5_mark_to_base__MARKCLASS_1_lookup_5"/>
-  <anchor x="700" y="0" name="gpos_6_mark_to_base__MARKCLASS_0_lookup_6"/>
-  <anchor x="700" y="0" name="gpos_6_mark_to_base__MARKCLASS_1_lookup_6"/>
-  <anchor x="40" y="1350" name="gpos_11_mark_to_base__MARKCLASS_0_lookup_11"/>
-  <anchor x="1460" y="1350" name="gpos_12_mark_to_base__MARKCLASS_0_lookup_12"/>
-  <anchor x="1200" y="0" name="gpos_13_mark_to_base__MARKCLASS_0_lookup_13"/>
-  <anchor x="1520" y="1430" name="gpos_28_mark_to_base__MARKCLASS_0_lookup_28"/>
-  <anchor x="800" y="0" name="gpos_29_mark_to_base__MARKCLASS_0_lookup_29"/>
-  <anchor x="840" y="1350" name="gpos_30_mark_to_base__MARKCLASS_0_lookup_30"/>
-  <anchor x="800" y="0" name="gpos_31_mark_to_base__MARKCLASS_0_lookup_31"/>
+  <anchor x="-80" y="1430" name="holam"/>
+  <anchor x="1050" y="600" name="dagesh"/>
+  <anchor x="960" y="1350" name="hebrewtop1"/>
+  <anchor x="960" y="1700" name="upperdot"/>
+  <anchor x="700" y="0" name="hebrewbottom1"/>
+  <anchor x="700" y="0" name="hebrewbottomleft"/>
+  <anchor x="40" y="1350" name="hebrewtopleft"/>
+  <anchor x="1460" y="1350" name="hebrewtopright"/>
+  <anchor x="1200" y="0" name="hebrewbottomleft"/>
+  <anchor x="1520" y="1430" name="rafe"/>
+  <anchor x="800" y="0" name="hebrewbottom2"/>
+  <anchor x="840" y="1350" name="hebrewtop2"/>
+  <anchor x="800" y="0" name="hebrewbottom3"/>
   <outline>
     <component base="shin"/>
     <component base="holam" xOffset="147"/>

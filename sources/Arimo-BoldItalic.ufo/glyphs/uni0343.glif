@@ -4,9 +4,9 @@
   <note>
 uni0343
 </note>
-  <anchor x="0" y="840" name="_gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
-  <anchor x="0" y="840" name="_gpos_25_mark_to_mark__MARKCLASS_0_lookup_25"/>
-  <anchor x="132" y="1540" name="gpos_25_mark_to_mark__MARKCLASS_0_lookup_25"/>
+  <anchor x="0" y="840" name="_top"/>
+  <anchor x="0" y="840" name="_topmkmk"/>
+  <anchor x="132" y="1540" name="topmkmk"/>
   <outline>
     <component base="quoteright" xOffset="-279"/>
   </outline>

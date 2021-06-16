@@ -4,9 +4,9 @@
   <note>
 qamatsqatan
 </note>
-  <anchor x="150" y="0" name="_gpos_6_mark_to_base__MARKCLASS_0_lookup_6"/>
-  <anchor x="-140" y="0" name="_gpos_29_mark_to_base__MARKCLASS_0_lookup_29"/>
-  <anchor x="500" y="0" name="_gpos_31_mark_to_base__MARKCLASS_0_lookup_31"/>
+  <anchor x="150" y="0" name="_hebrewbottom1"/>
+  <anchor x="-140" y="0" name="_hebrewbottom2"/>
+  <anchor x="500" y="0" name="_hebrewbottom3"/>
   <outline>
     <contour>
       <point x="152" y="-365" type="line"/>

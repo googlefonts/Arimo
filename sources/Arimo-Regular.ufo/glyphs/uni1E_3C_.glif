@@ -5,14 +5,14 @@
   <note>
 uni1E3C
 </note>
-  <anchor x="680" y="1540" name="gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
-  <anchor x="900" y="1540" name="gpos_18_mark_to_base__MARKCLASS_1_lookup_18"/>
-  <anchor x="600" y="-440" name="gpos_18_mark_to_base__MARKCLASS_2_lookup_18"/>
-  <anchor x="1139" y="1540" name="gpos_22_mark_to_base__MARKCLASS_0_lookup_22"/>
-  <anchor x="1139" y="-380" name="gpos_22_mark_to_base__MARKCLASS_1_lookup_22"/>
-  <anchor x="1139" y="1840" name="gpos_23_mark_to_base__MARKCLASS_0_lookup_23"/>
-  <anchor x="0" y="1840" name="gpos_23_mark_to_base__MARKCLASS_1_lookup_23"/>
-  <anchor x="600" y="-400" name="gpos_24_mark_to_base__MARKCLASS_0_lookup_24"/>
+  <anchor x="680" y="1540" name="top"/>
+  <anchor x="900" y="1540" name="caronalt"/>
+  <anchor x="600" y="-440" name="bottom"/>
+  <anchor x="1139" y="1540" name="topdouble"/>
+  <anchor x="1139" y="-380" name="bottomdouble"/>
+  <anchor x="1139" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="600" y="-400" name="ogonek"/>
   <outline>
     <component base="L"/>
     <component base="uni032D" xOffset="612"/>

@@ -5,14 +5,14 @@
   <note>
 Cdotaccent
 </note>
-  <anchor x="950" y="1840" name="gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
-  <anchor x="1380" y="1540" name="gpos_18_mark_to_base__MARKCLASS_1_lookup_18"/>
-  <anchor x="680" y="-130" name="gpos_18_mark_to_base__MARKCLASS_2_lookup_18"/>
-  <anchor x="1479" y="1840" name="gpos_22_mark_to_base__MARKCLASS_0_lookup_22"/>
-  <anchor x="1479" y="-380" name="gpos_22_mark_to_base__MARKCLASS_1_lookup_22"/>
-  <anchor x="1479" y="1840" name="gpos_23_mark_to_base__MARKCLASS_0_lookup_23"/>
-  <anchor x="0" y="1840" name="gpos_23_mark_to_base__MARKCLASS_1_lookup_23"/>
-  <anchor x="890" y="0" name="gpos_24_mark_to_base__MARKCLASS_0_lookup_24"/>
+  <anchor x="950" y="1840" name="top"/>
+  <anchor x="1380" y="1540" name="caronalt"/>
+  <anchor x="680" y="-130" name="bottom"/>
+  <anchor x="1479" y="1840" name="topdouble"/>
+  <anchor x="1479" y="-380" name="bottomdouble"/>
+  <anchor x="1479" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="890" y="0" name="ogonek"/>
   <outline>
     <component base="C"/>
     <component base="dotaccent" xOffset="525" yOffset="218"/>

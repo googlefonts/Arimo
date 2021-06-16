@@ -5,14 +5,14 @@
   <note>
 uni1E39
 </note>
-  <anchor x="234" y="1800" name="gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
-  <anchor x="580" y="1540" name="gpos_18_mark_to_base__MARKCLASS_1_lookup_18"/>
-  <anchor x="230" y="-440" name="gpos_18_mark_to_base__MARKCLASS_2_lookup_18"/>
-  <anchor x="455" y="1840" name="gpos_22_mark_to_base__MARKCLASS_0_lookup_22"/>
-  <anchor x="455" y="-380" name="gpos_22_mark_to_base__MARKCLASS_1_lookup_22"/>
-  <anchor x="455" y="1840" name="gpos_23_mark_to_base__MARKCLASS_0_lookup_23"/>
-  <anchor x="0" y="1840" name="gpos_23_mark_to_base__MARKCLASS_1_lookup_23"/>
-  <anchor x="170" y="-310" name="gpos_24_mark_to_base__MARKCLASS_0_lookup_24"/>
+  <anchor x="234" y="1800" name="top"/>
+  <anchor x="580" y="1540" name="caronalt"/>
+  <anchor x="230" y="-440" name="bottom"/>
+  <anchor x="455" y="1840" name="topdouble"/>
+  <anchor x="455" y="-380" name="bottomdouble"/>
+  <anchor x="455" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="170" y="-310" name="ogonek"/>
   <outline>
     <component base="l"/>
     <component base="dotbelow.alt1" xOffset="379"/>

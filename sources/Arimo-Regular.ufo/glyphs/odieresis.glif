@@ -5,15 +5,15 @@
   <note>
 odieresis
 </note>
-  <anchor x="580" y="1580" name="gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
-  <anchor x="960" y="1260" name="gpos_18_mark_to_base__MARKCLASS_1_lookup_18"/>
-  <anchor x="580" y="-130" name="gpos_18_mark_to_base__MARKCLASS_2_lookup_18"/>
-  <anchor x="990" y="900" name="gpos_20_mark_to_base__MARKCLASS_0_lookup_20"/>
-  <anchor x="1139" y="1540" name="gpos_22_mark_to_base__MARKCLASS_0_lookup_22"/>
-  <anchor x="1139" y="-380" name="gpos_22_mark_to_base__MARKCLASS_1_lookup_22"/>
-  <anchor x="1139" y="1840" name="gpos_23_mark_to_base__MARKCLASS_0_lookup_23"/>
-  <anchor x="0" y="1840" name="gpos_23_mark_to_base__MARKCLASS_1_lookup_23"/>
-  <anchor x="680" y="0" name="gpos_24_mark_to_base__MARKCLASS_0_lookup_24"/>
+  <anchor x="580" y="1580" name="top"/>
+  <anchor x="960" y="1260" name="caronalt"/>
+  <anchor x="580" y="-130" name="bottom"/>
+  <anchor x="990" y="900" name="rhotic"/>
+  <anchor x="1139" y="1540" name="topdouble"/>
+  <anchor x="1139" y="-380" name="bottomdouble"/>
+  <anchor x="1139" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="680" y="0" name="ogonek"/>
   <outline>
     <component base="o"/>
     <component base="dieresis" xOffset="250"/>

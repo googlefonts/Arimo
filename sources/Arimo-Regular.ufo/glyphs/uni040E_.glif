@@ -5,7 +5,7 @@
   <note>
 uni040E
 </note>
-  <anchor x="675" y="1900" name="gpos_19_mark_to_base__MARKCLASS_0_lookup_19"/>
+  <anchor x="675" y="1900" name="cytop"/>
   <outline>
     <component base="uni0423"/>
     <component base="breve.cyr" xOffset="350" yOffset="330"/>

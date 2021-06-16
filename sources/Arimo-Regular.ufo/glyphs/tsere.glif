@@ -4,9 +4,9 @@
   <note>
 tsere
 </note>
-  <anchor x="0" y="0" name="_gpos_6_mark_to_base__MARKCLASS_0_lookup_6"/>
-  <anchor x="-240" y="20" name="_gpos_29_mark_to_base__MARKCLASS_0_lookup_29"/>
-  <anchor x="240" y="20" name="_gpos_31_mark_to_base__MARKCLASS_0_lookup_31"/>
+  <anchor x="0" y="0" name="_hebrewbottom1"/>
+  <anchor x="-240" y="20" name="_hebrewbottom2"/>
+  <anchor x="240" y="20" name="_hebrewbottom3"/>
   <outline>
     <contour>
       <point x="-195" y="-268" type="curve"/>

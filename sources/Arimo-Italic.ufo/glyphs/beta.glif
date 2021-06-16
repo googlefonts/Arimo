@@ -5,9 +5,9 @@
   <note>
 beta
 </note>
-  <anchor x="690" y="1580" name="gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
-  <anchor x="1130" y="990" name="gpos_18_mark_to_base__MARKCLASS_1_lookup_18"/>
-  <anchor x="590" y="-110" name="gpos_18_mark_to_base__MARKCLASS_2_lookup_18"/>
+  <anchor x="690" y="1580" name="top"/>
+  <anchor x="1130" y="990" name="caronalt"/>
+  <anchor x="590" y="-110" name="bottom"/>
   <outline>
     <contour>
       <point x="752" y="1484" type="curve"/>
