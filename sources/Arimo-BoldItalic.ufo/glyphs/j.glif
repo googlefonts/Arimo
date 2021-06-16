@@ -5,6 +5,16 @@
   <note>
 j
 </note>
+  <anchor x="440" y="1580" name="gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
+  <anchor x="460" y="1540" name="gpos_18_mark_to_base__MARKCLASS_1_lookup_18"/>
+  <anchor x="200" y="-540" name="gpos_18_mark_to_base__MARKCLASS_2_lookup_18"/>
+  <anchor x="410" y="1100" name="gpos_20_mark_to_base__MARKCLASS_0_lookup_20"/>
+  <anchor x="480" y="1000" name="gpos_21_mark_to_base__MARKCLASS_0_lookup_21"/>
+  <anchor x="569" y="1540" name="gpos_22_mark_to_base__MARKCLASS_0_lookup_22"/>
+  <anchor x="569" y="-380" name="gpos_22_mark_to_base__MARKCLASS_1_lookup_22"/>
+  <anchor x="569" y="1840" name="gpos_23_mark_to_base__MARKCLASS_0_lookup_23"/>
+  <anchor x="0" y="1840" name="gpos_23_mark_to_base__MARKCLASS_1_lookup_23"/>
+  <anchor x="130" y="-400" name="gpos_24_mark_to_base__MARKCLASS_0_lookup_24"/>
   <outline>
     <contour>
       <point x="604" y="1484" type="line"/>

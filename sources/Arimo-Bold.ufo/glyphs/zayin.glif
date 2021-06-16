@@ -5,6 +5,18 @@
   <note>
 zayin
 </note>
+  <anchor x="0" y="1430" name="gpos_1_mark_to_base__MARKCLASS_0_lookup_1"/>
+  <anchor x="420" y="1350" name="gpos_5_mark_to_base__MARKCLASS_0_lookup_5"/>
+  <anchor x="420" y="1700" name="gpos_5_mark_to_base__MARKCLASS_1_lookup_5"/>
+  <anchor x="360" y="0" name="gpos_6_mark_to_base__MARKCLASS_0_lookup_7"/>
+  <anchor x="360" y="0" name="gpos_6_mark_to_base__MARKCLASS_1_lookup_7"/>
+  <anchor x="140" y="1350" name="gpos_11_mark_to_base__MARKCLASS_0_lookup_11"/>
+  <anchor x="520" y="1350" name="gpos_12_mark_to_base__MARKCLASS_0_lookup_12"/>
+  <anchor x="240" y="0" name="gpos_13_mark_to_base__MARKCLASS_0_lookup_13"/>
+  <anchor x="580" y="1430" name="gpos_28_mark_to_base__MARKCLASS_0_lookup_28"/>
+  <anchor x="360" y="0" name="gpos_29_mark_to_base__MARKCLASS_0_lookup_29"/>
+  <anchor x="420" y="1350" name="gpos_30_mark_to_base__MARKCLASS_0_lookup_30"/>
+  <anchor x="360" y="0" name="gpos_31_mark_to_base__MARKCLASS_0_lookup_31"/>
   <outline>
     <contour>
       <point x="485" y="598" type="line" smooth="yes"/>

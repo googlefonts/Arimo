@@ -5,6 +5,14 @@
   <note>
 napostrophe
 </note>
+  <anchor x="920" y="1200" name="gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
+  <anchor x="1280" y="1260" name="gpos_18_mark_to_base__MARKCLASS_1_lookup_18"/>
+  <anchor x="830" y="-130" name="gpos_18_mark_to_base__MARKCLASS_2_lookup_18"/>
+  <anchor x="1451" y="1540" name="gpos_22_mark_to_base__MARKCLASS_0_lookup_22"/>
+  <anchor x="1451" y="-380" name="gpos_22_mark_to_base__MARKCLASS_1_lookup_22"/>
+  <anchor x="1451" y="1840" name="gpos_23_mark_to_base__MARKCLASS_0_lookup_23"/>
+  <anchor x="0" y="1840" name="gpos_23_mark_to_base__MARKCLASS_1_lookup_23"/>
+  <anchor x="1110" y="0" name="gpos_24_mark_to_base__MARKCLASS_0_lookup_24"/>
   <outline>
     <component base="n" xOffset="200"/>
     <component base="quoteright" xOffset="-181"/>

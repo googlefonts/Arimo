@@ -5,6 +5,14 @@
   <note>
 uni024A
 </note>
+  <anchor x="780" y="1540" name="gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
+  <anchor x="1420" y="1540" name="gpos_18_mark_to_base__MARKCLASS_1_lookup_18"/>
+  <anchor x="730" y="-440" name="gpos_18_mark_to_base__MARKCLASS_2_lookup_18"/>
+  <anchor x="1587" y="1540" name="gpos_22_mark_to_base__MARKCLASS_0_lookup_22"/>
+  <anchor x="1587" y="-380" name="gpos_22_mark_to_base__MARKCLASS_1_lookup_22"/>
+  <anchor x="1587" y="1840" name="gpos_23_mark_to_base__MARKCLASS_0_lookup_23"/>
+  <anchor x="0" y="1840" name="gpos_23_mark_to_base__MARKCLASS_1_lookup_23"/>
+  <anchor x="1360" y="-400" name="gpos_24_mark_to_base__MARKCLASS_0_lookup_24"/>
   <outline>
     <contour>
       <point x="1520" y="-188" type="curve" smooth="yes"/>

@@ -5,6 +5,28 @@
   <note>
 uni25CC
 </note>
+  <anchor x="100" y="1441" name="gpos_1_mark_to_base__MARKCLASS_0_lookup_1"/>
+  <anchor x="600" y="1430" name="gpos_3_mark_to_base__MARKCLASS_0_lookup_3"/>
+  <anchor x="600" y="600" name="gpos_4_mark_to_base__MARKCLASS_0_lookup_4"/>
+  <anchor x="600" y="1350" name="gpos_5_mark_to_base__MARKCLASS_0_lookup_5"/>
+  <anchor x="600" y="1700" name="gpos_5_mark_to_base__MARKCLASS_1_lookup_5"/>
+  <anchor x="560" y="0" name="gpos_6_mark_to_base__MARKCLASS_0_lookup_6"/>
+  <anchor x="560" y="0" name="gpos_6_mark_to_base__MARKCLASS_1_lookup_6"/>
+  <anchor x="240" y="1350" name="gpos_11_mark_to_base__MARKCLASS_0_lookup_11"/>
+  <anchor x="1000" y="1350" name="gpos_12_mark_to_base__MARKCLASS_0_lookup_12"/>
+  <anchor x="1000" y="0" name="gpos_13_mark_to_base__MARKCLASS_0_lookup_13"/>
+  <anchor x="600" y="1200" name="gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
+  <anchor x="1000" y="1200" name="gpos_18_mark_to_base__MARKCLASS_1_lookup_18"/>
+  <anchor x="600" y="-130" name="gpos_18_mark_to_base__MARKCLASS_2_lookup_18"/>
+  <anchor x="1200" y="1540" name="gpos_22_mark_to_base__MARKCLASS_0_lookup_22"/>
+  <anchor x="1200" y="-380" name="gpos_22_mark_to_base__MARKCLASS_1_lookup_22"/>
+  <anchor x="1200" y="1840" name="gpos_23_mark_to_base__MARKCLASS_0_lookup_23"/>
+  <anchor x="0" y="1840" name="gpos_23_mark_to_base__MARKCLASS_1_lookup_23"/>
+  <anchor x="960" y="0" name="gpos_24_mark_to_base__MARKCLASS_0_lookup_24"/>
+  <anchor x="1000" y="1430" name="gpos_28_mark_to_base__MARKCLASS_0_lookup_28"/>
+  <anchor x="600" y="0" name="gpos_29_mark_to_base__MARKCLASS_0_lookup_29"/>
+  <anchor x="600" y="1350" name="gpos_30_mark_to_base__MARKCLASS_0_lookup_30"/>
+  <anchor x="600" y="0" name="gpos_31_mark_to_base__MARKCLASS_0_lookup_31"/>
   <outline>
     <contour>
       <point x="662" y="1053" type="curve"/>

@@ -3,6 +3,9 @@
   <note>
 uni05B205BD
 </note>
+  <anchor x="-30" y="20" name="_gpos_6_mark_to_base__MARKCLASS_0_lookup_7"/>
+  <anchor x="-340" y="20" name="_gpos_29_mark_to_base__MARKCLASS_0_lookup_29"/>
+  <anchor x="400" y="20" name="_gpos_31_mark_to_base__MARKCLASS_0_lookup_31"/>
   <outline>
     <contour>
       <point x="220" y="-98" type="curve"/>

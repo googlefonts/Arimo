@@ -6,6 +6,9 @@ uni1DC1
 </note>
   <guideline x="71" y="1577" angle="0" identifier="aYQ93xL6gt"/>
   <guideline x="-31" y="1218" angle="0" identifier="rbyFKwe57C"/>
+  <anchor x="0" y="1220" name="_gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
+  <anchor x="0" y="1200" name="_gpos_25_mark_to_mark__MARKCLASS_0_lookup_25"/>
+  <anchor x="0" y="1680" name="gpos_25_mark_to_mark__MARKCLASS_0_lookup_25"/>
   <outline>
     <contour>
       <point x="167" y="1540" type="line"/>

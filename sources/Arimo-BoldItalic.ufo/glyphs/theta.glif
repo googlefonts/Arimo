@@ -5,6 +5,9 @@
   <note>
 theta
 </note>
+  <anchor x="700" y="1580" name="gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
+  <anchor x="1012" y="880" name="gpos_18_mark_to_base__MARKCLASS_1_lookup_18"/>
+  <anchor x="570" y="-110" name="gpos_18_mark_to_base__MARKCLASS_2_lookup_18"/>
   <outline>
     <contour>
       <point x="735" y="1484" type="curve"/>

@@ -5,6 +5,14 @@
   <note>
 uni01EA
 </note>
+  <anchor x="800" y="1540" name="gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
+  <anchor x="1300" y="1540" name="gpos_18_mark_to_base__MARKCLASS_1_lookup_18"/>
+  <anchor x="880" y="-540" name="gpos_18_mark_to_base__MARKCLASS_2_lookup_18"/>
+  <anchor x="1593" y="1540" name="gpos_22_mark_to_base__MARKCLASS_0_lookup_22"/>
+  <anchor x="1593" y="-380" name="gpos_22_mark_to_base__MARKCLASS_1_lookup_22"/>
+  <anchor x="1593" y="1840" name="gpos_23_mark_to_base__MARKCLASS_0_lookup_23"/>
+  <anchor x="0" y="1840" name="gpos_23_mark_to_base__MARKCLASS_1_lookup_23"/>
+  <anchor x="940" y="-400" name="gpos_24_mark_to_base__MARKCLASS_0_lookup_24"/>
   <outline>
     <component base="O"/>
     <component base="ogonek" xOffset="620"/>

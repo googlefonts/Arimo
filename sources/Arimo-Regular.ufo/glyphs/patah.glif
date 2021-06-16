@@ -4,6 +4,9 @@
   <note>
 patah
 </note>
+  <anchor x="0" y="0" name="_gpos_6_mark_to_base__MARKCLASS_0_lookup_6"/>
+  <anchor x="-240" y="20" name="_gpos_29_mark_to_base__MARKCLASS_0_lookup_29"/>
+  <anchor x="200" y="20" name="_gpos_31_mark_to_base__MARKCLASS_0_lookup_31"/>
   <outline>
     <contour>
       <point x="164" y="-125" type="line"/>

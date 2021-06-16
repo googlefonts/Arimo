@@ -4,6 +4,9 @@
   <note>
 meteg
 </note>
+  <anchor x="0" y="0" name="_gpos_6_mark_to_base__MARKCLASS_0_lookup_7"/>
+  <anchor x="-240" y="0" name="_gpos_29_mark_to_base__MARKCLASS_0_lookup_29"/>
+  <anchor x="120" y="0" name="_gpos_31_mark_to_base__MARKCLASS_0_lookup_31"/>
   <outline>
     <contour>
       <point x="55" y="-125" type="line"/>

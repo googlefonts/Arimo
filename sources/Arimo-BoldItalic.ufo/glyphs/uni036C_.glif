@@ -4,6 +4,9 @@
   <note>
 uni036C
 </note>
+  <anchor x="-100" y="480" name="_gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
+  <anchor x="-100" y="480" name="_gpos_25_mark_to_mark__MARKCLASS_0_lookup_25"/>
+  <anchor x="160" y="1680" name="gpos_25_mark_to_mark__MARKCLASS_0_lookup_25"/>
   <outline>
     <component base="uni02B3" xOffset="-281"/>
   </outline>

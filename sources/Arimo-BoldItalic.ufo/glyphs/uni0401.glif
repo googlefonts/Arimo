@@ -5,6 +5,7 @@
   <note>
 uni0401
 </note>
+  <anchor x="880" y="1840" name="gpos_19_mark_to_base__MARKCLASS_0_lookup_19"/>
   <outline>
     <component base="E"/>
     <component base="dieresis.uc" xOffset="380"/>

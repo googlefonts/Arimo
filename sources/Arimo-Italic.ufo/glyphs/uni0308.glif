@@ -4,6 +4,9 @@
   <note>
 uni0308
 </note>
+  <anchor x="-100" y="1210" name="_gpos_18_mark_to_base__MARKCLASS_0_lookup_18"/>
+  <anchor x="-100" y="1210" name="_gpos_25_mark_to_mark__MARKCLASS_0_lookup_25"/>
+  <anchor x="0" y="1600" name="gpos_25_mark_to_mark__MARKCLASS_0_lookup_25"/>
   <outline>
     <contour>
       <point x="296" y="1403" type="line"/>

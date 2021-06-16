@@ -5,6 +5,7 @@
   <note>
 uni044E
 </note>
+  <anchor x="800" y="1200" name="gpos_19_mark_to_base__MARKCLASS_0_lookup_19"/>
   <outline>
     <contour>
       <point x="1669" y="542" type="curve" smooth="yes"/>
