@@ -4,6 +4,8 @@
   <note>
 uniFB1E
 </note>
+  <anchor x="180" y="1430" name="_hebrewtop1"/>
+  <anchor x="100" y="1430" name="_rafe"/>
   <outline>
     <contour>
       <point x="584" y="1763" type="curve"/>

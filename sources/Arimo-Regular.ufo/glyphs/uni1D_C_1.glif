@@ -6,6 +6,9 @@ uni1DC1
 </note>
   <guideline x="71" y="1577" angle="0" identifier="aYQ93xL6gt"/>
   <guideline x="-31" y="1218" angle="0" identifier="rbyFKwe57C"/>
+  <anchor x="0" y="1220" name="_top"/>
+  <anchor x="0" y="1200" name="_topmkmk"/>
+  <anchor x="0" y="1680" name="topmkmk"/>
   <outline>
     <contour>
       <point x="167" y="1540" type="line"/>

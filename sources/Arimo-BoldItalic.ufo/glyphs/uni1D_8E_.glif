@@ -5,6 +5,14 @@
   <note>
 uni1D8E
 </note>
+  <anchor x="600" y="1200" name="top"/>
+  <anchor x="900" y="1260" name="caronalt"/>
+  <anchor x="500" y="-540" name="bottom"/>
+  <anchor x="1024" y="1540" name="topdouble"/>
+  <anchor x="1024" y="-380" name="bottomdouble"/>
+  <anchor x="1024" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="715" y="-400" name="ogonek"/>
   <outline>
     <contour>
       <point x="442" y="-209" type="curve" smooth="yes"/>

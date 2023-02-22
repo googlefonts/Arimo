@@ -5,6 +5,18 @@
   <note>
 tav
 </note>
+  <anchor x="0" y="1430" name="holam"/>
+  <anchor x="700" y="1350" name="hebrewtop1"/>
+  <anchor x="700" y="1700" name="upperdot"/>
+  <anchor x="740" y="0" name="hebrewbottom1"/>
+  <anchor x="740" y="0" name="hebrewbottomleft"/>
+  <anchor x="200" y="1350" name="hebrewtopleft"/>
+  <anchor x="1140" y="1350" name="hebrewtopright"/>
+  <anchor x="1040" y="0" name="hebrewbottomleft"/>
+  <anchor x="1240" y="1430" name="rafe"/>
+  <anchor x="740" y="0" name="hebrewbottom2"/>
+  <anchor x="700" y="1350" name="hebrewtop2"/>
+  <anchor x="740" y="0" name="hebrewbottom3"/>
   <outline>
     <contour>
       <point x="493" y="198" type="curve" smooth="yes"/>

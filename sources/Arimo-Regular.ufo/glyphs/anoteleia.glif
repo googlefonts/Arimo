@@ -7,10 +7,10 @@ anoteleia
 </note>
   <outline>
     <contour>
-      <point x="382" y="666" type="line"/>
-      <point x="187" y="666" type="line"/>
-      <point x="187" y="446" type="line"/>
-      <point x="382" y="446" type="line"/>
+      <point x="382" y="1082" type="line"/>
+      <point x="187" y="1082" type="line"/>
+      <point x="187" y="862" type="line"/>
+      <point x="382" y="862" type="line"/>
     </contour>
   </outline>
 </glyph>

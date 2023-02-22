@@ -4,6 +4,10 @@
   <note>
 gravecomb
 </note>
+  <anchor x="-360" y="1540" name="_top"/>
+  <anchor x="-300" y="1540" name="_cytop"/>
+  <anchor x="-360" y="1540" name="_topmkmk"/>
+  <anchor x="-460" y="1900" name="topmkmk"/>
   <outline>
     <contour>
       <point x="-179" y="1568" type="line"/>

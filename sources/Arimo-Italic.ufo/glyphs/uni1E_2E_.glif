@@ -5,6 +5,11 @@
   <note>
 uni1E2E
 </note>
+  <anchor x="569" y="1840" name="topdouble"/>
+  <anchor x="569" y="-380" name="bottomdouble"/>
+  <anchor x="569" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="200" y="0" name="ogonek"/>
   <outline>
     <component base="I"/>
     <component base="uni03080301.cap" xOffset="281"/>

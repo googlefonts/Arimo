@@ -3,6 +3,9 @@
   <note>
 uni05B205BD
 </note>
+  <anchor x="-60" y="20" name="_hebrewbottom1"/>
+  <anchor x="-340" y="20" name="_hebrewbottom2"/>
+  <anchor x="300" y="20" name="_hebrewbottom3"/>
   <outline>
     <contour>
       <point x="123" y="-98" type="curve"/>

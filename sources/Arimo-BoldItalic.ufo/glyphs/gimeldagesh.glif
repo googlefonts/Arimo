@@ -5,6 +5,18 @@
   <note>
 gimeldagesh
 </note>
+  <anchor x="60" y="1430" name="holam"/>
+  <anchor x="510" y="1350" name="hebrewtop1"/>
+  <anchor x="510" y="1700" name="upperdot"/>
+  <anchor x="420" y="0" name="hebrewbottom1"/>
+  <anchor x="420" y="0" name="hebrewbottomleft"/>
+  <anchor x="240" y="1350" name="hebrewtopleft"/>
+  <anchor x="560" y="1350" name="hebrewtopright"/>
+  <anchor x="640" y="0" name="hebrewbottomleft"/>
+  <anchor x="740" y="1430" name="rafe"/>
+  <anchor x="520" y="0" name="hebrewbottom2"/>
+  <anchor x="420" y="1350" name="hebrewtop2"/>
+  <anchor x="520" y="0" name="hebrewbottom3"/>
   <outline>
     <component base="gimel"/>
     <component base="dagesh" xOffset="256" yOffset="76"/>

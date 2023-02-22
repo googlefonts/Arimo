@@ -4,6 +4,8 @@
   <note>
 uni05AB
 </note>
+  <anchor x="180" y="1350" name="_hebrewtop1"/>
+  <anchor x="310" y="1350" name="_hebrewtop2"/>
   <outline>
     <contour>
       <point x="178" y="1538" type="line"/>

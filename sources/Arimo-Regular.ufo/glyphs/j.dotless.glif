@@ -5,6 +5,14 @@
   <note>
 j.dotless
 </note>
+  <anchor x="230" y="1200" name="top"/>
+  <anchor x="330" y="1200" name="caronalt"/>
+  <anchor x="140" y="-540" name="bottom"/>
+  <anchor x="455" y="1540" name="topdouble"/>
+  <anchor x="455" y="-380" name="bottomdouble"/>
+  <anchor x="455" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="100" y="-400" name="ogonek"/>
   <outline>
     <contour>
       <point x="77" y="-425" type="curve" smooth="yes"/>

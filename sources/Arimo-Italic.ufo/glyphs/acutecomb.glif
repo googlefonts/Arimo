@@ -4,6 +4,10 @@
   <note>
 acutecomb
 </note>
+  <anchor x="-380" y="1540" name="_top"/>
+  <anchor x="-380" y="1540" name="_cytop"/>
+  <anchor x="-280" y="1540" name="_topmkmk"/>
+  <anchor x="-220" y="1900" name="topmkmk"/>
   <outline>
     <contour>
       <point x="-4" y="1798" type="line"/>

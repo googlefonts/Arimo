@@ -4,6 +4,9 @@
   <note>
 uni030B
 </note>
+  <anchor x="60" y="1200" name="_top"/>
+  <anchor x="60" y="1200" name="_topmkmk"/>
+  <anchor x="330" y="1680" name="topmkmk"/>
   <outline>
     <contour>
       <point x="266" y="1459" type="line"/>

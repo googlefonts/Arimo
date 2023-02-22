@@ -4,6 +4,9 @@
   <note>
 hookabovecomb
 </note>
+  <anchor x="-290" y="1474" name="_top"/>
+  <anchor x="-290" y="1470" name="_topmkmk"/>
+  <anchor x="-290" y="1940" name="topmkmk"/>
   <outline>
     <contour>
       <point x="-223" y="1670" type="curve" smooth="yes"/>

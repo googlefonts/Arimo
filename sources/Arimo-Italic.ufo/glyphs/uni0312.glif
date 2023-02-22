@@ -4,6 +4,9 @@
   <note>
 uni0312
 </note>
+  <anchor x="-120" y="950" name="_top"/>
+  <anchor x="-120" y="950" name="_topmkmk"/>
+  <anchor x="0" y="1680" name="topmkmk"/>
   <outline>
     <component base="quoteleft" xOffset="-335"/>
   </outline>

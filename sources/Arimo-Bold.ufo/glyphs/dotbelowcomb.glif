@@ -4,6 +4,9 @@
   <note>
 dotbelowcomb
 </note>
+  <anchor x="0" y="-130" name="_bottom"/>
+  <anchor x="0" y="-130" name="_bottommkmk"/>
+  <anchor x="0" y="-520" name="bottommkmk"/>
   <outline>
     <component base="dotbelow.alt1" xOffset="211"/>
   </outline>

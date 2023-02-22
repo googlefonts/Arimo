@@ -5,6 +5,14 @@
   <note>
 Wgrave
 </note>
+  <anchor x="950" y="1900" name="top"/>
+  <anchor x="1930" y="1540" name="caronalt"/>
+  <anchor x="960" y="-130" name="bottom"/>
+  <anchor x="1933" y="1840" name="topdouble"/>
+  <anchor x="1933" y="-380" name="bottomdouble"/>
+  <anchor x="1933" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1300" y="0" name="ogonek"/>
   <outline>
     <component base="W"/>
     <component base="grave.uc" xOffset="577"/>

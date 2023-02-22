@@ -4,6 +4,9 @@
   <note>
 uni05A6
 </note>
+  <anchor x="27" y="0" name="_hebrewbottom1"/>
+  <anchor x="-330" y="20" name="_hebrewbottom2"/>
+  <anchor x="360" y="0" name="_hebrewbottom3"/>
   <outline>
     <contour>
       <point x="0" y="-82" type="curve"/>

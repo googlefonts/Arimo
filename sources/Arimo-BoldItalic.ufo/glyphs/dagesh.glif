@@ -4,6 +4,7 @@
   <note>
 dagesh
 </note>
+  <anchor x="30" y="700" name="_dagesh"/>
   <outline>
     <contour>
       <point x="-45" y="705" type="curve"/>

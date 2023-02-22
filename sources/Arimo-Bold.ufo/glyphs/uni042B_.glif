@@ -5,6 +5,7 @@
   <note>
 uni042B
 </note>
+  <anchor x="1000" y="1540" name="cytop"/>
   <outline>
     <contour>
       <point x="1359" y="431" type="curve" smooth="yes"/>

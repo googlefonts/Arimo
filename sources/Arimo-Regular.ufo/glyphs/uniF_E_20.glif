@@ -4,6 +4,7 @@
   <note>
 uniFE20
 </note>
+  <anchor x="0" y="1200" name="_tophalfright"/>
   <outline>
     <contour>
       <point x="4" y="1463" type="curve"/>

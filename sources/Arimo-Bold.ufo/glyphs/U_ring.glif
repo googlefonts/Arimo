@@ -5,6 +5,14 @@
   <note>
 Uring
 </note>
+  <anchor x="730" y="2040" name="top"/>
+  <anchor x="1330" y="1700" name="caronalt"/>
+  <anchor x="730" y="-130" name="bottom"/>
+  <anchor x="1479" y="1840" name="topdouble"/>
+  <anchor x="1479" y="-380" name="bottomdouble"/>
+  <anchor x="1479" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="830" y="0" name="ogonek"/>
   <outline>
     <component base="U"/>
     <component base="ring" xOffset="447" yOffset="334"/>

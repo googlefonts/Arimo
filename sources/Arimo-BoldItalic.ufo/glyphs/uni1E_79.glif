@@ -5,6 +5,11 @@
   <note>
 uni1E79
 </note>
+  <anchor x="1251" y="1840" name="topdouble"/>
+  <anchor x="1251" y="-380" name="bottomdouble"/>
+  <anchor x="1251" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="920" y="0" name="ogonek"/>
   <outline>
     <component base="u"/>
     <component base="tilde" xOffset="280"/>

@@ -5,6 +5,14 @@
   <note>
 Thorn
 </note>
+  <anchor x="800" y="1580" name="top"/>
+  <anchor x="1260" y="1260" name="caronalt"/>
+  <anchor x="650" y="-130" name="bottom"/>
+  <anchor x="1366" y="1540" name="topdouble"/>
+  <anchor x="1366" y="-380" name="bottomdouble"/>
+  <anchor x="1366" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="180" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="384" y="271" type="line"/>

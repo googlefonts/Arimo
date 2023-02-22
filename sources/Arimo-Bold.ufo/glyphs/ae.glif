@@ -5,6 +5,15 @@
   <note>
 ae
 </note>
+  <anchor x="860" y="1200" name="top"/>
+  <anchor x="1700" y="1200" name="caronalt"/>
+  <anchor x="860" y="-130" name="bottom"/>
+  <anchor x="1690" y="900" name="rhotic"/>
+  <anchor x="1821" y="1540" name="topdouble"/>
+  <anchor x="1821" y="-380" name="bottomdouble"/>
+  <anchor x="1821" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1360" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="1720" y="274" type="curve"/>

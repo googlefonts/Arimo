@@ -4,6 +4,7 @@
   <note>
 uniFE22
 </note>
+  <anchor x="620" y="1160" name="_tophalfright"/>
   <outline>
     <contour>
       <point x="601" y="1254" type="curve"/>

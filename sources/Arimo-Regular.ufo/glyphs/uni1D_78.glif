@@ -1,24 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1D78" format="2">
-  <advance width="779"/>
+  <advance width="771"/>
   <unicode hex="1D78"/>
   <note>
 uni1D78
 </note>
+  <anchor x="410" y="1400" name="top"/>
+  <anchor x="724" y="1260" name="caronalt"/>
+  <anchor x="380" y="-130" name="bottom"/>
+  <anchor x="779" y="1540" name="topdouble"/>
+  <anchor x="779" y="-380" name="bottomdouble"/>
+  <anchor x="779" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="580" y="480" name="ogonek"/>
   <outline>
     <contour>
-      <point x="217" y="798" type="line"/>
-      <point x="561" y="798" type="line"/>
-      <point x="561" y="475" type="line"/>
-      <point x="681" y="475" type="line"/>
-      <point x="681" y="1192" type="line"/>
-      <point x="561" y="1192" type="line"/>
-      <point x="561" y="896" type="line"/>
-      <point x="217" y="896" type="line"/>
-      <point x="217" y="1192" type="line"/>
-      <point x="98" y="1192" type="line"/>
-      <point x="98" y="475" type="line"/>
-      <point x="217" y="475" type="line"/>
+      <point x="217" y="840" type="line"/>
+      <point x="548" y="840" type="line"/>
+      <point x="548" y="490" type="line"/>
+      <point x="671" y="490" type="line"/>
+      <point x="671" y="1258" type="line"/>
+      <point x="548" y="1258" type="line"/>
+      <point x="548" y="933" type="line"/>
+      <point x="217" y="933" type="line"/>
+      <point x="217" y="1258" type="line"/>
+      <point x="95" y="1258" type="line"/>
+      <point x="95" y="490" type="line"/>
+      <point x="217" y="490" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -4,6 +4,7 @@
   <note>
 uni031B
 </note>
+  <anchor x="-100" y="900" name="_horn"/>
   <outline>
     <contour>
       <point x="331" y="1197" type="curve" smooth="yes"/>

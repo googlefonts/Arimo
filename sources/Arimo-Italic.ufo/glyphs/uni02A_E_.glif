@@ -5,6 +5,14 @@
   <note>
 uni02AE
 </note>
+  <anchor x="820" y="1200" name="top"/>
+  <anchor x="1320" y="1260" name="caronalt"/>
+  <anchor x="660" y="-540" name="bottom"/>
+  <anchor x="1407" y="1540" name="topdouble"/>
+  <anchor x="1407" y="-380" name="bottomdouble"/>
+  <anchor x="1407" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1040" y="-400" name="ogonek"/>
   <outline>
     <contour>
       <point x="1360" y="1082" type="line"/>

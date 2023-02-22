@@ -4,6 +4,7 @@
   <note>
 uni0315
 </note>
+  <anchor x="-100" y="990" name="_caronalt"/>
   <outline>
     <contour>
       <point x="100" y="1316" type="curve" smooth="yes"/>

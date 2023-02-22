@@ -5,6 +5,18 @@
   <note>
 kafdagesh
 </note>
+  <anchor x="0" y="1430" name="holam"/>
+  <anchor x="560" y="1350" name="hebrewtop1"/>
+  <anchor x="560" y="1700" name="upperdot"/>
+  <anchor x="360" y="0" name="hebrewbottom1"/>
+  <anchor x="360" y="0" name="hebrewbottomleft"/>
+  <anchor x="200" y="1350" name="hebrewtopleft"/>
+  <anchor x="840" y="1350" name="hebrewtopright"/>
+  <anchor x="760" y="0" name="hebrewbottomleft"/>
+  <anchor x="980" y="1430" name="rafe"/>
+  <anchor x="460" y="0" name="hebrewbottom2"/>
+  <anchor x="460" y="1350" name="hebrewtop2"/>
+  <anchor x="460" y="0" name="hebrewbottom3"/>
   <outline>
     <component base="kaf"/>
     <component base="dagesh" xOffset="465" yOffset="-69"/>

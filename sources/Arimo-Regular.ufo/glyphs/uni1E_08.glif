@@ -5,6 +5,11 @@
   <note>
 uni1E08
 </note>
+  <anchor x="1479" y="1840" name="topdouble"/>
+  <anchor x="1479" y="-380" name="bottomdouble"/>
+  <anchor x="1479" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="770" y="-400" name="ogonek"/>
   <outline>
     <component base="acute.uc" xOffset="535"/>
     <component base="C"/>

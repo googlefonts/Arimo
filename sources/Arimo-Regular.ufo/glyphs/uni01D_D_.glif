@@ -5,6 +5,16 @@
   <note>
 uni01DD
 </note>
+  <anchor x="550" y="1200" name="top"/>
+  <anchor x="900" y="1260" name="caronalt"/>
+  <anchor x="560" y="-130" name="bottom"/>
+  <anchor x="575" y="1200" name="cytop"/>
+  <anchor x="975" y="900" name="rhotic"/>
+  <anchor x="1139" y="1540" name="topdouble"/>
+  <anchor x="1139" y="-380" name="bottomdouble"/>
+  <anchor x="1139" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="638" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="858" y="579" type="curve"/>

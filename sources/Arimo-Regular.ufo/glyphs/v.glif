@@ -5,6 +5,16 @@
   <note>
 v
 </note>
+  <anchor x="500" y="1200" name="top"/>
+  <anchor x="980" y="1200" name="caronalt"/>
+  <anchor x="500" y="-130" name="bottom"/>
+  <anchor x="950" y="1100" name="rhotic"/>
+  <anchor x="860" y="1000" name="horn"/>
+  <anchor x="1024" y="1540" name="topdouble"/>
+  <anchor x="1024" y="-380" name="bottomdouble"/>
+  <anchor x="1024" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="440" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="1017" y="1082" type="line"/>

@@ -5,6 +5,9 @@
   <note>
 lambda
 </note>
+  <anchor x="390" y="1580" name="top"/>
+  <anchor x="720" y="990" name="caronalt"/>
+  <anchor x="450" y="-110" name="bottom"/>
   <outline>
     <contour>
       <point x="595" y="766" type="curve"/>

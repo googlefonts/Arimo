@@ -4,6 +4,9 @@
   <note>
 uni1DC3
 </note>
+  <anchor x="0" y="1240" name="_top"/>
+  <anchor x="0" y="1200" name="_topmkmk"/>
+  <anchor x="0" y="1680" name="topmkmk"/>
   <outline>
     <contour>
       <point x="105" y="1307" type="curve" smooth="yes"/>

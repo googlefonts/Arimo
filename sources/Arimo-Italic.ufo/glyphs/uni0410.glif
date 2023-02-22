@@ -5,6 +5,7 @@
   <note>
 uni0410
 </note>
+  <anchor x="834" y="1540" name="cytop"/>
   <outline>
     <component base="A"/>
   </outline>

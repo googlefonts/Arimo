@@ -4,6 +4,9 @@
   <note>
 tildecomb
 </note>
+  <anchor x="-580" y="1560" name="_top"/>
+  <anchor x="-580" y="1560" name="_topmkmk"/>
+  <anchor x="-560" y="1940" name="topmkmk"/>
   <outline>
     <contour>
       <point x="-427" y="1571" type="curve" smooth="yes"/>

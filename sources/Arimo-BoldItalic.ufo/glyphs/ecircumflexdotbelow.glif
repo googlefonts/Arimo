@@ -5,6 +5,11 @@
   <note>
 ecircumflexdotbelow
 </note>
+  <anchor x="1139" y="1540" name="topdouble"/>
+  <anchor x="1139" y="-380" name="bottomdouble"/>
+  <anchor x="1139" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="900" y="100" name="ogonek"/>
   <outline>
     <component base="e"/>
     <component base="circumflex" xOffset="212"/>

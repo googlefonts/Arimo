@@ -5,6 +5,14 @@
   <note>
 omacron
 </note>
+  <anchor x="730" y="1480" name="top"/>
+  <anchor x="1120" y="1260" name="caronalt"/>
+  <anchor x="630" y="-130" name="bottom"/>
+  <anchor x="1251" y="1540" name="topdouble"/>
+  <anchor x="1251" y="-380" name="bottomdouble"/>
+  <anchor x="1251" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="680" y="0" name="ogonek"/>
   <outline>
     <component base="o"/>
     <component base="macron" xOffset="263"/>

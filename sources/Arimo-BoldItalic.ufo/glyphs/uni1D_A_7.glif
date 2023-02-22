@@ -1,24 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1DA7" format="2">
-  <advance width="350"/>
+  <advance width="518"/>
   <unicode hex="1DA7"/>
   <note>
 uni1DA7
 </note>
   <outline>
     <contour>
-      <point x="324" y="827" type="line"/>
-      <point x="426" y="827" type="line"/>
-      <point x="451" y="955" type="line"/>
-      <point x="348" y="955" type="line"/>
-      <point x="405" y="1253" type="line"/>
-      <point x="214" y="1253" type="line"/>
-      <point x="158" y="955" type="line"/>
-      <point x="69" y="955" type="line"/>
-      <point x="45" y="827" type="line"/>
-      <point x="134" y="827" type="line"/>
-      <point x="71" y="490" type="line"/>
-      <point x="261" y="490" type="line"/>
+      <point x="623" y="1253" type="line"/>
+      <point x="159" y="1253" type="line"/>
+      <point x="135" y="1125" type="line"/>
+      <point x="264" y="1125" type="line"/>
+      <point x="232" y="955" type="line"/>
+      <point x="143" y="955" type="line"/>
+      <point x="119" y="827" type="line"/>
+      <point x="208" y="827" type="line"/>
+      <point x="169" y="618" type="line"/>
+      <point x="39" y="618" type="line"/>
+      <point x="15" y="490" type="line"/>
+      <point x="479" y="490" type="line"/>
+      <point x="503" y="618" type="line"/>
+      <point x="359" y="618" type="line"/>
+      <point x="399" y="827" type="line"/>
+      <point x="500" y="827" type="line"/>
+      <point x="525" y="955" type="line"/>
+      <point x="423" y="955" type="line"/>
+      <point x="455" y="1125" type="line"/>
+      <point x="599" y="1125" type="line"/>
     </contour>
   </outline>
   <lib>

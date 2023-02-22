@@ -5,6 +5,14 @@
   <note>
 uni1E98
 </note>
+  <anchor x="888" y="1700" name="top"/>
+  <anchor x="1580" y="1380" name="caronalt"/>
+  <anchor x="800" y="-130" name="bottom"/>
+  <anchor x="1593" y="1640" name="topdouble"/>
+  <anchor x="1593" y="-380" name="bottomdouble"/>
+  <anchor x="1593" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1100" y="0" name="ogonek"/>
   <outline>
     <component base="w"/>
     <component base="ring" xOffset="420" yOffset="20"/>

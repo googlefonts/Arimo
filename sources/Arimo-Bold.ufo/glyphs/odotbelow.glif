@@ -5,6 +5,15 @@
   <note>
 odotbelow
 </note>
+  <anchor x="630" y="1200" name="top"/>
+  <anchor x="1120" y="1260" name="caronalt"/>
+  <anchor x="630" y="-440" name="bottom"/>
+  <anchor x="980" y="1000" name="horn"/>
+  <anchor x="1251" y="1540" name="topdouble"/>
+  <anchor x="1251" y="-380" name="bottomdouble"/>
+  <anchor x="1251" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="560" y="-380" name="ogonek"/>
   <outline>
     <component base="o"/>
     <component base="dotbelow.alt1" xOffset="836"/>

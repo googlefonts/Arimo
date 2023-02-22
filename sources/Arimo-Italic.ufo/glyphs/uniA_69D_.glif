@@ -1,12 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniA69D" format="2">
-  <advance width="469"/>
+  <advance width="737"/>
   <unicode hex="A69D"/>
   <note>
 uniA69D
 </note>
   <outline>
-    <component base="uniA67A" xOffset="242"/>
+    <contour>
+      <point x="729.9" y="727.85" type="curve"/>
+      <point x="729.9" y="863.46"/>
+      <point x="625.6" y="933.04"/>
+      <point x="423.3" y="933.04" type="curve" smooth="yes"/>
+      <point x="294.5" y="933.04" type="line"/>
+      <point x="356.8" y="1258.22" type="line"/>
+      <point x="230.8" y="1258.22" type="line"/>
+      <point x="86.6" y="504.91" type="line"/>
+      <point x="182.5" y="485.74"/>
+      <point x="282.6" y="475.8"/>
+      <point x="388.3" y="475.8" type="curve" smooth="yes"/>
+      <point x="613" y="475.8"/>
+      <point x="729.9" y="563.84"/>
+    </contour>
+    <contour>
+      <point x="227.3" y="584.43" type="curve"/>
+      <point x="277" y="841.45" type="line"/>
+      <point x="416.3" y="841.45" type="line" smooth="yes"/>
+      <point x="539.5" y="841.45"/>
+      <point x="596.2" y="800.98"/>
+      <point x="596.2" y="717.91" type="curve" smooth="yes"/>
+      <point x="596.2" y="615.67"/>
+      <point x="518.5" y="570.23"/>
+      <point x="392.5" y="570.23" type="curve" smooth="yes"/>
+      <point x="338.6" y="570.23"/>
+      <point x="283.3" y="575.2"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -5,6 +5,14 @@
   <note>
 OE
 </note>
+  <anchor x="1200" y="1540" name="top"/>
+  <anchor x="1960" y="1540" name="caronalt"/>
+  <anchor x="920" y="-130" name="bottom"/>
+  <anchor x="2048" y="1540" name="topdouble"/>
+  <anchor x="2048" y="-380" name="bottomdouble"/>
+  <anchor x="2048" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1800" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="893" y="0" type="curve"/>

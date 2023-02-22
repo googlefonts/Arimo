@@ -7,26 +7,26 @@ uni01C2
 </note>
   <outline>
     <contour>
-      <point x="684" y="416" type="line"/>
-      <point x="1082" y="416" type="line"/>
-      <point x="1082" y="569" type="line"/>
-      <point x="684" y="569" type="line"/>
-      <point x="684" y="877" type="line"/>
-      <point x="1082" y="877" type="line"/>
-      <point x="1082" y="1030" type="line"/>
-      <point x="684" y="1030" type="line"/>
-      <point x="684" y="1484" type="line"/>
-      <point x="510" y="1484" type="line"/>
-      <point x="510" y="1030" type="line"/>
-      <point x="114" y="1030" type="line"/>
-      <point x="114" y="877" type="line"/>
-      <point x="510" y="877" type="line"/>
-      <point x="510" y="569" type="line"/>
-      <point x="114" y="569" type="line"/>
-      <point x="114" y="416" type="line"/>
-      <point x="510" y="416" type="line"/>
-      <point x="510" y="0" type="line"/>
-      <point x="684" y="0" type="line"/>
+      <point x="654" y="436" type="line"/>
+      <point x="1082" y="436" type="line"/>
+      <point x="1082" y="549" type="line"/>
+      <point x="654" y="549" type="line"/>
+      <point x="654" y="897" type="line"/>
+      <point x="1082" y="897" type="line"/>
+      <point x="1082" y="1010" type="line"/>
+      <point x="654" y="1010" type="line"/>
+      <point x="654" y="1484" type="line"/>
+      <point x="540" y="1484" type="line"/>
+      <point x="540" y="1010" type="line"/>
+      <point x="114" y="1010" type="line"/>
+      <point x="114" y="897" type="line"/>
+      <point x="540" y="897" type="line"/>
+      <point x="540" y="549" type="line"/>
+      <point x="114" y="549" type="line"/>
+      <point x="114" y="436" type="line"/>
+      <point x="540" y="436" type="line"/>
+      <point x="540" y="0" type="line"/>
+      <point x="654" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -4,6 +4,9 @@
   <note>
 hatafsegol
 </note>
+  <anchor x="0" y="20" name="_hebrewbottom1"/>
+  <anchor x="-280" y="20" name="_hebrewbottom2"/>
+  <anchor x="320" y="20" name="_hebrewbottom3"/>
   <outline>
     <contour>
       <point x="-301" y="-96" type="curve"/>

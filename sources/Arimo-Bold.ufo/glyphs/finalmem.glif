@@ -5,6 +5,19 @@
   <note>
 finalmem
 </note>
+  <anchor x="60" y="1430" name="holam"/>
+  <anchor x="730" y="620" name="dagesh"/>
+  <anchor x="680" y="1350" name="hebrewtop1"/>
+  <anchor x="680" y="1700" name="upperdot"/>
+  <anchor x="730" y="0" name="hebrewbottom1"/>
+  <anchor x="730" y="0" name="hebrewbottomleft"/>
+  <anchor x="240" y="1350" name="hebrewtopleft"/>
+  <anchor x="1160" y="1350" name="hebrewtopright"/>
+  <anchor x="1080" y="0" name="hebrewbottomleft"/>
+  <anchor x="1280" y="1430" name="rafe"/>
+  <anchor x="730" y="0" name="hebrewbottom2"/>
+  <anchor x="680" y="1350" name="hebrewtop2"/>
+  <anchor x="730" y="0" name="hebrewbottom3"/>
   <outline>
     <contour>
       <point x="1311" y="719" type="line" smooth="yes"/>

@@ -4,6 +4,7 @@
   <note>
 uni035F
 </note>
+  <anchor x="370" y="-100" name="_bottomdouble"/>
   <outline>
     <contour>
       <point x="-173" y="-171" type="line"/>

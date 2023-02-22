@@ -5,6 +5,14 @@
   <note>
 uni1E8D
 </note>
+  <anchor x="610" y="1580" name="top"/>
+  <anchor x="1080" y="1260" name="caronalt"/>
+  <anchor x="400" y="-130" name="bottom"/>
+  <anchor x="1024" y="1540" name="topdouble"/>
+  <anchor x="1024" y="-380" name="bottomdouble"/>
+  <anchor x="1024" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="820" y="0" name="ogonek"/>
   <outline>
     <component base="x"/>
     <component base="dieresis" xOffset="213"/>

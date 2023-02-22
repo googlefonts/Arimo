@@ -4,6 +4,7 @@
   <note>
 uni0328
 </note>
+  <anchor x="-10" y="-10" name="_ogonek"/>
   <outline>
     <contour>
       <point x="-131" y="-425" type="curve"/>

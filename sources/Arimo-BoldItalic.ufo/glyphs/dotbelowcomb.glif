@@ -4,6 +4,9 @@
   <note>
 dotbelowcomb
 </note>
+  <anchor x="120" y="-130" name="_bottom"/>
+  <anchor x="120" y="-130" name="_bottommkmk"/>
+  <anchor x="40" y="-520" name="bottommkmk"/>
   <outline>
     <contour>
       <point x="136" y="-111" type="line"/>

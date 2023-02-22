@@ -5,6 +5,28 @@
   <note>
 uni25CC
 </note>
+  <anchor x="100" y="1441" name="holam"/>
+  <anchor x="600" y="1430" name="shindot"/>
+  <anchor x="600" y="600" name="dagesh"/>
+  <anchor x="600" y="1350" name="hebrewtop1"/>
+  <anchor x="600" y="1700" name="upperdot"/>
+  <anchor x="580" y="0" name="hebrewbottom1"/>
+  <anchor x="580" y="0" name="hebrewbottomleft"/>
+  <anchor x="260" y="1350" name="hebrewtopleft"/>
+  <anchor x="1000" y="1350" name="hebrewtopright"/>
+  <anchor x="1000" y="0" name="hebrewbottomleft"/>
+  <anchor x="680" y="1200" name="top"/>
+  <anchor x="1000" y="1200" name="caronalt"/>
+  <anchor x="600" y="-130" name="bottom"/>
+  <anchor x="1200" y="1540" name="topdouble"/>
+  <anchor x="1200" y="-380" name="bottomdouble"/>
+  <anchor x="1200" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="960" y="0" name="ogonek"/>
+  <anchor x="1040" y="1430" name="rafe"/>
+  <anchor x="600" y="0" name="hebrewbottom2"/>
+  <anchor x="600" y="1350" name="hebrewtop2"/>
+  <anchor x="600" y="0" name="hebrewbottom3"/>
   <outline>
     <contour>
       <point x="662" y="1053" type="curve"/>

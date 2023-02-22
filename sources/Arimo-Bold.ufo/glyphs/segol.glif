@@ -4,6 +4,9 @@
   <note>
 segol
 </note>
+  <anchor x="0" y="20" name="_hebrewbottom1"/>
+  <anchor x="-260" y="20" name="_hebrewbottom2"/>
+  <anchor x="240" y="20" name="_hebrewbottom3"/>
   <outline>
     <contour>
       <point x="-195" y="-98" type="curve"/>

@@ -4,6 +4,7 @@
   <note>
 uni05AD
 </note>
+  <anchor x="-100" y="10" name="_hebrewbottomleft"/>
   <outline>
     <contour>
       <point x="-8" y="-82" type="curve"/>

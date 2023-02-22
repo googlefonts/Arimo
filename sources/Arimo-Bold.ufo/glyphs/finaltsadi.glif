@@ -5,6 +5,19 @@
   <note>
 finaltsadi
 </note>
+  <anchor x="0" y="1430" name="holam"/>
+  <anchor x="120" y="540" name="dagesh"/>
+  <anchor x="560" y="1350" name="hebrewtop1"/>
+  <anchor x="560" y="1700" name="upperdot"/>
+  <anchor x="960" y="0" name="hebrewbottom1"/>
+  <anchor x="480" y="0" name="hebrewbottomleft"/>
+  <anchor x="140" y="1350" name="hebrewtopleft"/>
+  <anchor x="960" y="1350" name="hebrewtopright"/>
+  <anchor x="740" y="0" name="hebrewbottomleft"/>
+  <anchor x="1040" y="1430" name="rafe"/>
+  <anchor x="660" y="0" name="hebrewbottom2"/>
+  <anchor x="560" y="1350" name="hebrewtop2"/>
+  <anchor x="280" y="0" name="hebrewbottom3"/>
   <outline>
     <contour>
       <point x="606" y="446" type="line"/>

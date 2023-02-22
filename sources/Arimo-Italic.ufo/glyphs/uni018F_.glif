@@ -6,6 +6,15 @@
   <note>
 uni018F
 </note>
+  <anchor x="880" y="1540" name="top"/>
+  <anchor x="1360" y="1540" name="caronalt"/>
+  <anchor x="700" y="-130" name="bottom"/>
+  <anchor x="901" y="1540" name="cytop"/>
+  <anchor x="1541" y="1540" name="topdouble"/>
+  <anchor x="1541" y="-380" name="bottomdouble"/>
+  <anchor x="1541" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="890" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="1316" y="810" type="curve"/>

@@ -4,6 +4,7 @@
   <note>
 uniFE21
 </note>
+  <anchor x="-180" y="1160" name="_tophalfleft"/>
   <outline>
     <contour>
       <point x="-185" y="1580" type="curve"/>

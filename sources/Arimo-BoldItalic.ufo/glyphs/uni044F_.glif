@@ -5,6 +5,7 @@
   <note>
 uni044F
 </note>
+  <anchor x="720" y="1200" name="cytop"/>
   <outline>
     <contour>
       <point x="577" y="435" type="line"/>

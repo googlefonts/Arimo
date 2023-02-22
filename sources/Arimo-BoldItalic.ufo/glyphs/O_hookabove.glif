@@ -5,6 +5,15 @@
   <note>
 Ohookabove
 </note>
+  <anchor x="980" y="1900" name="top"/>
+  <anchor x="1430" y="1540" name="caronalt"/>
+  <anchor x="800" y="-130" name="bottom"/>
+  <anchor x="1240" y="1300" name="horn"/>
+  <anchor x="1593" y="1840" name="topdouble"/>
+  <anchor x="1593" y="-380" name="bottomdouble"/>
+  <anchor x="1593" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="920" y="0" name="ogonek"/>
   <outline>
     <component base="O"/>
     <component base="hookabovecomb" xOffset="1263"/>

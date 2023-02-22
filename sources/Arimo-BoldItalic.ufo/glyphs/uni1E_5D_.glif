@@ -5,6 +5,11 @@
   <note>
 uni1E5D
 </note>
+  <anchor x="797" y="1540" name="topdouble"/>
+  <anchor x="797" y="-380" name="bottomdouble"/>
+  <anchor x="797" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="380" y="-380" name="ogonek"/>
   <outline>
     <component base="r"/>
     <component base="macron" xOffset="91"/>

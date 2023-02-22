@@ -5,6 +5,16 @@
   <note>
 u
 </note>
+  <anchor x="720" y="1200" name="top"/>
+  <anchor x="1120" y="1200" name="caronalt"/>
+  <anchor x="620" y="-130" name="bottom"/>
+  <anchor x="1080" y="1100" name="rhotic"/>
+  <anchor x="1100" y="1000" name="horn"/>
+  <anchor x="1251" y="1540" name="topdouble"/>
+  <anchor x="1251" y="-380" name="bottomdouble"/>
+  <anchor x="1251" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="920" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="764" y="185" type="curve"/>

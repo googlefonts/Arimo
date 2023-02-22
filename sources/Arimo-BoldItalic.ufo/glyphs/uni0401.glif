@@ -5,6 +5,7 @@
   <note>
 uni0401
 </note>
+  <anchor x="880" y="1840" name="cytop"/>
   <outline>
     <component base="E"/>
     <component base="dieresis.uc" xOffset="380"/>

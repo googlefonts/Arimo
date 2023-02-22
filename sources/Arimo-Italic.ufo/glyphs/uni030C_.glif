@@ -4,6 +4,10 @@
   <note>
 uni030C
 </note>
+  <anchor x="-120" y="1200" name="_top"/>
+  <anchor x="-100" y="1200" name="_cytop"/>
+  <anchor x="-120" y="1200" name="_topmkmk"/>
+  <anchor x="-80" y="1680" name="topmkmk"/>
   <outline>
     <contour>
       <point x="329" y="1471" type="line"/>

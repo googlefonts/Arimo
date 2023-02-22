@@ -5,6 +5,7 @@
   <note>
 uni045E
 </note>
+  <anchor x="700" y="1580" name="cytop"/>
   <outline>
     <component base="y"/>
     <component base="breve.cyr" xOffset="284"/>

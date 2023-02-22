@@ -5,6 +5,11 @@
   <note>
 ohornacute
 </note>
+  <anchor x="1343" y="1540" name="topdouble"/>
+  <anchor x="1343" y="-380" name="bottomdouble"/>
+  <anchor x="1343" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="680" y="0" name="ogonek"/>
   <outline>
     <component base="ohorn"/>
     <component base="acute" xOffset="411"/>

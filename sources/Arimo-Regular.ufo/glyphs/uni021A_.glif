@@ -5,6 +5,14 @@
   <note>
 uni021A
 </note>
+  <anchor x="630" y="1540" name="top"/>
+  <anchor x="1184" y="1540" name="caronalt"/>
+  <anchor x="620" y="-540" name="bottom"/>
+  <anchor x="1251" y="1540" name="topdouble"/>
+  <anchor x="1251" y="-380" name="bottomdouble"/>
+  <anchor x="1251" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="580" y="-400" name="ogonek"/>
   <outline>
     <component base="T"/>
     <component base="commaaccent" xOffset="397"/>

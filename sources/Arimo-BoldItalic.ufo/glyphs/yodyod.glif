@@ -5,6 +5,19 @@
   <note>
 yodyod
 </note>
+  <anchor x="80" y="1430" name="holam"/>
+  <anchor x="-50" y="850" name="dagesh"/>
+  <anchor x="760" y="1350" name="hebrewtop1"/>
+  <anchor x="760" y="1700" name="upperdot"/>
+  <anchor x="500" y="0" name="hebrewbottom1"/>
+  <anchor x="500" y="0" name="hebrewbottomleft"/>
+  <anchor x="260" y="1350" name="hebrewtopleft"/>
+  <anchor x="980" y="1350" name="hebrewtopright"/>
+  <anchor x="800" y="0" name="hebrewbottomleft"/>
+  <anchor x="1020" y="1430" name="rafe"/>
+  <anchor x="400" y="0" name="hebrewbottom2"/>
+  <anchor x="600" y="1350" name="hebrewtop2"/>
+  <anchor x="600" y="0" name="hebrewbottom3"/>
   <outline>
     <component base="yod"/>
     <component base="yod" xOffset="618"/>

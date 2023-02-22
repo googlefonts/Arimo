@@ -4,6 +4,9 @@
   <note>
 uni05AA
 </note>
+  <anchor x="0" y="20" name="_hebrewbottom1"/>
+  <anchor x="-200" y="20" name="_hebrewbottom2"/>
+  <anchor x="220" y="20" name="_hebrewbottom3"/>
   <outline>
     <component base="uni05A2"/>
   </outline>

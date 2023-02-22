@@ -5,6 +5,11 @@
   <note>
 uni01BE
 </note>
+  <anchor x="1186" y="1540" name="topdouble"/>
+  <anchor x="1186" y="-380" name="bottomdouble"/>
+  <anchor x="1187" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="561" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="1046" y="351" type="curve" smooth="yes"/>

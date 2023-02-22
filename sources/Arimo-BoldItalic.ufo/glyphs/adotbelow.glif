@@ -5,6 +5,14 @@
   <note>
 adotbelow
 </note>
+  <anchor x="650" y="1200" name="top"/>
+  <anchor x="1000" y="1260" name="caronalt"/>
+  <anchor x="560" y="-440" name="bottom"/>
+  <anchor x="1139" y="1540" name="topdouble"/>
+  <anchor x="1139" y="-380" name="bottomdouble"/>
+  <anchor x="1139" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="940" y="0" name="ogonek"/>
   <outline>
     <component base="a"/>
     <component base="dotbelowcomb" xOffset="540"/>

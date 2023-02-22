@@ -4,6 +4,9 @@
   <note>
 uni0365
 </note>
+  <anchor x="0" y="480" name="_top"/>
+  <anchor x="0" y="480" name="_topmkmk"/>
+  <anchor x="240" y="1680" name="topmkmk"/>
   <outline>
     <contour>
       <point x="347" y="1536" type="line"/>

@@ -4,6 +4,9 @@
   <note>
 qamatsqatan
 </note>
+  <anchor x="150" y="0" name="_hebrewbottom1"/>
+  <anchor x="-140" y="0" name="_hebrewbottom2"/>
+  <anchor x="500" y="0" name="_hebrewbottom3"/>
   <outline>
     <contour>
       <point x="152" y="-365" type="line"/>

@@ -4,6 +4,7 @@
   <note>
 uni035C
 </note>
+  <anchor x="600" y="0" name="_bottomdouble"/>
   <outline>
     <contour>
       <point x="1394" y="-54" type="curve"/>

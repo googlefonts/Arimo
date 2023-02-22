@@ -5,6 +5,18 @@
   <note>
 shindageshsindot
 </note>
+  <anchor x="-80" y="1430" name="holam"/>
+  <anchor x="840" y="1350" name="hebrewtop1"/>
+  <anchor x="840" y="1700" name="upperdot"/>
+  <anchor x="800" y="0" name="hebrewbottom1"/>
+  <anchor x="800" y="0" name="hebrewbottomleft"/>
+  <anchor x="60" y="1350" name="hebrewtopleft"/>
+  <anchor x="1460" y="1350" name="hebrewtopright"/>
+  <anchor x="1200" y="0" name="hebrewbottomleft"/>
+  <anchor x="1520" y="1430" name="rafe"/>
+  <anchor x="800" y="0" name="hebrewbottom2"/>
+  <anchor x="840" y="1350" name="hebrewtop2"/>
+  <anchor x="800" y="0" name="hebrewbottom3"/>
   <outline>
     <component base="shin"/>
     <component base="dagesh" xOffset="1053" yOffset="-79"/>
