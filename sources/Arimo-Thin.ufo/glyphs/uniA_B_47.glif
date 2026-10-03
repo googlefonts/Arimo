@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniAB47" format="2">
+  <advance width="493"/>
+  <unicode hex="AB47"/>
+  <note>
+uniAB47
+</note>
+  <outline>
+    <contour>
+      <point x="403" y="1002" type="curve"/>
+      <point x="403" y="1096" type="line"/>
+      <point x="342" y="1083"/>
+      <point x="297" y="1059"/>
+      <point x="255" y="975" type="curve" smooth="yes"/>
+      <point x="237" y="940"/>
+      <point x="225" y="906"/>
+      <point x="216" y="871" type="curve"/>
+      <point x="212" y="871" type="line"/>
+      <point x="212" y="881"/>
+      <point x="215" y="860"/>
+      <point x="209" y="1082" type="curve"/>
+      <point x="137" y="1082" type="line"/>
+      <point x="140" y="967"/>
+      <point x="141" y="884"/>
+      <point x="141" y="832" type="curve" smooth="yes"/>
+      <point x="141" y="0" type="line"/>
+      <point x="220" y="0" type="line"/>
+      <point x="220" y="597" type="line" smooth="yes"/>
+      <point x="220" y="844"/>
+      <point x="273" y="975"/>
+    </contour>
+  </outline>
+</glyph>

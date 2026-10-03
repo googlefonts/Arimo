@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2DFD" format="2">
+  <unicode hex="2DFD"/>
+  <note>
+uni2DFD
+</note>
+  <outline>
+    <contour>
+      <point x="-277" y="1210" type="line"/>
+      <point x="-118" y="1210" type="line"/>
+      <point x="-78" y="1357" type="line"/>
+      <point x="-60" y="1357" type="line"/>
+      <point x="-60" y="1210" type="line"/>
+      <point x="61" y="1210" type="line"/>
+      <point x="61" y="1357" type="line"/>
+      <point x="78" y="1357" type="line"/>
+      <point x="117" y="1210" type="line"/>
+      <point x="276" y="1210" type="line"/>
+      <point x="110" y="1706" type="line"/>
+      <point x="-102" y="1706" type="line"/>
+    </contour>
+    <contour>
+      <point x="-23" y="1471" type="line"/>
+      <point x="2" y="1587" type="line"/>
+      <point x="26" y="1471" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icircumflex" format="2">
+  <advance width="569"/>
+  <unicode hex="00EE"/>
+  <note>
+icircumflex
+</note>
+  <anchor x="360" y="1580" name="top"/>
+  <anchor x="630" y="1260" name="caronalt"/>
+  <anchor x="80" y="-130" name="bottom"/>
+  <anchor x="310" y="1100" name="rhotic"/>
+  <anchor x="341" y="1540" name="topdouble"/>
+  <anchor x="341" y="-380" name="bottomdouble"/>
+  <anchor x="569" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="220" y="0" name="ogonek"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="circumflex" xOffset="11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

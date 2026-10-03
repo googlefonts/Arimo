@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0231" format="2">
+  <advance width="1326"/>
+  <unicode hex="0231"/>
+  <note>
+uni0231
+</note>
+  <outline>
+    <component base="o"/>
+    <component base="dotaccent" xOffset="254" yOffset="-38"/>
+    <component base="macron" xOffset="277" yOffset="327"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

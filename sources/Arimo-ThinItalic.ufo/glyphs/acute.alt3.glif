@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute.alt3" format="2">
+  <note>
+acute.alt3
+</note>
+  <outline>
+    <contour>
+      <point x="-900" y="2195" type="line"/>
+      <point x="-908" y="2152" type="line"/>
+      <point x="-1113" y="2152" type="line"/>
+      <point x="-1356" y="1880" type="line"/>
+      <point x="-1350" y="1911" type="line"/>
+      <point x="-1206" y="1911" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniAB45" format="2">
+  <advance width="1274"/>
+  <unicode hex="AB45"/>
+  <note>
+uniAB45
+</note>
+  <outline>
+    <contour>
+      <point x="459" y="201" type="line" smooth="yes"/>
+      <point x="459" y="357"/>
+      <point x="539" y="451"/>
+      <point x="649" y="451" type="curve" smooth="yes"/>
+      <point x="765" y="451"/>
+      <point x="815" y="365"/>
+      <point x="815" y="201" type="curve" smooth="yes"/>
+      <point x="815" y="0" type="line"/>
+      <point x="1163" y="0" type="line"/>
+      <point x="1163" y="223" type="line" smooth="yes"/>
+      <point x="1163" y="437"/>
+      <point x="1029" y="603"/>
+      <point x="810" y="656" type="curve"/>
+      <point x="810" y="1082" type="line"/>
+      <point x="464" y="1082" type="line"/>
+      <point x="464" y="657" type="line"/>
+      <point x="245" y="602"/>
+      <point x="111" y="441"/>
+      <point x="111" y="223" type="curve" smooth="yes"/>
+      <point x="111" y="0" type="line"/>
+      <point x="459" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

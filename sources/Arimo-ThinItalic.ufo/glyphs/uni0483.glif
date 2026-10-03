@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0483" format="2">
+  <unicode hex="0483"/>
+  <note>
+uni0483
+</note>
+  <anchor x="-60" y="1200" name="_top"/>
+  <anchor x="-60" y="1200" name="_topmkmk"/>
+  <anchor x="40" y="1680" name="topmkmk"/>
+  <outline>
+    <contour>
+      <point x="464" y="1423" type="curve"/>
+      <point x="464" y="1492"/>
+      <point x="420" y="1534"/>
+      <point x="353" y="1534" type="curve" smooth="yes"/>
+      <point x="299" y="1534"/>
+      <point x="248" y="1495"/>
+      <point x="248" y="1417" type="curve" smooth="yes"/>
+      <point x="248" y="1389" type="line"/>
+      <point x="-107" y="1389" type="line" smooth="yes"/>
+      <point x="-177" y="1389"/>
+      <point x="-238" y="1352"/>
+      <point x="-238" y="1291" type="curve" smooth="yes"/>
+      <point x="-238" y="1225"/>
+      <point x="-190" y="1180"/>
+      <point x="-127" y="1180" type="curve" smooth="yes"/>
+      <point x="-73" y="1180"/>
+      <point x="-22" y="1220"/>
+      <point x="-22" y="1297" type="curve" smooth="yes"/>
+      <point x="-22" y="1325" type="line"/>
+      <point x="333" y="1325" type="line" smooth="yes"/>
+      <point x="408" y="1325"/>
+      <point x="464" y="1360"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni031E" format="2">
+  <unicode hex="031E"/>
+  <note>
+uni031E
+</note>
+  <anchor x="0" y="-80" name="_bottom"/>
+  <anchor x="0" y="-80" name="_bottommkmk"/>
+  <anchor x="0" y="-520" name="bottommkmk"/>
+  <outline>
+    <contour>
+      <point x="51" y="-191" type="line"/>
+      <point x="178" y="-191" type="line"/>
+      <point x="178" y="-99" type="line"/>
+      <point x="-175" y="-99" type="line"/>
+      <point x="-175" y="-191" type="line"/>
+      <point x="-51" y="-191" type="line"/>
+      <point x="-51" y="-425" type="line"/>
+      <point x="51" y="-425" type="line"/>
+    </contour>
+  </outline>
+</glyph>

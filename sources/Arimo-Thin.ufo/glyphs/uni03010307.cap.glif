@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03010307.cap" format="2">
+  <note>
+uni03010307.cap
+</note>
+  <outline>
+    <contour>
+      <point x="-14" y="1482" type="line"/>
+      <point x="24" y="1482" type="line"/>
+      <point x="345" y="1749" type="line"/>
+      <point x="345" y="1791" type="line"/>
+      <point x="177" y="1791" type="line"/>
+      <point x="-14" y="1508" type="line"/>
+    </contour>
+    <contour>
+      <point x="39" y="1649" type="line"/>
+      <point x="39" y="1771" type="line"/>
+      <point x="-71" y="1771" type="line"/>
+      <point x="-71" y="1649" type="line"/>
+    </contour>
+  </outline>
+</glyph>

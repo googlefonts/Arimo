@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0423" format="2">
+  <advance width="1328"/>
+  <unicode hex="0423"/>
+  <note>
+uni0423
+</note>
+  <anchor x="660" y="1540" name="cytop"/>
+  <outline>
+    <contour>
+      <point x="323" y="-20" type="curve" smooth="yes"/>
+      <point x="420" y="-20"/>
+      <point x="485" y="13"/>
+      <point x="550" y="86" type="curve" smooth="yes"/>
+      <point x="582" y="124"/>
+      <point x="632" y="200"/>
+      <point x="700" y="318" type="curve" smooth="yes"/>
+      <point x="1329" y="1409" type="line"/>
+      <point x="1218" y="1409" type="line"/>
+      <point x="748" y="521" type="line"/>
+      <point x="238" y="1409" type="line"/>
+      <point x="109" y="1409" type="line"/>
+      <point x="699" y="433" type="line"/>
+      <point x="599" y="264"/>
+      <point x="535" y="160"/>
+      <point x="508" y="124" type="curve" smooth="yes"/>
+      <point x="454" y="49"/>
+      <point x="415" y="26"/>
+      <point x="342" y="26" type="curve" smooth="yes"/>
+      <point x="293" y="26"/>
+      <point x="237" y="52"/>
+      <point x="170" y="102" type="curve"/>
+      <point x="90" y="60" type="line"/>
+      <point x="156" y="7"/>
+      <point x="252" y="-20"/>
+    </contour>
+  </outline>
+</glyph>

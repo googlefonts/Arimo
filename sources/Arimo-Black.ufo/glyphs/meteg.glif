@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="meteg" format="2">
+  <unicode hex="05BD"/>
+  <note>
+meteg
+</note>
+  <anchor x="0" y="0" name="_hebrewbottom1"/>
+  <anchor x="-240" y="0" name="_hebrewbottom2"/>
+  <anchor x="120" y="0" name="_hebrewbottom3"/>
+  <outline>
+    <contour>
+      <point x="55" y="-125" type="line"/>
+      <point x="-55" y="-125" type="line"/>
+      <point x="-55" y="-348" type="line"/>
+      <point x="55" y="-348" type="line"/>
+    </contour>
+  </outline>
+</glyph>

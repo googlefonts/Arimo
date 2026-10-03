@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniAB30" format="2">
+  <advance width="1309"/>
+  <unicode hex="AB30"/>
+  <note>
+uniAB30
+</note>
+  <outline>
+    <contour>
+      <point x="-34" y="464" type="line"/>
+      <point x="1257" y="464" type="line"/>
+      <point x="1257" y="660" type="line"/>
+      <point x="-34" y="660" type="line"/>
+    </contour>
+    <component base="uni0251"/>
+  </outline>
+</glyph>

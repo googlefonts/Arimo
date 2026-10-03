@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni029E" format="2">
+  <advance width="1216"/>
+  <unicode hex="029E"/>
+  <note>
+uni029E
+</note>
+  <anchor x="627" y="1200" name="top"/>
+  <anchor x="1093" y="1260" name="caronalt"/>
+  <anchor x="500" y="-540" name="bottom"/>
+  <anchor x="1216" y="1540" name="topdouble"/>
+  <anchor x="1216" y="-380" name="bottomdouble"/>
+  <anchor x="1216" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="803" y="-400" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="1075" y="1082" type="line"/>
+      <point x="727" y="1082" type="line"/>
+      <point x="727" y="662" type="line"/>
+      <point x="613" y="595" type="line"/>
+      <point x="375" y="1082" type="line"/>
+      <point x="4" y="1082" type="line"/>
+      <point x="378" y="393" type="line"/>
+      <point x="37" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="727" y="397" type="line"/>
+      <point x="727" y="-402" type="line"/>
+      <point x="1075" y="-402" type="line"/>
+    </contour>
+  </outline>
+</glyph>

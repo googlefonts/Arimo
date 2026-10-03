@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.alt12" format="2">
+  <note>
+tilde.alt12
+</note>
+  <outline>
+    <contour>
+      <point x="-1951" y="2137" type="curve"/>
+      <point x="-1825" y="2137" type="line"/>
+      <point x="-1838" y="2151"/>
+      <point x="-1809" y="2180"/>
+      <point x="-1763" y="2180" type="curve" smooth="yes"/>
+      <point x="-1727" y="2180"/>
+      <point x="-1715" y="2175"/>
+      <point x="-1674" y="2161" type="curve" smooth="yes"/>
+      <point x="-1599" y="2130"/>
+      <point x="-1589" y="2143"/>
+      <point x="-1545" y="2143" type="curve" smooth="yes"/>
+      <point x="-1492" y="2143"/>
+      <point x="-1454" y="2157"/>
+      <point x="-1428" y="2172" type="curve" smooth="yes"/>
+      <point x="-1405" y="2191"/>
+      <point x="-1390" y="2218"/>
+      <point x="-1385" y="2250" type="curve"/>
+      <point x="-1506" y="2250" type="line"/>
+      <point x="-1510" y="2237"/>
+      <point x="-1534" y="2221"/>
+      <point x="-1559" y="2221" type="curve" smooth="yes"/>
+      <point x="-1570" y="2221"/>
+      <point x="-1579" y="2219"/>
+      <point x="-1589" y="2216" type="curve" smooth="yes"/>
+      <point x="-1595" y="2212"/>
+      <point x="-1626" y="2217"/>
+      <point x="-1685" y="2241" type="curve" smooth="yes"/>
+      <point x="-1735" y="2257"/>
+      <point x="-1734" y="2244"/>
+      <point x="-1774" y="2244" type="curve" smooth="yes"/>
+      <point x="-1863" y="2244"/>
+      <point x="-1949" y="2192"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,10 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.1">
   <axes>
-    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
-    </axis>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
   </axes>
   <sources>
+    <source filename="Arimo-ThinItalic.ufo" name="Arimo Thin Italic" familyname="Arimo" stylename="Thin Italic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
     <source filename="Arimo-Italic.ufo" name="Arimo Italic" familyname="Arimo" stylename="Italic">
       <lib copy="1"/>
       <groups copy="1"/>
@@ -19,8 +23,34 @@
         <dimension name="Weight" xvalue="700"/>
       </location>
     </source>
+    <source filename="Arimo-BlackItalic.ufo" name="Arimo Black Italic" familyname="Arimo" stylename="Black Italic">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
   </sources>
   <instances>
+    <instance name="Arimo Thin Italic" familyname="Arimo" stylename="Thin Italic" filename="../instance_ufo/Arimo-ThinItalic.ufo" postscriptfontname="Arimo-ThinItalic" stylemapfamilyname="Arimo Thin" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Arimo ExtraLight Italic" familyname="Arimo" stylename="ExtraLight Italic" filename="../instance_ufo/Arimo-ExtraLightItalic.ufo" postscriptfontname="Arimo-ExtraLightItalic" stylemapfamilyname="Arimo ExtraLight" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Arimo Light Italic" familyname="Arimo" stylename="Light Italic" filename="../instance_ufo/Arimo-LightItalic.ufo" postscriptfontname="Arimo-LightItalic" stylemapfamilyname="Arimo Light" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
     <instance name="Arimo Italic" familyname="Arimo" stylename="Italic" filename="../instance_ufo/Arimo-Italic.ufo" postscriptfontname="Arimo-Italic" stylemapfamilyname="Arimo" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="400"/>
@@ -28,9 +58,37 @@
       <kerning/>
       <info/>
     </instance>
+    <instance name="Arimo Medium Italic" familyname="Arimo" stylename="Medium Italic" filename="../instance_ufo/Arimo-MediumItalic.ufo" postscriptfontname="Arimo-MediumItalic" stylemapfamilyname="Arimo Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Arimo SemiBold Italic" familyname="Arimo" stylename="SemiBold Italic" filename="../instance_ufo/Arimo-SemiBoldItalic.ufo" postscriptfontname="Arimo-SemiBoldItalic" stylemapfamilyname="Arimo SemiBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
     <instance name="Arimo Bold Italic" familyname="Arimo" stylename="Bold Italic" filename="../instance_ufo/Arimo-BoldItalic.ufo" postscriptfontname="Arimo-BoldItalic" stylemapfamilyname="Arimo" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="700"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Arimo ExtraBold Italic" familyname="Arimo" stylename="ExtraBold Italic" filename="../instance_ufo/Arimo-ExtraBoldItalic.ufo" postscriptfontname="Arimo-ExtraBoldItalic" stylemapfamilyname="Arimo ExtraBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Arimo Black Italic" familyname="Arimo" stylename="Black Italic" filename="../instance_ufo/Arimo-BlackItalic.ufo" postscriptfontname="Arimo-BlackItalic" stylemapfamilyname="Arimo Black" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
       </location>
       <kerning/>
       <info/>

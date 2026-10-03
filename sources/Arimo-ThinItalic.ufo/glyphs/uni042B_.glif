@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni042B" format="2">
+  <advance width="1582"/>
+  <unicode hex="042B"/>
+  <note>
+uni042B
+</note>
+  <anchor x="758" y="1540" name="cytop"/>
+  <outline>
+    <contour>
+      <point x="1497" y="1409" type="line"/>
+      <point x="1410" y="1409" type="line"/>
+      <point x="1138" y="0" type="line"/>
+      <point x="1225" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="329" y="778" type="line"/>
+      <point x="450" y="1409" type="line"/>
+      <point x="363" y="1409" type="line"/>
+      <point x="88" y="0" type="line"/>
+      <point x="574" y="0" type="line" smooth="yes"/>
+      <point x="877" y="0"/>
+      <point x="1068" y="155"/>
+      <point x="1068" y="412" type="curve" smooth="yes"/>
+      <point x="1068" y="653"/>
+      <point x="902" y="778"/>
+      <point x="603" y="778" type="curve"/>
+    </contour>
+    <contour>
+      <point x="189" y="72" type="line"/>
+      <point x="313" y="701" type="line"/>
+      <point x="649" y="701" type="line" smooth="yes"/>
+      <point x="858" y="701"/>
+      <point x="984" y="596"/>
+      <point x="984" y="413" type="curve" smooth="yes"/>
+      <point x="984" y="180"/>
+      <point x="845" y="72"/>
+      <point x="546" y="72" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

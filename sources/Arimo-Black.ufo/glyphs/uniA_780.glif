@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA780" format="2">
+  <advance width="1176"/>
+  <unicode hex="A780"/>
+  <note>
+uniA780
+</note>
+  <outline>
+    <contour>
+      <point x="1059" y="1409" type="line"/>
+      <point x="21" y="1409" type="line"/>
+      <point x="21" y="1133" type="line"/>
+      <point x="695" y="1133" type="line"/>
+      <point x="695" y="2" type="line"/>
+      <point x="1059" y="2" type="line"/>
+    </contour>
+  </outline>
+</glyph>

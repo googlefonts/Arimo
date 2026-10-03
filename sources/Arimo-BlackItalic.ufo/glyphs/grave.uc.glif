@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave.uc" format="2">
+  <advance width="735"/>
+  <note>
+grave.uc
+</note>
+  <outline>
+    <contour>
+      <point x="766" y="1568" type="line"/>
+      <point x="543" y="1829" type="line"/>
+      <point x="284" y="1829" type="line"/>
+      <point x="272" y="1777" type="line"/>
+      <point x="584" y="1530" type="line"/>
+      <point x="756" y="1530" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

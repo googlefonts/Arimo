@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qofdagesh" format="2">
+  <advance width="1426"/>
+  <unicode hex="FB47"/>
+  <note>
+qofdagesh
+</note>
+  <anchor x="60" y="1430" name="holam"/>
+  <anchor x="627" y="1350" name="hebrewtop1"/>
+  <anchor x="627" y="1700" name="upperdot"/>
+  <anchor x="860" y="0" name="hebrewbottom1"/>
+  <anchor x="720" y="0" name="hebrewbottomleft"/>
+  <anchor x="600" y="0" name="hebrewbottomleft"/>
+  <anchor x="240" y="1350" name="hebrewtopleft"/>
+  <anchor x="1100" y="1350" name="hebrewtopright"/>
+  <anchor x="1213" y="1430" name="rafe"/>
+  <anchor x="620" y="0" name="hebrewbottom2"/>
+  <anchor x="627" y="1350" name="hebrewtop2"/>
+  <anchor x="127" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="qof"/>
+    <component base="dagesh" xOffset="739" yOffset="28"/>
+  </outline>
+</glyph>

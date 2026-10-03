@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE2D" format="2">
+  <unicode hex="FE2D"/>
+  <note>
+uniFE2D
+</note>
+  <outline>
+    <contour>
+      <point x="688" y="-134" type="line"/>
+      <point x="-610" y="-134" type="line"/>
+      <point x="-657" y="-329" type="line"/>
+      <point x="639" y="-329" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

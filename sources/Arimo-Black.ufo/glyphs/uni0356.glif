@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0356" format="2">
+  <unicode hex="0356"/>
+  <note>
+uni0356
+</note>
+  <anchor x="30" y="0" name="_bottom"/>
+  <anchor x="30" y="0" name="_bottommkmk"/>
+  <anchor x="0" y="-520" name="bottommkmk"/>
+  <outline>
+    <contour>
+      <point x="-1" y="-242" type="line"/>
+      <point x="-1" y="-200" type="line"/>
+      <point x="-295" y="-18" type="line"/>
+      <point x="-295" y="-153" type="line"/>
+      <point x="-145" y="-221" type="line"/>
+      <point x="-295" y="-289" type="line"/>
+      <point x="-295" y="-424" type="line"/>
+    </contour>
+    <contour>
+      <point x="399" y="-366" type="line"/>
+      <point x="217" y="-72" type="line"/>
+      <point x="175" y="-72" type="line"/>
+      <point x="-8" y="-366" type="line"/>
+      <point x="130" y="-366" type="line"/>
+      <point x="196" y="-216" type="line"/>
+      <point x="265" y="-366" type="line"/>
+    </contour>
+  </outline>
+</glyph>

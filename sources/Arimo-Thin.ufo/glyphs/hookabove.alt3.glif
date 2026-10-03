@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabove.alt3" format="2">
+  <note>
+hookabove.alt3
+</note>
+  <outline>
+    <contour>
+      <point x="-1109" y="1672" type="curve" smooth="yes"/>
+      <point x="-1109" y="1626"/>
+      <point x="-1112" y="1599"/>
+      <point x="-1201" y="1591" type="curve"/>
+      <point x="-1201" y="1471" type="line"/>
+      <point x="-1127" y="1471" type="line"/>
+      <point x="-1127" y="1511" type="line"/>
+      <point x="-1010" y="1532"/>
+      <point x="-965" y="1602"/>
+      <point x="-965" y="1689" type="curve" smooth="yes"/>
+      <point x="-965" y="1790"/>
+      <point x="-1022" y="1835"/>
+      <point x="-1150" y="1835" type="curve" smooth="yes"/>
+      <point x="-1217" y="1835"/>
+      <point x="-1292" y="1819"/>
+      <point x="-1375" y="1786" type="curve"/>
+      <point x="-1324" y="1690" type="line"/>
+      <point x="-1267" y="1717"/>
+      <point x="-1209" y="1730"/>
+      <point x="-1148" y="1730" type="curve" smooth="yes"/>
+      <point x="-1134" y="1730"/>
+      <point x="-1109" y="1713"/>
+    </contour>
+  </outline>
+</glyph>

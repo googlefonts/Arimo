@@ -9327,7 +9327,7 @@ base	uni01C9	1	1138,-380
 base	uni01CA	0	2618,1540
 base	uni01CA	1	2618,-380
 base	uni01CB	0	2048,1540
-base	uni01CB	1	20483,-380
+base	uni01CB	1	2048,-380
 base	uni01CC	0	1820,1540
 base	uni01CC	1	1820,-380
 base	uni01DD	0	1139,1540

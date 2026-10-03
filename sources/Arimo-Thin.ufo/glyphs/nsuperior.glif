@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nsuperior" format="2">
+  <advance width="812"/>
+  <unicode hex="207F"/>
+  <note>
+nsuperior
+</note>
+  <outline>
+    <contour>
+      <point x="212" y="1131" type="curve"/>
+      <point x="211" y="1131" type="line"/>
+      <point x="209" y="1164"/>
+      <point x="208" y="1202"/>
+      <point x="212" y="1240" type="curve"/>
+      <point x="162" y="1240" type="line"/>
+      <point x="160" y="1168"/>
+      <point x="162" y="1115"/>
+      <point x="164" y="1084" type="curve"/>
+      <point x="164" y="476" type="line"/>
+      <point x="217" y="476" type="line"/>
+      <point x="217" y="952" type="line" smooth="yes"/>
+      <point x="217" y="1126"/>
+      <point x="302" y="1206"/>
+      <point x="443" y="1206" type="curve" smooth="yes"/>
+      <point x="588" y="1206"/>
+      <point x="618" y="1177"/>
+      <point x="618" y="1017" type="curve" smooth="yes"/>
+      <point x="618" y="476" type="line"/>
+      <point x="671" y="476" type="line"/>
+      <point x="671" y="1008" type="line" smooth="yes"/>
+      <point x="671" y="1194"/>
+      <point x="620" y="1254"/>
+      <point x="447" y="1254" type="curve" smooth="yes"/>
+      <point x="333" y="1254"/>
+      <point x="276" y="1223"/>
+    </contour>
+  </outline>
+</glyph>

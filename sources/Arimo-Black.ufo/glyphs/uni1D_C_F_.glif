@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DCF" format="2">
+  <unicode hex="1DCF"/>
+  <note>
+uni1DCF
+</note>
+  <outline>
+    <contour>
+      <point x="245" y="-160" type="line"/>
+      <point x="-52" y="-160" type="line"/>
+      <point x="3" y="0" type="line"/>
+      <point x="-158" y="0" type="line"/>
+      <point x="-261" y="-301" type="line"/>
+      <point x="35" y="-301" type="line"/>
+      <point x="-20" y="-451" type="line"/>
+      <point x="142" y="-451" type="line"/>
+    </contour>
+  </outline>
+</glyph>

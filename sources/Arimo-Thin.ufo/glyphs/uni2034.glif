@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2034" format="2">
+  <advance width="469"/>
+  <unicode hex="2034"/>
+  <note>
+uni2034
+</note>
+  <outline>
+    <component base="minute" xOffset="-202"/>
+    <component base="minute" xOffset="-25"/>
+    <component base="minute" xOffset="152"/>
+  </outline>
+</glyph>

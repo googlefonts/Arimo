@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reshwide" format="2">
+  <advance width="1237"/>
+  <unicode hex="FB27"/>
+  <note>
+reshwide
+</note>
+  <anchor x="0" y="1430" name="holam"/>
+  <anchor x="397" y="533" name="dagesh"/>
+  <anchor x="560" y="1350" name="hebrewtop1"/>
+  <anchor x="560" y="1700" name="upperdot"/>
+  <anchor x="833" y="0" name="hebrewbottom1"/>
+  <anchor x="367" y="0" name="hebrewbottomleft"/>
+  <anchor x="760" y="0" name="hebrewbottomleft"/>
+  <anchor x="140" y="1350" name="hebrewtopleft"/>
+  <anchor x="860" y="1350" name="hebrewtopright"/>
+  <anchor x="1060" y="1430" name="rafe"/>
+  <anchor x="467" y="0" name="hebrewbottom2"/>
+  <anchor x="427" y="1350" name="hebrewtop2"/>
+  <anchor x="633" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="resh"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

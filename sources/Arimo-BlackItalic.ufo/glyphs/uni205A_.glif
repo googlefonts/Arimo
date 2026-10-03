@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni205A" format="2">
+  <advance width="757"/>
+  <unicode hex="205A"/>
+  <note>
+uni205A
+</note>
+  <outline>
+    <contour>
+      <point x="554" y="1734" type="line"/>
+      <point x="204" y="1734" type="line"/>
+      <point x="204" y="1402" type="line"/>
+      <point x="554" y="1402" type="line"/>
+    </contour>
+    <contour>
+      <point x="554" y="330" type="line"/>
+      <point x="204" y="330" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="554" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

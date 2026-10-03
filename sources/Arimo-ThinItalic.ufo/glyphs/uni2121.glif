@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2121" format="2">
+  <advance width="2048"/>
+  <unicode hex="2121"/>
+  <note>
+uni2121
+</note>
+  <outline>
+    <contour>
+      <point x="443" y="1326" type="line"/>
+      <point x="714" y="1326" type="line"/>
+      <point x="714" y="1409" type="line"/>
+      <point x="88" y="1409" type="line"/>
+      <point x="88" y="1326" type="line"/>
+      <point x="355" y="1326" type="line"/>
+      <point x="355" y="634" type="line"/>
+      <point x="443" y="634" type="line"/>
+    </contour>
+    <contour>
+      <point x="1368" y="715" type="line"/>
+      <point x="931" y="715" type="line"/>
+      <point x="931" y="985" type="line"/>
+      <point x="1312" y="985" type="line"/>
+      <point x="1312" y="1065" type="line"/>
+      <point x="931" y="1065" type="line"/>
+      <point x="931" y="1328" type="line"/>
+      <point x="1345" y="1328" type="line"/>
+      <point x="1345" y="1409" type="line"/>
+      <point x="843" y="1409" type="line"/>
+      <point x="843" y="634" type="line"/>
+      <point x="1368" y="634" type="line"/>
+    </contour>
+    <contour>
+      <point x="1998" y="715" type="line"/>
+      <point x="1561" y="715" type="line"/>
+      <point x="1561" y="1409" type="line"/>
+      <point x="1473" y="1409" type="line"/>
+      <point x="1473" y="634" type="line"/>
+      <point x="1998" y="634" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

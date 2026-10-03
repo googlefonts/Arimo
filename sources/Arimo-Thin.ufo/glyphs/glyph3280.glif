@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph3280" format="2">
+  <advance width="773"/>
+  <note>
+glyph3280
+</note>
+  <outline>
+    <contour>
+      <point x="171" y="965" type="line" smooth="yes"/>
+      <point x="171" y="1106"/>
+      <point x="277" y="1219"/>
+      <point x="414" y="1219" type="curve" smooth="yes"/>
+      <point x="551" y="1219"/>
+      <point x="601" y="1160"/>
+      <point x="601" y="1031" type="curve" smooth="yes"/>
+      <point x="601" y="490" type="line"/>
+      <point x="660" y="490" type="line"/>
+      <point x="660" y="948" type="line" smooth="yes"/>
+      <point x="660" y="1170"/>
+      <point x="609" y="1267"/>
+      <point x="418" y="1267" type="curve" smooth="yes"/>
+      <point x="295" y="1267"/>
+      <point x="203" y="1205"/>
+      <point x="168" y="1143" type="curve"/>
+      <point x="166" y="1143" type="line"/>
+      <point x="164" y="1178"/>
+      <point x="165" y="1216"/>
+      <point x="165" y="1254" type="curve"/>
+      <point x="114" y="1254" type="line"/>
+      <point x="112" y="1194"/>
+      <point x="112" y="1157"/>
+      <point x="112" y="1138" type="curve" smooth="yes"/>
+      <point x="112" y="490" type="line"/>
+      <point x="171" y="490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

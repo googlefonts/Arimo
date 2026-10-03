@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamedholamdagesh" format="2">
+  <advance width="1362"/>
+  <note>
+lamedholamdagesh
+</note>
+  <anchor x="-300" y="1430" name="holam"/>
+  <anchor x="807" y="1350" name="hebrewtop1"/>
+  <anchor x="807" y="1700" name="upperdot"/>
+  <anchor x="380" y="0" name="hebrewbottom1"/>
+  <anchor x="513" y="0" name="hebrewbottomleft"/>
+  <anchor x="833" y="0" name="hebrewbottomleft"/>
+  <anchor x="-180" y="1350" name="hebrewtopleft"/>
+  <anchor x="967" y="1350" name="hebrewtopright"/>
+  <anchor x="1080" y="1430" name="rafe"/>
+  <anchor x="447" y="0" name="hebrewbottom2"/>
+  <anchor x="763" y="1350" name="hebrewtop2"/>
+  <anchor x="447" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="lamed"/>
+    <component base="dagesh" xOffset="494" yOffset="23"/>
+    <component base="holam" xOffset="-28"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

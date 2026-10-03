@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1D2D" format="2">
+  <advance width="1522"/>
+  <unicode hex="1D2D"/>
+  <note>
+uni1D2D
+</note>
+  <outline>
+    <contour>
+      <point x="464" y="721" type="line"/>
+      <point x="734" y="721" type="line"/>
+      <point x="691" y="490" type="line"/>
+      <point x="1402" y="490" type="line"/>
+      <point x="1438" y="679" type="line"/>
+      <point x="959" y="679" type="line"/>
+      <point x="997" y="899" type="line"/>
+      <point x="1406" y="899" type="line"/>
+      <point x="1439" y="1083" type="line"/>
+      <point x="1030" y="1083" type="line"/>
+      <point x="1069" y="1293" type="line"/>
+      <point x="1520" y="1293" type="line"/>
+      <point x="1557" y="1482" type="line"/>
+      <point x="717" y="1482" type="line"/>
+      <point x="59" y="490" type="line"/>
+      <point x="317" y="490" type="line"/>
+    </contour>
+    <contour>
+      <point x="581" y="907" type="line"/>
+      <point x="730" y="1138" type="line"/>
+      <point x="830" y="1300" type="line"/>
+      <point x="840" y="1300" type="line"/>
+      <point x="767" y="907" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

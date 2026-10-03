@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicrontonos" format="2">
+  <advance width="1758"/>
+  <unicode hex="038C"/>
+  <note>
+Omicrontonos
+</note>
+  <outline>
+    <component base="O" xOffset="163"/>
+    <component base="tonos" xOffset="-169" yOffset="-75"/>
+  </outline>
+</glyph>

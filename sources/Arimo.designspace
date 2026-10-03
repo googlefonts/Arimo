@@ -1,10 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.1">
   <axes>
-    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
-    </axis>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
   </axes>
   <sources>
+    <source filename="Arimo-Thin.ufo" name="Arimo Thin" familyname="Arimo" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
     <source filename="Arimo-Regular.ufo" name="Arimo Regular" familyname="Arimo" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>
@@ -19,8 +23,34 @@
         <dimension name="Weight" xvalue="700"/>
       </location>
     </source>
+    <source filename="Arimo-Black.ufo" name="Arimo Black" familyname="Arimo" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
   </sources>
   <instances>
+    <instance name="Arimo Thin" familyname="Arimo" stylename="Thin" filename="../instance_ufo/Arimo-Thin.ufo" postscriptfontname="Arimo-Thin" stylemapfamilyname="Arimo Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Arimo ExtraLight" familyname="Arimo" stylename="ExtraLight" filename="../instance_ufo/Arimo-ExtraLight.ufo" postscriptfontname="Arimo-ExtraLight" stylemapfamilyname="Arimo ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Arimo Light" familyname="Arimo" stylename="Light" filename="../instance_ufo/Arimo-Light.ufo" postscriptfontname="Arimo-Light" stylemapfamilyname="Arimo Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
     <instance name="Arimo Regular" familyname="Arimo" stylename="Regular" filename="../instance_ufo/Arimo-Regular.ufo" postscriptfontname="Arimo-Regular" stylemapfamilyname="Arimo" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="400"/>
@@ -28,9 +58,37 @@
       <kerning/>
       <info/>
     </instance>
+    <instance name="Arimo Medium" familyname="Arimo" stylename="Medium" filename="../instance_ufo/Arimo-Medium.ufo" postscriptfontname="Arimo-Medium" stylemapfamilyname="Arimo Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Arimo SemiBold" familyname="Arimo" stylename="SemiBold" filename="../instance_ufo/Arimo-SemiBold.ufo" postscriptfontname="Arimo-SemiBold" stylemapfamilyname="Arimo SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
     <instance name="Arimo Bold" familyname="Arimo" stylename="Bold" filename="../instance_ufo/Arimo-Bold.ufo" postscriptfontname="Arimo-Bold" stylemapfamilyname="Arimo" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="700"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Arimo ExtraBold" familyname="Arimo" stylename="ExtraBold" filename="../instance_ufo/Arimo-ExtraBold.ufo" postscriptfontname="Arimo-ExtraBold" stylemapfamilyname="Arimo ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Arimo Black" familyname="Arimo" stylename="Black" filename="../instance_ufo/Arimo-Black.ufo" postscriptfontname="Arimo-Black" stylemapfamilyname="Arimo Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
       </location>
       <kerning/>
       <info/>

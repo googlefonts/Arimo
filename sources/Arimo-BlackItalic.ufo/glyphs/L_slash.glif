@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="1326"/>
+  <unicode hex="0141"/>
+  <note>
+Lslash
+</note>
+  <anchor x="833" y="1540" name="top"/>
+  <anchor x="1167" y="1540" name="caronalt"/>
+  <anchor x="713" y="-130" name="bottom"/>
+  <anchor x="1326" y="1540" name="topdouble"/>
+  <anchor x="1326" y="-380" name="bottomdouble"/>
+  <anchor x="1326" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="940" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="437" y="276" type="line"/>
+      <point x="502" y="610" type="line"/>
+      <point x="858" y="759" type="line"/>
+      <point x="909" y="1026" type="line"/>
+      <point x="553" y="876" type="line"/>
+      <point x="657" y="1409" type="line"/>
+      <point x="292" y="1409" type="line"/>
+      <point x="158" y="716" type="line"/>
+      <point x="21" y="664" type="line"/>
+      <point x="-33" y="395" type="line"/>
+      <point x="105" y="445" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="1168" y="0" type="line"/>
+      <point x="1222" y="276" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

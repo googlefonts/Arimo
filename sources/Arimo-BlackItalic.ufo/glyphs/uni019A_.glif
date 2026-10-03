@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni019A" format="2">
+  <advance width="645"/>
+  <unicode hex="019A"/>
+  <note>
+uni019A
+</note>
+  <anchor x="513" y="1580" name="top"/>
+  <anchor x="507" y="1540" name="caronalt"/>
+  <anchor x="380" y="-130" name="bottom"/>
+  <anchor x="645" y="1540" name="topdouble"/>
+  <anchor x="645" y="-380" name="bottomdouble"/>
+  <anchor x="645" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="260" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="503" y="594" type="line"/>
+      <point x="697" y="594" type="line"/>
+      <point x="746" y="845" type="line"/>
+      <point x="553" y="845" type="line"/>
+      <point x="677" y="1484" type="line"/>
+      <point x="328" y="1484" type="line"/>
+      <point x="204" y="845" type="line"/>
+      <point x="39" y="845" type="line"/>
+      <point x="-10" y="594" type="line"/>
+      <point x="156" y="594" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="388" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

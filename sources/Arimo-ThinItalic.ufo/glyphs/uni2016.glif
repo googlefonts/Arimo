@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2016" format="2">
+  <advance width="719"/>
+  <unicode hex="2016"/>
+  <note>
+uni2016
+</note>
+  <outline>
+    <contour>
+      <point x="327" y="1484" type="line"/>
+      <point x="235" y="1484" type="line"/>
+      <point x="235" y="-453" type="line"/>
+      <point x="327" y="-453" type="line"/>
+    </contour>
+    <contour>
+      <point x="544" y="1484" type="line"/>
+      <point x="452" y="1484" type="line"/>
+      <point x="452" y="-453" type="line"/>
+      <point x="544" y="-453" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron.uc" format="2">
+  <advance width="646"/>
+  <note>
+caron.uc
+</note>
+  <outline>
+    <contour>
+      <point x="919" y="1732" type="line"/>
+      <point x="921" y="1745" type="line"/>
+      <point x="858" y="1745" type="line"/>
+      <point x="598" y="1619" type="line"/>
+      <point x="598" y="1619" type="line"/>
+      <point x="370" y="1745" type="line"/>
+      <point x="334" y="1745" type="line"/>
+      <point x="331" y="1732" type="line"/>
+      <point x="501" y="1530" type="line"/>
+      <point x="680" y="1530" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

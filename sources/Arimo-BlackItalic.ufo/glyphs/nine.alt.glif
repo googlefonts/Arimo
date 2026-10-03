@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.alt" format="2">
+  <note>
+nine.alt
+</note>
+  <outline>
+    <contour>
+      <point x="75" y="880" type="curve"/>
+      <point x="-111" y="880"/>
+      <point x="-252" y="755"/>
+      <point x="-252" y="588" type="curve" smooth="yes"/>
+      <point x="-252" y="463"/>
+      <point x="-173" y="378"/>
+      <point x="-49" y="378" type="curve" smooth="yes"/>
+      <point x="4" y="378"/>
+      <point x="51" y="388"/>
+      <point x="91" y="408" type="curve"/>
+      <point x="56" y="305"/>
+      <point x="17" y="260"/>
+      <point x="-34" y="260" type="curve" smooth="yes"/>
+      <point x="-77" y="260"/>
+      <point x="-103" y="283"/>
+      <point x="-109" y="332" type="curve"/>
+      <point x="-323" y="304" type="line"/>
+      <point x="-303" y="167"/>
+      <point x="-199" y="100"/>
+      <point x="-49" y="100" type="curve" smooth="yes"/>
+      <point x="39" y="100"/>
+      <point x="114" y="121"/>
+      <point x="187" y="183" type="curve" smooth="yes"/>
+      <point x="280" y="297"/>
+      <point x="336" y="493"/>
+      <point x="336" y="629" type="curve" smooth="yes"/>
+      <point x="336" y="774"/>
+      <point x="231" y="880"/>
+    </contour>
+    <contour>
+      <point x="130" y="655" type="curve"/>
+      <point x="130" y="567"/>
+      <point x="91" y="517"/>
+      <point x="31" y="517" type="curve" smooth="yes"/>
+      <point x="-6" y="517"/>
+      <point x="-46" y="541"/>
+      <point x="-46" y="591" type="curve" smooth="yes"/>
+      <point x="-46" y="690"/>
+      <point x="1" y="724"/>
+      <point x="63" y="724" type="curve" smooth="yes"/>
+      <point x="107" y="724"/>
+      <point x="130" y="689"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

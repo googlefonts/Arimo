@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb" format="2">
+  <unicode hex="0301"/>
+  <note>
+acutecomb
+</note>
+  <anchor x="-275" y="1520" name="_top"/>
+  <anchor x="-325" y="1540" name="_cytop"/>
+  <anchor x="-275" y="1480" name="_topmkmk"/>
+  <anchor x="-240" y="1940" name="topmkmk"/>
+  <outline>
+    <contour>
+      <point x="-67" y="1780" type="line"/>
+      <point x="-67" y="1800" type="line"/>
+      <point x="-223" y="1800" type="line"/>
+      <point x="-311" y="1537" type="line"/>
+      <point x="-311" y="1524" type="line"/>
+      <point x="-272" y="1524" type="line"/>
+    </contour>
+  </outline>
+</glyph>

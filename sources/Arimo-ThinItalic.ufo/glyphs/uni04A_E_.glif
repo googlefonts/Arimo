@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04AE" format="2">
+  <advance width="1139"/>
+  <unicode hex="04AE"/>
+  <note>
+uni04AE
+</note>
+  <outline>
+    <contour>
+      <point x="612" y="601" type="line"/>
+      <point x="1259" y="1409" type="line"/>
+      <point x="1151" y="1409" type="line"/>
+      <point x="568" y="656" type="line"/>
+      <point x="281" y="1409" type="line"/>
+      <point x="207" y="1409" type="line"/>
+      <point x="529" y="591" type="line"/>
+      <point x="412" y="0" type="line"/>
+      <point x="498" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

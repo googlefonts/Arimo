@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gimeldagesh" format="2">
+  <advance width="1058"/>
+  <unicode hex="FB32"/>
+  <note>
+gimeldagesh
+</note>
+  <anchor x="60" y="1430" name="holam"/>
+  <anchor x="460" y="1350" name="hebrewtop1"/>
+  <anchor x="460" y="1700" name="upperdot"/>
+  <anchor x="567" y="0" name="hebrewbottom1"/>
+  <anchor x="567" y="0" name="hebrewbottomleft"/>
+  <anchor x="680" y="0" name="hebrewbottomleft"/>
+  <anchor x="240" y="1350" name="hebrewtopleft"/>
+  <anchor x="600" y="1350" name="hebrewtopright"/>
+  <anchor x="807" y="1430" name="rafe"/>
+  <anchor x="567" y="0" name="hebrewbottom2"/>
+  <anchor x="460" y="1350" name="hebrewtop2"/>
+  <anchor x="567" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="gimel"/>
+    <component base="dagesh" xOffset="293" yOffset="76"/>
+  </outline>
+</glyph>

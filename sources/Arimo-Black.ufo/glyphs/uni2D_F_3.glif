@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2DF3" format="2">
+  <unicode hex="2DF3"/>
+  <note>
+uni2DF3
+</note>
+  <outline>
+    <contour>
+      <point x="369" y="1327" type="line"/>
+      <point x="304" y="1327" type="line"/>
+      <point x="304" y="1706" type="line"/>
+      <point x="144" y="1706" type="line"/>
+      <point x="144" y="1327" type="line"/>
+      <point x="48" y="1327" type="line"/>
+      <point x="48" y="1706" type="line"/>
+      <point x="-112" y="1706" type="line"/>
+      <point x="-112" y="1327" type="line"/>
+      <point x="-208" y="1327" type="line"/>
+      <point x="-208" y="1706" type="line"/>
+      <point x="-368" y="1706" type="line"/>
+      <point x="-368" y="1210" type="line"/>
+      <point x="215" y="1210" type="line"/>
+      <point x="215" y="1062" type="line"/>
+      <point x="369" y="1062" type="line"/>
+    </contour>
+  </outline>
+</glyph>

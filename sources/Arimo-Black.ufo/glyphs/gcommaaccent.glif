@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcommaaccent" format="2">
+  <advance width="1326"/>
+  <unicode hex="0123"/>
+  <note>
+gcommaaccent
+</note>
+  <anchor x="627" y="1620" name="top"/>
+  <anchor x="1213" y="1493" name="caronalt"/>
+  <anchor x="640" y="-540" name="bottom"/>
+  <anchor x="1326" y="1540" name="topdouble"/>
+  <anchor x="1326" y="-380" name="bottomdouble"/>
+  <anchor x="1326" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="660" y="-400" name="ogonek"/>
+  <outline>
+    <component base="g"/>
+    <component base="commaaccentrotate" xOffset="447"/>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentrotate" format="2">
+  <advance width="455"/>
+  <note>
+commaaccentrotate
+</note>
+  <outline>
+    <contour>
+      <point x="675" y="1337" type="line"/>
+      <point x="607" y="1337" type="line"/>
+      <point x="618" y="1396"/>
+      <point x="662" y="1460"/>
+      <point x="738" y="1527" type="curve"/>
+      <point x="651" y="1527" type="line"/>
+      <point x="586" y="1464"/>
+      <point x="541" y="1392"/>
+      <point x="518" y="1276" type="curve" smooth="yes"/>
+      <point x="506" y="1210" type="line"/>
+      <point x="651" y="1210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

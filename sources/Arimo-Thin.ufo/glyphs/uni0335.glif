@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0335" format="2">
+  <unicode hex="0335"/>
+  <note>
+uni0335
+</note>
+  <outline>
+    <contour>
+      <point x="377" y="293" type="line"/>
+      <point x="377" y="368" type="line"/>
+      <point x="-377" y="368" type="line"/>
+      <point x="-377" y="293" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0312" format="2">
+  <unicode hex="0312"/>
+  <note>
+uni0312
+</note>
+  <anchor x="-240" y="1080" name="_top"/>
+  <anchor x="-240" y="1080" name="_topmkmk"/>
+  <anchor x="-143" y="1820" name="topmkmk"/>
+  <outline>
+    <component base="quoteleft" xOffset="-391"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

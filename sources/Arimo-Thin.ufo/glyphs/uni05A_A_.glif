@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni05AA" format="2">
+  <unicode hex="05AA"/>
+  <note>
+uni05AA
+</note>
+  <anchor x="0" y="20" name="_hebrewbottom1"/>
+  <anchor x="-160" y="20" name="_hebrewbottom2"/>
+  <anchor x="200" y="20" name="_hebrewbottom3"/>
+  <outline>
+    <component base="uni05A2"/>
+  </outline>
+</glyph>

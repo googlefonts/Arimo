@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odotbelow" format="2">
+  <advance width="1593"/>
+  <unicode hex="1ECC"/>
+  <note>
+Odotbelow
+</note>
+  <anchor x="950" y="1540" name="top"/>
+  <anchor x="1430" y="1540" name="caronalt"/>
+  <anchor x="853" y="-440" name="bottom"/>
+  <anchor x="1200" y="1300" name="horn"/>
+  <anchor x="1593" y="1540" name="topdouble"/>
+  <anchor x="1593" y="-380" name="bottomdouble"/>
+  <anchor x="1593" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="730" y="-427" name="ogonek"/>
+  <outline>
+    <component base="O"/>
+    <component base="dotbelowcomb" xOffset="130"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

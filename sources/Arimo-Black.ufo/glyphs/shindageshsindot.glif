@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shindageshsindot" format="2">
+  <advance width="1752"/>
+  <unicode hex="FB2D"/>
+  <note>
+shindageshsindot
+</note>
+  <anchor x="-80" y="1430" name="holam"/>
+  <anchor x="893" y="1350" name="hebrewtop1"/>
+  <anchor x="893" y="1700" name="upperdot"/>
+  <anchor x="853" y="0" name="hebrewbottom1"/>
+  <anchor x="853" y="0" name="hebrewbottomleft"/>
+  <anchor x="1280" y="0" name="hebrewbottomleft"/>
+  <anchor x="100" y="1350" name="hebrewtopleft"/>
+  <anchor x="1567" y="1350" name="hebrewtopright"/>
+  <anchor x="1627" y="1430" name="rafe"/>
+  <anchor x="853" y="0" name="hebrewbottom2"/>
+  <anchor x="867" y="1350" name="hebrewtop2"/>
+  <anchor x="867" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="shin"/>
+    <component base="dagesh" xOffset="1116" yOffset="-79"/>
+    <component base="holam" xOffset="248"/>
+  </outline>
+</glyph>

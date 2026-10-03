@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0362" format="2">
+  <unicode hex="0362"/>
+  <note>
+uni0362
+</note>
+  <anchor x="350" y="-120" name="_bottomdouble"/>
+  <outline>
+    <contour>
+      <point x="-173" y="-167" type="line"/>
+      <point x="-173" y="-285" type="line"/>
+      <point x="842" y="-285" type="line"/>
+      <point x="842" y="-407" type="line"/>
+      <point x="978" y="-226" type="line"/>
+      <point x="842" y="-39" type="line"/>
+      <point x="842" y="-167" type="line"/>
+    </contour>
+  </outline>
+</glyph>

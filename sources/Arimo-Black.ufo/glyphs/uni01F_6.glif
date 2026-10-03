@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01F6" format="2">
+  <advance width="2113"/>
+  <unicode hex="01F6"/>
+  <note>
+uni01F6
+</note>
+  <anchor x="750" y="1540" name="top"/>
+  <anchor x="1998" y="1260" name="caronalt"/>
+  <anchor x="730" y="-130" name="bottom"/>
+  <anchor x="2113" y="1540" name="topdouble"/>
+  <anchor x="2113" y="-380" name="bottomdouble"/>
+  <anchor x="2113" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1634" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="1360" y="484" type="curve" smooth="yes"/>
+      <point x="1360" y="1409" type="line"/>
+      <point x="996" y="1409" type="line"/>
+      <point x="996" y="871" type="line"/>
+      <point x="481" y="871" type="line"/>
+      <point x="481" y="1409" type="line"/>
+      <point x="116" y="1409" type="line"/>
+      <point x="116" y="0" type="line"/>
+      <point x="481" y="0" type="line"/>
+      <point x="481" y="571" type="line"/>
+      <point x="996" y="571" type="line"/>
+      <point x="996" y="519" type="line" smooth="yes"/>
+      <point x="996" y="125"/>
+      <point x="1148" y="-20"/>
+      <point x="1514" y="-20" type="curve" smooth="yes"/>
+      <point x="1858" y="-20"/>
+      <point x="2014" y="146"/>
+      <point x="2014" y="517" type="curve" smooth="yes"/>
+      <point x="2014" y="1082" type="line"/>
+      <point x="1668" y="1082" type="line"/>
+      <point x="1668" y="484" type="line" smooth="yes"/>
+      <point x="1668" y="330"/>
+      <point x="1611" y="240"/>
+      <point x="1513" y="240" type="curve" smooth="yes"/>
+      <point x="1415" y="240"/>
+      <point x="1360" y="321"/>
+    </contour>
+  </outline>
+</glyph>

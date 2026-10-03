@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2038" format="2">
+  <advance width="695"/>
+  <unicode hex="2038"/>
+  <note>
+uni2038
+</note>
+  <outline>
+    <contour>
+      <point x="404" y="-277" type="line"/>
+      <point x="633" y="-410" type="line"/>
+      <point x="806" y="-410" type="line"/>
+      <point x="534" y="-83" type="line"/>
+      <point x="267" y="-83" type="line"/>
+      <point x="-20" y="-410" type="line"/>
+      <point x="155" y="-410" type="line"/>
+    </contour>
+  </outline>
+</glyph>

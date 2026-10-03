@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tsadidagesh" format="2">
+  <advance width="985"/>
+  <unicode hex="FB46"/>
+  <note>
+tsadidagesh
+</note>
+  <anchor x="0" y="1430" name="holam"/>
+  <anchor x="600" y="1350" name="hebrewtop1"/>
+  <anchor x="600" y="1700" name="upperdot"/>
+  <anchor x="420" y="0" name="hebrewbottom1"/>
+  <anchor x="420" y="0" name="hebrewbottomleft"/>
+  <anchor x="800" y="0" name="hebrewbottomleft"/>
+  <anchor x="140" y="1350" name="hebrewtopleft"/>
+  <anchor x="770" y="1350" name="hebrewtopright"/>
+  <anchor x="840" y="1430" name="rafe"/>
+  <anchor x="320" y="0" name="hebrewbottom2"/>
+  <anchor x="740" y="1350" name="hebrewtop2"/>
+  <anchor x="320" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="tsadi"/>
+    <component base="dagesh" xOffset="194" yOffset="-335"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

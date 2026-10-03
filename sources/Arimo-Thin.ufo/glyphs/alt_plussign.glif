@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alt_plussign" format="2">
+  <advance width="1065"/>
+  <unicode hex="FB29"/>
+  <note>
+alt_plussign
+</note>
+  <outline>
+    <contour>
+      <point x="977" y="685" type="line"/>
+      <point x="582" y="685" type="line"/>
+      <point x="582" y="1113" type="line"/>
+      <point x="481" y="1113" type="line"/>
+      <point x="481" y="685" type="line"/>
+      <point x="90" y="685" type="line"/>
+      <point x="90" y="571" type="line"/>
+      <point x="977" y="571" type="line"/>
+    </contour>
+  </outline>
+</glyph>

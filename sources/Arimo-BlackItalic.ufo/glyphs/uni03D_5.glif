@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03D5" format="2">
+  <advance width="1826"/>
+  <unicode hex="03D5"/>
+  <note>
+uni03D5
+</note>
+  <outline>
+    <contour>
+      <point x="971" y="-21" type="line"/>
+      <point x="1255" y="-16"/>
+      <point x="1512" y="109"/>
+      <point x="1643" y="295" type="curve" smooth="yes"/>
+      <point x="1709" y="388"/>
+      <point x="1741" y="501"/>
+      <point x="1741" y="636" type="curve" smooth="yes"/>
+      <point x="1741" y="926"/>
+      <point x="1552" y="1087"/>
+      <point x="1191" y="1109" type="curve"/>
+      <point x="1263" y="1484" type="line"/>
+      <point x="917" y="1484" type="line"/>
+      <point x="844" y="1104" type="line"/>
+      <point x="553" y="1108"/>
+      <point x="301" y="988"/>
+      <point x="168" y="793" type="curve" smooth="yes"/>
+      <point x="102" y="694"/>
+      <point x="69" y="578"/>
+      <point x="69" y="444" type="curve" smooth="yes"/>
+      <point x="69" y="154"/>
+      <point x="260" y="-16"/>
+      <point x="624" y="-28" type="curve"/>
+      <point x="547" y="-425" type="line"/>
+      <point x="892" y="-425" type="line"/>
+    </contour>
+    <contour>
+      <point x="1016" y="211" type="curve"/>
+      <point x="1145" y="876" type="line"/>
+      <point x="1302" y="881"/>
+      <point x="1382" y="786"/>
+      <point x="1382" y="588" type="curve"/>
+      <point x="1382" y="433"/>
+      <point x="1323" y="341"/>
+      <point x="1207" y="270" type="curve" smooth="yes"/>
+      <point x="1148" y="232"/>
+      <point x="1084" y="213"/>
+    </contour>
+    <contour>
+      <point x="798" y="872" type="curve"/>
+      <point x="669" y="202" type="line"/>
+      <point x="500" y="197"/>
+      <point x="429" y="294"/>
+      <point x="429" y="506" type="curve"/>
+      <point x="429" y="666"/>
+      <point x="504" y="784"/>
+      <point x="616" y="841" type="curve" smooth="yes"/>
+      <point x="670" y="868"/>
+      <point x="731" y="879"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

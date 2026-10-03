@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01DC" format="2">
+  <advance width="1326"/>
+  <unicode hex="01DC"/>
+  <note>
+uni01DC
+</note>
+  <outline>
+    <component base="u"/>
+    <component base="dieresis" xOffset="301"/>
+    <component base="grave.uc" xOffset="221" yOffset="-29"/>
+  </outline>
+</glyph>

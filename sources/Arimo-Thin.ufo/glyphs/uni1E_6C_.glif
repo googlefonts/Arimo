@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E6C" format="2">
+  <advance width="1251"/>
+  <unicode hex="1E6C"/>
+  <note>
+uni1E6C
+</note>
+  <anchor x="630" y="1540" name="top"/>
+  <anchor x="1160" y="1540" name="caronalt"/>
+  <anchor x="620" y="-440" name="bottom"/>
+  <anchor x="1251" y="1540" name="topdouble"/>
+  <anchor x="1251" y="-380" name="bottomdouble"/>
+  <anchor x="1251" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="560" y="-240" name="ogonek"/>
+  <outline>
+    <component base="T"/>
+    <component base="dotbelow.alt1" xOffset="716"/>
+  </outline>
+</glyph>

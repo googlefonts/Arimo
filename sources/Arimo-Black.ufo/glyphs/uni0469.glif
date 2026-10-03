@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0469" format="2">
+  <advance width="1782"/>
+  <unicode hex="0469"/>
+  <note>
+uni0469
+</note>
+  <outline>
+    <contour>
+      <point x="152" y="0" type="line"/>
+      <point x="501" y="0" type="line"/>
+      <point x="501" y="332" type="line"/>
+      <point x="687" y="332" type="line"/>
+      <point x="569" y="0" type="line"/>
+      <point x="918" y="0" type="line"/>
+      <point x="1006" y="333" type="line"/>
+      <point x="1052" y="333" type="line"/>
+      <point x="1052" y="0" type="line"/>
+      <point x="1284" y="0" type="line"/>
+      <point x="1284" y="333" type="line"/>
+      <point x="1327" y="333" type="line"/>
+      <point x="1412" y="0" type="line"/>
+      <point x="1763" y="0" type="line"/>
+      <point x="1400" y="1082" type="line"/>
+      <point x="952" y="1082" type="line"/>
+      <point x="766" y="554" type="line"/>
+      <point x="501" y="554" type="line"/>
+      <point x="501" y="1082" type="line"/>
+      <point x="152" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="1086" y="554" type="line"/>
+      <point x="1174" y="854" type="line"/>
+      <point x="1251" y="554" type="line"/>
+    </contour>
+  </outline>
+</glyph>

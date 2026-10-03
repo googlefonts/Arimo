@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA7AE" format="2">
+  <advance width="1251"/>
+  <unicode hex="A7AE"/>
+  <note>
+uniA7AE
+</note>
+  <outline>
+    <contour>
+      <point x="1207" y="276" type="line"/>
+      <point x="770" y="276" type="line"/>
+      <point x="938" y="1133" type="line"/>
+      <point x="1375" y="1133" type="line"/>
+      <point x="1430" y="1409" type="line"/>
+      <point x="192" y="1409" type="line"/>
+      <point x="137" y="1133" type="line"/>
+      <point x="573" y="1133" type="line"/>
+      <point x="405" y="276" type="line"/>
+      <point x="-31" y="276" type="line"/>
+      <point x="-86" y="0" type="line"/>
+      <point x="1152" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

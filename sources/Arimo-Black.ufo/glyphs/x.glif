@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x" format="2">
+  <advance width="1216"/>
+  <unicode hex="0078"/>
+  <note>
+x
+</note>
+  <anchor x="600" y="1200" name="top"/>
+  <anchor x="1140" y="1200" name="caronalt"/>
+  <anchor x="600" y="-130" name="bottom"/>
+  <anchor x="980" y="1100" name="rhotic"/>
+  <anchor x="953" y="1000" name="horn"/>
+  <anchor x="1216" y="1540" name="topdouble"/>
+  <anchor x="1216" y="-380" name="bottomdouble"/>
+  <anchor x="1216" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="953" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="605" y="357" type="line"/>
+      <point x="831" y="0" type="line"/>
+      <point x="1205" y="0" type="line"/>
+      <point x="800" y="565" type="line"/>
+      <point x="1184" y="1082" type="line"/>
+      <point x="810" y="1082" type="line"/>
+      <point x="605" y="773" type="line"/>
+      <point x="400" y="1082" type="line"/>
+      <point x="28" y="1082" type="line"/>
+      <point x="411" y="561" type="line"/>
+      <point x="8" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

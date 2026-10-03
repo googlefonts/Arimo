@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2DE3" format="2">
+  <unicode hex="2DE3"/>
+  <note>
+uni2DE3
+</note>
+  <outline>
+    <contour>
+      <point x="-172" y="1210" type="line"/>
+      <point x="175" y="1210" type="line"/>
+      <point x="175" y="1049" type="line"/>
+      <point x="229" y="1049" type="line"/>
+      <point x="229" y="1258" type="line"/>
+      <point x="164" y="1258" type="line"/>
+      <point x="164" y="1706" type="line"/>
+      <point x="-71" y="1706" type="line"/>
+      <point x="-96" y="1480"/>
+      <point x="-130" y="1330"/>
+      <point x="-175" y="1258" type="curve"/>
+      <point x="-227" y="1258" type="line"/>
+      <point x="-227" y="1049" type="line"/>
+      <point x="-172" y="1049" type="line"/>
+    </contour>
+    <contour>
+      <point x="-106" y="1258" type="line"/>
+      <point x="-71" y="1345"/>
+      <point x="-42" y="1479"/>
+      <point x="-17" y="1659" type="curve"/>
+      <point x="111" y="1659" type="line"/>
+      <point x="111" y="1258" type="line"/>
+    </contour>
+  </outline>
+</glyph>

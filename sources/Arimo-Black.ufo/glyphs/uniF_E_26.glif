@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE26" format="2">
+  <unicode hex="FE26"/>
+  <note>
+uniFE26
+</note>
+  <outline>
+    <contour>
+      <point x="-653" y="1369" type="line"/>
+      <point x="650" y="1369" type="line"/>
+      <point x="650" y="1565" type="line"/>
+      <point x="-653" y="1565" type="line"/>
+    </contour>
+  </outline>
+</glyph>

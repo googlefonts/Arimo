@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finaltsadi" format="2">
+  <advance width="1192"/>
+  <unicode hex="05E5"/>
+  <note>
+finaltsadi
+</note>
+  <anchor x="0" y="1430" name="holam"/>
+  <anchor x="120" y="540" name="dagesh"/>
+  <anchor x="720" y="1350" name="hebrewtop1"/>
+  <anchor x="720" y="1700" name="upperdot"/>
+  <anchor x="873" y="0" name="hebrewbottom1"/>
+  <anchor x="343" y="0" name="hebrewbottomleft"/>
+  <anchor x="740" y="0" name="hebrewbottomleft"/>
+  <anchor x="140" y="1350" name="hebrewtopleft"/>
+  <anchor x="1000" y="1350" name="hebrewtopright"/>
+  <anchor x="1080" y="1430" name="rafe"/>
+  <anchor x="740" y="0" name="hebrewbottom2"/>
+  <anchor x="520" y="1350" name="hebrewtop2"/>
+  <anchor x="293" y="0" name="hebrewbottom3"/>
+  <outline>
+    <contour>
+      <point x="653" y="429" type="line"/>
+      <point x="960" y="489"/>
+      <point x="1105" y="621"/>
+      <point x="1204" y="965" type="curve" smooth="yes"/>
+      <point x="1284" y="1250" type="line"/>
+      <point x="947" y="1250" type="line"/>
+      <point x="877" y="1002" type="line" smooth="yes"/>
+      <point x="820" y="802"/>
+      <point x="767" y="716"/>
+      <point x="679" y="674" type="curve"/>
+      <point x="680" y="731" type="line"/>
+      <point x="673" y="850"/>
+      <point x="661" y="909"/>
+      <point x="632" y="998" type="curve" smooth="yes"/>
+      <point x="615" y="1043"/>
+      <point x="579" y="1127"/>
+      <point x="518" y="1250" type="curve"/>
+      <point x="153" y="1250" type="line"/>
+      <point x="251" y="1040"/>
+      <point x="307" y="915"/>
+      <point x="323" y="875" type="curve" smooth="yes"/>
+      <point x="354" y="794"/>
+      <point x="365" y="738"/>
+      <point x="365" y="680" type="curve" smooth="yes"/>
+      <point x="365" y="656"/>
+      <point x="360" y="609"/>
+      <point x="350" y="538" type="curve"/>
+      <point x="170" y="-385" type="line"/>
+      <point x="497" y="-385" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

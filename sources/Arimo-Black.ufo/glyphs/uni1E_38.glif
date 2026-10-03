@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E38" format="2">
+  <advance width="1326"/>
+  <unicode hex="1E38"/>
+  <note>
+uni1E38
+</note>
+  <anchor x="720" y="1800" name="top"/>
+  <anchor x="1180" y="1540" name="caronalt"/>
+  <anchor x="720" y="-440" name="bottom"/>
+  <anchor x="1326" y="1840" name="topdouble"/>
+  <anchor x="1326" y="-380" name="bottomdouble"/>
+  <anchor x="1326" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1027" y="0" name="ogonek"/>
+  <outline>
+    <component base="L"/>
+    <component base="dotbelow.alt1" xOffset="948"/>
+    <component base="macron" xOffset="342" yOffset="319"/>
+  </outline>
+</glyph>

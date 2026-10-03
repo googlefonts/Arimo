@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01ED" format="2">
+  <advance width="1326"/>
+  <unicode hex="01ED"/>
+  <note>
+uni01ED
+</note>
+  <anchor x="747" y="1480" name="top"/>
+  <anchor x="1173" y="1260" name="caronalt"/>
+  <anchor x="680" y="-540" name="bottom"/>
+  <anchor x="1336" y="1540" name="topdouble"/>
+  <anchor x="1336" y="-380" name="bottomdouble"/>
+  <anchor x="1326" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="767" y="-400" name="ogonek"/>
+  <outline>
+    <component base="o"/>
+    <component base="ogonek" xOffset="320" yOffset="-1"/>
+    <component base="macron" xOffset="242"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

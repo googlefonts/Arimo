@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finalmemwide" format="2">
+  <advance width="1532"/>
+  <unicode hex="FB26"/>
+  <note>
+finalmemwide
+</note>
+  <anchor x="60" y="1430" name="holam"/>
+  <anchor x="693" y="1350" name="hebrewtop1"/>
+  <anchor x="693" y="1700" name="upperdot"/>
+  <anchor x="763" y="0" name="hebrewbottom1"/>
+  <anchor x="763" y="0" name="hebrewbottomleft"/>
+  <anchor x="1080" y="0" name="hebrewbottomleft"/>
+  <anchor x="240" y="1350" name="hebrewtopleft"/>
+  <anchor x="1267" y="1350" name="hebrewtopright"/>
+  <anchor x="1333" y="1430" name="rafe"/>
+  <anchor x="763" y="0" name="hebrewbottom2"/>
+  <anchor x="680" y="1350" name="hebrewtop2"/>
+  <anchor x="763" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="finalmem"/>
+  </outline>
+</glyph>

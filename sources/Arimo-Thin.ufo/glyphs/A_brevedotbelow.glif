@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevedotbelow" format="2">
+  <advance width="1253"/>
+  <unicode hex="1EB6"/>
+  <note>
+Abrevedotbelow
+</note>
+  <anchor x="1253" y="1840" name="topdouble"/>
+  <anchor x="1253" y="-380" name="bottomdouble"/>
+  <anchor x="1253" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1200" y="0" name="ogonek"/>
+  <outline>
+    <component base="A"/>
+    <component base="breve.uc" xOffset="358"/>
+    <component base="dotbelow.alt1" xOffset="690"/>
+  </outline>
+</glyph>

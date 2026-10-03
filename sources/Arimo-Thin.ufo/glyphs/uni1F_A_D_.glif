@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FAD" format="2">
+  <advance width="1820"/>
+  <unicode hex="1FAD"/>
+  <note>
+uni1FAD
+</note>
+  <outline>
+    <component base="Omega" xOffset="434"/>
+    <component base="uni1FDE" xOffset="-36"/>
+    <component base="uni0345" xOffset="1142"/>
+  </outline>
+</glyph>

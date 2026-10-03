@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE28" format="2">
+  <unicode hex="FE28"/>
+  <note>
+uniFE28
+</note>
+  <outline>
+    <contour>
+      <point x="-15" y="-324" type="curve"/>
+      <point x="14" y="-423" type="line"/>
+      <point x="296" y="-395"/>
+      <point x="538" y="-276"/>
+      <point x="743" y="-64" type="curve"/>
+      <point x="660" y="-64" type="line"/>
+      <point x="505" y="-224"/>
+      <point x="267" y="-310"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

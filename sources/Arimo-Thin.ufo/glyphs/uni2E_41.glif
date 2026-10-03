@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2E41" format="2">
+  <advance width="569"/>
+  <unicode hex="2E41"/>
+  <note>
+uni2E41
+</note>
+  <outline>
+    <contour>
+      <point x="283" y="0" type="curve"/>
+      <point x="330" y="0" type="line"/>
+      <point x="330" y="133" type="line"/>
+      <point x="229" y="133" type="line"/>
+      <point x="229" y="36" type="line" smooth="yes"/>
+      <point x="229" y="-83"/>
+      <point x="247" y="-144"/>
+      <point x="277" y="-207" type="curve"/>
+      <point x="338" y="-207" type="line"/>
+      <point x="289" y="-118"/>
+      <point x="283" y="-67"/>
+    </contour>
+  </outline>
+</glyph>

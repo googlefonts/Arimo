@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni033D" format="2">
+  <unicode hex="033D"/>
+  <note>
+uni033D
+</note>
+  <anchor x="0" y="1140" name="_top"/>
+  <anchor x="0" y="1140" name="_topmkmk"/>
+  <anchor x="0" y="1680" name="topmkmk"/>
+  <outline>
+    <contour>
+      <point x="226" y="1207" type="line"/>
+      <point x="80" y="1358" type="line"/>
+      <point x="226" y="1505" type="line"/>
+      <point x="147" y="1578" type="line"/>
+      <point x="0" y="1433" type="line"/>
+      <point x="-148" y="1580" type="line"/>
+      <point x="-229" y="1503" type="line"/>
+      <point x="-85" y="1354" type="line"/>
+      <point x="-227" y="1205" type="line"/>
+      <point x="-148" y="1132" type="line"/>
+      <point x="-2" y="1277" type="line"/>
+      <point x="145" y="1130" type="line"/>
+    </contour>
+  </outline>
+</glyph>

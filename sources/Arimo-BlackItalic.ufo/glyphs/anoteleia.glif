@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="anoteleia" format="2">
+  <advance width="757"/>
+  <unicode hex="0387"/>
+  <outline>
+    <contour>
+      <point x="665" y="1082" type="line"/>
+      <point x="315" y="1082" type="line"/>
+      <point x="245" y="720" type="line"/>
+      <point x="595" y="720" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.882,0.180,1</string>
+    </dict>
+  </lib>
+</glyph>

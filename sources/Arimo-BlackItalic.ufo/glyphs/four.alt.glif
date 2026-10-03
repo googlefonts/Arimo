@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.alt" format="2">
+  <note>
+four.alt
+</note>
+  <outline>
+    <contour>
+      <point x="239" y="249" type="line"/>
+      <point x="344" y="249" type="line"/>
+      <point x="378" y="389" type="line"/>
+      <point x="273" y="389" type="line"/>
+      <point x="383" y="867" type="line"/>
+      <point x="86" y="867" type="line"/>
+      <point x="-275" y="398" type="line"/>
+      <point x="-311" y="249" type="line"/>
+      <point x="30" y="249" type="line"/>
+      <point x="-1" y="107" type="line"/>
+      <point x="212" y="107" type="line"/>
+    </contour>
+    <contour>
+      <point x="-91" y="389" type="line"/>
+      <point x="-82" y="403"/>
+      <point x="-74" y="416"/>
+      <point x="-62" y="429" type="curve"/>
+      <point x="99" y="644" type="line"/>
+      <point x="138" y="691" type="line"/>
+      <point x="65" y="389" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

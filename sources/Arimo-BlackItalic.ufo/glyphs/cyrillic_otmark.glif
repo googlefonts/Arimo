@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cyrillic_otmark" format="2">
+  <note>
+cyrillic_otmark
+</note>
+  <outline>
+    <contour>
+      <point x="-162" y="1242" type="line"/>
+      <point x="53" y="1242" type="line"/>
+      <point x="113" y="1124" type="line"/>
+      <point x="153" y="1124" type="line"/>
+      <point x="187" y="1242" type="line"/>
+      <point x="402" y="1242" type="line"/>
+      <point x="462" y="1124" type="line"/>
+      <point x="500" y="1124" type="line"/>
+      <point x="565" y="1352" type="line"/>
+      <point x="-350" y="1352" type="line"/>
+      <point x="-234" y="1124" type="line"/>
+      <point x="-196" y="1124" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

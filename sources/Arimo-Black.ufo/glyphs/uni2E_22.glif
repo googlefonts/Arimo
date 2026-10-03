@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2E22" format="2">
+  <advance width="674"/>
+  <unicode hex="2E22"/>
+  <note>
+uni2E22
+</note>
+  <outline>
+    <contour>
+      <point x="407" y="1190" type="line"/>
+      <point x="635" y="1190" type="line"/>
+      <point x="635" y="1409" type="line"/>
+      <point x="141" y="1409" type="line"/>
+      <point x="141" y="488" type="line"/>
+      <point x="407" y="488" type="line"/>
+    </contour>
+  </outline>
+</glyph>

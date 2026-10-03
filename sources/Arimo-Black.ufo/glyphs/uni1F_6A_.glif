@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F6A" format="2">
+  <advance width="2283"/>
+  <unicode hex="1F6A"/>
+  <note>
+uni1F6A
+</note>
+  <outline>
+    <component base="Omega" xOffset="510"/>
+    <component base="uni1FCD" xOffset="12"/>
+  </outline>
+</glyph>

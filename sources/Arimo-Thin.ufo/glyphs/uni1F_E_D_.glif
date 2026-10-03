@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FED" format="2">
+  <advance width="412"/>
+  <unicode hex="1FED"/>
+  <note>
+uni1FED
+</note>
+  <outline>
+    <contour>
+      <point x="331" y="1274" type="line"/>
+      <point x="138" y="1506" type="line"/>
+      <point x="39" y="1506" type="line"/>
+      <point x="39" y="1519" type="line"/>
+      <point x="202" y="1281" type="line"/>
+      <point x="331" y="1281" type="line"/>
+    </contour>
+    <contour>
+      <point x="469" y="1265" type="line"/>
+      <point x="469" y="1418" type="line"/>
+      <point x="340" y="1418" type="line"/>
+      <point x="340" y="1265" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="1265" type="line"/>
+      <point x="77" y="1418" type="line"/>
+      <point x="-55" y="1418" type="line"/>
+      <point x="-55" y="1265" type="line"/>
+    </contour>
+  </outline>
+</glyph>

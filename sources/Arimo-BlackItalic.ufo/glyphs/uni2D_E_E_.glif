@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2DEE" format="2">
+  <unicode hex="2DEE"/>
+  <note>
+uni2DEE
+</note>
+  <outline>
+    <contour>
+      <point x="289" y="1587" type="line"/>
+      <point x="413" y="1587" type="line"/>
+      <point x="437" y="1706" type="line"/>
+      <point x="17" y="1706" type="line"/>
+      <point x="-7" y="1587" type="line"/>
+      <point x="114" y="1587" type="line"/>
+      <point x="40" y="1210" type="line"/>
+      <point x="215" y="1210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

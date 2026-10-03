@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cacute" format="2">
+  <advance width="1479"/>
+  <unicode hex="0106"/>
+  <note>
+Cacute
+</note>
+  <anchor x="920" y="1780" name="top"/>
+  <anchor x="1430" y="1540" name="caronalt"/>
+  <anchor x="560" y="-130" name="bottom"/>
+  <anchor x="1479" y="1840" name="topdouble"/>
+  <anchor x="1479" y="-380" name="bottomdouble"/>
+  <anchor x="1479" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="890" y="0" name="ogonek"/>
+  <outline>
+    <component base="C"/>
+    <component base="acute.uc" xOffset="625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

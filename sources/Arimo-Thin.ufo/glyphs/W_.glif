@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="1933"/>
+  <unicode hex="0057"/>
+  <note>
+W
+</note>
+  <anchor x="970" y="1540" name="top"/>
+  <anchor x="1900" y="1540" name="caronalt"/>
+  <anchor x="970" y="-130" name="bottom"/>
+  <anchor x="1920" y="1420" name="rhotic"/>
+  <anchor x="1724" y="1300" name="horn"/>
+  <anchor x="1933" y="1540" name="topdouble"/>
+  <anchor x="1933" y="-380" name="bottomdouble"/>
+  <anchor x="1933" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1300" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="885" y="946" type="line" smooth="yes"/>
+      <point x="903" y="1003"/>
+      <point x="949" y="1149"/>
+      <point x="971" y="1276" type="curve"/>
+      <point x="1017" y="1091"/>
+      <point x="1043" y="991"/>
+      <point x="1052" y="975" type="curve" smooth="yes"/>
+      <point x="1349" y="0" type="line"/>
+      <point x="1455" y="0" type="line"/>
+      <point x="1921" y="1409" type="line"/>
+      <point x="1822" y="1409" type="line"/>
+      <point x="1501" y="430" type="line" smooth="yes"/>
+      <point x="1500" y="449"/>
+      <point x="1434" y="178"/>
+      <point x="1402" y="57" type="curve"/>
+      <point x="1378" y="128"/>
+      <point x="1339" y="258"/>
+      <point x="1278" y="488" type="curve" smooth="yes"/>
+      <point x="985" y="1409" type="line"/>
+      <point x="949" y="1409" type="line"/>
+      <point x="636" y="445" type="line" smooth="yes"/>
+      <point x="608" y="358"/>
+      <point x="550" y="110"/>
+      <point x="537" y="57" type="curve"/>
+      <point x="500" y="205"/>
+      <point x="468" y="331"/>
+      <point x="425" y="482" type="curve" smooth="yes"/>
+      <point x="115" y="1409" type="line"/>
+      <point x="16" y="1409" type="line"/>
+      <point x="483" y="0" type="line"/>
+      <point x="589" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

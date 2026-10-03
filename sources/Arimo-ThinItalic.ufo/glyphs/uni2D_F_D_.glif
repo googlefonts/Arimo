@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2DFD" format="2">
+  <unicode hex="2DFD"/>
+  <note>
+uni2DFD
+</note>
+  <outline>
+    <contour>
+      <point x="85" y="1384" type="line"/>
+      <point x="125" y="1384" type="line"/>
+      <point x="90" y="1210" type="line"/>
+      <point x="166" y="1210" type="line"/>
+      <point x="201" y="1384" type="line"/>
+      <point x="243" y="1384" type="line"/>
+      <point x="280" y="1210" type="line"/>
+      <point x="344" y="1210" type="line"/>
+      <point x="233" y="1706" type="line"/>
+      <point x="218" y="1706" type="line"/>
+      <point x="-85" y="1210" type="line"/>
+      <point x="-24" y="1210" type="line"/>
+    </contour>
+    <contour>
+      <point x="112" y="1436" type="line"/>
+      <point x="203" y="1598" type="line"/>
+      <point x="219" y="1525"/>
+      <point x="229" y="1470"/>
+      <point x="238" y="1436" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udotbelow" format="2">
+  <advance width="1027"/>
+  <unicode hex="1EE5"/>
+  <note>
+udotbelow
+</note>
+  <anchor x="480" y="1200" name="top"/>
+  <anchor x="920" y="1260" name="caronalt"/>
+  <anchor x="180" y="-440" name="bottom"/>
+  <anchor x="920" y="1000" name="horn"/>
+  <anchor x="1027" y="1540" name="topdouble"/>
+  <anchor x="1027" y="-380" name="bottomdouble"/>
+  <anchor x="1027" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="720" y="0" name="ogonek"/>
+  <outline>
+    <component base="u"/>
+    <component base="dotbelowcomb" xOffset="2049"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

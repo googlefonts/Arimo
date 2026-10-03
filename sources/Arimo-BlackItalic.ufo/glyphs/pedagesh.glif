@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pedagesh" format="2">
+  <advance width="1392"/>
+  <unicode hex="FB44"/>
+  <note>
+pedagesh
+</note>
+  <anchor x="60" y="1430" name="holam"/>
+  <anchor x="767" y="1350" name="hebrewtop1"/>
+  <anchor x="767" y="1700" name="upperdot"/>
+  <anchor x="527" y="0" name="hebrewbottom1"/>
+  <anchor x="527" y="0" name="hebrewbottomleft"/>
+  <anchor x="1000" y="0" name="hebrewbottomleft"/>
+  <anchor x="240" y="1350" name="hebrewtopleft"/>
+  <anchor x="1100" y="1350" name="hebrewtopright"/>
+  <anchor x="1200" y="1430" name="rafe"/>
+  <anchor x="693" y="0" name="hebrewbottom2"/>
+  <anchor x="600" y="1350" name="hebrewtop2"/>
+  <anchor x="693" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="pe"/>
+    <component base="dagesh" xOffset="654" yOffset="147"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

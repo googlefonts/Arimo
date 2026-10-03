@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash" format="2">
+  <advance width="341"/>
+  <unicode hex="0142"/>
+  <note>
+lslash
+</note>
+  <anchor x="180" y="1580" name="top"/>
+  <anchor x="285" y="1540" name="caronalt"/>
+  <anchor x="200" y="-130" name="bottom"/>
+  <anchor x="341" y="1540" name="topdouble"/>
+  <anchor x="341" y="-380" name="bottomdouble"/>
+  <anchor x="341" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="100" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="133" y="0" type="line"/>
+      <point x="212" y="0" type="line"/>
+      <point x="212" y="575" type="line"/>
+      <point x="331" y="641" type="line"/>
+      <point x="331" y="746" type="line"/>
+      <point x="212" y="676" type="line"/>
+      <point x="212" y="1484" type="line"/>
+      <point x="133" y="1484" type="line"/>
+      <point x="133" y="624" type="line"/>
+      <point x="14" y="557" type="line"/>
+      <point x="14" y="456" type="line"/>
+      <point x="133" y="523" type="line"/>
+    </contour>
+  </outline>
+</glyph>

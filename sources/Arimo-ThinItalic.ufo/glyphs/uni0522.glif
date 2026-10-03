@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0522" format="2">
+  <advance width="2106"/>
+  <unicode hex="0522"/>
+  <note>
+uni0522
+</note>
+  <outline>
+    <contour>
+      <point x="2051" y="42" type="curve" smooth="yes"/>
+      <point x="2107" y="189"/>
+      <point x="2136" y="354"/>
+      <point x="2136" y="539" type="curve" smooth="yes"/>
+      <point x="2136" y="836"/>
+      <point x="1992" y="994"/>
+      <point x="1739" y="994" type="curve" smooth="yes"/>
+      <point x="1638" y="994"/>
+      <point x="1556" y="980"/>
+      <point x="1344" y="879" type="curve"/>
+      <point x="1448" y="1409" type="line"/>
+      <point x="1360" y="1409" type="line"/>
+      <point x="1237" y="778" type="line"/>
+      <point x="329" y="778" type="line"/>
+      <point x="452" y="1409" type="line"/>
+      <point x="365" y="1409" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="314" y="702" type="line"/>
+      <point x="1222" y="702" type="line"/>
+      <point x="1086" y="0" type="line"/>
+      <point x="1174" y="0" type="line"/>
+      <point x="1329" y="796" type="line"/>
+      <point x="1501" y="878"/>
+      <point x="1657" y="916"/>
+      <point x="1760" y="916" type="curve" smooth="yes"/>
+      <point x="1925" y="916"/>
+      <point x="2045" y="780"/>
+      <point x="2045" y="557" type="curve" smooth="yes"/>
+      <point x="2045" y="250"/>
+      <point x="1914" y="-97"/>
+      <point x="1738" y="-240" type="curve" smooth="yes"/>
+      <point x="1651" y="-310"/>
+      <point x="1548" y="-346"/>
+      <point x="1433" y="-346" type="curve" smooth="yes"/>
+      <point x="1225" y="-346"/>
+      <point x="1155" y="-256"/>
+      <point x="1147" y="-103" type="curve"/>
+      <point x="978" y="15" type="line"/>
+      <point x="989" y="-284"/>
+      <point x="1140" y="-425"/>
+      <point x="1422" y="-425" type="curve" smooth="yes"/>
+      <point x="1711" y="-425"/>
+      <point x="1935" y="-251"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA676" format="2">
+  <unicode hex="A676"/>
+  <note>
+uniA676
+</note>
+  <outline>
+    <contour>
+      <point x="114" y="1836" type="line"/>
+      <point x="46" y="1836" type="line"/>
+      <point x="46" y="1780" type="line"/>
+      <point x="114" y="1780" type="line"/>
+    </contour>
+    <contour>
+      <point x="-41" y="1836" type="line"/>
+      <point x="-112" y="1836" type="line"/>
+      <point x="-112" y="1780" type="line"/>
+      <point x="-41" y="1780" type="line"/>
+    </contour>
+    <contour>
+      <point x="41" y="1726" type="line"/>
+      <point x="-12" y="1726" type="line"/>
+      <point x="-12" y="1210" type="line"/>
+      <point x="41" y="1210" type="line"/>
+    </contour>
+  </outline>
+</glyph>

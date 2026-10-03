@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sofpasuq" format="2">
+  <advance width="757"/>
+  <unicode hex="05C3"/>
+  <note>
+sofpasuq
+</note>
+  <outline>
+    <contour>
+      <point x="639" y="1003" type="line"/>
+      <point x="290" y="1003" type="line"/>
+      <point x="225" y="671" type="line"/>
+      <point x="573" y="671" type="line"/>
+    </contour>
+    <contour>
+      <point x="509" y="330" type="line"/>
+      <point x="156" y="330" type="line"/>
+      <point x="92" y="0" type="line"/>
+      <point x="444" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

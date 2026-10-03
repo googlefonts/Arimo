@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E5C" format="2">
+  <advance width="1479"/>
+  <unicode hex="1E5C"/>
+  <note>
+uni1E5C
+</note>
+  <anchor x="1479" y="1840" name="topdouble"/>
+  <anchor x="1479" y="-380" name="bottomdouble"/>
+  <anchor x="1479" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1180" y="0" name="ogonek"/>
+  <outline>
+    <component base="R"/>
+    <component base="macron" xOffset="354" yOffset="319"/>
+    <component base="dotbelow.alt1" xOffset="1003"/>
+  </outline>
+</glyph>

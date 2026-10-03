@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0439" format="2">
+  <advance width="1326"/>
+  <unicode hex="0439"/>
+  <note>
+uni0439
+</note>
+  <anchor x="785" y="1580" name="cytop"/>
+  <outline>
+    <component base="u"/>
+    <component base="breve.cyr" xOffset="389"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

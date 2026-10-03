@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="he" format="2">
+  <advance width="1212"/>
+  <unicode hex="05D4"/>
+  <note>
+he
+</note>
+  <anchor x="60" y="1430" name="holam"/>
+  <anchor x="740" y="1350" name="hebrewtop1"/>
+  <anchor x="740" y="1700" name="upperdot"/>
+  <anchor x="520" y="0" name="hebrewbottom1"/>
+  <anchor x="520" y="0" name="hebrewbottomleft"/>
+  <anchor x="960" y="0" name="hebrewbottomleft"/>
+  <anchor x="240" y="1350" name="hebrewtopleft"/>
+  <anchor x="920" y="1350" name="hebrewtopright"/>
+  <anchor x="820" y="1430" name="rafe"/>
+  <anchor x="420" y="0" name="hebrewbottom2"/>
+  <anchor x="820" y="1350" name="hebrewtop2"/>
+  <anchor x="420" y="0" name="hebrewbottom3"/>
+  <outline>
+    <contour>
+      <point x="1093" y="762" type="line" smooth="yes"/>
+      <point x="1104" y="807"/>
+      <point x="1108" y="856"/>
+      <point x="1108" y="913" type="curve" smooth="yes"/>
+      <point x="1108" y="1128"/>
+      <point x="998" y="1213"/>
+      <point x="707" y="1213" type="curve" smooth="yes"/>
+      <point x="283" y="1213" type="line"/>
+      <point x="264" y="1115" type="line"/>
+      <point x="720" y="1115" type="line" smooth="yes"/>
+      <point x="922" y="1115"/>
+      <point x="1013" y="1048"/>
+      <point x="1013" y="923" type="curve" smooth="yes"/>
+      <point x="1013" y="890"/>
+      <point x="1006" y="835"/>
+      <point x="993" y="758" type="curve" smooth="yes"/>
+      <point x="848" y="0" type="line"/>
+      <point x="946" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="333" y="840" type="line"/>
+      <point x="233" y="840" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

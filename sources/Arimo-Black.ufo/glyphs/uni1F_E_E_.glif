@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FEE" format="2">
+  <advance width="1132"/>
+  <unicode hex="1FEE"/>
+  <note>
+uni1FEE
+</note>
+  <outline>
+    <contour>
+      <point x="419" y="1150" type="line"/>
+      <point x="516" y="1150" type="line"/>
+      <point x="757" y="1455" type="line"/>
+      <point x="757" y="1509" type="line"/>
+      <point x="447" y="1509" type="line"/>
+      <point x="419" y="1197" type="line"/>
+    </contour>
+    <contour>
+      <point x="852" y="1177" type="line"/>
+      <point x="1098" y="1177" type="line"/>
+      <point x="1098" y="1418" type="line"/>
+      <point x="852" y="1418" type="line"/>
+    </contour>
+    <contour>
+      <point x="33" y="1177" type="line"/>
+      <point x="274" y="1177" type="line"/>
+      <point x="274" y="1418" type="line"/>
+      <point x="33" y="1418" type="line"/>
+    </contour>
+  </outline>
+</glyph>

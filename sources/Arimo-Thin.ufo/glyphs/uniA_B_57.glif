@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniAB57" format="2">
+  <advance width="1025"/>
+  <unicode hex="AB57"/>
+  <note>
+uniAB57
+</note>
+  <outline>
+    <contour>
+      <point x="569" y="496" type="line"/>
+      <point x="899" y="0" type="line"/>
+      <point x="996" y="0" type="line"/>
+      <point x="615" y="554" type="line"/>
+      <point x="972" y="1082" type="line"/>
+      <point x="875" y="1082" type="line"/>
+      <point x="569" y="594" type="line"/>
+      <point x="260" y="1082" type="line"/>
+      <point x="165" y="1082" type="line"/>
+      <point x="522" y="553" type="line"/>
+      <point x="-150" y="-425" type="line"/>
+      <point x="-61" y="-425" type="line"/>
+    </contour>
+  </outline>
+</glyph>

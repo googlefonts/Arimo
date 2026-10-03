@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E09" format="2">
+  <advance width="909"/>
+  <unicode hex="1E09"/>
+  <note>
+uni1E09
+</note>
+  <anchor x="909" y="1540" name="topdouble"/>
+  <anchor x="909" y="-380" name="bottomdouble"/>
+  <anchor x="909" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="540" y="-400" name="ogonek"/>
+  <outline>
+    <component base="cedilla" xOffset="248" yOffset="40"/>
+    <component base="c"/>
+    <component base="acute" xOffset="438"/>
+  </outline>
+</glyph>

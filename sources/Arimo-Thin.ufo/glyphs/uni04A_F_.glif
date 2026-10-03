@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04AF" format="2">
+  <advance width="909"/>
+  <unicode hex="04AF"/>
+  <note>
+uni04AF
+</note>
+  <outline>
+    <contour>
+      <point x="492" y="0" type="line"/>
+      <point x="904" y="1082" type="line"/>
+      <point x="816" y="1082" type="line"/>
+      <point x="520" y="297" type="line" smooth="yes"/>
+      <point x="487" y="212"/>
+      <point x="489" y="197"/>
+      <point x="447" y="73" type="curve"/>
+      <point x="410" y="202"/>
+      <point x="388" y="276"/>
+      <point x="380" y="297" type="curve" smooth="yes"/>
+      <point x="93" y="1082" type="line"/>
+      <point x="6" y="1082" type="line"/>
+      <point x="413" y="4" type="line"/>
+      <point x="413" y="-425" type="line"/>
+      <point x="492" y="-425" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniAB5A" format="2">
+  <advance width="1071"/>
+  <unicode hex="AB5A"/>
+  <note>
+uniAB5A
+</note>
+  <outline>
+    <contour>
+      <point x="343" y="-425" type="curve"/>
+      <point x="464" y="-425"/>
+      <point x="551" y="-405"/>
+      <point x="626" y="-330" type="curve" smooth="yes"/>
+      <point x="680" y="-273"/>
+      <point x="723" y="-198"/>
+      <point x="763" y="-95" type="curve" smooth="yes"/>
+      <point x="1060" y="666" type="line"/>
+      <point x="709" y="666" type="line"/>
+      <point x="618" y="298" type="line"/>
+      <point x="606" y="349"/>
+      <point x="520" y="633"/>
+      <point x="520" y="636" type="curve" smooth="yes"/>
+      <point x="389" y="1082" type="line"/>
+      <point x="22" y="1082" type="line"/>
+      <point x="449" y="15" type="line"/>
+      <point x="431" y="-36" type="line" smooth="yes"/>
+      <point x="392" y="-148"/>
+      <point x="357" y="-177"/>
+      <point x="236" y="-177" type="curve" smooth="yes"/>
+      <point x="209" y="-177"/>
+      <point x="172" y="-173"/>
+      <point x="131" y="-167" type="curve"/>
+      <point x="131" y="-411" type="line"/>
+      <point x="194" y="-421"/>
+      <point x="264" y="-425"/>
+    </contour>
+  </outline>
+</glyph>

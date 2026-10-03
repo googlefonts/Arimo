@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0418" format="2">
+  <advance width="1472"/>
+  <unicode hex="0418"/>
+  <note>
+uni0418
+</note>
+  <anchor x="750" y="1540" name="cytop"/>
+  <outline>
+    <contour>
+      <point x="1042" y="1015" type="line"/>
+      <point x="1036" y="879"/>
+      <point x="1032" y="794"/>
+      <point x="1032" y="761" type="curve" smooth="yes"/>
+      <point x="1032" y="0" type="line"/>
+      <point x="1356" y="0" type="line"/>
+      <point x="1356" y="1409" type="line"/>
+      <point x="950" y="1409" type="line"/>
+      <point x="429" y="384" type="line"/>
+      <point x="434" y="500"/>
+      <point x="437" y="592"/>
+      <point x="437" y="660" type="curve" smooth="yes"/>
+      <point x="437" y="1409" type="line"/>
+      <point x="115" y="1409" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

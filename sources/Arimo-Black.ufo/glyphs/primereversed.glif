@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="primereversed" format="2">
+  <advance width="562"/>
+  <unicode hex="2035"/>
+  <note>
+primereversed
+</note>
+  <outline>
+    <contour>
+      <point x="445" y="1409" type="line"/>
+      <point x="66" y="1409" type="line"/>
+      <point x="224" y="890" type="line"/>
+      <point x="509" y="890" type="line"/>
+    </contour>
+  </outline>
+</glyph>

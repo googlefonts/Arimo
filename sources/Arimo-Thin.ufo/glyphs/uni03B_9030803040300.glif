@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03B9030803040300" format="2">
+  <advance width="341"/>
+  <note>
+uni03B9030803040300
+</note>
+  <outline>
+    <component base="iota" xOffset="2"/>
+    <component base="dieresis" xOffset="-129" yOffset="-104"/>
+    <component base="macron" xOffset="-129" yOffset="83"/>
+    <component base="uni1FEF.short" xOffset="-217" yOffset="-107"/>
+  </outline>
+</glyph>

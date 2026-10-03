@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve.cyr" format="2">
+  <advance width="682"/>
+  <note>
+breve.cyr
+</note>
+  <outline>
+    <contour>
+      <point x="340" y="1216" type="curve"/>
+      <point x="547" y="1216"/>
+      <point x="664" y="1326"/>
+      <point x="667" y="1516" type="curve"/>
+      <point x="563" y="1516" type="line"/>
+      <point x="554" y="1383"/>
+      <point x="479" y="1317"/>
+      <point x="340" y="1317" type="curve" smooth="yes"/>
+      <point x="201" y="1317"/>
+      <point x="126" y="1383"/>
+      <point x="117" y="1516" type="curve"/>
+      <point x="13" y="1516" type="line"/>
+      <point x="16" y="1325"/>
+      <point x="133" y="1216"/>
+    </contour>
+  </outline>
+</glyph>

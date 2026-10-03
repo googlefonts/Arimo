@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni214E" format="2">
+  <advance width="1040"/>
+  <unicode hex="214E"/>
+  <note>
+uni214E
+</note>
+  <anchor x="667" y="1200" name="top"/>
+  <anchor x="1000" y="1200" name="caronalt"/>
+  <anchor x="553" y="-130" name="bottom"/>
+  <anchor x="1040" y="1540" name="topdouble"/>
+  <anchor x="1040" y="-380" name="bottomdouble"/>
+  <anchor x="1040" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="671" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="1059" y="1082" type="line"/>
+      <point x="709" y="1082" type="line"/>
+      <point x="625" y="651" type="line"/>
+      <point x="145" y="651" type="line"/>
+      <point x="96" y="405" type="line"/>
+      <point x="576" y="405" type="line"/>
+      <point x="546" y="246" type="line"/>
+      <point x="25" y="246" type="line"/>
+      <point x="-22" y="0" type="line"/>
+      <point x="847" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

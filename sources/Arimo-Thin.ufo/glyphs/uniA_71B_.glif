@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA71B" format="2">
+  <advance width="1024"/>
+  <unicode hex="A71B"/>
+  <note>
+uniA71B
+</note>
+  <outline>
+    <contour>
+      <point x="579" y="1591" type="line"/>
+      <point x="873" y="1591" type="line"/>
+      <point x="873" y="1608" type="line"/>
+      <point x="507" y="1960" type="line"/>
+      <point x="509" y="1960" type="line"/>
+      <point x="153" y="1609" type="line"/>
+      <point x="153" y="1591" type="line"/>
+      <point x="446" y="1591" type="line"/>
+      <point x="446" y="1041" type="line"/>
+      <point x="579" y="1041" type="line"/>
+    </contour>
+  </outline>
+</glyph>

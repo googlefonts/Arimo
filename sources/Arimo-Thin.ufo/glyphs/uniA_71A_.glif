@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA71A" format="2">
+  <unicode hex="A71A"/>
+  <note>
+uniA71A
+</note>
+  <outline>
+    <contour>
+      <point x="-284" y="1233" type="line"/>
+      <point x="-284" y="1123" type="line"/>
+      <point x="283" y="1123" type="line"/>
+      <point x="283" y="1502" type="line"/>
+      <point x="167" y="1502" type="line"/>
+      <point x="167" y="1233" type="line"/>
+    </contour>
+  </outline>
+</glyph>

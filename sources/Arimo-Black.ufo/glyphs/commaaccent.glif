@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccent" format="2">
+  <note>
+commaaccent
+</note>
+  <outline>
+    <contour>
+      <point x="361" y="-211" type="curve" smooth="yes"/>
+      <point x="361" y="-65" type="line"/>
+      <point x="83" y="-65" type="line"/>
+      <point x="83" y="-306" type="line"/>
+      <point x="204" y="-306" type="line"/>
+      <point x="204" y="-343"/>
+      <point x="175" y="-400"/>
+      <point x="110" y="-469" type="curve"/>
+      <point x="261" y="-469" type="line"/>
+      <point x="339" y="-376"/>
+      <point x="361" y="-296"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>682</integer>
+    </dict>
+  </lib>
+</glyph>

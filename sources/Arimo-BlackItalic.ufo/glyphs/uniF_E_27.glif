@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE27" format="2">
+  <unicode hex="FE27"/>
+  <note>
+uniFE27
+</note>
+  <outline>
+    <contour>
+      <point x="-23" y="-426" type="line"/>
+      <point x="25" y="-263" type="line"/>
+      <point x="30" y="-262" type="line" smooth="yes"/>
+      <point x="-281" y="-259"/>
+      <point x="-372" y="-204"/>
+      <point x="-480" y="-37" type="curve"/>
+      <point x="-696" y="-37" type="line"/>
+      <point x="-638" y="-291"/>
+      <point x="-394" y="-418"/>
+      <point x="-13" y="-425" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0310" format="2">
+  <unicode hex="0310"/>
+  <note>
+uni0310
+</note>
+  <anchor x="-320" y="1220" name="_top"/>
+  <anchor x="-320" y="1220" name="_topmkmk"/>
+  <anchor x="-165" y="1720" name="topmkmk"/>
+  <outline>
+    <contour>
+      <point x="-85" y="1558" type="line"/>
+      <point x="-164" y="1558" type="line"/>
+      <point x="-191" y="1421" type="line"/>
+      <point x="-112" y="1421" type="line"/>
+    </contour>
+    <contour>
+      <point x="-176" y="1223" type="curve"/>
+      <point x="-87" y="1223"/>
+      <point x="17" y="1301"/>
+      <point x="73" y="1430" type="curve"/>
+      <point x="27" y="1430" type="line"/>
+      <point x="-20" y="1349"/>
+      <point x="-113" y="1322"/>
+      <point x="-182" y="1322" type="curve" smooth="yes"/>
+      <point x="-274" y="1322"/>
+      <point x="-334" y="1359"/>
+      <point x="-340" y="1430" type="curve"/>
+      <point x="-385" y="1430" type="line"/>
+      <point x="-383" y="1430" type="line" smooth="yes"/>
+      <point x="-383" y="1304"/>
+      <point x="-299" y="1223"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni035E" format="2">
+  <unicode hex="035E"/>
+  <note>
+uni035E
+</note>
+  <anchor x="370" y="1380" name="_topdouble"/>
+  <outline>
+    <contour>
+      <point x="-173" y="1504" type="line"/>
+      <point x="-173" y="1412" type="line"/>
+      <point x="799" y="1412" type="line"/>
+      <point x="799" y="1504" type="line"/>
+    </contour>
+  </outline>
+</glyph>

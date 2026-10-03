@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave.alt4" format="2">
+  <note>
+grave.alt4
+</note>
+  <outline>
+    <contour>
+      <point x="157" y="1454" type="line"/>
+      <point x="538" y="1178" type="line"/>
+      <point x="691" y="1178" type="line"/>
+      <point x="701" y="1229" type="line"/>
+      <point x="453" y="1526" type="line"/>
+      <point x="170" y="1526" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

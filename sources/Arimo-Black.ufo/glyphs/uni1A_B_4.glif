@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1AB4" format="2">
+  <unicode hex="1AB4"/>
+  <note>
+uni1AB4
+</note>
+  <outline>
+    <contour>
+      <point x="124" y="1775" type="line"/>
+      <point x="-123" y="1775" type="line"/>
+      <point x="-123" y="1532" type="line"/>
+      <point x="124" y="1532" type="line"/>
+    </contour>
+    <contour>
+      <point x="405" y="1428" type="line"/>
+      <point x="152" y="1428" type="line"/>
+      <point x="152" y="1186" type="line"/>
+      <point x="405" y="1186" type="line"/>
+    </contour>
+    <contour>
+      <point x="-158" y="1428" type="line"/>
+      <point x="-404" y="1428" type="line"/>
+      <point x="-404" y="1186" type="line"/>
+      <point x="-158" y="1186" type="line"/>
+    </contour>
+  </outline>
+</glyph>

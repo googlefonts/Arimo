@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFB1E" format="2">
+  <unicode hex="FB1E"/>
+  <note>
+uniFB1E
+</note>
+  <anchor x="0" y="1430" name="_hebrewtop1"/>
+  <anchor x="0" y="1430" name="_rafe"/>
+  <outline>
+    <contour>
+      <point x="353" y="1763" type="curve"/>
+      <point x="120" y="1763" type="line"/>
+      <point x="120" y="1681"/>
+      <point x="70" y="1618"/>
+      <point x="0" y="1618" type="curve" smooth="yes"/>
+      <point x="-76" y="1618"/>
+      <point x="-120" y="1683"/>
+      <point x="-120" y="1763" type="curve"/>
+      <point x="-353" y="1763" type="line"/>
+      <point x="-353" y="1554"/>
+      <point x="-227" y="1446"/>
+      <point x="0" y="1446" type="curve" smooth="yes"/>
+      <point x="227" y="1446"/>
+      <point x="353" y="1550"/>
+    </contour>
+  </outline>
+</glyph>

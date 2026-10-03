@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ahookabove" format="2">
+  <advance width="1139"/>
+  <unicode hex="1EA3"/>
+  <note>
+ahookabove
+</note>
+  <anchor x="560" y="1580" name="top"/>
+  <anchor x="920" y="1260" name="caronalt"/>
+  <anchor x="540" y="-130" name="bottom"/>
+  <anchor x="1139" y="1740" name="topdouble"/>
+  <anchor x="1139" y="-380" name="bottomdouble"/>
+  <anchor x="1139" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="940" y="0" name="ogonek"/>
+  <outline>
+    <component base="a"/>
+    <component base="hookabovecomb" xOffset="786" yOffset="-318"/>
+  </outline>
+</glyph>

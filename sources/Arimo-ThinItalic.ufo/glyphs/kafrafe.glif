@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kafrafe" format="2">
+  <advance width="1017"/>
+  <unicode hex="FB4D"/>
+  <note>
+kafrafe
+</note>
+  <anchor x="0" y="1430" name="holam"/>
+  <anchor x="560" y="1700" name="hebrewtop1"/>
+  <anchor x="560" y="1700" name="upperdot"/>
+  <anchor x="320" y="0" name="hebrewbottom1"/>
+  <anchor x="320" y="0" name="hebrewbottomleft"/>
+  <anchor x="760" y="0" name="hebrewbottomleft"/>
+  <anchor x="200" y="1350" name="hebrewtopleft"/>
+  <anchor x="760" y="1350" name="hebrewtopright"/>
+  <anchor x="940" y="1430" name="rafe"/>
+  <anchor x="220" y="0" name="hebrewbottom2"/>
+  <anchor x="300" y="1350" name="hebrewtop2"/>
+  <anchor x="220" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="kaf"/>
+    <component base="rafe" xOffset="345"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA71E" format="2">
+  <advance width="456"/>
+  <unicode hex="A71E"/>
+  <note>
+uniA71E
+</note>
+  <outline>
+    <contour>
+      <point x="300" y="1998" type="line"/>
+      <point x="158" y="1998" type="line"/>
+      <point x="158" y="1964" type="line"/>
+      <point x="300" y="1964" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="1824" type="line"/>
+      <point x="242" y="1824" type="line"/>
+      <point x="162" y="934" type="line"/>
+      <point x="304" y="934" type="line"/>
+    </contour>
+  </outline>
+</glyph>

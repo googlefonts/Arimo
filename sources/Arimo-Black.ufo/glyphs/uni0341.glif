@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0341" format="2">
+  <unicode hex="0341"/>
+  <note>
+uni0341
+</note>
+  <outline>
+    <contour>
+      <point x="-12" y="1207" type="line"/>
+      <point x="156" y="1207" type="line"/>
+      <point x="494" y="1437" type="line"/>
+      <point x="494" y="1491" type="line"/>
+      <point x="183" y="1491" type="line"/>
+      <point x="-12" y="1244" type="line"/>
+    </contour>
+  </outline>
+</glyph>

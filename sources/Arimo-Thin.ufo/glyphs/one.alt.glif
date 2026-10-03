@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.alt" format="2">
+  <note>
+one.alt
+</note>
+  <outline>
+    <contour>
+      <point x="147" y="867" type="line"/>
+      <point x="58" y="867" type="line"/>
+      <point x="-149" y="748" type="line"/>
+      <point x="-149" y="606" type="line"/>
+      <point x="56" y="737" type="line"/>
+      <point x="56" y="137" type="line"/>
+      <point x="147" y="137" type="line"/>
+    </contour>
+  </outline>
+</glyph>

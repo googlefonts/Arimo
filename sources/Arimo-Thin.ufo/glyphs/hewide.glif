@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hewide" format="2">
+  <advance width="1212"/>
+  <unicode hex="FB23"/>
+  <note>
+hewide
+</note>
+  <anchor x="60" y="1430" name="holam"/>
+  <anchor x="580" y="800" name="dagesh"/>
+  <anchor x="540" y="1350" name="hebrewtop1"/>
+  <anchor x="540" y="1700" name="upperdot"/>
+  <anchor x="620" y="0" name="hebrewbottom1"/>
+  <anchor x="620" y="0" name="hebrewbottomleft"/>
+  <anchor x="960" y="0" name="hebrewbottomleft"/>
+  <anchor x="240" y="1350" name="hebrewtopleft"/>
+  <anchor x="920" y="1350" name="hebrewtopright"/>
+  <anchor x="820" y="1430" name="rafe"/>
+  <anchor x="620" y="0" name="hebrewbottom2"/>
+  <anchor x="660" y="1350" name="hebrewtop2"/>
+  <anchor x="620" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="he"/>
+  </outline>
+</glyph>

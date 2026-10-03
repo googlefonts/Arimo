@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni046B" format="2">
+  <advance width="1263"/>
+  <unicode hex="046B"/>
+  <note>
+uni046B
+</note>
+  <outline>
+    <contour>
+      <point x="66" y="-37" type="line" smooth="yes"/>
+      <point x="148" y="350"/>
+      <point x="260" y="454"/>
+      <point x="573" y="454" type="curve"/>
+      <point x="485" y="0" type="line"/>
+      <point x="548" y="0" type="line"/>
+      <point x="636" y="454" type="line"/>
+      <point x="904" y="444"/>
+      <point x="987" y="375"/>
+      <point x="987" y="188" type="curve" smooth="yes"/>
+      <point x="987" y="137"/>
+      <point x="977" y="62"/>
+      <point x="960" y="-41" type="curve" smooth="yes"/>
+      <point x="966" y="0" type="line"/>
+      <point x="1028" y="0" type="line"/>
+      <point x="1027" y="-14"/>
+      <point x="1028" y="14"/>
+      <point x="1036" y="85" type="curve" smooth="yes"/>
+      <point x="1041" y="129"/>
+      <point x="1044" y="163"/>
+      <point x="1044" y="190" type="curve" smooth="yes"/>
+      <point x="1044" y="311"/>
+      <point x="1018" y="391"/>
+      <point x="961" y="446" type="curve" smooth="yes"/>
+      <point x="910" y="491"/>
+      <point x="837" y="520"/>
+      <point x="743" y="534" type="curve"/>
+      <point x="1166" y="1082" type="line"/>
+      <point x="295" y="1082" type="line"/>
+      <point x="504" y="534" type="line"/>
+      <point x="264" y="496"/>
+      <point x="140" y="400"/>
+      <point x="64" y="218" type="curve" smooth="yes"/>
+      <point x="40" y="139"/>
+      <point x="12" y="26"/>
+      <point x="-18" y="-121" type="curve" smooth="yes"/>
+      <point x="7" y="0" type="line"/>
+      <point x="72" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="436" y="1007" type="line"/>
+      <point x="971" y="1007" type="line"/>
+      <point x="609" y="529" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

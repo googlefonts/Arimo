@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron" format="2">
+  <advance width="555"/>
+  <unicode hex="0165"/>
+  <note>
+tcaron
+</note>
+  <anchor x="220" y="1480" name="top"/>
+  <anchor x="600" y="1540" name="caronalt"/>
+  <anchor x="340" y="-130" name="bottom"/>
+  <anchor x="555" y="1540" name="topdouble"/>
+  <anchor x="779" y="-380" name="bottomdouble"/>
+  <anchor x="555" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="380" y="0" name="ogonek"/>
+  <outline>
+    <component base="t"/>
+    <component base="caroncommaaccent" xOffset="297" yOffset="75"/>
+  </outline>
+</glyph>

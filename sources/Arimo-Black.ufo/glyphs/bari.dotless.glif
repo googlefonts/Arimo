@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bari.dotless" format="2">
+  <advance width="645"/>
+  <note>
+bari.dotless
+</note>
+  <anchor x="313" y="1200" name="top"/>
+  <anchor x="613" y="1200" name="caronalt"/>
+  <anchor x="313" y="-130" name="bottom"/>
+  <anchor x="645" y="1540" name="topdouble"/>
+  <anchor x="645" y="-380" name="bottomdouble"/>
+  <anchor x="645" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="260" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="497" y="436" type="line"/>
+      <point x="626" y="436" type="line"/>
+      <point x="626" y="685" type="line"/>
+      <point x="497" y="685" type="line"/>
+      <point x="497" y="1082" type="line"/>
+      <point x="148" y="1082" type="line"/>
+      <point x="148" y="685" type="line"/>
+      <point x="19" y="685" type="line"/>
+      <point x="19" y="436" type="line"/>
+      <point x="148" y="436" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="497" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

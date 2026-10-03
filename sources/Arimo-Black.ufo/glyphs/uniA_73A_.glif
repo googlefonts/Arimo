@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA73A" format="2">
+  <advance width="1963"/>
+  <unicode hex="A73A"/>
+  <note>
+uniA73A
+</note>
+  <outline>
+    <contour>
+      <point x="584" y="492" type="line"/>
+      <point x="968" y="492" type="line"/>
+      <point x="1110" y="0" type="line"/>
+      <point x="1537" y="0" type="line"/>
+      <point x="1705" y="492" type="line"/>
+      <point x="1854" y="492" type="line"/>
+      <point x="1854" y="763" type="line"/>
+      <point x="1800" y="763" type="line"/>
+      <point x="2017" y="1409" type="line"/>
+      <point x="1643" y="1409" type="line"/>
+      <point x="1478" y="763" type="line"/>
+      <point x="1204" y="763" type="line"/>
+      <point x="991" y="1409" type="line"/>
+      <point x="556" y="1409" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="669" y="763" type="line"/>
+      <point x="775" y="1143" type="line"/>
+      <point x="882" y="763" type="line"/>
+    </contour>
+    <contour>
+      <point x="1299" y="492" type="line"/>
+      <point x="1400" y="492" type="line"/>
+      <point x="1354" y="285" type="line"/>
+    </contour>
+  </outline>
+</glyph>

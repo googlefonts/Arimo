@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="intersection" format="2">
+  <advance width="1484"/>
+  <unicode hex="2229"/>
+  <note>
+intersection
+</note>
+  <outline>
+    <contour>
+      <point x="386" y="510" type="line" smooth="yes"/>
+      <point x="386" y="769"/>
+      <point x="524" y="930"/>
+      <point x="740" y="930" type="curve" smooth="yes"/>
+      <point x="953" y="930"/>
+      <point x="1096" y="765"/>
+      <point x="1096" y="512" type="curve" smooth="yes"/>
+      <point x="1096" y="-2" type="line"/>
+      <point x="1199" y="-2" type="line"/>
+      <point x="1199" y="510" type="line" smooth="yes"/>
+      <point x="1199" y="707"/>
+      <point x="1115" y="878"/>
+      <point x="975" y="966" type="curve" smooth="yes"/>
+      <point x="904" y="1010"/>
+      <point x="825" y="1032"/>
+      <point x="738" y="1032" type="curve" smooth="yes"/>
+      <point x="565" y="1032"/>
+      <point x="418" y="939"/>
+      <point x="341" y="780" type="curve" smooth="yes"/>
+      <point x="302" y="700"/>
+      <point x="283" y="610"/>
+      <point x="283" y="510" type="curve" smooth="yes"/>
+      <point x="283" y="-2" type="line"/>
+      <point x="386" y="-2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

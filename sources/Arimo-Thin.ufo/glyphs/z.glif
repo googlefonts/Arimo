@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z" format="2">
+  <advance width="1024"/>
+  <unicode hex="007A"/>
+  <note>
+z
+</note>
+  <anchor x="500" y="1200" name="top"/>
+  <anchor x="820" y="1200" name="caronalt"/>
+  <anchor x="500" y="-130" name="bottom"/>
+  <anchor x="880" y="1100" name="rhotic"/>
+  <anchor x="730" y="1000" name="horn"/>
+  <anchor x="1024" y="1540" name="topdouble"/>
+  <anchor x="1024" y="-380" name="bottomdouble"/>
+  <anchor x="1024" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="740" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="894" y="73" type="line"/>
+      <point x="195" y="73" type="line"/>
+      <point x="901" y="1009" type="line"/>
+      <point x="901" y="1082" type="line"/>
+      <point x="111" y="1082" type="line"/>
+      <point x="111" y="1007" type="line"/>
+      <point x="785" y="1007" type="line"/>
+      <point x="84" y="75" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="894" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

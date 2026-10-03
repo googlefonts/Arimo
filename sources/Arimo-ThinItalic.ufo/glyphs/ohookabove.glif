@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohookabove" format="2">
+  <advance width="1027"/>
+  <unicode hex="1ECF"/>
+  <note>
+ohookabove
+</note>
+  <anchor x="609" y="1580" name="top"/>
+  <anchor x="880" y="1260" name="caronalt"/>
+  <anchor x="330" y="-130" name="bottom"/>
+  <anchor x="1040" y="600" name="horn"/>
+  <anchor x="1027" y="1540" name="topdouble"/>
+  <anchor x="1027" y="-380" name="bottomdouble"/>
+  <anchor x="1027" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="680" y="0" name="ogonek"/>
+  <outline>
+    <component base="o"/>
+    <component base="hookabove.alt2" xOffset="1397" yOffset="-636"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

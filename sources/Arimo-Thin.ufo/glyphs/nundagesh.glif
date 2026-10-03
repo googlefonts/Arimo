@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nundagesh" format="2">
+  <advance width="711"/>
+  <unicode hex="FB40"/>
+  <note>
+nundagesh
+</note>
+  <anchor x="60" y="1430" name="holam"/>
+  <anchor x="260" y="1350" name="hebrewtop1"/>
+  <anchor x="260" y="1700" name="upperdot"/>
+  <anchor x="340" y="0" name="hebrewbottom1"/>
+  <anchor x="340" y="0" name="hebrewbottomleft"/>
+  <anchor x="460" y="0" name="hebrewbottomleft"/>
+  <anchor x="200" y="1350" name="hebrewtopleft"/>
+  <anchor x="440" y="1350" name="hebrewtopright"/>
+  <anchor x="620" y="1430" name="rafe"/>
+  <anchor x="340" y="0" name="hebrewbottom2"/>
+  <anchor x="260" y="1350" name="hebrewtop2"/>
+  <anchor x="340" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="nun"/>
+    <component base="dagesh" xOffset="201"/>
+  </outline>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qof" format="2">
+  <advance width="1426"/>
+  <unicode hex="05E7"/>
+  <note>
+qof
+</note>
+  <anchor x="60" y="1430" name="holam"/>
+  <anchor x="627" y="1350" name="hebrewtop1"/>
+  <anchor x="627" y="1700" name="upperdot"/>
+  <anchor x="860" y="0" name="hebrewbottom1"/>
+  <anchor x="687" y="0" name="hebrewbottomleft"/>
+  <anchor x="600" y="0" name="hebrewbottomleft"/>
+  <anchor x="240" y="1350" name="hebrewtopleft"/>
+  <anchor x="1100" y="1350" name="hebrewtopright"/>
+  <anchor x="1213" y="1430" name="rafe"/>
+  <anchor x="620" y="0" name="hebrewbottom2"/>
+  <anchor x="627" y="1350" name="hebrewtop2"/>
+  <anchor x="127" y="0" name="hebrewbottom3"/>
+  <outline>
+    <contour>
+      <point x="1314" y="818" type="curve" smooth="yes"/>
+      <point x="1314" y="1123"/>
+      <point x="1153" y="1250"/>
+      <point x="808" y="1250" type="curve" smooth="yes"/>
+      <point x="123" y="1250" type="line"/>
+      <point x="123" y="960" type="line"/>
+      <point x="737" y="960" type="line" smooth="yes"/>
+      <point x="922" y="960"/>
+      <point x="984" y="910"/>
+      <point x="984" y="781" type="curve" smooth="yes"/>
+      <point x="984" y="587"/>
+      <point x="851" y="399"/>
+      <point x="618" y="287" type="curve"/>
+      <point x="618" y="-50" type="line"/>
+      <point x="1079" y="136"/>
+      <point x="1314" y="435"/>
+    </contour>
+    <contour>
+      <point x="501" y="739" type="line"/>
+      <point x="174" y="739" type="line"/>
+      <point x="174" y="-385" type="line"/>
+      <point x="501" y="-385" type="line"/>
+    </contour>
+  </outline>
+</glyph>

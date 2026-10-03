@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bari.dotless" format="2">
+  <advance width="341"/>
+  <note>
+bari.dotless
+</note>
+  <anchor x="180" y="1200" name="top"/>
+  <anchor x="160" y="1200" name="caronalt"/>
+  <anchor x="0" y="-130" name="bottom"/>
+  <anchor x="341" y="1540" name="topdouble"/>
+  <anchor x="341" y="-380" name="bottomdouble"/>
+  <anchor x="341" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="100" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="207" y="513" type="line"/>
+      <point x="312" y="513" type="line"/>
+      <point x="325" y="576" type="line"/>
+      <point x="220" y="576" type="line"/>
+      <point x="317" y="1082" type="line"/>
+      <point x="238" y="1082" type="line"/>
+      <point x="141" y="576" type="line"/>
+      <point x="44" y="576" type="line"/>
+      <point x="31" y="513" type="line"/>
+      <point x="128" y="513" type="line"/>
+      <point x="29" y="0" type="line"/>
+      <point x="108" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

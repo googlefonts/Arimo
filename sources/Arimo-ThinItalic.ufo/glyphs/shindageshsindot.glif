@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shindageshsindot" format="2">
+  <advance width="1341"/>
+  <unicode hex="FB2D"/>
+  <note>
+shindageshsindot
+</note>
+  <anchor x="-80" y="1430" name="holam"/>
+  <anchor x="800" y="1350" name="hebrewtop1"/>
+  <anchor x="800" y="1700" name="upperdot"/>
+  <anchor x="500" y="0" name="hebrewbottom1"/>
+  <anchor x="500" y="0" name="hebrewbottomleft"/>
+  <anchor x="960" y="0" name="hebrewbottomleft"/>
+  <anchor x="-40" y="1350" name="hebrewtopleft"/>
+  <anchor x="1140" y="1350" name="hebrewtopright"/>
+  <anchor x="1200" y="1430" name="rafe"/>
+  <anchor x="400" y="0" name="hebrewbottom2"/>
+  <anchor x="920" y="1350" name="hebrewtop2"/>
+  <anchor x="400" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="shin"/>
+    <component base="dagesh" xOffset="827" yOffset="-79"/>
+    <component base="holam" xOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

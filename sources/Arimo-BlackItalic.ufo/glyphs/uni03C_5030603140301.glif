@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03C5030603140301" format="2">
+  <advance width="1268"/>
+  <note>
+uni03C5030603140301
+</note>
+  <outline>
+    <component base="upsilon"/>
+    <component base="uni0306" xOffset="748" yOffset="-39"/>
+    <component base="uni1FDE" xOffset="367" yOffset="500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni036D" format="2">
+  <unicode hex="036D"/>
+  <note>
+uni036D
+</note>
+  <anchor x="0" y="480" name="_top"/>
+  <anchor x="0" y="480" name="_topmkmk"/>
+  <anchor x="0" y="1680" name="topmkmk"/>
+  <outline>
+    <component base="uni1D57" xOffset="-238"/>
+  </outline>
+</glyph>

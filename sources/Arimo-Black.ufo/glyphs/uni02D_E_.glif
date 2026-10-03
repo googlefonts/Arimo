@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02DE" format="2">
+  <advance width="682"/>
+  <unicode hex="02DE"/>
+  <note>
+uni02DE
+</note>
+  <anchor x="0" y="801" name="_rhotic"/>
+  <outline>
+    <contour>
+      <point x="-54" y="787" type="line"/>
+      <point x="-1" y="553" type="line"/>
+      <point x="72" y="567" type="line"/>
+      <point x="82" y="534" type="line" smooth="yes"/>
+      <point x="118" y="420"/>
+      <point x="196" y="362"/>
+      <point x="382" y="362" type="curve" smooth="yes"/>
+      <point x="489" y="362"/>
+      <point x="582" y="382"/>
+      <point x="665" y="421" type="curve"/>
+      <point x="589" y="623" type="line"/>
+      <point x="539" y="596"/>
+      <point x="502" y="578"/>
+      <point x="432" y="578" type="curve" smooth="yes"/>
+      <point x="337" y="578"/>
+      <point x="308" y="606"/>
+      <point x="285" y="717" type="curve" smooth="yes"/>
+      <point x="258" y="852" type="line"/>
+    </contour>
+  </outline>
+</glyph>

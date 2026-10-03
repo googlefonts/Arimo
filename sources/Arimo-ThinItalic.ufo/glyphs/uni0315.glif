@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0315" format="2">
+  <unicode hex="0315"/>
+  <note>
+uni0315
+</note>
+  <anchor x="-280" y="1080" name="_caronalt"/>
+  <outline>
+    <component base="quoteright" xOffset="-457"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

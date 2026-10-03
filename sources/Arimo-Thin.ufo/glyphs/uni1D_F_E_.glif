@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DFE" format="2">
+  <unicode hex="1DFE"/>
+  <note>
+uni1DFE
+</note>
+  <anchor x="0" y="1150" name="_top"/>
+  <anchor x="0" y="1090" name="_topmkmk"/>
+  <anchor x="0" y="1680" name="topmkmk"/>
+  <outline>
+    <contour>
+      <point x="-135" y="1434" type="line"/>
+      <point x="-135" y="1328" type="line"/>
+      <point x="138" y="1167" type="line"/>
+      <point x="138" y="1268" type="line"/>
+      <point x="-44" y="1381" type="line"/>
+      <point x="138" y="1494" type="line"/>
+      <point x="138" y="1595" type="line"/>
+    </contour>
+  </outline>
+</glyph>

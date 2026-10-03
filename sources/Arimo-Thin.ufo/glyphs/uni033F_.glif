@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni033F" format="2">
+  <unicode hex="033F"/>
+  <note>
+uni033F
+</note>
+  <anchor x="0" y="1540" name="_top"/>
+  <anchor x="0" y="1500" name="_topmkmk"/>
+  <anchor x="0" y="1940" name="topmkmk"/>
+  <outline>
+    <contour>
+      <point x="606" y="1858" type="line"/>
+      <point x="-603" y="1858" type="line"/>
+      <point x="-603" y="1732" type="line"/>
+      <point x="606" y="1732" type="line"/>
+    </contour>
+    <contour>
+      <point x="606" y="1650" type="line"/>
+      <point x="-603" y="1650" type="line"/>
+      <point x="-603" y="1524" type="line"/>
+      <point x="606" y="1524" type="line"/>
+    </contour>
+  </outline>
+</glyph>

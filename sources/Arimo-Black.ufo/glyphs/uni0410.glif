@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0410" format="2">
+  <advance width="1554"/>
+  <unicode hex="0410"/>
+  <note>
+uni0410
+</note>
+  <anchor x="763" y="1540" name="cytop"/>
+  <outline>
+    <component base="A"/>
+  </outline>
+</glyph>

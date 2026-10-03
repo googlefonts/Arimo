@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finalpe" format="2">
+  <advance width="1453"/>
+  <unicode hex="05E3"/>
+  <note>
+finalpe
+</note>
+  <anchor x="60" y="1430" name="holam"/>
+  <anchor x="667" y="1350" name="hebrewtop1"/>
+  <anchor x="667" y="1700" name="upperdot"/>
+  <anchor x="500" y="0" name="hebrewbottom1"/>
+  <anchor x="500" y="0" name="hebrewbottomleft"/>
+  <anchor x="1333" y="0" name="hebrewbottomleft"/>
+  <anchor x="240" y="1350" name="hebrewtopleft"/>
+  <anchor x="1100" y="1350" name="hebrewtopright"/>
+  <anchor x="1200" y="1430" name="rafe"/>
+  <anchor x="380" y="0" name="hebrewbottom2"/>
+  <anchor x="667" y="1350" name="hebrewtop2"/>
+  <anchor x="667" y="0" name="hebrewbottom3"/>
+  <outline>
+    <contour>
+      <point x="683" y="1250" type="curve"/>
+      <point x="133" y="1250" type="line"/>
+      <point x="133" y="388" type="line"/>
+      <point x="703" y="388" type="line"/>
+      <point x="703" y="676" type="line"/>
+      <point x="459" y="676" type="line"/>
+      <point x="459" y="960" type="line"/>
+      <point x="688" y="960" type="line" smooth="yes"/>
+      <point x="892" y="960"/>
+      <point x="961" y="871"/>
+      <point x="961" y="646" type="curve" smooth="yes"/>
+      <point x="961" y="-385" type="line"/>
+      <point x="1290" y="-385" type="line"/>
+      <point x="1290" y="736" type="line" smooth="yes"/>
+      <point x="1290" y="1107"/>
+      <point x="1118" y="1250"/>
+    </contour>
+  </outline>
+</glyph>

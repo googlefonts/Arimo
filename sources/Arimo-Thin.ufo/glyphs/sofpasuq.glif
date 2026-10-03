@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sofpasuq" format="2">
+  <advance width="456"/>
+  <unicode hex="05C3"/>
+  <note>
+sofpasuq
+</note>
+  <outline>
+    <contour>
+      <point x="281" y="1128" type="line"/>
+      <point x="175" y="1128" type="line"/>
+      <point x="175" y="996" type="line"/>
+      <point x="281" y="996" type="line"/>
+    </contour>
+    <contour>
+      <point x="281" y="133" type="line"/>
+      <point x="175" y="133" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="281" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

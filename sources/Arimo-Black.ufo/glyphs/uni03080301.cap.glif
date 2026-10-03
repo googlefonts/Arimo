@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03080301.cap" format="2">
+  <note>
+uni03080301.cap
+</note>
+  <outline>
+    <contour>
+      <point x="4" y="1835" type="line"/>
+      <point x="-111" y="1692" type="line"/>
+      <point x="-111" y="1675" type="line"/>
+      <point x="52" y="1675" type="line"/>
+      <point x="263" y="1816" type="line"/>
+      <point x="263" y="1835" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="1478" type="line"/>
+      <point x="239" y="1478" type="line"/>
+      <point x="239" y="1609" type="line"/>
+      <point x="81" y="1609" type="line"/>
+    </contour>
+    <contour>
+      <point x="-240" y="1478" type="line"/>
+      <point x="-82" y="1478" type="line"/>
+      <point x="-82" y="1609" type="line"/>
+      <point x="-240" y="1609" type="line"/>
+    </contour>
+  </outline>
+</glyph>

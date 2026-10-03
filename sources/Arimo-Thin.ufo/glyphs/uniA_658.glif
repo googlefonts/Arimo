@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA658" format="2">
+  <advance width="1253"/>
+  <unicode hex="A658"/>
+  <note>
+uniA658
+</note>
+  <outline>
+    <contour>
+      <point x="679" y="1409" type="line"/>
+      <point x="593" y="1409" type="line"/>
+      <point x="-43" y="0" type="line"/>
+      <point x="1299" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="411" y="784" type="line"/>
+      <point x="631" y="1338" type="line"/>
+      <point x="851" y="784" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="90" type="line"/>
+      <point x="361" y="686" type="line"/>
+      <point x="901" y="686" type="line"/>
+      <point x="1154" y="90" type="line"/>
+    </contour>
+  </outline>
+</glyph>

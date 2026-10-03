@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni024E" format="2">
+  <advance width="1366"/>
+  <unicode hex="024E"/>
+  <note>
+uni024E
+</note>
+  <anchor x="698" y="1540" name="top"/>
+  <anchor x="1270" y="1540" name="caronalt"/>
+  <anchor x="680" y="-130" name="bottom"/>
+  <anchor x="1366" y="1540" name="topdouble"/>
+  <anchor x="1366" y="-380" name="bottomdouble"/>
+  <anchor x="1366" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="600" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="723" y="590" type="line"/>
+      <point x="1021" y="1001" type="line"/>
+      <point x="1266" y="1001" type="line"/>
+      <point x="1266" y="1090" type="line"/>
+      <point x="1091" y="1090" type="line"/>
+      <point x="1309" y="1409" type="line"/>
+      <point x="1198" y="1409" type="line"/>
+      <point x="985" y="1090" type="line"/>
+      <point x="380" y="1090" type="line"/>
+      <point x="166" y="1409" type="line"/>
+      <point x="55" y="1409" type="line"/>
+      <point x="272" y="1090" type="line"/>
+      <point x="100" y="1090" type="line"/>
+      <point x="100" y="1001" type="line"/>
+      <point x="342" y="1001" type="line"/>
+      <point x="637" y="590" type="line"/>
+      <point x="637" y="0" type="line"/>
+      <point x="723" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="451" y="1001" type="line"/>
+      <point x="916" y="1001" type="line"/>
+      <point x="686" y="663" type="line"/>
+    </contour>
+  </outline>
+</glyph>

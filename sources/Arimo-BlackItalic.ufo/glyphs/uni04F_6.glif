@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04F6" format="2">
+  <advance width="1352"/>
+  <unicode hex="04F6"/>
+  <note>
+uni04F6
+</note>
+  <outline>
+    <contour>
+      <point x="603" y="300" type="line"/>
+      <point x="440" y="300" type="line"/>
+      <point x="603" y="1133" type="line"/>
+      <point x="1342" y="1133" type="line"/>
+      <point x="1395" y="1409" type="line"/>
+      <point x="291" y="1409" type="line"/>
+      <point x="18" y="2" type="line"/>
+      <point x="247" y="2" type="line"/>
+      <point x="167" y="-408" type="line"/>
+      <point x="465" y="-408" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

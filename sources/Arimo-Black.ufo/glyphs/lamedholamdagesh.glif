@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamedholamdagesh" format="2">
+  <advance width="1228"/>
+  <note>
+lamedholamdagesh
+</note>
+  <anchor x="-300" y="1430" name="holam"/>
+  <anchor x="733" y="1350" name="hebrewtop1"/>
+  <anchor x="733" y="1700" name="upperdot"/>
+  <anchor x="520" y="0" name="hebrewbottom1"/>
+  <anchor x="520" y="0" name="hebrewbottomleft"/>
+  <anchor x="833" y="0" name="hebrewbottomleft"/>
+  <anchor x="-180" y="1350" name="hebrewtopleft"/>
+  <anchor x="967" y="1350" name="hebrewtopright"/>
+  <anchor x="1080" y="1430" name="rafe"/>
+  <anchor x="420" y="0" name="hebrewbottom2"/>
+  <anchor x="897" y="1350" name="hebrewtop2"/>
+  <anchor x="420" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="lamed"/>
+    <component base="holam" xOffset="-69"/>
+    <component base="dagesh" xOffset="498" yOffset="20"/>
+  </outline>
+</glyph>

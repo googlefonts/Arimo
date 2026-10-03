@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="1554"/>
+  <unicode hex="0041"/>
+  <note>
+A
+</note>
+  <anchor x="947" y="1540" name="top"/>
+  <anchor x="1483" y="1540" name="caronalt"/>
+  <anchor x="830" y="-130" name="bottom"/>
+  <anchor x="1193" y="1420" name="rhotic"/>
+  <anchor x="1173" y="1300" name="horn"/>
+  <anchor x="1574" y="1540" name="topdouble"/>
+  <anchor x="1574" y="-380" name="bottomdouble"/>
+  <anchor x="1554" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1200" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="514" y="325" type="line"/>
+      <point x="983" y="325" type="line"/>
+      <point x="1024" y="0" type="line"/>
+      <point x="1381" y="0" type="line"/>
+      <point x="1179" y="1409" type="line"/>
+      <point x="744" y="1409" type="line"/>
+      <point x="-3" y="0" type="line"/>
+      <point x="349" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="907" y="1143" type="curve"/>
+      <point x="901" y="1152"/>
+      <point x="905" y="1097"/>
+      <point x="919" y="981" type="curve"/>
+      <point x="963" y="596" type="line"/>
+      <point x="656" y="596" type="line"/>
+      <point x="768" y="836" type="line"/>
+      <point x="842" y="982"/>
+      <point x="889" y="1083"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

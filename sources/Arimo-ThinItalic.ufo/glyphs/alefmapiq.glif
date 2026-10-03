@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefmapiq" format="2">
+  <advance width="1175"/>
+  <unicode hex="FB30"/>
+  <note>
+alefmapiq
+</note>
+  <anchor x="60" y="1430" name="holam"/>
+  <anchor x="700" y="1350" name="hebrewtop1"/>
+  <anchor x="700" y="1700" name="upperdot"/>
+  <anchor x="420" y="0" name="hebrewbottom1"/>
+  <anchor x="420" y="0" name="hebrewbottomleft"/>
+  <anchor x="1060" y="0" name="hebrewbottomleft"/>
+  <anchor x="240" y="1350" name="hebrewtopleft"/>
+  <anchor x="960" y="1350" name="hebrewtopright"/>
+  <anchor x="980" y="1430" name="rafe"/>
+  <anchor x="500" y="0" name="hebrewbottom2"/>
+  <anchor x="830" y="1350" name="hebrewtop2"/>
+  <anchor x="500" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="alef"/>
+    <component base="dagesh" xOffset="400" yOffset="-585"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

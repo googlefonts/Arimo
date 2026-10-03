@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0503" format="2">
+  <advance width="1676"/>
+  <unicode hex="0503"/>
+  <note>
+uni0503
+</note>
+  <outline>
+    <contour>
+      <point x="894" y="438" type="curve" smooth="yes"/>
+      <point x="894" y="1484" type="line"/>
+      <point x="815" y="1484" type="line"/>
+      <point x="815" y="981" type="line"/>
+      <point x="817" y="917" type="line"/>
+      <point x="815" y="917" type="line"/>
+      <point x="741" y="1052"/>
+      <point x="643" y="1102"/>
+      <point x="468" y="1102" type="curve" smooth="yes"/>
+      <point x="203" y="1102"/>
+      <point x="88" y="927"/>
+      <point x="88" y="532" type="curve" smooth="yes"/>
+      <point x="88" y="153"/>
+      <point x="191" y="-20"/>
+      <point x="453" y="-20" type="curve" smooth="yes"/>
+      <point x="664" y="-20"/>
+      <point x="814" y="46"/>
+      <point x="888" y="190" type="curve"/>
+      <point x="942" y="59"/>
+      <point x="1038" y="-20"/>
+      <point x="1171" y="-20" type="curve" smooth="yes"/>
+      <point x="1369" y="-20"/>
+      <point x="1536" y="153"/>
+      <point x="1536" y="346" type="curve" smooth="yes"/>
+      <point x="1536" y="583" type="line"/>
+      <point x="1457" y="583" type="line"/>
+      <point x="1457" y="424" type="line" smooth="yes"/>
+      <point x="1457" y="171"/>
+      <point x="1389" y="47"/>
+      <point x="1182" y="47" type="curve" smooth="yes"/>
+      <point x="973" y="47"/>
+      <point x="894" y="177"/>
+    </contour>
+    <contour>
+      <point x="173" y="544" type="curve" smooth="yes"/>
+      <point x="173" y="895"/>
+      <point x="253" y="1027"/>
+      <point x="464" y="1027" type="curve" smooth="yes"/>
+      <point x="714" y="1027"/>
+      <point x="811" y="902"/>
+      <point x="811" y="561" type="curve" smooth="yes"/>
+      <point x="811" y="207"/>
+      <point x="722" y="66"/>
+      <point x="462" y="66" type="curve" smooth="yes"/>
+      <point x="249" y="66"/>
+      <point x="173" y="183"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E09" format="2">
+  <advance width="1216"/>
+  <unicode hex="1E09"/>
+  <note>
+uni1E09
+</note>
+  <anchor x="1216" y="1540" name="topdouble"/>
+  <anchor x="1216" y="-380" name="bottomdouble"/>
+  <anchor x="1216" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="567" y="-400" name="ogonek"/>
+  <outline>
+    <component base="c"/>
+    <component base="cedilla" xOffset="198" yOffset="-12"/>
+    <component base="acute" xOffset="195"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

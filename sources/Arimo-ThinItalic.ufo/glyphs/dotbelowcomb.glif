@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <unicode hex="0323"/>
+  <note>
+dotbelowcomb
+</note>
+  <anchor x="-1760" y="-130" name="_bottom"/>
+  <anchor x="-1860" y="-130" name="_bottommkmk"/>
+  <anchor x="-1900" y="-320" name="bottommkmk"/>
+  <outline>
+    <contour>
+      <point x="-1714" y="-167" type="line"/>
+      <point x="-1793" y="-167" type="line"/>
+      <point x="-1826" y="-304" type="line"/>
+      <point x="-1747" y="-304" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

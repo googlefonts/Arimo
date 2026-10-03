@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="1139"/>
+  <unicode hex="2021"/>
+  <note>
+daggerdbl
+</note>
+  <outline>
+    <contour>
+      <point x="576" y="255" type="line"/>
+      <point x="930" y="226" type="line"/>
+      <point x="954" y="350" type="line"/>
+      <point x="590" y="323" type="line"/>
+      <point x="630" y="670" type="line"/>
+      <point x="724" y="1020" type="line"/>
+      <point x="1080" y="993" type="line"/>
+      <point x="1104" y="1117" type="line"/>
+      <point x="737" y="1088" type="line"/>
+      <point x="830" y="1484" type="line"/>
+      <point x="695" y="1484" type="line"/>
+      <point x="634" y="1088" type="line"/>
+      <point x="260" y="1117" type="line"/>
+      <point x="236" y="993" type="line"/>
+      <point x="621" y="1020" type="line"/>
+      <point x="579" y="670" type="line"/>
+      <point x="487" y="323" type="line"/>
+      <point x="110" y="350" type="line"/>
+      <point x="86" y="226" type="line"/>
+      <point x="473" y="255" type="line"/>
+      <point x="379" y="-141" type="line"/>
+      <point x="514" y="-141" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

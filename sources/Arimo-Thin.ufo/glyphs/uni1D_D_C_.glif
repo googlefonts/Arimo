@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DDC" format="2">
+  <unicode hex="1DDC"/>
+  <note>
+uni1DDC
+</note>
+  <outline>
+    <contour>
+      <point x="-133" y="1379" type="line"/>
+      <point x="-81" y="1426" type="line"/>
+      <point x="112" y="1210" type="line"/>
+      <point x="188" y="1210" type="line"/>
+      <point x="-49" y="1471" type="line"/>
+      <point x="183" y="1706" type="line"/>
+      <point x="105" y="1706" type="line"/>
+      <point x="-133" y="1452" type="line"/>
+      <point x="-133" y="1835" type="line"/>
+      <point x="-188" y="1835" type="line"/>
+      <point x="-188" y="1210" type="line"/>
+      <point x="-133" y="1210" type="line"/>
+    </contour>
+  </outline>
+</glyph>

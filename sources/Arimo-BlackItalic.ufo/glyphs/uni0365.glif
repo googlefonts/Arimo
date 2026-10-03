@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0365" format="2">
+  <unicode hex="0365"/>
+  <note>
+uni0365
+</note>
+  <anchor x="0" y="480" name="_top"/>
+  <anchor x="0" y="480" name="_topmkmk"/>
+  <anchor x="107" y="1680" name="topmkmk"/>
+  <outline>
+    <contour>
+      <point x="259" y="1536" type="line"/>
+      <point x="22" y="1536" type="line"/>
+      <point x="-10" y="1373" type="line"/>
+      <point x="227" y="1373" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="1254" type="line"/>
+      <point x="-31" y="1254" type="line"/>
+      <point x="-174" y="491" type="line"/>
+      <point x="61" y="491" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

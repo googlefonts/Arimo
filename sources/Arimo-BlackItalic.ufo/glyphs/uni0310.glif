@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0310" format="2">
+  <unicode hex="0310"/>
+  <note>
+uni0310
+</note>
+  <anchor x="213" y="1167" name="_top"/>
+  <anchor x="213" y="1167" name="_topmkmk"/>
+  <anchor x="275" y="1827" name="topmkmk"/>
+  <outline>
+    <contour>
+      <point x="475" y="1766" type="line"/>
+      <point x="127" y="1766" type="line"/>
+      <point x="81" y="1536" type="line"/>
+      <point x="429" y="1536" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="1170" type="curve"/>
+      <point x="468" y="1170"/>
+      <point x="601" y="1274"/>
+      <point x="657" y="1518" type="curve"/>
+      <point x="454" y="1518" type="line"/>
+      <point x="428" y="1410"/>
+      <point x="356" y="1346"/>
+      <point x="234" y="1346" type="curve" smooth="yes"/>
+      <point x="131" y="1346"/>
+      <point x="66" y="1412"/>
+      <point x="68" y="1518" type="curve"/>
+      <point x="-134" y="1518" type="line"/>
+      <point x="-138" y="1467" type="line" smooth="yes"/>
+      <point x="-138" y="1291"/>
+      <point x="-3" y="1170"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

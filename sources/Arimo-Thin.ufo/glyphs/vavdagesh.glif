@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vavdagesh" format="2">
+  <advance width="446"/>
+  <unicode hex="FB35"/>
+  <note>
+vavdagesh
+</note>
+  <anchor x="60" y="1430" name="holam"/>
+  <anchor x="230" y="1350" name="hebrewtop1"/>
+  <anchor x="230" y="1700" name="upperdot"/>
+  <anchor x="230" y="0" name="hebrewbottom1"/>
+  <anchor x="230" y="0" name="hebrewbottomleft"/>
+  <anchor x="180" y="0" name="hebrewbottomleft"/>
+  <anchor x="140" y="1350" name="hebrewtopleft"/>
+  <anchor x="360" y="1350" name="hebrewtopright"/>
+  <anchor x="440" y="1430" name="rafe"/>
+  <anchor x="230" y="0" name="hebrewbottom2"/>
+  <anchor x="230" y="1350" name="hebrewtop2"/>
+  <anchor x="280" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="vav"/>
+    <component base="dagesh" xOffset="10"/>
+  </outline>
+</glyph>

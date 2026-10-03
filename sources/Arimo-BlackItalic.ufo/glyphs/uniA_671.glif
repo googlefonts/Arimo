@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA671" format="2">
+  <unicode hex="A671"/>
+  <note>
+uniA671
+</note>
+  <outline>
+    <contour>
+      <point x="-722" y="1355" type="line"/>
+      <point x="724" y="1355" type="line"/>
+      <point x="724" y="1050" type="line"/>
+      <point x="955" y="1050" type="line"/>
+      <point x="955" y="1682" type="line"/>
+      <point x="-954" y="1682" type="line"/>
+      <point x="-954" y="1050" type="line"/>
+      <point x="-722" y="1050" type="line"/>
+    </contour>
+    <contour>
+      <point x="955" y="207" type="line"/>
+      <point x="724" y="207" type="line"/>
+      <point x="724" y="-98" type="line"/>
+      <point x="-722" y="-98" type="line"/>
+      <point x="-722" y="207" type="line"/>
+      <point x="-954" y="207" type="line"/>
+      <point x="-954" y="-425" type="line"/>
+      <point x="955" y="-425" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

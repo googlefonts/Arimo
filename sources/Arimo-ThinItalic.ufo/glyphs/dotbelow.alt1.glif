@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelow.alt1" format="2">
+  <note>
+dotbelow.alt1
+</note>
+  <outline>
+    <contour>
+      <point x="-27" y="-117" type="line"/>
+      <point x="-106" y="-117" type="line"/>
+      <point x="-139" y="-254" type="line"/>
+      <point x="-60" y="-254" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

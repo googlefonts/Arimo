@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hcircumflex" format="2">
+  <advance width="1326"/>
+  <unicode hex="0125"/>
+  <note>
+hcircumflex
+</note>
+  <anchor x="680" y="1967" name="top"/>
+  <anchor x="1213" y="1733" name="caronalt"/>
+  <anchor x="707" y="-130" name="bottom"/>
+  <anchor x="1326" y="2007" name="topdouble"/>
+  <anchor x="1326" y="-380" name="bottomdouble"/>
+  <anchor x="1326" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="967" y="0" name="ogonek"/>
+  <outline>
+    <component base="h"/>
+    <component base="circumflex.uc" xOffset="342" yOffset="89"/>
+  </outline>
+</glyph>

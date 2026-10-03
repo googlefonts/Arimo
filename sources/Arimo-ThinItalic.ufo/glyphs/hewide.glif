@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hewide" format="2">
+  <advance width="1212"/>
+  <unicode hex="FB23"/>
+  <note>
+hewide
+</note>
+  <anchor x="60" y="1430" name="holam"/>
+  <anchor x="610" y="800" name="dagesh"/>
+  <anchor x="740" y="1350" name="hebrewtop1"/>
+  <anchor x="740" y="1700" name="upperdot"/>
+  <anchor x="520" y="0" name="hebrewbottom1"/>
+  <anchor x="520" y="0" name="hebrewbottomleft"/>
+  <anchor x="960" y="0" name="hebrewbottomleft"/>
+  <anchor x="240" y="1350" name="hebrewtopleft"/>
+  <anchor x="920" y="1350" name="hebrewtopright"/>
+  <anchor x="820" y="1430" name="rafe"/>
+  <anchor x="420" y="0" name="hebrewbottom2"/>
+  <anchor x="820" y="1350" name="hebrewtop2"/>
+  <anchor x="420" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="he"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

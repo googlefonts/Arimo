@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabove.alt3" format="2">
+  <note>
+hookabove.alt3
+</note>
+  <outline>
+    <contour>
+      <point x="-1099" y="1811" type="curve"/>
+      <point x="-1099" y="1796"/>
+      <point x="-1132" y="1789"/>
+      <point x="-1197" y="1792" type="curve" smooth="yes"/>
+      <point x="-1175" y="1795" type="line"/>
+      <point x="-1178" y="1789" type="line"/>
+      <point x="-1142" y="1789" type="line"/>
+      <point x="-1142" y="1791" type="line"/>
+      <point x="-1036" y="1794"/>
+      <point x="-983" y="1801"/>
+      <point x="-983" y="1826" type="curve" smooth="yes"/>
+      <point x="-983" y="1853"/>
+      <point x="-1009" y="1859"/>
+      <point x="-1114" y="1859" type="curve" smooth="yes"/>
+      <point x="-1207" y="1859"/>
+      <point x="-1253" y="1855"/>
+      <point x="-1327" y="1838" type="curve"/>
+      <point x="-1322" y="1810" type="line"/>
+      <point x="-1252" y="1825"/>
+      <point x="-1199" y="1832"/>
+      <point x="-1160" y="1832" type="curve" smooth="yes"/>
+      <point x="-1127" y="1832"/>
+      <point x="-1106" y="1828"/>
+      <point x="-1098" y="1819" type="curve" smooth="yes"/>
+      <point x="-1099" y="1818"/>
+      <point x="-1099" y="1814"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

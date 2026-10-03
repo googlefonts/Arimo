@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DE1" format="2">
+  <unicode hex="1DE1"/>
+  <note>
+uni1DE1
+</note>
+  <outline>
+    <contour>
+      <point x="-116" y="1615" type="curve"/>
+      <point x="121" y="1210" type="line"/>
+      <point x="175" y="1210" type="line"/>
+      <point x="175" y="1708" type="line"/>
+      <point x="123" y="1708" type="line"/>
+      <point x="123" y="1392" type="line"/>
+      <point x="123" y="1361"/>
+      <point x="122" y="1333"/>
+      <point x="119" y="1302" type="curve"/>
+      <point x="-107" y="1708" type="line"/>
+      <point x="-174" y="1708" type="line"/>
+      <point x="-174" y="1210" type="line"/>
+      <point x="-119" y="1210" type="line"/>
+      <point x="-119" y="1528" type="line"/>
+      <point x="-119" y="1556"/>
+      <point x="-117" y="1587"/>
+    </contour>
+  </outline>
+</glyph>

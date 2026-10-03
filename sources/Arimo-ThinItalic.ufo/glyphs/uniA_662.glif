@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA662" format="2">
+  <advance width="1713"/>
+  <unicode hex="A662"/>
+  <note>
+uniA662
+</note>
+  <outline>
+    <contour>
+      <point x="-43" y="0" type="line"/>
+      <point x="1125" y="0" type="line"/>
+      <point x="1044" y="-408" type="line"/>
+      <point x="1154" y="-408" type="line"/>
+      <point x="1249" y="76" type="line"/>
+      <point x="1084" y="76" type="line"/>
+      <point x="1326" y="1325" type="line"/>
+      <point x="1870" y="1325" type="line"/>
+      <point x="1885" y="1409" type="line"/>
+      <point x="559" y="1409" type="line"/>
+      <point x="375" y="834" type="line" smooth="yes"/>
+      <point x="226" y="366"/>
+      <point x="144" y="189"/>
+      <point x="-7" y="76" type="curve"/>
+      <point x="-140" y="76" type="line"/>
+      <point x="-233" y="-408" type="line"/>
+      <point x="-124" y="-408" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="76" type="line"/>
+      <point x="225" y="185"/>
+      <point x="301" y="336"/>
+      <point x="465" y="831" type="curve" smooth="yes"/>
+      <point x="628" y="1333" type="line"/>
+      <point x="1240" y="1333" type="line"/>
+      <point x="997" y="76" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

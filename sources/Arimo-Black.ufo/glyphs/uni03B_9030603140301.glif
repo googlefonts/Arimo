@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03B9030603140301" format="2">
+  <advance width="645"/>
+  <note>
+uni03B9030603140301
+</note>
+  <outline>
+    <component base="iota" xOffset="-3"/>
+    <component base="uni1FDE" xOffset="34" yOffset="550"/>
+    <component base="breve" xOffset="12" yOffset="12"/>
+  </outline>
+</glyph>

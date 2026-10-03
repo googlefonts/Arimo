@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030C" format="2">
+  <unicode hex="030C"/>
+  <note>
+uni030C
+</note>
+  <anchor x="0" y="1220" name="_top"/>
+  <anchor x="0" y="1220" name="_cytop"/>
+  <anchor x="0" y="1180" name="_topmkmk"/>
+  <anchor x="0" y="1400" name="topmkmk"/>
+  <outline>
+    <contour>
+      <point x="292" y="1442" type="line"/>
+      <point x="292" y="1453" type="line"/>
+      <point x="241" y="1453" type="line"/>
+      <point x="6" y="1308" type="line"/>
+      <point x="6" y="1308" type="line"/>
+      <point x="-247" y="1453" type="line"/>
+      <point x="-295" y="1453" type="line"/>
+      <point x="-295" y="1442" type="line"/>
+      <point x="-85" y="1219" type="line"/>
+      <point x="94" y="1219" type="line"/>
+    </contour>
+  </outline>
+</glyph>

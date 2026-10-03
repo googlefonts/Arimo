@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0469" format="2">
+  <advance width="1802"/>
+  <unicode hex="0469"/>
+  <note>
+uni0469
+</note>
+  <outline>
+    <contour>
+      <point x="416" y="332" type="line"/>
+      <point x="700" y="332" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="861" y="0" type="line"/>
+      <point x="1016" y="333" type="line"/>
+      <point x="1063" y="333" type="line"/>
+      <point x="997" y="0" type="line"/>
+      <point x="1229" y="0" type="line"/>
+      <point x="1295" y="333" type="line"/>
+      <point x="1346" y="333" type="line"/>
+      <point x="1365" y="0" type="line"/>
+      <point x="1712" y="0" type="line"/>
+      <point x="1560" y="1082" type="line"/>
+      <point x="1112" y="1082" type="line"/>
+      <point x="823" y="554" type="line"/>
+      <point x="459" y="554" type="line"/>
+      <point x="562" y="1082" type="line"/>
+      <point x="214" y="1082" type="line"/>
+      <point x="2" y="0" type="line"/>
+      <point x="351" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1137" y="554" type="line"/>
+      <point x="1283" y="854" type="line"/>
+      <point x="1302" y="554" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

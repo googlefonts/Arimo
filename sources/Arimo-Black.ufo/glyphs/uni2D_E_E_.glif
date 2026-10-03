@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2DEE" format="2">
+  <unicode hex="2DEE"/>
+  <note>
+uni2DEE
+</note>
+  <outline>
+    <contour>
+      <point x="86" y="1587" type="line"/>
+      <point x="210" y="1587" type="line"/>
+      <point x="210" y="1706" type="line"/>
+      <point x="-210" y="1706" type="line"/>
+      <point x="-210" y="1587" type="line"/>
+      <point x="-89" y="1587" type="line"/>
+      <point x="-89" y="1210" type="line"/>
+      <point x="86" y="1210" type="line"/>
+    </contour>
+  </outline>
+</glyph>

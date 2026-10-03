@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03010307.cap" format="2">
+  <note>
+uni03010307.cap
+</note>
+  <outline>
+    <contour>
+      <point x="147" y="1749" type="line"/>
+      <point x="154" y="1791" type="line"/>
+      <point x="-14" y="1791" type="line"/>
+      <point x="-304" y="1502" type="line"/>
+      <point x="-309" y="1476" type="line"/>
+      <point x="-271" y="1476" type="line"/>
+    </contour>
+    <contour>
+      <point x="-185" y="1771" type="line"/>
+      <point x="-295" y="1771" type="line"/>
+      <point x="-318" y="1649" type="line"/>
+      <point x="-208" y="1649" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

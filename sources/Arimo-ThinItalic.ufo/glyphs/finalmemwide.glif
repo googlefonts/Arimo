@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finalmemwide" format="2">
+  <advance width="1303"/>
+  <unicode hex="FB26"/>
+  <note>
+finalmemwide
+</note>
+  <anchor x="60" y="1430" name="holam"/>
+  <anchor x="740" y="1350" name="hebrewtop1"/>
+  <anchor x="740" y="1700" name="upperdot"/>
+  <anchor x="490" y="0" name="hebrewbottom1"/>
+  <anchor x="490" y="0" name="hebrewbottomleft"/>
+  <anchor x="1080" y="0" name="hebrewbottomleft"/>
+  <anchor x="240" y="1350" name="hebrewtopleft"/>
+  <anchor x="960" y="1350" name="hebrewtopright"/>
+  <anchor x="1120" y="1430" name="rafe"/>
+  <anchor x="390" y="0" name="hebrewbottom2"/>
+  <anchor x="840" y="1350" name="hebrewtop2"/>
+  <anchor x="390" y="0" name="hebrewbottom3"/>
+  <outline>
+    <component base="finalmem"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

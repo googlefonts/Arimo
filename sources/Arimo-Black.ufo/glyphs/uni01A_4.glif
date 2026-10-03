@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01A4" format="2">
+  <advance width="1638"/>
+  <unicode hex="01A4"/>
+  <note>
+uni01A4
+</note>
+  <anchor x="900" y="1540" name="top"/>
+  <anchor x="1667" y="1540" name="caronalt"/>
+  <anchor x="923" y="-130" name="bottom"/>
+  <anchor x="1638" y="1540" name="topdouble"/>
+  <anchor x="1638" y="-380" name="bottomdouble"/>
+  <anchor x="1638" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="510" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="1057" y="1409" type="curve"/>
+      <point x="326" y="1409" type="line" smooth="yes"/>
+      <point x="128" y="1409"/>
+      <point x="-13" y="1301"/>
+      <point x="-13" y="1135" type="curve" smooth="yes"/>
+      <point x="-13" y="1056"/>
+      <point x="-1" y="974"/>
+      <point x="25" y="890" type="curve"/>
+      <point x="279" y="907" type="line"/>
+      <point x="252" y="974"/>
+      <point x="239" y="1026"/>
+      <point x="239" y="1060" type="curve" smooth="yes"/>
+      <point x="239" y="1119"/>
+      <point x="286" y="1151"/>
+      <point x="365" y="1151" type="curve" smooth="yes"/>
+      <point x="397" y="1151" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="762" y="0" type="line"/>
+      <point x="762" y="461" type="line"/>
+      <point x="1069" y="461" type="line" smooth="yes"/>
+      <point x="1395" y="461"/>
+      <point x="1602" y="666"/>
+      <point x="1602" y="948" type="curve" smooth="yes"/>
+      <point x="1602" y="1242"/>
+      <point x="1408" y="1409"/>
+    </contour>
+    <contour>
+      <point x="1235" y="941" type="curve" smooth="yes"/>
+      <point x="1235" y="814"/>
+      <point x="1155" y="738"/>
+      <point x="1025" y="738" type="curve" smooth="yes"/>
+      <point x="762" y="738" type="line"/>
+      <point x="762" y="1129" type="line"/>
+      <point x="1017" y="1129" type="line" smooth="yes"/>
+      <point x="1163" y="1129"/>
+      <point x="1235" y="1067"/>
+    </contour>
+  </outline>
+</glyph>

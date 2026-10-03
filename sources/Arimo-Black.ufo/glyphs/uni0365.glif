@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0365" format="2">
+  <unicode hex="0365"/>
+  <note>
+uni0365
+</note>
+  <anchor x="0" y="480" name="_top"/>
+  <anchor x="0" y="480" name="_topmkmk"/>
+  <anchor x="0" y="1680" name="topmkmk"/>
+  <outline>
+    <contour>
+      <point x="118" y="1534" type="line"/>
+      <point x="-120" y="1534" type="line"/>
+      <point x="-120" y="1372" type="line"/>
+      <point x="118" y="1372" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="1251" type="line"/>
+      <point x="-120" y="1251" type="line"/>
+      <point x="-120" y="490" type="line"/>
+      <point x="118" y="490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

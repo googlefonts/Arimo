@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelow.alt1" format="2">
+  <note>
+dotbelow.alt1
+</note>
+  <outline>
+    <contour>
+      <point x="-78" y="-172" type="line"/>
+      <point x="-426" y="-172" type="line"/>
+      <point x="-426" y="-403" type="line"/>
+      <point x="-78" y="-403" type="line"/>
+    </contour>
+  </outline>
+</glyph>

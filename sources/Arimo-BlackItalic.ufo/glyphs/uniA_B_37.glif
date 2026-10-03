@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniAB37" format="2">
+  <advance width="913"/>
+  <unicode hex="AB37"/>
+  <note>
+uniAB37
+</note>
+  <outline>
+    <contour>
+      <point x="692" y="626" type="line"/>
+      <point x="686" y="630"/>
+      <point x="680" y="632"/>
+      <point x="672" y="632" type="curve" smooth="yes"/>
+      <point x="872" y="639"/>
+      <point x="998" y="759"/>
+      <point x="998" y="922" type="curve" smooth="yes"/>
+      <point x="998" y="990"/>
+      <point x="954" y="1035"/>
+      <point x="881" y="1061" type="curve"/>
+      <point x="779" y="929" type="line"/>
+      <point x="791" y="918"/>
+      <point x="797" y="904"/>
+      <point x="797" y="883" type="curve" smooth="yes"/>
+      <point x="797" y="821"/>
+      <point x="762" y="803"/>
+      <point x="702" y="803" type="curve" smooth="yes"/>
+      <point x="708" y="803"/>
+      <point x="714" y="801"/>
+      <point x="722" y="795" type="curve"/>
+      <point x="863" y="1484" type="line"/>
+      <point x="514" y="1484" type="line"/>
+      <point x="392" y="891" type="line"/>
+      <point x="401" y="888"/>
+      <point x="409" y="887"/>
+      <point x="415" y="887" type="curve" smooth="yes"/>
+      <point x="223" y="887"/>
+      <point x="80" y="758"/>
+      <point x="80" y="586" type="curve" smooth="yes"/>
+      <point x="80" y="508"/>
+      <point x="121" y="459"/>
+      <point x="199" y="436" type="curve"/>
+      <point x="298" y="570" type="line"/>
+      <point x="284" y="579"/>
+      <point x="280" y="600"/>
+      <point x="280" y="617" type="curve" smooth="yes"/>
+      <point x="280" y="678"/>
+      <point x="314" y="716"/>
+      <point x="368" y="716" type="curve" smooth="yes"/>
+      <point x="367" y="716"/>
+      <point x="364" y="715"/>
+      <point x="361" y="719" type="curve"/>
+      <point x="218" y="0" type="line"/>
+      <point x="567" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

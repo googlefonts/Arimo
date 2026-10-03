@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DFB" format="2">
+  <unicode hex="1DFB"/>
+  <note>
+uni1DFB
+</note>
+  <outline>
+    <contour>
+      <point x="528" y="1409" type="line"/>
+      <point x="149" y="1409" type="line"/>
+      <point x="85" y="890" type="line"/>
+      <point x="370" y="890" type="line"/>
+    </contour>
+    <contour>
+      <point x="945" y="1409" type="line"/>
+      <point x="566" y="1409" type="line"/>
+      <point x="502" y="890" type="line"/>
+      <point x="787" y="890" type="line"/>
+    </contour>
+    <contour>
+      <point x="1378" y="1409" type="line"/>
+      <point x="999" y="1409" type="line"/>
+      <point x="935" y="890" type="line"/>
+      <point x="1220" y="890" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>945</integer>
+    </dict>
+  </lib>
+</glyph>

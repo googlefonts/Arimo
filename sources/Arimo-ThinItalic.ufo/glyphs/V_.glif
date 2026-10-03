@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V" format="2">
+  <advance width="1366"/>
+  <unicode hex="0056"/>
+  <note>
+V
+</note>
+  <anchor x="760" y="1540" name="top"/>
+  <anchor x="1470" y="1540" name="caronalt"/>
+  <anchor x="480" y="-130" name="bottom"/>
+  <anchor x="1272" y="1420" name="rhotic"/>
+  <anchor x="1490" y="1300" name="horn"/>
+  <anchor x="1366" y="1540" name="topdouble"/>
+  <anchor x="1366" y="-380" name="bottomdouble"/>
+  <anchor x="1592" y="1840" name="tophalfright"/>
+  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="640" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="1541" y="1409" type="line"/>
+      <point x="1433" y="1409" type="line"/>
+      <point x="786" y="429" type="line"/>
+      <point x="717" y="304"/>
+      <point x="653" y="193"/>
+      <point x="596" y="98" type="curve"/>
+      <point x="576" y="185"/>
+      <point x="561" y="262"/>
+      <point x="548" y="330" type="curve"/>
+      <point x="266" y="1409" type="line"/>
+      <point x="183" y="1409" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="617" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

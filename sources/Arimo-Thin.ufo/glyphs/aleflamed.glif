@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aleflamed" format="2">
+  <advance width="1204"/>
+  <unicode hex="FB4F"/>
+  <note>
+aleflamed
+</note>
+  <outline>
+    <contour>
+      <point x="842" y="448" type="line"/>
+      <point x="964" y="587"/>
+      <point x="1017" y="681"/>
+      <point x="1057" y="807" type="curve" smooth="yes"/>
+      <point x="1077" y="869"/>
+      <point x="1090" y="940"/>
+      <point x="1097" y="1015" type="curve" smooth="yes"/>
+      <point x="1118" y="1213" type="line"/>
+      <point x="1015" y="1213" type="line"/>
+      <point x="991" y="986" type="line" smooth="yes"/>
+      <point x="972" y="817"/>
+      <point x="894" y="645"/>
+      <point x="777" y="534" type="curve"/>
+      <point x="280" y="1213" type="line"/>
+      <point x="182" y="1213" type="line"/>
+      <point x="182" y="1651" type="line"/>
+      <point x="80" y="1651" type="line"/>
+      <point x="80" y="1085" type="line"/>
+      <point x="247" y="1085" type="line"/>
+      <point x="1046" y="0" type="line"/>
+      <point x="1189" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

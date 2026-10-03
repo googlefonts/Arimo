@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA65D" format="2">
+  <advance width="1882"/>
+  <unicode hex="A65D"/>
+  <note>
+uniA65D
+</note>
+  <outline>
+    <contour>
+      <point x="464" y="371" type="line"/>
+      <point x="770" y="371" type="line"/>
+      <point x="565" y="0" type="line"/>
+      <point x="1762" y="0" type="line"/>
+      <point x="1580" y="1082" type="line"/>
+      <point x="1162" y="1082" type="line"/>
+      <point x="898" y="602" type="line"/>
+      <point x="508" y="602" type="line"/>
+      <point x="596" y="1082" type="line"/>
+      <point x="246" y="1082" type="line"/>
+      <point x="37" y="0" type="line"/>
+      <point x="387" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1319" y="798" type="curve"/>
+      <point x="1319" y="777"/>
+      <point x="1329" y="634"/>
+      <point x="1333" y="602" type="curve"/>
+      <point x="1228" y="602" type="line"/>
+      <point x="1245" y="629"/>
+      <point x="1295" y="750"/>
+    </contour>
+    <contour>
+      <point x="1048" y="231" type="line"/>
+      <point x="1112" y="371" type="line"/>
+      <point x="1361" y="371" type="line"/>
+      <point x="1373" y="231" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="primereversed" format="2">
+  <advance width="562"/>
+  <unicode hex="2035"/>
+  <note>
+primereversed
+</note>
+  <outline>
+    <contour>
+      <point x="613" y="1409" type="line"/>
+      <point x="234" y="1409" type="line"/>
+      <point x="290" y="890" type="line"/>
+      <point x="575" y="890" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8806,0.1818,1</string>
+    </dict>
+  </lib>
+</glyph>

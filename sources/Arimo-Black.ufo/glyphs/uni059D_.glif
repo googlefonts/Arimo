@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni059D" format="2">
+  <unicode hex="059D"/>
+  <note>
+uni059D
+</note>
+  <anchor x="0" y="1350" name="_hebrewtopright"/>
+  <outline>
+    <component base="uni059C"/>
+  </outline>
+</glyph>

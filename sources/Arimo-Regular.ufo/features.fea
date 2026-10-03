@@ -7400,7 +7400,7 @@ lookup gpos_22_mark_to_base {
     position base uni0185 <anchor 1139 -380> mark @_MARKCLASS_1_lookup_22;
     position base uni0186 <anchor 1479 1540> mark @_MARKCLASS_0_lookup_22;
     position base uni0186 <anchor 1479 -380> mark @_MARKCLASS_1_lookup_22;
-    position base uni0187 <anchor 14794 1840> mark @_MARKCLASS_0_lookup_22;
+    position base uni0187 <anchor 1479 1840> mark @_MARKCLASS_0_lookup_22;
     position base uni0187 <anchor 1479 -380> mark @_MARKCLASS_1_lookup_22;
     position base uni0188 <anchor 1024 1540> mark @_MARKCLASS_0_lookup_22;
     position base uni0188 <anchor 1024 -380> mark @_MARKCLASS_1_lookup_22;
