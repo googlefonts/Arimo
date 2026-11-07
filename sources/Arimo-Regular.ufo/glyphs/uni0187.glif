@@ -8,7 +8,7 @@ uni0187
   <anchor x="780" y="1540" name="top"/>
   <anchor x="1700" y="1540" name="caronalt"/>
   <anchor x="800" y="-130" name="bottom"/>
-  <anchor x="14794" y="1840" name="topdouble"/>
+  <anchor x="1479" y="1840" name="topdouble"/>
   <anchor x="1479" y="-380" name="bottomdouble"/>
   <anchor x="1479" y="1840" name="tophalfright"/>
   <anchor x="0" y="1840" name="tophalfleft"/>

@@ -7511,7 +7511,7 @@ lookup gpos_22_mark_to_base {
     position base uni01CA <anchor 2618 1540> mark @_MARKCLASS_0_lookup_22;
     position base uni01CA <anchor 2618 -380> mark @_MARKCLASS_1_lookup_22;
     position base uni01CB <anchor 2048 1540> mark @_MARKCLASS_0_lookup_22;
-    position base uni01CB <anchor 20483 -380> mark @_MARKCLASS_1_lookup_22;
+    position base uni01CB <anchor 2048 -380> mark @_MARKCLASS_1_lookup_22;
     position base uni01CC <anchor 1820 1540> mark @_MARKCLASS_0_lookup_22;
     position base uni01CC <anchor 1820 -380> mark @_MARKCLASS_1_lookup_22;
     position base uni01DD <anchor 1139 1540> mark @_MARKCLASS_0_lookup_22;
